@@ -1,0 +1,14 @@
+---
+id: 91
+title: Taking the “Leap” to Everleap
+date: 2014-06-12T16:30:00+00:00
+author: Joseph Guadagno
+layout: post
+guid: http://www.josephguadagno.net/post.aspx?id=abaa780c-ad37-45c8-87d2-08a85719f5b1
+permalink: /2014/06/12/taking-the-leap-to-everleap/
+dsq_thread_id:
+  - "3602770933"
+categories:
+  - Web
+---
+<p>For the past 5+ years I’ve had a few different sites hosted at <a href="http://www.discountasp.net/a/jguadagn" target="_blank">Discount ASP.NET</a>, this site being one of them. Recently, Discount ASP.NET released a new product in the web hosting arena, <a href="http://www.everleap.com/" target="_blank">Everleap</a>. Everleap is a new cloud based hosting solution.&#160; I know, the word “cloud” is massively overused nowadays.&#160; Everleap differs from other solutions as it uses the <a href="http://www.everleap.com/cloud-hosting/features/azure-pack-hosting/" target="_blank">Windows Azure Pack</a> for it’s services. The Windows Azure Pack is the same technology that Microsoft uses to run their own Windows Azure hosting platform. Microsoft has made Azure technologies available to their partners so they can build public and private cloud offerings that run in the their own data centers. For more on the Windows Azure Pack check out <a title="http://www.everleap.com/cloud-hosting/features/azure-pack-hosting/" href="http://www.everleap.com/cloud-hosting/features/azure-pack-hosting/">http://www.everleap.com/cloud-hosting/features/azure-pack-hosting/</a></p>  <h2>The move to Everleap</h2>  <p>The move to Everleap was easy considering I already had my site on Discount ASP.NET</p>  <ol>   <li>Open up an Everleap account: <a href="http://www.everleap.com/sign-up/?plan=plan1" target="_blank">Cloud Websites</a> or <a href="http://www.everleap.com/sign-up/?plan=plan2" target="_blank">Multi-Domain Cloud</a> </li>    <li>Create a Discount ASP.NET support ticket requesting the move </li>    <li>In a few hours or so, the new sites were created and moved over. They even updated web.config with the new database connection strings and smtp settings. </li>    <li>If you do not use Discount ASP.NET to register your domains, you will have to log in to your registrar to update the DNS servers to point to the new Everleap DNS servers. </li> </ol>  <p>That was it.</p>  <p>If you need a scalable site where you can increase and decrease the number of servers as needed and want predicable billing, Everleap might be the solution for you.</p>  <p><i><b>Disclaimer</b></i>: I was given a free Everleap account to host this site and other community sites that I run like <a href="http://www.desertcodecamp.com" target="_blank">Desert Code Camp</a>. This is not a sponsored post.</p>
