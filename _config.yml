@@ -1,6 +1,7 @@
 url: https://www.josephguadagno.net
-name: JosephGuadagno.net
+name: JosephGuadagno.net - Microsoft .NET MVP, Team Leader at Quicken Loans, Organizer of Desert Code Camp
 description: >
   Microsoft .NET MVP, Team Leader at
   Quicken Loans, Organizer of Desert Code
   Camp
+permalink: /:year/:month/:day/:title
