@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" href="{{'/assets/main.css' | prepend: site.baseurl}}">
+		</head>
+		<body>
+				<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+					<a class="navbar-brand" href="/">JosephGuadagno.Net</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+			
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav mr-auto justify-content-end">
+						<li class="nav-item"><a class="nav-link" href="/about-joseph-guadagno.md">About</a></li>
+						<li class="nav-item"><a class="nav-link" href="/resume.md">Resume</a></li>
+						<li class="nav-item"><a class="nav-link" href="/contact.md">Contact</a></li>
+						<li class="nav-item"><a class="nav-link" href="/presentations.md">Presentations</a></li>
+					</ul>
+					<form class="form-inline my-2 my-lg-0">
+						<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+						<button class="btn my-2 my-sm-0" type="submit">Search</button>
+					</form>
+				</div>					 
+			</nav>
+			<div class="container-fluid">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:jguadagno@hotmail.com">email</a></li>
+	        		<li><a href="https://github.com/jguadagno">github.com/jguadagno</a></li>
+				</ul>
+			</footer>
+			<script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+			<script src="{{'/node_modules/popper.js/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
+			<script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+
+		</body>
+	</html>
