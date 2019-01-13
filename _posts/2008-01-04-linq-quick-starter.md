@@ -11,8 +11,10 @@ dsq_thread_id:
 categories:
   - Books
 ---
-<p><a target="_blank" href="http://www.packtpub.com/">Packt Publishing</a> recently contacted me to review their latest book, LINQ Quickly, so like any techie with three weeks off I decided to catch up on some reading... Well actually I read this book on the flight to NY (5 hours).</p>
-<p>Chapter 1 starts off with an brief introduction to <a target="_blank" href="http://msdn2.microsoft.com/en-us/netframework/aa904594.aspx">LINQ</a>, the rest of the chapter goes into detail of the new .NET 3.5 framework features created to enable LINQ. The next few chapters cover LINQ to ... Objects, XML, SQL, and XSD. Chapter 6 describes how to use LINQ within you ADO.NET DataSets.&nbsp;</p>
-<p>Chapter 7, which is worth the purchase price of the book covers all of the new Operators that are available to LINQ queries.&nbsp; This makes the book worthy of purchasing a desktop reference guide for those just getting up to speed on LINQ.</p>
-<p>&nbsp;</p>
-<p>What me to review your book on this blog and my web site (<a href="../../">http://www.josephguadagno.net</a>), contact me at <a href="../../about.aspx">http://www.josephguadagno.net/about.aspx</a></p>
+[Packt Publishing](http://www.packtpub.com/) recently contacted me to review their latest book, LINQ Quickly, so like any techie with three weeks off, I decided to catch up on some reading... Well actually I read this book on the flight to NY (5 hours).
+
+Chapter 1 starts off with an brief introduction to [LINQ](http://msdn2.microsoft.com/en-us/netframework/aa904594.aspx), the rest of the chapter goes into detail of the new .NET 3.5 framework features created to enable LINQ. The next few chapters cover LINQ to ... Objects, XML, SQL, and XSD. Chapter 6 describes how to use LINQ within you ADO.NET DataSets. 
+
+Chapter 7, which is worth the purchase price of the book covers all of the new Operators that are available to LINQ queries.  This makes the book worthy of purchasing a desktop reference guide for those just getting up to speed on LINQ.
+
+What me to review your book on this blog and my [http://www.josephguadagno.net](web site), [http://www.josephguadagno.net/about.aspx](Contact Me).

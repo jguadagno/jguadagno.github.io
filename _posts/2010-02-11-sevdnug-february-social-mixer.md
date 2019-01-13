@@ -11,4 +11,14 @@ dsq_thread_id:
 categories:
   - Arizona Technology News
 ---
-<p>Join us for our 2nd social mixer of the year at Brunswick Zone in Gilbert for two hours of bowling and socializing taking place on Monday 2/22 at 6:00 PM.</p>  <p>We got a few lanes, a few shoes, some appetizers and some drinks sponsored by <a href="http://comsys.com/services/staffing.html">Comsys</a>*.</p>  <p><strong>Registration will be limited</strong>! </p>  <p>Register at: <a title="Event Registration" href="http://sevdnug0210-blog.eventbrite.com" target="_blank">http://sevdnug0210.eventbrite.com</a></p>  <p><em>* The sponsor will cover a certain amount of the cost.&#160; You might be required to purchase some of your own food and drink.</em></p>  <p><a title="Event Registration" href="http://sevdnug0210-blog.eventbrite.com" target="_blank">&#160;</a></p>
+Join us for our 2nd social mixer of the year at Brunswick Zone in Gilbert for two hours of bowling and socializing taking place on Monday 2/22 at 6:00 PM.
+
+We got a few lanes, a few shoes, some appetizers and some drinks sponsored by [Comsys](http://comsys.com/services/staffing.html)*.
+
+**Registration will be limited**!
+
+Register at: [Event Registration](http://sevdnug0210.eventbrite.com)
+
+_* The sponsor will cover a certain amount of the cost.  You might be required to purchase some of your own food and drink._
+
+[Event Registration](http://sevdnug0210.eventbrite.com)

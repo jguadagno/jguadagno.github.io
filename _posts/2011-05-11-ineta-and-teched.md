@@ -9,4 +9,21 @@ permalink: /2011/05/11/ineta-and-teched/
 categories:
   - News
 ---
-<p>Since being elected the President of <a href="http://www.ineta.org" target="_blank">INETA</a> North America in April, I have heard some good and bad things about INETA from several people.&#160; I want to make INETA better and more relevant for people and user groups. That being said, I will be at Microsoft <a href="http://northamerica.msteched.com" target="_blank">Tech·Ed</a> in Atlanta next week along with the rest of the INETA board and would like to chat with people about the good, bad and ugly of INETA.&#160; I will be </p>  <ul>   <li><font color="#35383d">A</font>t the INETA Community Leadership Summit on Sunday</li>    <li>The INETA Booth in the Connect Zone on the Expo floor at 12:30pm daily for the INETA raffle.&#160; </li>    <li>Community Night on Tuesday</li>    <li>Walking through out the convention center.</li> </ul>  <p>If you have some compliments, complains, suggestions or just want to chat, here’s how you can get a hold of me:</p>  <ul>   <li>Come to the <a href="http://inetateched2011.eventbrite.com/" target="_blank">INETA Community Leadership Summit</a> on Sunday. </li>    <li>My TechEd <a href="http://northamerica.msteched.com/Directory/Details/a6434085-9918-4201-849e-8e6b2ad89337?fbid=R0PcL7ZnU9F" target="_blank">contact card</a>, contact me there or setup a meeting using that sites tool. </li>    <li>Hit me up on Twitter at <a href="http://twitter.com/jguadagno" target="_blank">@jguadagno</a>. </li>    <li>Look for me wearing my pink INETA shirt or my blue Polo shirt. </li>    <li>Shoot me an email at <a href="mailto:joseph.guadagno@ineta.org">joseph.guadagno@ineta.org</a> to set up a meeting. </li> </ul>  <p>BTW, <a href="http://www.ineta.org" target="_blank">INETA</a> is doing a lot this year at Microsoft <a href="http://northamerica.msteched.com" target="_blank">Tech·Ed</a>, check out the full list <a href="http://blog.ineta.org/post/INETA-at-Teche280a2Ed-2011.aspx" target="_blank">here</a>. </p>  <p>I look forward to chatting with you.</p>
+Since being elected the President of [INETA](http://www.ineta.org) North America in April, I have heard some good and bad things about INETA from several people.  I want to make INETA better and more relevant for people and user groups. That being said, I will be at Microsoft [Tech·Ed](http://northamerica.msteched.com) in Atlanta next week along with the rest of the INETA board and would like to chat with people about the good, bad and ugly of INETA.  I will be
+
+* At the INETA Community Leadership Summit on Sunday
+* The INETA Booth in the Connect Zone on the Expo floor at 12:30 pm daily for the INETA raffle. 
+* Community Night on Tuesday
+* Walking throughout the convention center.
+
+If you have some compliments, complains, suggestions or just want to chat, here’s how you can get a hold of me:
+
+* Come to the [INETA Community Leadership Summit](http://inetateched2011.eventbrite.com/) on Sunday.
+* My TechEd [contact card](http://northamerica.msteched.com/Directory/Details/a6434085-9918-4201-849e-8e6b2ad89337?fbid=R0PcL7ZnU9F), contact me there or setup a meeting using that sites tool.
+* Hit me up on Twitter at [@jguadagno](http://twitter.com/jguadagno).
+* Look for me wearing my pink INETA shirt or my blue Polo shirt.
+* Shoot me an email at [joseph.guadagno@ineta.org](mailto:joseph.guadagno@ineta.org) to set up a meeting.
+
+BTW, [INETA](http://www.ineta.org) is doing a lot this year at Microsoft [Tech·Ed](http://northamerica.msteched.com), check out the full list [here](http://blog.ineta.org/post/INETA-at-Teche280a2Ed-2011.aspx).
+
+I look forward to chatting with you.

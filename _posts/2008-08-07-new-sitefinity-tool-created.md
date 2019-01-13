@@ -11,8 +11,8 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-<p><span id="Layout_ctl03_repeaterMessages_ctl00_lblMessageText">
-<p>As some of you know, I have the <a href="http://www.sevdnug.org/" target="_blank">Southeast Valley .NET User Group</a>&nbsp;web site running on <a href="http://www.telerik.com/" target="_blank">Telerik's</a> <a href="http://www.sitefinity.com/" target="_blank">Sitefinity</a> product.&nbsp; The  product itself is awesome but needs a few features here an there... One of which  is a mechanism to get data into Sitefinity quickly. Luckily, Sitefinity provides  a pretty extensive <a href="http://www.sitefinity.com/help/developer-manual" target="_blank">API</a>&nbsp;for you to develop against. So with some free time, the  little I have, I put together a Data Importer tool for Sitefinity. This tool  will allow you to import data from a Comma Separated file into any Sitefinity  generic provider.</p>
-<p>The project is open source and available at <a title="http://www.codeplex.com/SEVDNUGDataImporter" href="http://www.codeplex.com/SEVDNUGDataImporter">http://www.codeplex.com/SEVDNUGDataImporter</a>&nbsp;please  report any problems or feature request there.</p>
-<p>Enjoy!</p>
-</span></p>
+As some of you know, I have the [Southeast Valley .NET User Group](http://www.sevdnug.org/) web site running on [Telerik's](http://www.telerik.com/) [Sitefinity](http://www.sitefinity.com/) product.  The product itself is awesome but needs a few features here an there... One of which is a mechanism to get data into Sitefinity quickly. Luckily, Sitefinity provides a pretty extensive [API](http://www.sitefinity.com/help/developer-manual) for you to develop against. So with some free time, the little I have, I put together a Data Importer tool for Sitefinity. This tool will allow you to import data from a Comma Separated file into any Sitefinity generic provider.
+
+The project is open source and available at [http://www.codeplex.com/SEVDNUGDataImporter](http://www.codeplex.com/SEVDNUGDataImporter "http://www.codeplex.com/SEVDNUGDataImporter") please report any problems or feature request there.
+
+Enjoy!

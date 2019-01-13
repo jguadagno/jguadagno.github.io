@@ -11,4 +11,6 @@ dsq_thread_id:
 categories:
   - Arizona Technology News
 ---
-<p>So my family and I have been going camping a lot for the past two years and this got me thinking… Why not have a Code Camp with actual camping?&#160; We can still learn, have fun and enjoy beautiful Arizona at the same time.</p>  <p>If your interested, help me with the planning.&#160; Complete the survey at: <a title="http://bit.ly/bUnZvl" href="http://bit.ly/bUnZvl">http://bit.ly/bUnZvl</a></p>
+So my family and I have been going camping a lot for the past two years and this got me thinking… Why not have a Code Camp with actual camping?  We can still learn, have fun and enjoy beautiful Arizona at the same time.
+
+If you're interested, help me with the planning.  Complete the survey at: [http://bit.ly/bUnZvl](http://bit.ly/bUnZvl)

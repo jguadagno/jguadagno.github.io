@@ -9,18 +9,16 @@ permalink: /2007/11/23/essential-windows-presentation-foundation/
 categories:
   - Books
 ---
-If you want to find out how Windows Presentation Foundation (WPF) works and why it was created, then this book is for you.<br />
-
+If you want to find out how Windows Presentation Foundation (WPF) works and why it was created, then this book is for you.  
 Topics Covered:
-<ul>
-<li>WPF components and architecture       											</li>
-<li>Key WPF design decisions–and why they matter                </li>
-<li>XAML markup language                                        </li>
-<li>Controls                                                    </li>
-<li>Layouts                                                     </li>
-<li>Visuals and media, including 2D, 3D, video, and animation   </li>
-<li>Data integration                                            </li>
-<li>Actions                                                     </li>
-<li>Styles                                                      </li>
-<li>WPF Base Services                                           </li>
-</ul>
+
+* WPF components and architecture
+* Key WPF design decisions–and why they matter
+* XAML markup language
+* Controls
+* Layouts
+* Visuals and media, including 2D, 3D, video, and animation
+* Data integration
+* Actions
+* Styles
+* WPF Base Services

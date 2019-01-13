@@ -9,17 +9,14 @@ permalink: /2007/11/23/inside-windows-communication-foundation/
 categories:
   - Books
 ---
-As with most of the content from <a href="http://www.wintellect.com">Wintellect</a>, this book is an in depth look at Windows Communication Foundation. There
-is plenty of code and examples look at and use.<br />
-
+As with most of the content from [Wintellect](http://www.wintellect.com), this book is an in depth look at Windows Communication Foundation. There is plenty of code and examples look at and use.  
 Topics Covered:
-<ul>
-<li>Service Orientation</li>
-<li>WCF 101</li>
-<li>The Channel Layer: Messages</li>
-<li>The Channel Layer: Channels</li>
-<li>The Channel Layer: Channel Managers</li>
-<li>The ServiceModel Layer: Bindings</li>
-<li>The ServiceModel Layer: Contracts</li>
-<li>The ServiceModel Layer: Dispatchers and Clients</li>
-</ul>
+
+* Service Orientation
+* WCF 101
+* The Channel Layer: Messages
+* The Channel Layer: Channels
+* The Channel Layer: Channel Managers
+* The ServiceModel Layer: Bindings
+* The ServiceModel Layer: Contracts
+* The ServiceModel Layer: Dispatchers and Clients

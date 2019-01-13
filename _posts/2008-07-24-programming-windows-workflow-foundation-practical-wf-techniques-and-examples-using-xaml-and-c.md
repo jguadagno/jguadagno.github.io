@@ -11,6 +11,8 @@ dsq_thread_id:
 categories:
   - Books
 ---
-<p>Well as you can see the title is quite but extremely accurate.&nbsp; The book  covers a &quot;real world&quot;&nbsp;use of Windows&nbsp;Workflow foundation.&nbsp; The author takes you  through&nbsp;Windows Workflow Foundation by building a bug tracking application which  is an ideal candidate for a workflow&nbsp;technology. &nbsp;I think this approach is what  makes this book stand apart from other Windows Workflow foundation books. It is  short and concise and gives you a real application of the technology.&nbsp; This is  not a book filled with marketing fluff or the Hello World app (with the  exception of the first chapter).</p>
-<p>Overall, this book is a good read for those that want to get started in  Windows Workflow Foundation.</p>
-<p>The books web site: <a title="http://www.packtpub.com/windows-workflow-foundation-Csharp/book" href="http://www.packtpub.com/windows-workflow-foundation-Csharp/book">http://www.packtpub.com/windows-workflow-foundation-Csharp/book</a></p>
+Well as you can see the title is quite but extremely accurate.  The book covers a "real world" use of Windows Workflow Foundation.  The author takes you through Windows Workflow Foundation by building a bug tracking application which is an ideal candidate for a workflow technology.  I think this approach is what makes this book stand apart from other Windows Workflow foundation books. It is short and concise and gives you a real application of the technology.  This is not a book filled with marketing fluff or the Hello World app (with the exception of the first chapter).
+
+Overall, this book is a good read for those that want to get started in Windows Workflow Foundation.
+
+The books web site: [http://www.packtpub.com/windows-workflow-foundation-Csharp/book](http://www.packtpub.com/windows-workflow-foundation-Csharp/book "http://www.packtpub.com/windows-workflow-foundation-Csharp/book")

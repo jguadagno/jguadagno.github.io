@@ -11,19 +11,11 @@ dsq_thread_id:
 categories:
   - Articles
 ---
+<!-- TODO: Clean up HTML -->
+
 <p>&nbsp;Download this document: <a href="http://sevdnug.org/Libraries/Sitefinity_Modules/SiteFinity%20Custom%20Module%20Creation.sflb" target="_blank">How to create a Sitefinity custom module</a></p>
 <p>Download the source: <a href="http://sevdnug.org/Libraries/Sitefinity_Modules/SEVDNUG.Contacts.sflb" target="_blank">SEVDNUG.Contact.zip</a></p>
-<p>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="ProgId" content="Word.Document">
-<meta name="Generator" content="Microsoft Word 12">
-<meta name="Originator" content="Microsoft Word 12">
-<link rel="File-List" href="file:///C:\DOCUME~1\JOSEPH~1.GUA\LOCALS~1\Temp\msohtmlclip1\01\clip_filelist.xml" />
-<link rel="Edit-Time-Data" href="file:///C:\DOCUME~1\JOSEPH~1.GUA\LOCALS~1\Temp\msohtmlclip1\01\clip_editdata.mso" /></meta>
-</meta>
-</meta>
-</meta>
-</p>
+
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}

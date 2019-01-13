@@ -9,19 +9,13 @@ permalink: /2007/11/23/windows-communication-foundation-unleashed/
 categories:
   - Books
 ---
-Similiar to other books in the "Unleashed" series, this book goes all out to explain Windows Communication Foundation in an easy to understand way.
-This book also goes beyound the basics of Windows Communication Foundation but goes in depth into the technology including security and service design.
+Similar to other books in the "Unleashed" series, this book goes all out to explain Windows Communication Foundation in an easy to understand way. This book also goes beyond the basics of Windows Communication Foundation but goes in depth into the technology including security and service design. This is a **must** buy for WCF developers. Sections of the book:
 
-This is a <b>must</b> buy for WCF developers.
-
-Sections of the book:
-<ul>
-<li>Introducing the Windows Communication Foundation</li>
-<li>Introducing the Windows Workflow Foundation</li>
-<li>Security</li>
-<li>Integration and Interoperability</li>
-<li>Extending the Windows Communication Foundation</li>
-<li>Special Cases</li>
-<li>The Lifecycle of Windows Communication Foundation Applications</li>
-<li>Guidance</li>
-</ul>
+* Introducing the Windows Communication Foundation
+* Introducing the Windows Workflow Foundation
+* Security
+* Integration and Interoperability
+* Extending the Windows Communication Foundation
+* Special Cases
+* The Lifecycle of Windows Communication Foundation Applications
+* Guidance

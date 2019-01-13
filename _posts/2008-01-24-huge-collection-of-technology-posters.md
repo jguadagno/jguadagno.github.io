@@ -11,13 +11,13 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-<p>A <a target="_blank" href="http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx">blog post</a> from <a target="_blank" href="http://blogs.msdn.com/cbowen/default.aspx">Chris  Bowen</a>&nbsp;has been making the rounds.&nbsp; It contains quite a few technology  posters available.&nbsp; Here is a short sampling...</p>
-<ul>
-    <li>.NET 3.5 Namespace</li>
-    <li>Exchange Component Architecture</li>
-    <li>Visual Basic 2008 Keybinding Poster</li>
-    <li>Visual c++ 2006 Keybinding Poster</li>
-    <li>Visual C# Keybinding Poster</li>
-    <li>and many more...</li>
-</ul>
-<p>Check it out at <a href="http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx" title="http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx">http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx</a></p>
+A [blog post](http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx) from [Chris Bowen](http://blogs.msdn.com/cbowen/default.aspx) has been making the rounds.  It contains quite a few technology posters available.  Here is a short sampling...
+
+* .NET 3.5 Namespace
+* Exchange Component Architecture
+* Visual Basic 2008 Keybinding Poster
+* Visual c++ 2006 Keybinding Poster
+* Visual C# Keybinding Poster
+* and many more...
+
+Check it out at [http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx](http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx "http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx")

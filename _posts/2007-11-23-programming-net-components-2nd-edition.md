@@ -11,26 +11,22 @@ dsq_thread_id:
 categories:
   - Books
 ---
-This book is a must for those that want to go beyond the "Hello World" applications.  It covers many of the "advanced" topics in building
-.NET applications.  The chapter on Generics is well worth the price of the book.  This is a <b>must have</b>.
+This book is a must for those that want to go beyond the "Hello World" applications. It covers many of the "advanced" topics in building .NET applications. The chapter on Generics is well worth the price of the book. This is a **must have**. Topics Covered:
 
-Topics Covered:
-<ul>
-<li>Introducing Component-Oriented Programming			</li>
-<li>.NET Component-Oriented Programming Essentials  </li>
-<li>Interface-Based Programming                     </li>
-<li>Lifecycle Management                            </li>
-<li>Versioning                                      </li>
-<li>Events                                          </li>
-<li>Asynchronous Calls                              </li>
-<li>Multithreading and Concurrency Management       </li>
-<li>Serialization and Persistence                   </li>
-<li>Remoting                                        </li>
-<li>Context and Interception                        </li>
-<li>Security                                        </li>
-<li>Interface-Based Web Services                    </li>
-<li>Unifying Windows Forms and ASP.NET Security     </li>
-<li>Reflection and Attributes                       </li>
-<li>Generics                                        </li>
-<li>C# Coding Standard                              </li>
-</ul>
+* Introducing Component-Oriented Programming
+* .NET Component-Oriented Programming Essentials
+* Interface-Based Programming
+* Lifecycle Management
+* Versioning
+* Events
+* Asynchronous Calls
+* Multithreading and Concurrency Management
+* Serialization and Persistence
+* Remoting
+* Context and Interception
+* Security
+* Interface-Based Web Services
+* Unifying Windows Forms and ASP.NET Security
+* Reflection and Attributes
+* Generics
+* C# Coding Standard

@@ -9,8 +9,6 @@ permalink: /2007/11/06/how-do-i-format-my-gridview-bound-column-differently/
 categories:
   - Articles
 ---
-Replace the <em>ColumnName</em> value with the name of your column.
+Replace the _ColumnName_ value with the name of your column. Replace DataFormatString property with the format string of your choosing.  A good reference for .NET string formats is available at [http://john-sheehan.com/blog/index.php/net-cheat-sheets/](http://john-sheehan.com/blog/index.php/net-cheat-sheets/)
 
-Replace DataFormatString property with the format string of your choosing.  A good reference for .NET string formats is available at <a href="http://john-sheehan.com/blog/index.php/net-cheat-sheets/" target="_blank" rel="noopener">http://john-sheehan.com/blog/index.php/net-cheat-sheets/</a>
-
-<script src="https://gist.github.com/jguadagno/dcce8640638a9aa83d17110524f8cb97.js"></script>
+{% gist jguadagno/dcce8640638a9aa83d17110524f8cb97 %}

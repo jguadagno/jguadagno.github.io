@@ -9,14 +9,12 @@ permalink: /2007/11/23/asp-net-2-0-web-parts-in-action-building-dynamic-web-port
 categories:
   - Books
 ---
-This book provides an in depth look at using, implementing, customizing and developing your own web parts.<br /><br />
+This book provides an in depth look at using, implementing, customizing and developing your own web parts.
 
-Topics include:</br>
-<ul>
-<li>Web Part Connections</li>
-<li>Zones and how web parts behave inside them</li>
-<li>Tips & Tricks to get web parts to behave like they look in SharePoint</li>
-<li>Page Life cycle with web parts</li>
-<li>AJAX and web parts (little light on that topic)</li>
+Topics include:
 
-</ul>
+* Web Part Connections
+* Zones and how web parts behave inside them
+* Tips & Tricks to get web parts to behave like they look in SharePoint
+* Page Life cycle with web parts
+* AJAX and web parts (little light on that topic)

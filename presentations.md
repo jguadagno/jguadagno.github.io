@@ -83,12 +83,12 @@ Build Native Applications with Ionic and JavaScript</td>
 <td><a href="http://conference.c-sharpcorner.com/" target="_blank" rel="noopener">C# Corner Conference</a></td>
 <td>New Dehli, India</td>
 <td>
-<ul>
- 	<li><strong>Keynote:</strong> Open Source, JavaScript, Mobile Trends and Futures</li>
- 	<li><strong>Session:</strong> Being more Personable</li>
- 	<li>Build a Native Mobile Application with Ionic 3.0 and JavaScript</li>
- 	<li>Build a Native Mobile Application with React Native and JavaScript</li>
-</ul>
+
+ 	<li><strong>Keynote:</strong> Open Source, JavaScript, Mobile Trends and Futures
+ 	<li><strong>Session:</strong> Being more Personable
+ 	<li>Build a Native Mobile Application with Ionic 3.0 and JavaScript
+ 	<li>Build a Native Mobile Application with React Native and JavaScript
+
 </td>
 <td>4/13/2018 - 4/15/2018</td>
 </tr>
@@ -164,29 +164,29 @@ TypeScript for the Microsoft Developer</td>
 
 Below are all of the talks that I have given with links to the slides and any additional resources that I may have.
 
-<ul>
-    <li><a href="#azure-scale">Help Your Application Scale with Azure</a></li>
-    <li><a href="#bootstrap4-how">Bootstrap 4.0. What is it? How to use it!</a></li>
-    <li><a href="#getting-started-ionic">Getting Starting with Ionic 3.0</a></li>
-    <li><a href="#native-ionic">Build a Native Mobile Application with Ionic 3.0 and JavaScript</a></li>
-    <li><a href="#native-react">Build a Native Mobile Application using React Native and JavaScript</a></li>
-    <li><a href="#typescript">TypeScript for the Microsoft Developer</a></li>
-    <li><a href="#aspnet-core">Introduction to ASP.NET Core</a></li>
-    <li><a href="#bootstrap4">Bootstrap 4.0 - What's new?</a></li>
-    <li><a href="#intellitrace">Improve your Application Debugging with IntelliTrace</a></li>
-    <li><a href="#appinsights">Look into your Application with Azure Application Insights</a></li>
-    <li><a href="#jquery-mobile">Introduction to jQuery Mobile</a></li>
-    <li><a href="#bootstrap-long">Introduction to Bootstrap (Long)</a></li>
-    <li><a href="#bootstrap">Introduction to Bootstrap</a></li>
-    <li><a href="#bootstrap-components">Introduction to Bootstrap Components</a></li>
-    <li><a href="#spruce-bootstrap">Spruce up your Application with Bootstrap</a></li>
-    <li><a href="#databinding">Databinding and Data validation improvements in ASP.NET 4.5 web forms</a></li>
-    <li><a href="#debugging">Debugging Tips and Tricks with Visual Studio</a></li>
-    <li><a href="#responsive-async">Making your application more responsive with Async</a></li>
-    <li><a href="#lap-azure">A lap around Microsoft Azure</a></li>
-    <li><a href="#azure-storage">Using Microsoft Azure Storage Services</a></li>
-    <li><a href="#asp-mvc">Introduction to ASP.NET MVC</a></li>
-</ul>
+
+* <a href="#azure-scale">Help Your Application Scale with Azure</a>
+* <a href="#bootstrap4-how">Bootstrap 4.0. What is it? How to use it!</a>
+* <a href="#getting-started-ionic">Getting Starting with Ionic 3.0</a>
+* <a href="#native-ionic">Build a Native Mobile Application with Ionic 3.0 and JavaScript</a>
+* <a href="#native-react">Build a Native Mobile Application using React Native and JavaScript</a>
+* <a href="#typescript">TypeScript for the Microsoft Developer</a>
+* <a href="#aspnet-core">Introduction to ASP.NET Core</a>
+* <a href="#bootstrap4">Bootstrap 4.0 - What's new?</a>
+* <a href="#intellitrace">Improve your Application Debugging with IntelliTrace</a>
+* <a href="#appinsights">Look into your Application with Azure Application Insights</a>
+* <a href="#jquery-mobile">Introduction to jQuery Mobile</a>
+* <a href="#bootstrap-long">Introduction to Bootstrap (Long)</a>
+* <a href="#bootstrap">Introduction to Bootstrap</a>
+* <a href="#bootstrap-components">Introduction to Bootstrap Components</a>
+* <a href="#spruce-bootstrap">Spruce up your Application with Bootstrap</a>
+* <a href="#databinding">Databinding and Data validation improvements in ASP.NET 4.5 web forms</a>
+* <a href="#debugging">Debugging Tips and Tricks with Visual Studio</a>
+* <a href="#responsive-async">Making your application more responsive with Async</a>
+* <a href="#lap-azure">A lap around Microsoft Azure</a>
+* <a href="#azure-storage">Using Microsoft Azure Storage Services</a>
+* <a href="#asp-mvc">Introduction to ASP.NET MVC</a>
+
 
 <h3><a name="azure-scale"></a>Help Your Application Scale with Azure</h3>
 

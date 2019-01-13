@@ -23,3 +23,4 @@ plugins:
    - jekyll-avatar
    - jemoji
    - jekyll-mentions
+   - jekyll-gist

@@ -10,4 +10,4 @@ categories:
   - Arizona Technology News
   - News
 ---
-<p>Come check out the new site (<a href="http://www.sevdnug.org">http://www.sevdnug.org</a>)</p>
+Come check out the new site [http://www.sevdnug.org](http://www.sevdnug.org)
