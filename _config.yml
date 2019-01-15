@@ -6,6 +6,8 @@ description: >
   Quicken Loans, Organizer of Desert Code
   Camp
 permalink: /:year/:month/:day/:title
+markdown: kramdown
+highlighter: rouge
 sass:
     load_paths:
         - _sass
