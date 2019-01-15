@@ -26,3 +26,4 @@ plugins:
    - jemoji
    - jekyll-mentions
    - jekyll-gist
+theme: jekyll-theme-leap-day
