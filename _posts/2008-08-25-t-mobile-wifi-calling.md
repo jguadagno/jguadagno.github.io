@@ -3,7 +3,7 @@ id: 761
 title: T-Mobile WiFi Calling
 date: 2008-08-25T19:47:13+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=62a74386-0e53-4b39-a6ba-1d75a8ce60f8
 permalink: /2008/08/25/t-mobile-wifi-calling/
 dsq_thread_id:

@@ -13,22 +13,30 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: JosephGuadagno.net
+email: jguadagno@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Microsoft .NET MVP, Director at Quicken Loans, Organizer of Desert Code Camp
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+permalink: /:year/:month/:day/:title
+url: "https://www.josephguadagno.net" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: UA-2998428-1
 
 # Build settings
 markdown: kramdown
-theme: minima
+show_excerpts: true
+repository: "jguadagno/jguadagno.github.io"
+include: ["_pages"]
+
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-redirect-from
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +49,79 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+remote_theme: "mmistakes/minimal-mistakes@4.15.1"
+
+# Minimal Mistakes Settings
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      share: true
+      classes : wide
+
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
+
+# Social
+
+twitter:
+  username: "jguadagno"
+
+facebook:
+  app_id:  # A Facebook app ID
+  publisher:  # A Facebook page URL or ID of the publishing entity
+  username: "JosephGuadagnoNet"
+
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/jguadagno"
+    - "https://facebook.com/JosephGuadagnoNet"
+    - "https://www.linkedin.com/in/JosephGuadagno"
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-2998428-1"
+    anonymize_ip: false # default
+
+author:
+  name        : "Joseph Guadagno"
+  bio         : >-
+    Microsoft Developer Services MVP, Director at Quicken Loans, Organizer of Desert Code Camp
+  avatar      : "/assets/images/Joe Guadagno - 512x512.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jguadagno@hotmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.josephguadagno.net"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jguadagno"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jguadagno"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/JosephGuadagnoNet"

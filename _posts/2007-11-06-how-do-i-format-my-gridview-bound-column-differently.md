@@ -3,7 +3,6 @@ id: 1121
 title: How do I format my GridView bound column differently?
 date: 2007-11-06T07:04:33+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=42dd5660-0792-402d-8c2a-81c5ea7d5582
 permalink: /2007/11/06/how-do-i-format-my-gridview-bound-column-differently/
 categories:

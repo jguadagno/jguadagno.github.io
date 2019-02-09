@@ -3,7 +3,6 @@ id: 731
 title: ASP.NET 3.5 Application Architecture and Design
 date: 2008-11-24T21:58:36+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=c935af3b-f782-4c33-98cd-a8694ad8a23f
 permalink: /2008/11/24/asp-net-3-5-application-architecture-and-design/
 categories:

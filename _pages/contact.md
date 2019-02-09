@@ -3,10 +3,9 @@ id: 1421
 title: Contact
 date: 2015-03-04T17:55:54+00:00
 author: Joseph Guadagno
-layout: page
-guid: http://josephguadagnonet.azurewebsites.net/?page_id=1421
 dsq_thread_id:
   - "3567222452"
+permalink: /contact/
 ---
 I'll answer your email as soon as I can.
 

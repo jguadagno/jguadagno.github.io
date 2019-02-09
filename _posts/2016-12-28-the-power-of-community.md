@@ -3,7 +3,6 @@ id: 10429
 title: The Power of Community
 date: 2016-12-28T19:58:23+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/?p=10429
 permalink: /2016/12/28/the-power-of-community/
 categories:

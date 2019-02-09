@@ -3,7 +3,6 @@ id: 231
 title: The Windows Azure Experience
 date: 2013-05-21T04:48:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=ea45bf27-384d-4fd8-84f2-4d8a9fe92e49
 permalink: /2013/05/21/the-windows-azure-experience/
 categories:

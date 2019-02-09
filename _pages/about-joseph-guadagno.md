@@ -3,14 +3,10 @@ id: 1351
 title: About Joseph Guadagno
 date: 2015-03-04T17:06:26+00:00
 author: Joseph Guadagno
-layout: page
-guid: http://josephguadagnonet.azurewebsites.net/?page_id=1351
 dsq_thread_id:
   - "84738031"
-ftf_open_type:
-  - ""
-page-specific-menu-items_currentpage_items:
-  - 'a:1:{i:0;s:0:"";}'
+permalink: /about-joseph-guadagno/
+classes: wide
 ---
 I have been in software development for about 20 years or so. I started out with a small book on QuickBASIC, then moved the Visual Basic for DOS, then Visual Basic for Windows, then Visual Basic .NET and eventually Visual C#. I am a Team Leader at Quicken Loans. I am a public speaker and present internationally on a lot of technology topics, a list of them are available at [http://www.josephguadagno.net/presentations/](http://www.josephguadagno.net/presentations/).  I have been recognized as a [Microsoft MVP](http://jjg.me/MVPLink) in .NET (since 2009) and a Friends of Red Gate [program](http://www.red-gate.com/community/friends-of-rg) (since 2015).
 

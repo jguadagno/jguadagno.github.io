@@ -3,7 +3,6 @@ id: 831
 title: Southeast Valley .NET User Group site relaunched
 date: 2008-04-30T04:39:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=1cd45c3e-9ba6-45bc-bb6c-b495d91aca18
 permalink: /2008/04/30/southeast-valley-net-user-group-site-relaunched/
 categories:

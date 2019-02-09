@@ -3,7 +3,6 @@ id: 381
 title: LightSwitch Meeting for SEVDNUG
 date: 2011-08-02T16:07:59+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=a3f72f47-f1e7-4c9d-8fca-7e93409ef45e
 permalink: /2011/08/02/lightswitch-meeting-for-sevdnug/
 dsq_thread_id:

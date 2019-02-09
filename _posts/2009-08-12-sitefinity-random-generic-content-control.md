@@ -3,7 +3,7 @@ id: 711
 title: 'Sitefinity: Random Generic Content Control'
 date: 2009-08-12T18:19:45+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=6ffa2a6a-fffa-4b6d-bb7c-64d87e81119c
 permalink: /2009/08/12/sitefinity-random-generic-content-control/
 dsq_thread_id:

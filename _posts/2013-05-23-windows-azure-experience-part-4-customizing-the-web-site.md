@@ -3,7 +3,7 @@ id: 191
 title: 'Windows Azure Experience–Part 4: Customizing the Web Site'
 date: 2013-05-23T07:52:00+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=36ecf272-2c6a-42db-84d8-dffb8336a855
 permalink: /2013/05/23/windows-azure-experience-part-4-customizing-the-web-site/
 dsq_thread_id:

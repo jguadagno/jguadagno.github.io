@@ -3,7 +3,7 @@ id: 611
 title: Mix 10 Events Site Launched
 date: 2010-01-28T14:25:17+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=81931ddd-6ddc-4958-a913-5f04890cb9f0
 permalink: /2010/01/28/mix-10-events-site-launched/
 dsq_thread_id:

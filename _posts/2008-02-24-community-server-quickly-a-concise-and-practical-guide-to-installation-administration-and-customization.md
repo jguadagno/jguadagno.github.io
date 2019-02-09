@@ -3,7 +3,6 @@ id: 851
 title: 'Community Server Quickly: A Concise and Practical Guide to Installation, Administration, and Customization'
 date: 2008-02-24T00:04:05+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=dc0b2bbe-efee-4a94-8459-f5cc7069279f
 permalink: /2008/02/24/community-server-quickly-a-concise-and-practical-guide-to-installation-administration-and-customization/
 categories:

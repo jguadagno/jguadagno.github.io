@@ -3,7 +3,7 @@ id: 10353
 title: 15 Years Ago, I Witnessed Something That I Will Never Forget
 date: 2016-09-11T05:46:31+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/?p=10353
 permalink: /2016/09/11/15-years-ago-i-witnessed-something-that-i-will-never-forget/
 categories:

@@ -3,7 +3,7 @@ id: 331
 title: DebuggerDisplay Attribute
 date: 2012-01-12T17:49:00+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=a420932e-458e-4ad1-be7f-5a1eddc75c53
 permalink: /2012/01/12/debuggerdisplay-attribute/
 dsq_thread_id:

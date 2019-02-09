@@ -3,10 +3,9 @@ id: 1331
 title: AjaxPro.Net
 date: 2015-03-04T17:05:54+00:00
 author: Joseph Guadagno
-layout: page
-guid: http://josephguadagnonet.azurewebsites.net/?page_id=1331
 dsq_thread_id:
   - "75176961"
+permalink: /ajaxpro-net/
 ---
 <div class="include-notice">
 <p><strong>Please Note:&nbsp;</strong>The creator of this library has stopped development on this project.  I recommend that you look     at the <a href="http://www.asp.net/ajax">Ajax Toolkit</a> for future Ajax development.</p>

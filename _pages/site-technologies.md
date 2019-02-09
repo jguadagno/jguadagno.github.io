@@ -3,10 +3,7 @@ id: 1291
 title: Site Technologies
 date: 2015-03-04T17:02:13+00:00
 author: Joseph Guadagno
-layout: page
-guid: http://josephguadagnonet.azurewebsites.net/?page_id=1291
-dsq_thread_id:
-  - "3589795541"
+permalink: /site-technologies/
 ---
 <p class="lead">Here is a list of technologies that were used to create this site.</p>
 

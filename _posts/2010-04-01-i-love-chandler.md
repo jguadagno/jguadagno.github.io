@@ -3,7 +3,6 @@ id: 551
 title: I Love Chandler…
 date: 2010-04-01T16:19:55+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=979b1326-5d75-4275-af54-b72272de3ddf
 permalink: /2010/04/01/i-love-chandler/
 dsq_thread_id:

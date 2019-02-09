@@ -3,7 +3,6 @@ id: 8491
 title: So you want to be a Microsoft MVP
 date: 2015-05-14T18:03:21+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://1222-7915.el-alt.com/?p=8491
 permalink: /2015/05/14/so-you-want-to-be-a-microsoft-mvp/
 dsq_thread_id:

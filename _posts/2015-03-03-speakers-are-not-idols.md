@@ -3,7 +3,6 @@ id: 41
 title: Speakers are not Idols
 date: 2015-03-03T14:00:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=be01f506-2b30-4030-a56d-7a02401732c8
 permalink: /2015/03/03/speakers-are-not-idols/
 dsq_thread_id:

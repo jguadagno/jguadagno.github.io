@@ -3,7 +3,7 @@ id: 241
 title: ASP.NET FriendlyUrls ViewSwitcher and jQuery Mobile
 date: 2013-05-21T01:55:27+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=534766bc-7513-45b8-ba02-5aad82a32ca8
 permalink: /2013/05/21/asp-net-friendlyurls-viewswitcher-and-jquery-mobile/
 dsq_thread_id:

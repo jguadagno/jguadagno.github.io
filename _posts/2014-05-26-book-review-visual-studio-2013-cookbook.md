@@ -3,7 +3,6 @@ id: 111
 title: 'Book Review: Visual Studio 2013 Cookbook'
 date: 2014-05-26T18:22:05+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=da9ef77b-1ec4-4d64-969b-0a35d683c9bb
 permalink: /2014/05/26/book-review-visual-studio-2013-cookbook/
 dsq_thread_id:

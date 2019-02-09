@@ -3,7 +3,7 @@ id: 631
 title: Call for speakers for 2010
 date: 2009-12-04T14:51:15+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=00886065-23f1-432a-8664-b427bbe8b1e1
 permalink: /2009/12/04/call-for-speakers-for-2010/
 categories:

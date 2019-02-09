@@ -3,7 +3,7 @@ id: 10071
 title: Desert Code Camp
 date: 2015-10-01T10:21:25+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://1222-7915.el-alt.com/?p=10071
 permalink: /2015/10/01/desert-code-camp/
 ftf_open_type:

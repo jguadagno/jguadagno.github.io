@@ -3,7 +3,6 @@ id: 121
 title: 'Book Review: NuGet 2 Essentials'
 date: 2014-05-26T16:49:04+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=099d17a6-ec1b-4baa-9bc8-c48038108737
 permalink: /2014/05/26/book-review-nuget-2-essentials/
 dsq_thread_id:

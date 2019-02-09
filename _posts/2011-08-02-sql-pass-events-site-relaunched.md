@@ -3,7 +3,7 @@ id: 391
 title: SQL Pass Events Site Relaunched
 date: 2011-08-02T03:35:20+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=dee77b4f-8446-4ff6-a2c0-56d81bd4c56b
 permalink: /2011/08/02/sql-pass-events-site-relaunched/
 categories:

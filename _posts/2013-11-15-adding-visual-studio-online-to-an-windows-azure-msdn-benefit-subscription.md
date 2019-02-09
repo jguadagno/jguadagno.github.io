@@ -3,7 +3,7 @@ id: 171
 title: Adding Visual Studio Online to an Windows Azure MSDN Benefit Subscription
 date: 2013-11-15T13:21:37+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=98e9a599-6476-432c-9005-024e520d604b
 permalink: /2013/11/15/adding-visual-studio-online-to-an-windows-azure-msdn-benefit-subscription/
 dsq_thread_id:

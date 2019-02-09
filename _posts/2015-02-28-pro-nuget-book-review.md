@@ -3,7 +3,6 @@ id: 61
 title: Pro NuGet Book Review
 date: 2015-02-28T18:38:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=8fcb4a14-65b9-4904-867f-60c3b911b9ba
 permalink: /2015/02/28/pro-nuget-book-review/
 dsq_thread_id:

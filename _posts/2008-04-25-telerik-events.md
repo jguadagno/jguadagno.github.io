@@ -3,7 +3,7 @@ id: 841
 title: Telerik.Events
 date: 2008-04-25T21:57:12+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=d8a7d4ff-a840-4965-9d60-cb6f7b25b1c7
 permalink: /2008/04/25/telerik-events/
 dsq_thread_id:

@@ -3,7 +3,6 @@ id: 101
 title: 'Book Review: Designing Evolvable Web APIs with ASP.NET'
 date: 2014-05-27T05:57:03+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=d924e1a8-55ac-492c-b6bc-6b70e46f3be4
 permalink: /2014/05/27/book-review-designing-evolvable-web-apis-with-asp-net/
 dsq_thread_id:

@@ -3,7 +3,6 @@ id: 571
 title: 'SEVDNUG: February Social Mixer'
 date: 2010-02-11T13:34:50+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=6e50b1cd-5649-4411-a84d-1d8cfca4e1c1
 permalink: /2010/02/11/sevdnug-february-social-mixer/
 dsq_thread_id:

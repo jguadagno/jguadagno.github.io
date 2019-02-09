@@ -3,7 +3,7 @@ id: 321
 title: Add Google Plus One Extension to BlogEngine.NET
 date: 2012-01-18T17:45:00+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=bb57812a-9788-488b-a86a-e74b06feb9f8
 permalink: /2012/01/18/add-google-plus-one-extension-to-blogengine-net/
 dsq_thread_id:

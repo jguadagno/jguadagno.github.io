@@ -3,7 +3,6 @@ id: 10612
 title: Using SendGrid and emails are not being delivered to Hotmail/Outlook/Live/MSN.com recipients?
 date: 2017-05-17T17:03:56+00:00
 author: Joseph Guadagno
-layout: post
 guid: https://www.josephguadagno.net/?p=10612
 permalink: /2017/05/17/using-sendgrid-and-email-are-not-being-delivered-to-hotmail-outlook-live-msn-com-recipients/
 categories:
@@ -46,7 +45,7 @@ The answer is '[Whitelist](http://sendgrid.com/blog/dmarc-domain-based-message-a
 
 Whitelabeling allows you to send through your own custom domain instead of SendGrid's default settings. This will mask the header information of your emails with your data--not theirs--and will improve your email deliverability.
 
-[caption id="attachment_10614" align="aligncenter" width="896"][![](https://www.josephguadagno.net/wp-content/uploads/2017/05/whitelabeling.png)](https://www.josephguadagno.net/wp-content/uploads/2017/05/whitelabeling.png) Non-Whitelabeled Example vs. Whitelabeled Example[/caption]
+(https://www.josephguadagno.net/wp-content/uploads/2017/05/whitelabeling.png)](https://www.josephguadagno.net/wp-content/uploads/2017/05/whitelabeling.png) Non-Whitelabeled Example vs. Whitelabeled Example
 
 Luckily, SendGrid makes it easy to whitelist your domain(s). Here is how you do it. **Please note:** _You will need access to your domain records, you will be making changes to your TXT or CNAME entries to prove you have rights to the domain_.
 
@@ -60,4 +59,6 @@ Luckily, SendGrid makes it easy to whitelist your domain(s). Here is how you do 
 
 I'm glad you are still with me :). This part is the easy part. Essentially, I added '_noreply@desertcodecamp.com_' as the ToAddress and added '_jguadagno@hotmail.com_' as the ReplyTo. As shown in this gist.
 
-{% gist jguadagno/c81dc63e703278db5a78ad81fd5e659e %} I hope this saves you some time to troubleshoot mail delivery to @hotmail.com, @outlook.com, @live.com, @msn.com, @yahoo.com, and @gmail.com.
+{% gist jguadagno/c81dc63e703278db5a78ad81fd5e659e %} 
+
+I hope this saves you some time to troubleshoot mail delivery to @hotmail.com, @outlook.com, @live.com, @msn.com, @yahoo.com, and @gmail.com.

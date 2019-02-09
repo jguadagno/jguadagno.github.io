@@ -3,8 +3,7 @@ id: 11062
 title: Privacy Policy
 date: 2018-05-23T10:38:56+00:00
 author: Joseph Guadagno
-layout: page
-guid: https://www.josephguadagno.net/?page_id=11062
+permalink: /privacy-policy/
 ---
 <h2>Who we are</h2>
 Our website address is: https://www.josephguadagno.net.

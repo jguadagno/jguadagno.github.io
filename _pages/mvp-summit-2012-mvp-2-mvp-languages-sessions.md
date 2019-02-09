@@ -3,12 +3,7 @@ id: 1251
 title: MVP Summit 2012 MVP 2 MVP Languages Sessions
 date: 2015-03-04T17:00:31+00:00
 author: Joseph Guadagno
-layout: page
-guid: http://josephguadagnonet.azurewebsites.net/?page_id=1251
-page-specific-menu-items_currentpage_items:
-  - 'a:4:{i:0;s:5:"10149";i:1;s:5:"10153";i:2;s:5:"10154";i:3;s:0:"";}'
-ftf_open_type:
-  - ""
+permalink: /mvp-summit-2012-mvp-2-mvp-languages-sessions/
 ---
 <h2><a name="top"></a>Schedule</h2>
 <p>The sessions will take place on February 27th at the Hyatt Regency Hotel On Seattle's East Side.&nbsp;&nbsp; <a title="Hyatt Bellevue" href="http://www.josephguadagno.net/documents/Hyatt%20Floorplans.pdf" target="_blank">Floor Plan</a></p>

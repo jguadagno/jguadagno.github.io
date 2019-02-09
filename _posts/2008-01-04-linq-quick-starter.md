@@ -3,7 +3,6 @@ id: 901
 title: LINQ Quick Starter
 date: 2008-01-04T09:50:45+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=b818bff2-09fc-47e9-afb5-c10ebd487a66
 permalink: /2008/01/04/linq-quick-starter/
 dsq_thread_id:

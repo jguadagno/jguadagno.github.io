@@ -3,10 +3,8 @@ id: 10126
 title: 'Emily Guadagno #29'
 date: 2015-10-19T19:25:31+00:00
 author: Joseph Guadagno
-layout: page
-guid: http://www.josephguadagno.net/?page_id=10126
-ftf_open_type:
-  - ""
+permalink: /emily-guadagno-29/
+classes: wide
 ---
 <p class="lead">Primary Positions: <strong>3rd and 1st</strong></p>
 

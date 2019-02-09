@@ -3,7 +3,6 @@ id: 10422
 title: 'Book Review: Practical Microsoft Visual Studio 2015'
 date: 2016-12-20T20:03:57+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/?p=10422
 permalink: /2016/12/20/book-review-practical-microsoft-visual-studio-2015/
 categories:

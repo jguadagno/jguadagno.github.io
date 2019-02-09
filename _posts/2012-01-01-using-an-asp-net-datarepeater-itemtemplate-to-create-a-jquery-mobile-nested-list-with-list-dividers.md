@@ -3,7 +3,6 @@ id: 341
 title: Using an ASP.NET DataRepeater ItemTemplate to create a jQuery Mobile Nested List with List Dividers
 date: 2012-01-01T00:45:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=22877d2e-666e-4181-ba47-3818bb0c2151
 permalink: /2012/01/01/using-an-asp-net-datarepeater-itemtemplate-to-create-a-jquery-mobile-nested-list-with-list-dividers/
 dsq_thread_id:

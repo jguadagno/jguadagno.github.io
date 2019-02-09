@@ -3,7 +3,7 @@ id: 281
 title: Upcoming Events in Arizona
 date: 2012-05-03T14:57:00+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=93716842-492d-473e-9972-7a1264c1d746
 permalink: /2012/05/03/upcoming-events-in-arizona/
 dsq_thread_id:

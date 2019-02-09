@@ -1,9 +1,8 @@
 ---
 id: 10818
-title: 'I&#8217;m Speaking on a Boat'
+title: 'Im Speaking on a Boat'
 date: 2017-12-04T09:30:24+00:00
 author: Joseph Guadagno
-layout: post
 guid: https://www.josephguadagno.net/?p=10818
 permalink: /2017/12/04/im-speaking-on-a-boat/
 categories:

@@ -3,7 +3,6 @@ id: 691
 title: Desert Code Camp is back
 date: 2009-09-14T09:00:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=5a32e408-c459-4e9d-ad06-339673ae59e3
 permalink: /2009/09/14/desert-code-camp-is-back/
 categories:

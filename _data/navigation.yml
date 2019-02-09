@@ -1,0 +1,9 @@
+main:
+    - title: "About Joseph Guadagno"
+      url: /about-joseph-guadagno
+    - title: "Resume"
+      url: /resume
+    - title: "Contact"
+      url: /contact
+    - title: "Presentations"
+      url: /presentations

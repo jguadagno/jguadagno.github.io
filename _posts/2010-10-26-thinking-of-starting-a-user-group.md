@@ -3,7 +3,6 @@ id: 491
 title: Thinking of starting a User Group
 date: 2010-10-26T05:56:39+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=86262a7b-5abb-41bc-b205-176204348fec
 permalink: /2010/10/26/thinking-of-starting-a-user-group/
 dsq_thread_id:

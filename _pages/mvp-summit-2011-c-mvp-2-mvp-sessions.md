@@ -3,12 +3,7 @@ id: 1271
 title: 'MVP Summit 2011 &#8211; C# MVP 2 MVP Sessions'
 date: 2015-03-04T17:01:12+00:00
 author: Joseph Guadagno
-layout: page
-guid: http://josephguadagnonet.azurewebsites.net/?page_id=1271
-ftf_open_type:
-  - ""
-page-specific-menu-items_currentpage_items:
-  - 'a:2:{i:0;s:5:"10149";i:1;s:0:"";}'
+permalink: /mvp-summit-2011-c-mvp-2-mvp-sessions/
 ---
 <h1>C# “MVP 2 MVP” Sessions</h1>
 <table id="heading" border="0">

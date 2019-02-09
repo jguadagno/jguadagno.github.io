@@ -3,7 +3,6 @@ id: 661
 title: Desert Code Camp – November 2009 Lessons Learned
 date: 2009-11-09T13:32:37+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=a149ce8d-292b-47f9-a095-8e528cf9216a
 permalink: /2009/11/09/desert-code-camp-november-2009-lessons-learned/
 dsq_thread_id:

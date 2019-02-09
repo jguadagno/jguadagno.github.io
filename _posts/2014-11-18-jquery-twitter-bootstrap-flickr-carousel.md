@@ -3,7 +3,6 @@ id: 71
 title: jQuery Twitter Bootstrap Flickr Carousel
 date: 2014-11-18T16:06:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=b602778e-2882-4348-9931-8c7385e2b733
 permalink: /2014/11/18/jquery-twitter-bootstrap-flickr-carousel/
 dsq_thread_id:

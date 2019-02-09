@@ -3,7 +3,6 @@ id: 961
 title: 'ASP.NET 2.0 Website Programming: Problem &#8211; Design &#8211; Solution (Programmer to Programmer)'
 date: 2007-11-23T01:00:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=af0dd525-01a8-4554-8b27-a39aad68e2d5
 permalink: /2007/11/23/asp-net-2-0-website-programming-problem-design-solution-programmer-to-programmer/
 categories:

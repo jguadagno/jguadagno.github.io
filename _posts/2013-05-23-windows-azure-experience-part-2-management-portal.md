@@ -3,7 +3,7 @@ id: 211
 title: 'Windows Azure Experience–Part 2: Management Portal'
 date: 2013-05-23T06:07:00+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=80f8499e-02db-4dfe-beb1-c351e25c11d3
 permalink: /2013/05/23/windows-azure-experience-part-2-management-portal/
 categories:

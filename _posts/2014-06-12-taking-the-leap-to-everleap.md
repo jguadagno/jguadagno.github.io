@@ -3,7 +3,6 @@ id: 91
 title: Taking the “Leap” to Everleap
 date: 2014-06-12T16:30:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=abaa780c-ad37-45c8-87d2-08a85719f5b1
 permalink: /2014/06/12/taking-the-leap-to-everleap/
 dsq_thread_id:

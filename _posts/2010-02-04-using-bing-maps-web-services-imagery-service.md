@@ -3,7 +3,7 @@ id: 591
 title: Using Bing Maps Web Services Imagery Service
 date: 2010-02-04T18:28:51+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=831ab94b-55ef-4cb5-b9ce-adde8c9dbc08
 permalink: /2010/02/04/using-bing-maps-web-services-imagery-service/
 dsq_thread_id:

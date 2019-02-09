@@ -3,7 +3,7 @@ id: 311
 title: Foursquare Autocomplete jQuery Plugin
 date: 2012-03-19T18:09:00+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=68d6cf39-79f7-452b-afb5-23042da75abe
 permalink: /2012/03/19/foursquare-autocomplete-jquery-plugin/
 dsq_thread_id:

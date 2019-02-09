@@ -3,7 +3,6 @@ id: 651
 title: A November to Remember
 date: 2009-11-09T13:59:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=15ce1db1-2567-4a4b-a3ba-40435db97ebe
 permalink: /2009/11/09/a-november-to-remember/
 categories:

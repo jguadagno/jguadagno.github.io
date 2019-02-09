@@ -3,7 +3,6 @@ id: 771
 title: Visual Studio Theme Generator
 date: 2008-08-07T21:54:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=16f93eaf-9a0c-4276-af8d-2d01ee3b9d41
 permalink: /2008/08/07/visual-studio-theme-generator/
 dsq_thread_id:

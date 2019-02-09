@@ -3,7 +3,7 @@ id: 921
 title: Using the Search Sitemap Provider with the ASP.NET Futures release
 date: 2007-11-27T06:44:16+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=5cd08332-cf46-4a84-8d58-257440ed7314
 permalink: /2007/11/27/using-the-search-sitemap-provider-with-the-asp-net-futures-release/
 dsq_thread_id:

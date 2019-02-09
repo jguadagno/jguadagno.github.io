@@ -3,7 +3,6 @@ id: 271
 title: Great Events in November 2012
 date: 2012-11-06T02:28:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=81fc581f-c71d-439d-892e-2e1294878228
 permalink: /2012/11/06/great-events-in-november-2012/
 dsq_thread_id:

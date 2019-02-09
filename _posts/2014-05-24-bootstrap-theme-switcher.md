@@ -3,7 +3,7 @@ id: 131
 title: Bootstrap Theme Switcher
 date: 2014-05-24T04:07:00+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=658892e8-0406-490a-9ee1-4f822c2ebfe4
 permalink: /2014/05/24/bootstrap-theme-switcher/
 dsq_thread_id:

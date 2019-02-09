@@ -3,7 +3,7 @@ id: 361
 title: Introduction to jQuery Mobile
 date: 2011-12-31T21:46:53+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://www.josephguadagno.net/post.aspx?id=fc1c6126-aa1c-45ca-84de-da5aff516222
 permalink: /2011/12/31/introduction-to-jquery-mobile/
 dsq_thread_id:

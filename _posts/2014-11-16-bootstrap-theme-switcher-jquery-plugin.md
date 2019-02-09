@@ -3,7 +3,6 @@ id: 81
 title: Bootstrap Theme Switcher jQuery plugin
 date: 2014-11-16T02:43:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=301f3640-e82c-452c-8a68-0adcdbd10d51
 permalink: /2014/11/16/bootstrap-theme-switcher-jquery-plugin/
 dsq_thread_id:

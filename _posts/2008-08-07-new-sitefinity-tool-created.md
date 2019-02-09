@@ -3,7 +3,6 @@ id: 781
 title: New Sitefinity tool created
 date: 2008-08-07T11:18:00+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=5700d4c9-7171-4a2c-806c-e68ef445bc36
 permalink: /2008/08/07/new-sitefinity-tool-created/
 dsq_thread_id:

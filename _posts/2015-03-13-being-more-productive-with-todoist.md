@@ -3,7 +3,7 @@ id: 2481
 title: Being More Productive with @Todoist
 date: 2015-03-13T10:55:41+00:00
 author: Joseph Guadagno
-layout: post
+
 guid: http://1222-7915.el-alt.com/?p=2481
 permalink: /2015/03/13/being-more-productive-with-todoist/
 dsq_thread_id:

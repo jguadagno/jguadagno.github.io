@@ -3,7 +3,6 @@ id: 411
 title: INETA and TechEd
 date: 2011-05-11T18:56:54+00:00
 author: Joseph Guadagno
-layout: post
 guid: http://www.josephguadagno.net/post.aspx?id=27f534a7-c06b-4948-84be-51d86bf7ec59
 permalink: /2011/05/11/ineta-and-teched/
 categories:
