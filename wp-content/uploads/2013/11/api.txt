@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Http;
+
+/// <summary>
+/// Summary description for WebApiConfig
+/// </summary>
+public class WebApiConfig
+{
+	public WebApiConfig()
+	{
+		//
+		// TODO: Add constructor logic here
+		//
+	}
+
+    public static void Register(HttpConfiguration config)
+    {
+        config.Routes.MapHttpRoute(
+            name: "DefaultApi",
+            routeTemplate: "api/{controller}/{id}",
+            defaults: new { id = RouteParameter.Optional }
+        );
+    }
+}
+
+WebApiConfig.Register(System.Web.Http.GlobalConfiguration.Configuration);
