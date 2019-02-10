@@ -15,8 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: JosephGuadagno.net
 email: jguadagno@hotmail.com
+name: "Joseph Guadagno"
 description: >- # this means to ignore newlines until "baseurl:"
-  Microsoft .NET MVP, Director at Quicken Loans, Organizer of Desert Code Camp
+  Microsoft .NET MVP, Director of Engineering at Quicken Loans, Organizer of Desert Code Camp
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title
 url: "https://www.josephguadagno.net" # the base hostname & protocol for your site, e.g. http://example.com
@@ -75,9 +76,13 @@ defaults:
       layout: single
       share: true
       classes : wide
+      author_profile: true
 
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
+
+logo: "/assets/icons/android-chrome-96x96.png"
+bing_site_verificaton: ""
 
 # Social
 
@@ -91,7 +96,7 @@ facebook:
 
 social:
   type:  # Person or Organization (defaults to Person)
-  name:  # If the user or organization name differs from the site's name
+  name: "Joseph Guadagno" # If the user or organization name differs from the site's name
   links:
     - "https://twitter.com/jguadagno"
     - "https://facebook.com/JosephGuadagnoNet"
