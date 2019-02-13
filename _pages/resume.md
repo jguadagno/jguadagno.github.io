@@ -20,13 +20,13 @@ C: (602) 293-6767<br />
 
 ### Sections <!-- omit in toc -->
 
- - [Experience](#experience "jump to section")
- - [Speaking Engagements](#speaking-engagements "jump to section")
- - [Published Articles](#published-articles "jump to section")
- - [Community Work](#community-work "jump to section")
- - [Community Websites](#community-websites "jump to section")
- - [Affiliations / Awards / Certification](#affiliations-awards-and-certifications "jump to section")
- - [Additional Information](#additional-information "jump to section")
+- [Experience](#experience "jump to section")
+- [Speaking Engagements](#speaking-engagements "jump to section")
+- [Published Articles](#published-articles "jump to section")
+- [Community Work](#community-work "jump to section")
+- [Community Websites](#community-websites "jump to section")
+- [Affiliations / Awards / Certification](#affiliations-awards-and-certifications "jump to section")
+- [Additional Information](#additional-information "jump to section")
 
 Download a copy of my resume: [Joseph Guadagno Resume](//www.josephguadagno.net/wp-content/uploads/2017/05/Joseph_Guadagno_Resume.docx)
 

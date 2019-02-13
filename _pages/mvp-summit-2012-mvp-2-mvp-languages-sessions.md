@@ -6,7 +6,9 @@ author: Joseph Guadagno
 permalink: /mvp-summit-2012-mvp-2-mvp-languages-sessions/
 ---
 <h2><a name="top"></a>Schedule</h2>
-<p>The sessions will take place on February 27th at the Hyatt Regency Hotel On Seattle's East Side.&nbsp;&nbsp; <a title="Hyatt Bellevue" href="http://www.josephguadagno.net/documents/Hyatt%20Floorplans.pdf" target="_blank">Floor Plan</a></p>
+
+<p>The sessions will take place on February 27th at the Hyatt Regency Hotel On Seattle's East Side.
+
 <table id="mytable" summary="Summary" cellspacing="0">
 <tbody>
 <tr><th class="nobg" abbr="Configurations" scope="col">Time</th><th abbr="Room 1" scope="col">Hyatt - Regency Ballroom A-C</th><th abbr="Room 2" scope="col">Hyatt - Juniper</th></tr>
@@ -76,6 +78,7 @@ permalink: /mvp-summit-2012-mvp-2-mvp-languages-sessions/
 </tr>
 </tbody>
 </table>
+
 <h2>Session Details</h2>
 <h3><a name="1"></a>Consuming and Publishing data in the Windows Azure Marketplace</h3>
 <p>This talks is an overview of the dozens of databases that can be consumed from the Windows Azure Marketplace, many for free or nearly free. Includes data from the United Nations on global issues, the U.S. FBI on crime, Zillow on real estate, China business KPIs, and U.S. demographics by zip code, and others. This data is easily consumed by Excel or as an OData web service. Plus you can easily publish your own data in the marketplace in a few hours. This is a treasure trove of business data that every MVP should be aware of.<br><strong>Presented By :&nbsp;</strong>Joe Kunk</p>
@@ -146,4 +149,3 @@ permalink: /mvp-summit-2012-mvp-2-mvp-languages-sessions/
 <h3><a name="27"></a>Fast, Faster ... Async ASP.NET</h3>
 <p>Do you have any page that needs to access a database, or a web service? Do any of those takes longer than 1 second to process on the server side? Do you know what happens to the rest of your application? All those questions will get at least one viable answer during this talk, together with some solution how you can solve the problems that may arise. <br><strong>Presented By :&nbsp;</strong>Tiberiu Covaci</p>
 <p>Back to <a href="#top">top</a></p>
-<p><a href="/file.axd?file=2012%2f2%2fHyatt+Floorplans.pdf">Hyatt Floorplans.pdf (181.83 kb)</a></p>
