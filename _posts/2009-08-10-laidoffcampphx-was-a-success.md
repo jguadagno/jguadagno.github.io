@@ -10,7 +10,6 @@ categories:
   - Arizona Technology News
   - Articles
 ---
-<!-- TODO: Fix HTML Table -->
 Hats off to [Rachel Reese](http://rachelreese.us/) for successfully organizing the first Laid Off Camp Phoenix. The event went smooth as could be.  I think the highlight of the event was watching all of the networking that went on during the event and after the event at Liberty Market.
 
 Thanks to the sponsors below and all of the volunteers for contributing to the success of the event.
@@ -21,69 +20,15 @@ Below is a list of resources that were available in the program.
 
 ## Sponsors
 
-<table class="table table-striped table-bordered">
-
-<tbody>
-
-<tr>
-
-<th scope="row">Gilbert, AZ</th>
-
-<td>Economic Growth through innovation, collaboration and job-based economic development strategy.</td>
-
-</tr>
-
-<tr>
-
-<th scope="row">Flatterline</th>
-
-<td>Purveyors of kick a$ Web Development</td>
-
-</tr>
-
-<tr>
-
-<th scope="row">Hyatt Place Phoenix/Gilbert</th>
-
-<td>Stylish, Thoughtful, Savvy.</td>
-
-</tr>
-
-<tr>
-
-<th scope="row">TekSystems</th>
-
-<td>The Leading Technology Staffing and Services Company</td>
-
-</tr>
-
-<tr>
-
-<th scope="row">Gangplank</th>
-
-<td>Kryptonite for the Status Quo</td>
-
-</tr>
-
-<tr>
-
-<th scope="row">Hire Flyer Services</th>
-
-<td>Find the right job. Without all of the work.</td>
-
-</tr>
-
-<tr>
-
-<th scope="row">JC Printing</th>
-
-<td>Managing the Science of Printing</td>
-
-</tr>
-
-</tbody>
-
-</table>
+|||
+|--- |--- |
+|Gilbert, AZ|Economic Growth through innovation, collaboration and job-based economic development strategy.|
+|Flatterline|Purveyors of kick a$ Web Development|
+|Hyatt Place Phoenix/Gilbert|Stylish, Thoughtful, Savvy.|
+|TekSystems|The Leading Technology Staffing and Services Company|
+|Gangplank|Kryptonite for the Status Quo|
+|Hire Flyer Services|Find the right job. Without all of the work.|
+|JC Printing|Managing the Science of Printing|
 
 ## Resources
 

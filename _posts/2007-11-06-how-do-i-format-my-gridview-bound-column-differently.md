@@ -14,7 +14,7 @@ Replace the _ColumnName_ value with the name of your column. Replace DataFormatS
 <asp:GridView ID="GridView1" runat=“server”>
   <columns>
     <asp:BoundField DataField="ColumnName"
-      DataFormatString="{0:M-dd-yyyy}" 
+      DataFormatString="{0:M-dd-yyyy}"
       HtmlEncode="false"
       HeaderText="ColumnName" />
   </columns>

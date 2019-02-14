@@ -10,7 +10,7 @@ dsq_thread_id:
 categories:
   - Books
 ---
-The back cover of the book states that the intended audience is ..."beginners in the developer track who are looking to get exposure to SSIS".  It was right on the money. 
+The back cover of the book states that the intended audience is ..."beginners in the developer track who are looking to get exposure to SSIS".  It was right on the money.
 
 The book starts off with the great introduction to what SSIS is and what it is made up of. In then goes into, in depth, how to use Visual Studio 2005 to create, modify, debug and execute SSIS packages.  The rest of the book is a series of Hands-On labs guiding you through different task like transferring date from _xyz_ source to SQL Server, which I find to be the best way for me to learn a topic. There is one chapter on scripting with unfortunately for my task a bit simple.  It would have been nice to see an advanced script, maybe something that calculated value and updated a column.
 

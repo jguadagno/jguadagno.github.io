@@ -8,7 +8,7 @@ permalink: /2007/11/09/microsoft-sql-server-2005-stored-procedure-programming-in
 categories:
   - Books
 ---
-I primarily read this book for the what specifically SQL Server 2005 has as far as CLR intergration is concerned. This book was a good overview of all aspects of SQL Server development. It covered T-SQL stored procedures and general SQL queries. From a CLR perspective, it covered the following:
+I primarily read this book for the what specifically SQL Server 2005 has as far as CLR integration is concerned. This book was a good overview of all aspects of SQL Server development. It covered T-SQL stored procedures and general SQL queries. From a CLR perspective, it covered the following:
 
 * CLR development (about 12 pages)
 * CLR stored procedures (about 20)

@@ -10,6 +10,6 @@ categories:
 ---
 Back in May at TechEd North America [Developer Express](http://www.devexpress.com) interviewed me about [INETA](http://ineta.org), Community and [Desert Code Camp](http://www.desertcodecamp.com). Check out the video.
 
-<object><param name="movie" value="http://www.youtube.com/v/vDtGk-P3soU&amp;hl=en"><embed src="http://www.youtube.com/v/vDtGk-P3soU&amp;hl=en" type="application/x-shockwave-flash" width="425" height="355"></object>
+{% include video id="vDtGk-P3soU" provider="youtube" %}
 
 Thanks, Developer Express for your ongoing support of the community.

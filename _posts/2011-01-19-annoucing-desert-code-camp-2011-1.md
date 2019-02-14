@@ -21,7 +21,7 @@ We will have an after party in Downtown Chandler after the Code Camp (pending a 
 Breakfast will be provided at Desert Code Camp (pending a sponsor).  
 **Lunch**  
 Lunch will be provided at Desert Code Camp (pending a sponsor).  
-If you want to help or sponsor, shoot me an email at jguadagno @ sevdnug.org.  
+If you want to help or sponsor, shoot me an email at jguadagno@hotmail.com.  
 
 ## Web Site Updates
 

@@ -11,7 +11,8 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-Have you ever tried to debug an application and wish the Visual Studio debugger did not display {_Namespace_._ObjectName_} when you wanted to see some of the details of the objects? [![image](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/image_thumb_4.png "image")](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/image_5.png) Visual Studio has an attribute that you can add to a class to inform the debugger what to display when it is displaying that class in the debugger. As you probably guessed the attribute is called [DebuggerDisplay](http://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx).
+<!-- TODO: Remove Gist, Validate Images -->
+Have you ever tried to debug an application and wish the Visual Studio debugger did not display {_Namespace_._ObjectName_} when you wanted to see some of the details of the objects? [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_4.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_5.png) Visual Studio has an attribute that you can add to a class to inform the debugger what to display when it is displaying that class in the debugger. As you probably guessed the attribute is called [DebuggerDisplay](http://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx).
 
 ## How to Implement
 
@@ -26,8 +27,8 @@ Next, let’s assume we want to display the first and last name of the person wh
 This will tell the debugger to display the string _FirstName=_ with the value of the **FirstName** field in double quotes followed by _LastName=_ with the value of the **LastName** field in double quotes every time it needs to display a person object. Here is our new class:
 
 {% gist jguadagno/ae4a5f9470c81254ca23eaa7b0c04e57 %}
-
-This will display like so: [![image](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/image_thumb_5.png "image")](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/image_6.png) You’ll notice this makes it easier to see what you are looking at. It also works in the immediate window. [![image](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/image_thumb_6.png "image")](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/image_7.png)
+https://www.josephguadagno.net/https://www.josephguadagno.net/https://www.josephguadagno.net/https://www.josephguadagno.net/
+This will display like so: [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_5.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_6.png) You’ll notice this makes it easier to see what you are looking at. It also works in the immediate window. [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_6.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_7.png)
 
 ## Summary
 

@@ -11,6 +11,7 @@ dsq_thread_id:
 categories:
   - Articles
 ---
+<!-- TODO: Remove Gist -->
 Back in November, I sat in on a session by [Scott Hanselman](http://www.hanselman.com/blog/) on creating a mobile site on ASP.NET using [jQuery Mobile](http://jquerymobile.com/).  While I was watching this session I could not stop thinking how easy is this, I can do this for the mobile version of the [Microsoft Global MVP Summit mobile](http://mvpsummitevents.info/m/) site. So like most of us, it took me a month to get to it.
 
 A few days ago while on vacation and everyone was asleep, I started to play around with jQuery mobile and in about an hour I had a sample site created.  Here’s how you can get started.

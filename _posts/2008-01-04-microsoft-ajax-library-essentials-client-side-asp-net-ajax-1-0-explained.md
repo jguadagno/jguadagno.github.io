@@ -22,7 +22,7 @@ Some of the cons of the book.
 
 * A lot of large fonts were used, which makes it a bit unreadable at times.
 
-### On to the book content...
+## On to the book content...
 
 Chapter 1 starts off with an introduction of why Ajax is needed and the components involved at a high level.  Chapter 2 goes into more detail of the foundation of Ajax covering the DOM, CSS, XMLHTTPRequest object.  This is a good overview of Ajax technology that is not tied to Microsoft technologies. 
 

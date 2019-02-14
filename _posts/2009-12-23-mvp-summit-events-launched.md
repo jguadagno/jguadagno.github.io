@@ -15,4 +15,4 @@ From the site, you can add events, create venues, display events, subscribe to t
 
 If the site is successful, I plan to white label it to use with other events like MIX2010, TechEd, PDC, etc.
 
-Let me know what you think at [jguadagno@sevdnug.org](mailto:jguadagno@sevdnug.org)
+Let me know what you think at [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com)

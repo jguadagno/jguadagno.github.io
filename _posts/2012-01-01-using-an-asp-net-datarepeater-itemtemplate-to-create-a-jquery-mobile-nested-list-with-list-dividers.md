@@ -15,11 +15,12 @@ tags:
   - jQuery
   - jQuery Mobile
 ---
+<!-- TODO: Remove Gist, Fix Formatting, Validate Images -->
 The jQuery Mobile framework has a [list view widget](http://jquerymobile.com/demos/1.0/docs/lists/docs-lists.html) that displays unordered lists in several different ways. In the process of converting the [Microsoft Global MVP Summit mobile](http://mvpsummitevents.info/m/) site to use jQuery Mobile, I wanted to change the way I displayed the events. The idea was to have a header for each date that there was an event along with some of the details of the event. Clicking on the event would take you the to event details page. To accomplish this I used the [count bubble](http://jquerymobile.com/demos/1.0/docs/lists/lists-count.html), [list dividers](http://jquerymobile.com/demos/1.0/docs/lists/lists-divider.html), [content formatting](http://jquerymobile.com/demos/1.0/docs/lists/lists-formatting.html) and the [search filter bar](http://jquerymobile.com/demos/1.0/docs/lists/lists-search.html) features of jQuery Mobile. First let’s look at the HTML, for the sake of brevity I removed the ID fields from the HTML.
 
 {% gist jguadagno/590e5331b36b1b59fb2faafc126ed177 %}
 
-From this HTML markup the jQuery Mobile framework will generate a view that looks like this: [![image](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/image_thumb_2.png "image")](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/image_3.png)
+From this HTML markup the jQuery Mobile framework will generate a view that looks like this: [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_2.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_3.png)
 
 ## The jQuery Mobile ListView
 
@@ -28,8 +29,8 @@ From this HTML markup the jQuery Mobile framework will generate a view that look
 The start of the unordered list, Line 1, has 4 attributes: [xml] <ul data-role="listview" data-inset="true" data-theme="b" data-filter="true"> [/xml] The **data-role** of _listview_ tells the jQuery Mobile framework to use the jQuery Mobile [Listview](http://jquerymobile.com/demos/1.0/docs/lists/docs-lists.html) widget. Setting the **data-inset** attribute to _true_ tells the jQuery Mobile framework to indent the list view and add the rounded edges. The **data-theme** attribute tells jQuery Mobile to use the _d_theme. Setting the **data-filter** equal to _true_ tells the jQuery Mobile framework to add the filter items text box up top. No additional work is needed to add the filter, it will search all of the ListItems that are part of this unordered list who’s **data-role** attribute is not set to _list-divider_ for the text entered.
 
 ### The List Divider
-
-Adding the **data-role** of _list-divider_ (Line 2 of the initial example) will make that list item appear as a divider. You can use this attribute to group items, in my case, I grouped by date. To establish the count bubble you will need to wrap the count of item around a span tag and give it the class of _ui-li-count_, as shown in Line 2. Here’s an annotated image with markup. [![image](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/image_thumb_3.png "image")](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/image_4.png) The item in red is the individual list item which will be discussed in the next section.
+https://www.josephguadagno.net/https://www.josephguadagno.net/
+Adding the **data-role** of _list-divider_ (Line 2 of the initial example) will make that list item appear as a divider. You can use this attribute to group items, in my case, I grouped by date. To establish the count bubble you will need to wrap the count of item around a span tag and give it the class of _ui-li-count_, as shown in Line 2. Here’s an annotated image with markup. [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_3.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_4.png) The item in red is the individual list item which will be discussed in the next section.
 
 ### The Items
 

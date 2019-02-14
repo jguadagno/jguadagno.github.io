@@ -18,6 +18,7 @@ We got a few lanes, a few shoes, some appetizers and some drinks sponsored by [C
 
 Register at: [Event Registration](http://sevdnug0210.eventbrite.com)
 
-_* The sponsor will cover a certain amount of the cost.  You might be required to purchase some of your own food and drink._
+The sponsor will cover a certain amount of the cost.  You might be required to purchase some of your own food and drink.
+{: .notice--info}
 
 [Event Registration](http://sevdnug0210.eventbrite.com)

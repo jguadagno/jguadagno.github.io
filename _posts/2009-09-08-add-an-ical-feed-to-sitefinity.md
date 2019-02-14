@@ -14,10 +14,10 @@ categories:
 tags:
   - Sitefinity
 ---
-<!-- TODO: Fix HTML Table -->
+<!-- TODO: Remove Gist -->
 [iCal](http://en.wikipedia.org/wiki/Ical "iCal on Wikipedia") feeds let you share your and/or import your events that are stored in Sitefinity.  Here is a library that will let you generate an iCal feed from Sitefinity. Future versions of this library might have us filtering by categories or date.
 
-iCal feed for Sitefinity [CalendarHandler_2](http://1222-7915.el-alt.com/wp-content/uploads/2015/03/CalendarHandler_2.zip)
+iCal feed for Sitefinity [CalendarHandler_2](https://www.josephguadagno.net/wp-content/uploads/2015/03/CalendarHandler_2.zip)
 
 I’ve made a few changes since the last release to include some bug fixes.
 
@@ -46,72 +46,13 @@ The class assumes that your events provider is named “**Events**”, if not yo
 
 The class maps the following fields to an iCalendar event.
 
-<table class="table table-striped table-bordered">
-
-<thead>
-
-<tr>
-
-<th>iCalendar event</th>
-
-<th>Sitefinity Field</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>Description</td>
-
-<td>Content</td>
-
-</tr>
-
-<tr>
-
-<td>Location</td>
-
-<td>LocationName (Meta Field)</td>
-
-</tr>
-
-<tr>
-
-<td>Summary</td>
-
-<td>Title (Meta field)</td>
-
-</tr>
-
-<tr>
-
-<td>Url</td>
-
-<td>UrlWithExtension</td>
-
-</tr>
-
-<tr>
-
-<td>DTStart</td>
-
-<td>Start</td>
-
-</tr>
-
-<tr>
-
-<td>DTEnd</td>
-
-<td>End</td>
-
-</tr>
-
-</tbody>
-
-</table>
+|iCalendar event|Sitefinity Field|
+|--- |--- |
+|Description|Content|
+|Location|LocationName (Meta Field)|
+|Summary|Title (Meta field)|
+|Url|UrlWithExtension|
+|DTStart|Start|
+|DTEnd|End|
 
 I believe these meta values are the default meta keys from Sitefinity. If your values differ, you can modify them on lines 64 and 65.

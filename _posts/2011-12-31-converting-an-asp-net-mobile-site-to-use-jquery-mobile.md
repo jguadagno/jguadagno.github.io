@@ -14,6 +14,7 @@ categories:
 tags:
   - jQuery
 ---
+<!-- TODO: Remove Gist -->
 Building upon my previous post [Introduction to jQuery Mobile](http://www.josephguadagno.net/post/Introduction-to-jQuery-Mobile.aspx), I wanted to share how I converted the [Microsoft Global MVP Summit mobile](http://www.mvpsummitevents.info/m/default.aspx) site to use [jQuery Mobile](http://jquerymobile.com/).
 
 ## Getting Started

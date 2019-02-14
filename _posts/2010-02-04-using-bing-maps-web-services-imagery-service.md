@@ -14,7 +14,7 @@ categories:
 tags:
   - Bing
 ---
-<!-- TODO: Fix Table, HTML, Links to content -->
+<!-- TODO: Fix Table, HTML, Links to content, gist -->
 In my previous post, [Using the Bing Maps Web Services for Geocoding Addresses](http://www.josephguadagno.net/post/Using-the-Bing-Maps-Web-Services-for-Geocoding-Addresses.aspx), I talk about geocoding addresses using the Bing Maps Web Services. Now it is time to talk about getting imagery of maps, roads or aerials views for addresses or geocodes. In order to get started using the Bing Maps Web Services, check out the previous [post](http://www.josephguadagno.net/post/Using-the-Bing-Maps-Web-Services-for-Geocoding-Addresses.aspx) **Getting Started** section.
 
 ## Bing Maps Web Services
@@ -22,7 +22,7 @@ In my previous post, [Using the Bing Maps Web Services for Geocoding Addresses](
 Bing Maps Web Services is a set of Web services that allow you to add mapping and search functionality to your application, including location finding, map imagery, and routing capabilities. For example, you can: Use the [Imagery Service](http://msdn.microsoft.com/en-us/library/cc981090.aspx) to:
 
 * Return a link to a map with a pushpin at a specific location
-* Provide a roadmap or bird’s eye or aerial imagery to your application
+* Provide a road map or bird’s eye or aerial imagery to your application
 
 Use the [Route Service](http://msdn.microsoft.com/en-us/library/cc966826.aspx) to:
 

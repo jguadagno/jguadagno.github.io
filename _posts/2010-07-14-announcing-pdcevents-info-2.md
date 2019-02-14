@@ -20,4 +20,4 @@ GeoRSS: [http://pdcevents.info/map.aspx](http://pdcevents.info/map.aspx "http://
 
 If you tag events with #PDC10, they will appear on [http://pdcevents.info/Flickr.aspx](http://pdcevents.info/Flickr.aspx "http://pdcevents.info/Flickr.aspx")
 
-Let me know what you think at [jguadagno@sevdnug.org](mailto:jguadagno@sevdnug.org?subject=PDCEvents)
+Let me know what you think at [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com?subject=PDCEvents)

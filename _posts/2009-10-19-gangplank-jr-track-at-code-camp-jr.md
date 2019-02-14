@@ -9,119 +9,24 @@ permalink: /2009/10/19/gangplank-jr-track-at-code-camp-jr/
 categories:
   - Arizona Technology News
 ---
-<!-- TODO: Fix HTML and HTML Tables -->
 Got a kid interested in Technology? Bring them to the **Gankplank Jr track at Code Camp Jr.** taking place at [Desert Code Camp](http://www.desertcodecamp.com/).
 
 ## Schedule for the day
 
-<table class="table table-striped table-bordered">
-
-<thead>
-
-<tr>
-
-<th>Time</th>
-
-<th>Event</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>9:00</td>
-
-<td>Registration</td>
-
-</tr>
-
-<tr>
-
-<td>9:30</td>
-
-<td>Programming with Scratch</td>
-
-</tr>
-
-<tr>
-
-<td>9:45</td>
-
-<td>Free time with Scratch</td>
-
-</tr>
-
-<tr>
-
-<td>10:15</td>
-
-<td>Kid free play time</td>
-
-</tr>
-
-<tr>
-
-<td>10:45</td>
-
-<td>Lego Mindstorm NXT</td>
-
-</tr>
-
-<tr>
-
-<td>11:30</td>
-
-<td>Lego Mindstorm NXT free play time</td>
-
-</tr>
-
-<tr>
-
-<td>12:00</td>
-
-<td>Lunch provided by Gangplank Jr.  
-Bakugan Tournament</td>
-
-</tr>
-
-<tr>
-
-<td>1:00</td>
-
-<td>Circuits</td>
-
-</tr>
-
-<tr>
-
-<td>1:45</td>
-
-<td>Free time with circuits and electronics</td>
-
-</tr>
-
-<tr>
-
-<td>3:00</td>
-
-<td>Wrap up</td>
-
-</tr>
-
-<tr>
-
-<td>3:15</td>
-
-<td>Free time with the computers</td>
-
-</tr>
-
-</tbody>
-
-</table>
+|Time|Event|
+|--- |--- |
+|9:00|Registration|
+|9:30|Programming with Scratch|
+|9:45|Free time with Scratch|
+|10:15|Kid free play time|
+|10:45|Lego Mindstorm NXT|
+|11:30|Lego Mindstorm NXT free play time|
+|12:00|Lunch provided by Gangplank Jr.  
+Bakugan Tournament|
+|1:00|Circuits|
+|1:45|Free time with circuits and electronics|
+|3:00|Wrap up|
+|3:15|Free time with the computers|
 
 Computers will be provided, feel free to bring a laptop if you have.
 
@@ -133,18 +38,12 @@ Register to attend: [codecampjr2009.eventbrite.com](http://codecampjr2009.eventb
 
 If you have any questions, feel free to contact me.
 
-Joseph Guadagno at [jguadagno@sevdnug.org](mailto:jguadagno@sevdnug.org)
+Joseph Guadagno at [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com)
 
-<div class="card">
+Recommended for kids from 4-18 years of age.
 
-<div class="card-body">
+It is recommended that the kids are at reading age.
+{: .notice}
 
-> Recommended for kids from 4-18 years of age.
-> 
-> <footer class="blockquote-footer">It is recommended that the kids are at reading age.</footer>
-
-</div>
-
-</div>
-
-<div class="alert alert-info" role="alert">* Schedule is subject to change.</div>
+Schedule is subject to change.
+{: .notice--alert}
