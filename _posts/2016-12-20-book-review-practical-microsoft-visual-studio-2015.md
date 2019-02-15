@@ -15,6 +15,5 @@ While the title of the book is "Practical Microsoft Visual Studio 2015", the aut
 
 <iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=josephguadagno-20&amp;marketplace=amazon&amp;region=US&amp;placement=1484223128&amp;asins=1484223128&amp;linkId=15ca6cae334f7e2143adb8fa8c789771&amp;show_border=true&amp;link_opens_in_new_window=true" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-<div class="alert alert-primary" role="alert">
-<strong>Disclaimer:</strong> I was one of the technical reviewers of this book.
-</div>
+**Disclaimer:** I was one of the technical reviewers of this book.
+{: .notice}

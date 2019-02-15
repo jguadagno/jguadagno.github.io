@@ -18,25 +18,25 @@ tags:
   - Plugin
   - Twitter Bootstrap
 ---
-A few months ago I built a jQuery plugin that uses the Twitter <a href="http://www.getbootstrap.com" target="_blank">Bootstrap</a> <a href="http://getbootstrap.com/javascript/#carousel" target="_blank">Carousel</a> to cycle through images on <a href="http://www.flickr.com" target="_blank">Flickr</a>. In order to use this plugin you need to get an <a href="https://www.flickr.com/services/api/misc.api_keys.html" target="_blank">Api</a> Key from Flickr and have the following software:
-<ul>
-	<li>jQuery (v1.8 or higher)</li>
-	<li>Twitter Bootstrap (v3.0 or higher)</li>
-	<li>Twitter Bootstrap components (v3.0 or higher)</li>
-	<li><a href="https://github.com/esimakin/twbs-pagination" target="_blank">twbsPagination</a> (optional)</li>
-</ul>
-<h3>Sample Usage</h3>
+A few months ago I built a jQuery plugin that uses the Twitter [Bootstrap](http://www.getbootstrap.com) [Carousel](http://getbootstrap.com/javascript/#carousel) to cycle through images on [Flickr](http://www.flickr.com). In order to use this plugin you need to get an [Api](https://www.flickr.com/services/api/misc.api_keys.html) Key from Flickr and have the following software:
 
-[js]
+* jQuery (v1.8 or higher)
+* Twitter Bootstrap (v3.0 or higher)
+* Twitter Bootstrap components (v3.0 or higher)
+* [twbsPagination](https://github.com/esimakin/twbs-pagination) (optional)
+
+## Sample Usage
+
+```js
 $('#flickr-carousel').twbsFlickrCarousel(
-	{
-		tagsToSearchFor: 'mvpsummit,mvp2013,mvp13', 
-		flickrApiKey: 'insert your key here', 
-		paginationSelector: '#flickr-pagination'
-	}
+  {
+    tagsToSearchFor: 'mvpsummit,mvp2013,mvp13',
+    flickrApiKey: 'insert your key here',
+    paginationSelector: '#flickr-pagination'
+  }
 );
-[/js]
+```
 
-Download the plugin from GitHub at: <a title="https://github.com/jguadagno/twbs-flickrCarousel" href="https://github.com/jguadagno/twbs-flickrCarousel">https://github.com/jguadagno/twbs-flickrCarousel</a>
+Download the plugin from GitHub at: [https://github.com/jguadagno/twbs-flickrCarousel](https://github.com/jguadagno/twbs-flickrCarousel "https://github.com/jguadagno/twbs-flickrCarousel")
 
-See an example of usage at: <a href="http://mvp2014.mvpsummitevents.info/flickr" target="_blank">http://mvp2014.mvpsummitevents.info/flickr</a>
+See an example of usage at: [http://mvp2014.mvpsummitevents.info/flickr](http://mvp2014.mvpsummitevents.info/flickr)

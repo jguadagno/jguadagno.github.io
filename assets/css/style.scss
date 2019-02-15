@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 
-justify-content-end {
-    -webkit-box-pack: end !important;
-    -ms-flex-pack: end !important;
-    justify-content: flex-end !important;
+table {
+    width: 100%;
 }

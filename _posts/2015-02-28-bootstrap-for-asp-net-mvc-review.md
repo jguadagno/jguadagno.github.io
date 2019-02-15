@@ -13,7 +13,7 @@ tags:
   - Bootstrap
   - Twitter Bootstrap
 ---
-Starts off with a good introduction to using Bootstrap in your ASP.NET applications.  It covers the default “File | New” experience, manually added files and my favorite, NuGet. The author then continues with introducing the Bootstrap element styles in a logical order, starting with the grid and ending with form validation.  Next the author introduces the JavaScript components of Bootstrap.
+Starts off with a good introduction to using Bootstrap in your ASP.NET applications. It covers the default "File \| New" experience, manually added files and my favorite, NuGet. The author then continues with introducing the Bootstrap element styles in a logical order, starting with the grid and ending with form validation.  Next the author introduces the JavaScript components of Bootstrap.
 
 In the next part of the book the author does what I have not seen in other books on Bootstrap, the author explains how to create helper methods, which is good but there already is a well used package for that in which the author has a chapter on on at the end of the book.
 
