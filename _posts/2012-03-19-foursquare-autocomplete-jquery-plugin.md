@@ -17,7 +17,7 @@ tags:
   - jQuery Plugin
   - Plugin
 ---
-<!-- TODO: Remove Gists, Verify Images, Fix Formatting -->
+
 _This post will go over implementing the foursquare Autocomplete jQuery plugin. In the upcoming days (weeks) I will have a few blog posts on using the foursquare API with C#._ A few months ago I was making updates for the [MVP Summit Events](http://www.mvpsummitevents.info "MVP Summit Events") site, one of the features I wanted to add was [foursquare](http://www.foursquare.com) integration to the site. I was thinking that it would be cool for each of the parties listed on the site, to show how many people have checked in to that event (venue) on foursquare. This way you could see what parties to attend and which ones to avoid :). In order to determine who was checked in at one of the events, I needed to add the foursquare venue id to all of my venues. For the existing venues, I manually added the foursquare venue id but for new venues I was thinking of making the user experience as easy as possible, a user should enter a few characters and get venues in the area with those characters. The first thing that popped into my head was to use an auto complete control and use foursquare as the data source. So after “Googling it with Bing” I found that there was one control that did this but no longer worked. So what does every good developer do, re-invent the wheel :).
 
 ## Getting Started with the foursquare API
@@ -36,14 +36,37 @@ According to the API end point [documentation](https://developer.foursquare.com/
 
 ## Creating the plugin
 
-I decided to go with using the [auto complete](http://jqueryui.com/demos/autocomplete/) widget from the [jQuery UI](http://jqueryui.com/), use the suggest completion end point from foursquare and turn it into a jQuery plugin. Unfortunately I have never created a jQuery plugin before, however, I was lucky enough to run across a post from a buddy of mine [Elijah Manor](http://elijahmanor.com/) on [How to Create Your Own jQuery Plugin](http://msdn.microsoft.com/en-us/scriptjunkie/ff608209). After a few hours of fiddling around with the cost from the blog post above I eventually figured it out and got it to work. The resulting control looks like this: [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_7.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_8.png) In order to use the foursquare jQuery auto complete plugin you will need to include on your page, [jQuery](http://docs.jquery.com/Downloading_jQuery), [jQuery UI](http://jqueryui.com/download), one of the jQuery UI [themes](http://jqueryui.com/themeroller/) and this plugin.
+I decided to go with using the [auto complete](http://jqueryui.com/demos/autocomplete/) widget from the [jQuery UI](http://jqueryui.com/), use the suggest completion end point from foursquare and turn it into a jQuery plugin. Unfortunately I have never created a jQuery plugin before, however, I was lucky enough to run across a post from a buddy of mine [Elijah Manor](http://elijahmanor.com/) on [How to Create Your Own jQuery Plugin](http://msdn.microsoft.com/en-us/scriptjunkie/ff608209). After a few hours of fiddling around with the cost from the blog post above I eventually figured it out and got it to work. The resulting control looks like this:
 
-[4sqacplugin](https://www.josephguadagno.net/wp-content/uploads/2015/03/4sqacplugin.js)
-https://www.josephguadagno.net/
-I’ve also included a sample page to get you started. It has a bunch of styles to make the use of the plugin a little cleaner. [4sqautocomplete](https://www.josephguadagno.net/wp-content/uploads/2015/03/4sqautocomplete.html) Once you have the required files referenced on your page, you can “foursquare auto complete” a textbox by calling the _foursquareAutocomplete_ method as shown here:
+[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_7.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_8.png)
 
-{% gist jguadagno/7085cd501a06de41197578b827628cd8 %}
-https://www.josephguadagno.net/
+In order to use the foursquare jQuery auto complete plugin you will need to include on your page, [jQuery](http://docs.jquery.com/Downloading_jQuery), [jQuery UI](http://jqueryui.com/download), one of the jQuery UI [themes](http://jqueryui.com/themeroller/) and this plugin, [4sqacplugin](https://www.josephguadagno.net/wp-content/uploads/2015/03/4sqacplugin.js)
+
+I’ve also included a sample page to get you started. It has a bunch of styles to make the use of the plugin a little cleaner. [4sqautocomplete](https://www.josephguadagno.net/wp-content/uploads/2015/03/4sqautocomplete.html) Once you have the required files referenced on your page, you can “foursquare auto complete” a textbox by calling the `foursquareAutocomplete` method as shown here:
+
+```js
+$(&quot;#venue&quot;).foursquareAutocomplete({
+  'latitude': 47.22,
+  'longitude': -122.2,
+  'oauth_token': &quot;your oauth token&quot;,
+  'minLength': 3,
+  'search': function (event, ui) {
+    $('#venue-name').html(ui.item.name);
+    $('#venue-id').val(ui.item.id);
+    $('#venue-address').html(ui.item.address);
+    $('#venue-cityLine').html(ui.item.cityLine);
+    $('#venue-icon').attr(&quot;src&quot;, ui.item.photo);
+    return false;
+  },
+  'onError' : function (errorCode, errorType, errorDetail) {
+    var message = &quot;Foursquare Error: Code=&quot; + errorCode + 
+    &quot;, errorType= &quot; + errorType + 
+    &quot;, errorDetail= &quot; + errorDetail;
+    log(message);
+  }
+});
+```
+
 |Name|Description|
 |--- |--- |
 |latitude|The latitude where you want to look for the venue.|
@@ -61,7 +84,9 @@ Once a user selects the venue from the list, the search event is raised. The sea
 * Event: The event
 * Item: the foursquare venue that was returned.
 
-The item that is returned is a custom object that provides the basic address properties for the venue. The properties combined, will look like a US formatted address and will take into account fields that are not populated in foursquare. [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_8.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_9.png)
+The item that is returned is a custom object that provides the basic address properties for the venue. The properties combined, will look like a US formatted address and will take into account fields that are not populated in foursquare.
+
+[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_8.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_9.png)
 
 |Property Name|Description|
 |--- |--- |
@@ -74,4 +99,4 @@ The item that is returned is a custom object that provides the basic address pro
 
 ## Conclusion
 
-It took a while for me to figure out all of the parts needed to create the jQuery plugin but overall I think it was worth it. Again this is my first venture into creating a jQuery plugin, so if it is way off, let me know.https://www.josephguadagno.net/https://www.josephguadagno.net/
+It took a while for me to figure out all of the parts needed to create the jQuery plugin but overall I think it was worth it. Again this is my first venture into creating a jQuery plugin, so if it is way off, let me know.

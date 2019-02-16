@@ -16,7 +16,7 @@ tags:
   - Microsoft Azure
   - Windows Azure
 ---
-<!-- TODO: Validate Images -->
+
 This Part 4 of a [series of posts](https://www.josephguadagno.net/post/2013/05/20/The-Windows-Azure-Experience) about my “upgrade” to Windows Azure. Next up in the series is customizing the Windows Azure [Web Site](http://www.windowsazure.com/en-us/manage/services/web-sites/). **Note:** _This blog post is based on the Preview version of Windows Azure Web Sites and might change in the future._ _Note: There is an [article](http://www.windowsazure.com/en-us/manage/services/web-sites/how-to-configure-websites/) on the Windows Azure site that will cover some of this content._
 
 ## Getting Started

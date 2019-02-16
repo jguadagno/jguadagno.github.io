@@ -18,7 +18,6 @@ tags:
   - Visual Studio Online
   - Windows Azure
 ---
-<!-- TODO: verify links -->
 In my previous [post](http://www.josephguadagno.net/post/2013/11/15/Visual-Studio-Online-with-Windows-Azure-MSDN-benefit),  I talk about why you can not add Visual Studio Online to an Existing Windows Azure MSDN benefit subscription.  In this post, I will show you how to add and existing Visual Studio Online (formally know as TFS Online) to your existing Windows Azure account.
 
 ## Create Your “Pay-As-You-Go” Account

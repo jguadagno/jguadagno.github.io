@@ -11,24 +11,69 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-<!-- TODO: Remove Gist, Validate Images -->
-Have you ever tried to debug an application and wish the Visual Studio debugger did not display {_Namespace_._ObjectName_} when you wanted to see some of the details of the objects? [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_4.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_5.png) Visual Studio has an attribute that you can add to a class to inform the debugger what to display when it is displaying that class in the debugger. As you probably guessed the attribute is called [DebuggerDisplay](http://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx).
+Have you ever tried to debug an application and wish the Visual Studio debugger did not display `{Namespace.ObjectName}` when you wanted to see some of the details of the objects?
+
+[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_4.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_5.png) 
+
+Visual Studio has an attribute that you can add to a class to inform the debugger what to display when it is displaying that class in the debugger. As you probably guessed the attribute is called [DebuggerDisplay](http://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx).
 
 ## How to Implement
 
-Let’s say we have a simple class called Person, the Person class has 4 properties; FirstName, MiddleName, LastName, and FullName. Here is the definition:
+Let’s say we have a simple class called `Person`, the Person class has 4 properties; `FirstName`, `MiddleName`, `LastName`, and `FullName`. Here is the definition:
 
-{% gist jguadagno/47701ab9f7ee89827e451b0083c5fc45 %}
+```cs
+public class Person
+{
+  public string FirstName { get; set; }
+  public string MiddleName { get; set; }
+  public string LastName { get; set; }
+  public string FullName
+  {
+    get
+    {
+      return string.Format("{0} {1}{2}",
+        FirstName,
+        (string.IsNullOrEmpty(MiddleName)) ? string.Empty : MiddleName + " ",
+        LastName);
+    }
+  }
+}
+```
 
 Next, let’s assume we want to display the first and last name of the person when debugging. We first need to add the DebuggerDisplay attribute to our class. The DebuggerDisplay attribute can be found in the [System.Diagnosis](http://msdn.microsoft.com/en-us/library/15t15zda.aspx) class of the .NET framework. The DebuggerDisplay works almost like the string.Format method, except you, replace the numbers with the property/method names you want to display. Example: 
 
-{% gist jguadagno/c13c6c87e6886e077083eec0a47026df %}
+```cs
+[DebuggerDisplay("FirstName={FirstName} LastName={LastName}")]
+```
 
-This will tell the debugger to display the string _FirstName=_ with the value of the **FirstName** field in double quotes followed by _LastName=_ with the value of the **LastName** field in double quotes every time it needs to display a person object. Here is our new class:
+This will tell the debugger to display the string _FirstName=_ with the value of the `FirstName` field in double quotes followed by `LastName=` with the value of the `LastName` field in double quotes every time it needs to display a person object. Here is our new class:
 
-{% gist jguadagno/ae4a5f9470c81254ca23eaa7b0c04e57 %}
-https://www.josephguadagno.net/https://www.josephguadagno.net/https://www.josephguadagno.net/https://www.josephguadagno.net/
-This will display like so: [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_5.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_6.png) You’ll notice this makes it easier to see what you are looking at. It also works in the immediate window. [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_6.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_7.png)
+```cs
+[DebuggerDisplay("FirstName={FirstName} LastName={LastName}")]
+public class Person
+{
+  public string FirstName { get; set; }
+  public string MiddleName { get; set; }
+  public string LastName { get; set; }
+  public string FullName
+  {
+    get
+    {
+      return string.Format("{0} {1}{2", FirstName,
+          (string.IsNullOrEmpty(MiddleName)) ? string.Empty : MiddleName + " ",
+          LastName);
+    }
+  }
+}
+```
+
+This will display like so:
+
+[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_5.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_6.png) 
+
+You’ll notice this makes it easier to see what you are looking at. It also works in the immediate window. 
+
+[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_6.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_7.png)
 
 ## Summary
 
