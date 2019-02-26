@@ -1,9 +1,7 @@
 ---
-id: 871
 title: ASP.NET Data Presentation Controls Essentials
 date: 2008-02-18T16:00:00+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=12b4eba1-3bac-411a-b755-d8393261924b
 permalink: /2008/02/18/asp-net-data-presentation-controls-essentials/
 categories:
   - Books

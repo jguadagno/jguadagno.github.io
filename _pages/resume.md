@@ -1,5 +1,4 @@
 ---
-id: 1311
 title: Resume
 date: 2015-03-04T17:04:14+00:00
 author: Joseph Guadagno

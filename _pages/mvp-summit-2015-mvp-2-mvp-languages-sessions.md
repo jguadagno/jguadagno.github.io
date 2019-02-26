@@ -1,5 +1,4 @@
 ---
-id: 10145
 title: 'MVP Summit 2015 &#8211; MVP 2 MVP Languages Sessions'
 date: 2015-10-27T10:44:41+00:00
 author: Joseph Guadagno

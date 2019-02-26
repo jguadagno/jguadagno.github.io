@@ -1,9 +1,7 @@
 ---
-id: 181
 title: Visual Studio Online with Windows Azure MSDN benefit
 date: 2013-11-15T12:52:34+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=869e8035-9b69-4156-949c-d991032c2b74
 permalink: /2013/11/15/visual-studio-online-with-windows-azure-msdn-benefit/
 dsq_thread_id:
   - "3570334330"

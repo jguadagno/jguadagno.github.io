@@ -1,9 +1,7 @@
 ---
-id: 751
 title: LINQ in Action
 date: 2008-09-29T11:55:13+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=23cc00e2-dc81-4ebf-983f-d29ff6a5dd9c
 permalink: /2008/09/29/linq-in-action/
 dsq_thread_id:
   - "4273137936"

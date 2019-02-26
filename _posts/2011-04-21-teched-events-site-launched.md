@@ -1,10 +1,7 @@
 ---
-id: 441
 title: TechEd Events Site Launched
 date: 2011-04-21T15:22:42+00:00
 author: Joseph Guadagno
-
-guid: http://www.josephguadagno.net/post.aspx?id=2c68ba1c-54ee-46b6-a788-9c869fa20377
 permalink: /2011/04/21/teched-events-site-launched/
 dsq_thread_id:
   - "3654714092"

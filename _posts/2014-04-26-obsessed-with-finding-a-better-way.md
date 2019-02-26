@@ -1,9 +1,7 @@
 ---
-id: 151
 title: Obsessed With Finding a Better Way
 date: 2014-04-26T00:08:34+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=dd9240d9-f728-4711-885a-b6ecd5795a07
 permalink: /2014/04/26/obsessed-with-finding-a-better-way/
 dsq_thread_id:
   - "3615185379"

@@ -1,5 +1,4 @@
 ---
-id: 1351
 title: About Joseph Guadagno
 date: 2015-03-04T17:06:26+00:00
 author: Joseph Guadagno

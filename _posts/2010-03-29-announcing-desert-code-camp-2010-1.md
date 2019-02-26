@@ -1,9 +1,7 @@
 ---
-id: 561
 title: Announcing Desert Code Camp 2010.1
 date: 2010-03-29T20:57:49+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=410b3392-aa4c-4607-be1f-c17064a4e128
 permalink: /2010/03/29/announcing-desert-code-camp-2010-1/
 dsq_thread_id:
   - "5317250463"

@@ -1,9 +1,7 @@
 ---
-id: 1031
 title: Windows Presentation Foundation Unleashed
 date: 2007-11-23T01:00:00+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=678574d6-a119-4f70-94e8-b82899d30adf
 permalink: /2007/11/23/windows-presentation-foundation-unleashed/
 categories:
   - Books

@@ -1,9 +1,7 @@
 ---
-id: 431
 title: Community Speaking and Cost
 date: 2011-05-05T17:26:53+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=2629a4da-900c-43f9-9912-5acf60a69de2
 permalink: /2011/05/05/community-speaking-and-cost/
 categories:
   - Articles

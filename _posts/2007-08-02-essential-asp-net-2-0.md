@@ -1,9 +1,7 @@
 ---
-id: 1171
 title: Essential ASP.NET 2.0
 date: 2007-08-02T00:11:45+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=dbb3dc0c-e5c4-4966-be21-1b7c19af2f73
 permalink: /2007/08/02/essential-asp-net-2-0/
 categories:
   - Books

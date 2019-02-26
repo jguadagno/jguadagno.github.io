@@ -1,9 +1,7 @@
 ---
-id: 1111
 title: 'Desert Code Camp: Using AjaxPro.Net'
 date: 2007-11-06T07:04:33+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=8c12ee1b-8344-4395-a88c-751fab997305
 permalink: /2007/11/06/desert-code-camp-using-ajaxpro-net/
 categories:
   - Articles

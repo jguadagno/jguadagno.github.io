@@ -1,9 +1,7 @@
 ---
-id: 621
 title: MVP Summit Events Launched
 date: 2009-12-23T21:20:14+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=12d35fd8-ffcd-4196-b956-784ea4813e49
 permalink: /2009/12/23/mvp-summit-events-launched/
 categories:
   - Articles

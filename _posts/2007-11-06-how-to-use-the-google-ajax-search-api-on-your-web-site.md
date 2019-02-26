@@ -1,11 +1,7 @@
 ---
-id: 1091
 title: How to use the Google AJAX Search API on your web site.
 date: 2007-11-06T07:04:33+00:00
 author: Joseph Guadagno
-
-guid: http://www.josephguadagno.net/post.aspx?id=38589012-f1d6-49c6-b815-76ffe0f3e667
-permalink: /2007/11/06/how-to-use-the-google-ajax-search-api-on-your-web-site/
 dsq_thread_id:
   - "3618310716"
 categories:

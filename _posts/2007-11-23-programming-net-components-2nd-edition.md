@@ -1,9 +1,7 @@
 ---
-id: 1021
 title: Programming .NET Components, 2nd Edition
 date: 2007-11-23T01:00:00+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=fcc6aafc-7dc8-4623-a5ca-3877d50069f7
 permalink: /2007/11/23/programming-net-components-2nd-edition/
 dsq_thread_id:
   - "3622729827"

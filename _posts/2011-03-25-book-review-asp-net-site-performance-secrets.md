@@ -1,9 +1,7 @@
 ---
-id: 451
 title: 'Book Review: ASP.NET Site Performance Secrets'
 date: 2011-03-25T18:14:00+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=08fa578e-738e-4962-9ee7-2e2681aac3c9
 permalink: /2011/03/25/book-review-asp-net-site-performance-secrets/
 categories:
   - Books

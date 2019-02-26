@@ -1,9 +1,7 @@
 ---
-id: 991
 title: 'C# Essentials'
 date: 2007-11-23T01:00:00+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=530694f6-451f-4e01-aa8f-572ec05f233b
 permalink: /2007/11/23/c-essentials/
 categories:
   - Books

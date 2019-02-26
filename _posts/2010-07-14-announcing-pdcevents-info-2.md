@@ -1,9 +1,7 @@
 ---
-id: 531
 title: Announcing PDCEvents.info
 date: 2010-07-14T04:56:52+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=8873aab4-22ad-4883-b6c1-9fc3681d40f9
 permalink: /2010/07/14/announcing-pdcevents-info-2/
 categories:
   - Technology News

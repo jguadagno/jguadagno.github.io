@@ -1,9 +1,7 @@
 ---
-id: 301
 title: Motivation
 date: 2012-04-09T15:48:00+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=0cf92e6e-a471-475e-91a8-5239694d29c9
 permalink: /2012/04/09/motivation/
 dsq_thread_id:
   - "4379693258"

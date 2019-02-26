@@ -1,10 +1,7 @@
 ---
-id: 501
 title: Desert Code Camp 2010.2 Sessions so far
 date: 2010-09-17T21:30:41+00:00
 author: Joseph Guadagno
-
-guid: http://www.josephguadagno.net/post.aspx?id=84a88920-e493-4fbf-b846-cfb201304bf2
 permalink: /2010/09/17/desert-code-camp-2010-2-sessions-so-far/
 categories:
   - Arizona Technology News

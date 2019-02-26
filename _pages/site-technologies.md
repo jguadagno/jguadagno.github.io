@@ -1,5 +1,4 @@
 ---
-id: 1291
 title: Site Technologies
 date: 2015-03-04T17:02:13+00:00
 author: Joseph Guadagno

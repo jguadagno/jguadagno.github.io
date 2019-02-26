@@ -1,9 +1,7 @@
 ---
-id: 1101
 title: Database Drivers not provided by Microsoft
 date: 2007-11-06T07:04:33+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=3731a71d-12f8-4728-9776-9f7e86202a67
 permalink: /2007/11/06/database-drivers-not-provided-by-microsoft/
 categories:
   - Articles

@@ -1,9 +1,7 @@
 ---
-id: 541
 title: Code Camp redone
 date: 2010-07-06T17:16:44+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=2da041e6-5d98-4af2-a67a-770ee3428692
 permalink: /2010/07/06/code-camp-redone/
 dsq_thread_id:
   - "3706170602"

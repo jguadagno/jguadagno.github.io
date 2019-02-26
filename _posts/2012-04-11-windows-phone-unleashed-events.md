@@ -1,9 +1,7 @@
 ---
-id: 291
 title: Windows Phone Unleashed Events
 date: 2012-04-11T17:19:22+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=e9843a9b-8430-4a4e-b423-6ebec0b5ab18
 permalink: /2012/04/11/windows-phone-unleashed-events/
 dsq_thread_id:
  - "4379692998"

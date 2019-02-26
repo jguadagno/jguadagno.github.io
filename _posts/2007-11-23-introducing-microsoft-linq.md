@@ -1,9 +1,7 @@
 ---
-id: 1051
 title: Introducing Microsoft LINQ
 date: 2007-11-23T01:00:00+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=3496ae7e-9465-4678-a41c-a82be1e75eff
 permalink: /2007/11/23/introducing-microsoft-linq/
 categories:
   - Books

@@ -1,9 +1,7 @@
 ---
-id: 10612
 title: Using SendGrid and emails are not being delivered to Hotmail/Outlook/Live/MSN.com recipients?
 date: 2017-05-17T17:03:56+00:00
 author: Joseph Guadagno
-guid: https://www.josephguadagno.net/?p=10612
 permalink: /2017/05/17/using-sendgrid-and-email-are-not-being-delivered-to-hotmail-outlook-live-msn-com-recipients/
 categories:
   - Articles

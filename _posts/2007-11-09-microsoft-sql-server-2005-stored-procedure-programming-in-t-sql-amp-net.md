@@ -1,9 +1,7 @@
 ---
-id: 1081
 title: 'Microsoft SQL Server 2005 Stored Procedure Programming in T-SQL &amp;amp; .NET'
 date: 2007-11-09T16:00:00+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=da26b48c-64c8-42bf-8c12-ee22b792b83e
 permalink: /2007/11/09/microsoft-sql-server-2005-stored-procedure-programming-in-t-sql-amp-net/
 categories:
   - Books

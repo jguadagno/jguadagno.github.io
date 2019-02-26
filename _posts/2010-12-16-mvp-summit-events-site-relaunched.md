@@ -1,10 +1,7 @@
 ---
-id: 481
 title: MVP Summit Events Site Relaunched
 date: 2010-12-16T17:52:00+00:00
 author: Joseph Guadagno
-
-guid: http://www.josephguadagno.net/post.aspx?id=0ce5dfbd-f5b1-4713-9ca6-bee784cb3cf5
 permalink: /2010/12/16/mvp-summit-events-site-relaunched/
 dsq_thread_id:
   - "3710607423"

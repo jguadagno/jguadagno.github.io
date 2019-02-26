@@ -1,9 +1,7 @@
 ---
-id: 931
 title: Microsoft® SharePoint® 2007 Development Unleashed
 date: 2007-11-23T01:00:00+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=bf4f16ca-5f8c-4462-ac18-5460a10876cd
 permalink: /2007/11/23/microsoft-sharepoint-2007-development-unleashed/
 categories:
   - Books

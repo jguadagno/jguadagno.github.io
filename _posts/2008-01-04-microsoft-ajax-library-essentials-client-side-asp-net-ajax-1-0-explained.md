@@ -1,9 +1,7 @@
 ---
-id: 911
 title: 'Microsoft AJAX Library Essentials: Client-side ASP.NET AJAX 1.0 Explained'
 date: 2008-01-04T09:49:42+00:00
 author: Joseph Guadagno
-guid: http://www.josephguadagno.net/post.aspx?id=f8cef636-0a5a-476d-8c5c-54addfeb410b
 permalink: /2008/01/04/microsoft-ajax-library-essentials-client-side-asp-net-ajax-1-0-explained/
 dsq_thread_id:
   - "4265252986"
