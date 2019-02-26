@@ -14,4 +14,4 @@ Chapter 1 starts off with an brief introduction to [LINQ](http://msdn2.microsoft
 
 Chapter 7, which is worth the purchase price of the book covers all of the new Operators that are available to LINQ queries.  This makes the book worthy of purchasing a desktop reference guide for those just getting up to speed on LINQ.
 
-What me to review your book on this blog and my [http://www.josephguadagno.net](web site), [http://www.josephguadagno.net/about.aspx](Contact Me).
+What me to review your book on this blog and my [website](http://www.josephguadagno.net), please [contact me]({link _pages/about.md %}).

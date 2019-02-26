@@ -14,7 +14,7 @@ tags:
   - Windows Azure
 ---
 
-This Part 3 of a [series of posts](https://www.josephguadagno.net/post/2013/05/20/The-Windows-Azure-Experience) about my “upgrade” to Windows Azure. Next up in the series is creating the Windows Azure [Web Site](http://www.windowsazure.com/en-us/manage/services/web-sites/). **Note:** _This blog post is based on the Preview version of Windows Azure Web Sites and might, change in the future._ To get create a new Web Site from the management portal you simply need to click on the **+ New** button.
+This Part 3 of a [series of posts]({% link _posts/2013-05-21-the-windows-azure-experience.md %}) about my “upgrade” to Windows Azure. Next up in the series is creating the Windows Azure [Web Site](http://www.windowsazure.com/en-us/manage/services/web-sites/). **Note:** _This blog post is based on the Preview version of Windows Azure Web Sites and might, change in the future._ To get create a new Web Site from the management portal you simply need to click on the **+ New** button.
 
 ## Creating the Web Site
 

@@ -12,10 +12,10 @@ tags:
   - Windows Azure
 ---
 
-This Part 2 of a [series of posts](https://www.josephguadagno.net/post/2013/05/20/The-Windows-Azure-Experience) about my “upgrade” to Windows Azure. Next up in this series is the Windows Azure Management Portal.  It can be accessed directly at [https://manage.windowsazure.com/](https://manage.windowsazure.com/ "https://manage.windowsazure.com/") or by visiting [http://www.windowsazure.com/en-us/](http://www.windowsazure.com/en-us/) and clicking on the portal link in the upper hand corner. [![SNAGHTMLba8532e[5]](/assets/images/posts/SNAGHTMLba8532e_thumb.png "SNAGHTMLba8532e[5]")](/assets/images/posts/SNAGHTMLba8532e.png)   To access the portal you will need to sign in with the same Windows Live account that you used to create the account. _Note: There are two different sign is screens available, one for those the use a Microsoft Account for Office 365 and one that use a “regular” Windows Live account like hotmail.com or msn.com._
+This Part 2 of a [series of posts]({% link _posts/2013-05-21-the-windows-azure-experience.md %}) about my “upgrade” to Windows Azure. Next up in this series is the Windows Azure Management Portal.  It can be accessed directly at [https://manage.windowsazure.com/](https://manage.windowsazure.com/ "https://manage.windowsazure.com/") or by visiting [http://www.windowsazure.com/en-us/](http://www.windowsazure.com/en-us/) and clicking on the portal link in the upper hand corner. [![SNAGHTMLba8532e[5]](/assets/images/posts/SNAGHTMLba8532e_thumb.png "SNAGHTMLba8532e[5]")](/assets/images/posts/SNAGHTMLba8532e.png)   To access the portal you will need to sign in with the same Windows Live account that you used to create the account. _Note: There are two different sign is screens available, one for those the use a Microsoft Account for Office 365 and one that use a “regular” Windows Live account like hotmail.com or msn.com._
 
 ## Navigation
-https://www.josephguadagno.net/https://www.josephguadagno.net/
+
 The “home page” for the portal is broken up into 4 parts: [![image](/assets/images/posts/image_thumb_9.png "image")](/assets/images/posts/image_10.png)  
 
 ### Part 1 - Navigation Bar

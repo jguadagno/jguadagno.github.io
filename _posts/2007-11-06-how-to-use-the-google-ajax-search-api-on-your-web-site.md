@@ -20,7 +20,7 @@ I wrapped the Google API up into a separate component so that I can use the Goog
 
 ## The MyGSearch object
 
-Download the MyGSearch JavaScript and HTML files [here](http://www.josephguadagno.net/documents/MyGSearch.zip).
+Download the [MyGSearch JavaScript and HTML files]({% link /assets/downloads/MyGSearch.zip %}).
 
 ### Properties
 
@@ -233,9 +233,9 @@ On line 3, we create a global JavaScript variable to hold a reference to the MyG
 
 ## Samples
 
-Within the ZIP file I included two HTML pages that demonstrate how to use the MyGSearch object. The first sample ([google.html](http://www.josephguadagno.net/test/google.html)) provides the required code for a simple search. The required Google branding div is present as well as the search results, search close, search start and main divs.
+Within the ZIP file I included two HTML pages that demonstrate how to use the MyGSearch object. The first sample `google.html` provides the required code for a simple search. The required Google branding div is present as well as the search results, search close, search start and main divs.
 
-The second example ([page404.html](http://www.josephguadagno.net/test/page404.html)) is a page that shows what would be required to use the Google AJAX Search API to query google when a user tries to access a page that does not exist on your server. In addition, this example demonstrates how you can automatically search for some text when the page loads.
+The second example `page404.html` is a page that shows what would be required to use the Google AJAX Search API to query google when a user tries to access a page that does not exist on your server. In addition, this example demonstrates how you can automatically search for some text when the page loads.
 
 ``` js
 // Add a search for the site search

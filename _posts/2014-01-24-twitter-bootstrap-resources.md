@@ -78,11 +78,10 @@ As of [ASP.NET MVC 5](http://www.asp.net/mvc/mvc5), the File \| New templates ar
 
 ## UI Widgets
 
-- [General Libraries](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_general)
-- [Buttons](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_buttons)
-- [Fonts](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_fonts")
-- [Input Widgets](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_input)
-- [Notification Helpers](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_notification)
+- [General Libraries](#general-libraries)
+- [Buttons](#buttons)
+- [Fonts](#fonts)
+- [Input Widgets](#input-widgets)
 
 ### General Libraries
 

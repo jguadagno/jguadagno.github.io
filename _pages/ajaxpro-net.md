@@ -17,32 +17,32 @@ Added the first draft of the Using AjaxPro.Net documentation.  The documentation
 
 If anyone wants to help with the documentation, please feel free to mark it up with the Track Changes feature of Microsoft Word, and I will incorporate the changes.
 
-* Download the [Microsoft Word version](http://www.josephguadagno.net/Documents/Using_Ajax_Professional_Library.doc).
-* Download the [HTML version](http://www.josephguadagno.net/Documents/Using_Ajax_Professional_Library.htm).
+* Download the [Microsoft Word version]({% link /assets/downloads/Using_Ajax_Professional_Library.doc %}).
+* Download the [HTML version]({% link /assets/downloads/Using_Ajax_Professional.htm %}).
 
 ### June 20, 2006
 
 Added a copy of the supporting database for the Contacts Sample Application in Microsoft Access
 
-* Download the sample [database](http://www.josephguadagno.net/Documents/Contacts_AccessDB.zip).
+* Download the sample [database]({% link /assets/downloads/Contacts_AccessDB.zip %}).
 
 ### June 10, 2006
 
 This document is a getting started guide to using Ajax Professional .NET  
 
-* Download the [Microsoft Word version](http://www.josephguadagno.net/Documents/Using_Ajax_Professional.doc).
-* Download the [HTML version](http://www.josephguadagno.net/Documents/Using_Ajax_Professional.htm).
+* Download the [Microsoft Word version]({% link /assets/downloads/Using_Ajax_Professional.doc %}).
+* Download the [HTML version]({% link /assets/downloads/Using_Ajax_Professional.htm %}).
 
 Here is a sample Visual Basic.NET project to demonstrate using AjaxPro.NET.  This sample retrieves the time from the server.
 
-* Download the [Visual Basic.NET sample](http://www.josephguadagno.net/Documents/AjaxVB.zip).
+* Download the [Visual Basic.NET sample]({% link /assets/downloads/AjaxVB.zip %}).
 
 ### May 6, 2006
 
 Desert Code Camp presentation.  
 
-* Download the [PowerPoint slides](http://www.josephguadagno.net/Documents/Desert%20Code%20Camp.ppt).
-* Download the [Zip of the PowerPoint slides](http://www.josephguadagno.net/Documents/Desert%20Code%20Camp%20-%20Using%20AjaxPro.NET.zip).
-* Download the [Sample C# application](http://www.josephguadagno.net/Documents/Contacts.zip).
-* Download the [Sample VB.NET application](http://www.josephguadagno.net/Documents/ContactsVB.zip).
-* Download the [Microsoft Access database](http://www.josephguadagno.net/Documents/Contacts_AccessDB.zip).
+* Download the [PowerPoint slides]({% link /assets/downloads/Desert-Code-Camp.ppt %}).
+* Download the [Zip of the PowerPoint slides]({% link /assets/downloads/Desert-Code-Camp-Using-AjaxPro.NET.zip %}).
+* Download the [Sample C# application]({% link /assets/downloads/Contacts.zip %}).
+* Download the [Sample VB.NET application]({% link /assets/downloads/ContactsVB.zip %}).
+* Download the [Microsoft Access database]({% link /assets/downloads/Contacts_AccessDB.zip %}).

@@ -67,31 +67,31 @@ To enable Search Sitemaps in your ASP.NET you need to do the following.
 </httpHandlers>
 ```
 
-A call to [http://www.josephguadagno.net/SearchSiteMaps.axd](http://www.josephguadagno.net/SearchSiteMaps.axd) will produce something like this.
+A call to `https://www.josephguadagno.net/SearchSiteMaps.axd` will produce something like this.
 
 ``` xml
 <sitemapindex>
   <sitemap>
     <loc>
-      http://www.josephguadagno.net//SearchSiteMaps.axd?sitemap=Navigation
+      http://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=Navigation
     </loc>
     <lastmod>2007-11-13T04:53:21.371Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>
-      http://www.josephguadagno.net//SearchSiteMaps.axd?sitemap=Articles
+      http://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=Articles
     </loc>
     <lastmod>2007-11-13T04:53:21.371Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>
-      http://www.josephguadagno.net//SearchSiteMaps.axd?sitemap=Books
+      http://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=Books
     </loc>
     <lastmod>2007-11-13T04:53:21.371Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>
-      http://www.josephguadagno.net//SearchSiteMaps.axd?sitemap=News
+      http://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=News
     </loc>
     <lastmod>2007-11-13T04:53:21.371Z</lastmod>
   </sitemap>

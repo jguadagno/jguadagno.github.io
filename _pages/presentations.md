@@ -22,7 +22,7 @@ permalink: /presentations/
 |[KCDC 2018](https://www.kcdc.info/){:target="_blank}|Kansas City, MO|Building Native Applications with React Native and JavaScript<br />Typescript for the Microsoft Developer|7/11/2018 – 7/13/2018|
 |[Music City Tech](http://www.musiccitytech.com/){:target="_blank}|Nashville, TN|Debugging Tips and Tricks with Visual Studio<br />Build Native Applications with Ionic and JavaScript|5/31/2018 – 6/2/2018|
 |[C# Corner Conference](http://conference.c-sharpcorner.com/){:target="_blank}|New Delhi, India|**Keynote:** Open Source, JavaScript, Mobile Trends and Futures<br />**Session:** Being more Personable<br />Build a Native Mobile Application with Ionic 3.0 and JavaScript<br />Build a Native Mobile Application with React Native and JavaScript|4/13/2018 – 4/15/2018|
-|[Tech Outbound](http://www.techoutbound.com/){:target="_blank}|**Cruise**|Multiple sessions on .NET Core. See this [post](https://www.josephguadagno.net/2017/12/04/im-speaking-on-a-boat/).|2/10/2018 – 2/17/2018|
+|[Tech Outbound](http://www.techoutbound.com/){:target="_blank}|**Cruise**|Multiple sessions on .NET Core. See this the post [I'm Speaking on a Boat]({% link _posts/2017-12-04-im-speaking-on-a-boat.md %}).|2/10/2018 – 2/17/2018|
 |[TechBash](http://www.techbash.com/){:target="_blank}|Pocono Manor, PA|Introduction to ASP.NET<br />Typescript for the Microsoft Developer|October 4th-6th, 2017|
 |[DEVintersections](https://devintersection.com/#!/Visual-Studio-ASP-Azure-Conference/sessions)|Orlando, FL|Bootstrap 4.0 – What’s new?<br />Build Native Mobile Apps using JavaScript and Ionic|May 21st-24th, 2017|
 |[Code Stock](https://codestock.org){:target="_blank}|Knoxville, TN|Bootstrap 4.0 – What’s new?<br />Look into your Application with Azure Application Insights|May 5th-6th, 2017|
@@ -32,7 +32,7 @@ permalink: /presentations/
 |[MVP Mix](http://www.mvpmix.com/dallas){:target="_blank}|Dallas, TX|Introduction to ASP.NET Core<br />Bootstrap 4.0 – What’s new?<br />TypeScript for the Microsoft Developer|March 9th-10th,2017|
 |[Tucson, AZ User Group](https://www.meetup.com/Tucson-NET-User-Group/events/238142492/){:target="_blank}|Tucson, AZ|Build Native Mobile Apps using JavaScript and Ionic|March 15, 2017|
 
-If you would like for me to speak at your event please contact me [here](//www.josephguadagno.net/contact/).
+If you would like for me to speak at your event please [contact me]({% link _pages/contact.md %}).
 {: .notice--info}
 
 ## Presentations <!-- omit in toc -->

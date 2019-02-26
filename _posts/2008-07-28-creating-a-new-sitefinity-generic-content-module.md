@@ -498,8 +498,4 @@ As you can see, building your own generic content provider using the Sitefinity 
 
 If there are any questions or comments, shoot me an email at [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com).
 
-The source can be downloaded at [http://www.josephguadagno.net/documents/NewGenericContentSource.zip](http://www.josephguadagno.net/documents/NewGenericContentSource.zip)
-
-This document can be downloaded at [http://www.josephguadagno.net/documents/CreatingANewGenericContentModule.doc](http://www.josephguadagno.net/documents/CreatingANewGenericContentModule.doc)
-
 Thanks to Joseph Anderson of Telerik for providing some helpful comments on this document.

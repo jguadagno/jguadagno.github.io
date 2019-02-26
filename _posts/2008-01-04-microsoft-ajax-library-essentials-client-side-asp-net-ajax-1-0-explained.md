@@ -38,4 +38,4 @@ Chapter 8 goes into debugging Ajax application with either Firefox or Internet E
 
 The book is a good reference book to have if you want to learn more about the Microsoft Ajax library or how Ajax works.
 
-What me to review your book on this blog and my [http://www.josephguadagno.net](web site), [http://www.josephguadagno.net/about.aspx](Contact Me).
+What me to review your book on this blog and my [website](http://www.josephguadagno.net), please [contact me]({link _pages/about.md %}).

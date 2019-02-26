@@ -6,8 +6,8 @@ permalink: /2007/11/06/desert-code-camp-using-ajaxpro-net/
 categories:
   - Articles
 ---
-Download the PowerPoint® slide at [Desert Code Camp.ppt](http://www.josephguadagno.net/Documents/Desert%20Code%20Camp.ppt)
+Download the PowerPoint® slide at [Desert Code Camp.ppt]({% link /assets/downloads/Desert-Code-Camp.ppt %})
 
-Download the source code in C# at [contacts.zip](http://www.josephguadagno.net/Documents/Contacts.zip)
+Download the source code in C# at [contacts.zip]({% link /assets/downloads/Contacts.zip %})
 
-Download the source code in VB at [contactsvb.zip](http://www.josephguadagno.net/Documents/ContactsVB.zip)
+Download the source code in VB at [contactsvb.zip]({% link /assets/downloads/ContactsVB.zip %})

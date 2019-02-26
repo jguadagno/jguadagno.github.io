@@ -7,7 +7,7 @@ dsq_thread_id:
 permalink: /about-joseph-guadagno/
 classes: wide
 ---
-I have been in software development for about 20 years or so. I started out with a small book on QuickBASIC, then moved the Visual Basic for DOS, then Visual Basic for Windows, then Visual Basic .NET and eventually Visual C#. I am a Team Leader at Quicken Loans. I am a public speaker and present internationally on a lot of technology topics, a list of them are available at [http://www.josephguadagno.net/presentations/](http://www.josephguadagno.net/presentations/).  I have been recognized as a [Microsoft MVP](http://jjg.me/MVPLink) in .NET (since 2009) and a Friends of Red Gate [program](http://www.red-gate.com/community/friends-of-rg) (since 2015).
+I have been in software development for about 20 years or so. I started out with a small book on QuickBASIC, then moved the Visual Basic for DOS, then Visual Basic for Windows, then Visual Basic .NET and eventually Visual C#. I am a Team Leader at Quicken Loans. I am a public speaker and present internationally on a lot of technology topics, a list of them are available at [Presentations]({% link _pages/presentations.md %}).  I have been recognized as a [Microsoft MVP](http://jjg.me/MVPLink) in .NET (since 2009) and a Friends of Red Gate [program](http://www.red-gate.com/community/friends-of-rg) (from 2015 to 2018).
 
 ### Some of my notable achievements
 
@@ -28,12 +28,12 @@ I have been in software development for about 20 years or so. I started out with
 * [Desert Code Camp](https://desertcodecamp.com/)
 * [AZGiveCamp](http://azgivecamp.org/)
 * Organizer for the 1st Time MVP event at the MVP Summit
-* [MVP 2 MVP Sessions](https://www.josephguadagno.net/page/MVP-Summit-2011-C-MVP-2-MVP-Sessions.aspx) at MVP Summit.
+* [MVP 2 MVP Sessions]({% link _pages/mvp-summit-2011-c-mvp-2-mvp-sessions.md %}) at MVP Summit.
 * Awesome bean pusher at [GeekGive](http://geekgive.org/project/mvpsummit2012.aspx) at the MVP Summit.
 
 ## Resume
 
-[https://www.josephguadagno.net/resume/](https://www.josephguadagno.net/Resume/)
+[Resume of Joseph Guadagno]({% link _pages/resume.md %})
 
 ## Book Reviews
 
@@ -41,4 +41,4 @@ If you want me to review your book or product on this site. Please contact me at
 
 ## Other
 
-If you wish to contact me, send an email to [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com). If you are curious about what technologies were used to build this site, go [here](http://www.josephguadagno.net/SiteTechnologies/).
+If you wish to contact me, send an email to [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com). If you are curious about what technologies were used to build this site, please visit the [Site Technologies]({% link _pages/site-technologies.md %}) page.
