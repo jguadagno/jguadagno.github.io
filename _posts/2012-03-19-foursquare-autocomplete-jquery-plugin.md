@@ -38,30 +38,30 @@ According to the API end point [documentation](https://developer.foursquare.com/
 
 I decided to go with using the [auto complete](http://jqueryui.com/demos/autocomplete/) widget from the [jQuery UI](http://jqueryui.com/), use the suggest completion end point from foursquare and turn it into a jQuery plugin. Unfortunately I have never created a jQuery plugin before, however, I was lucky enough to run across a post from a buddy of mine [Elijah Manor](http://elijahmanor.com/) on [How to Create Your Own jQuery Plugin](http://msdn.microsoft.com/en-us/scriptjunkie/ff608209). After a few hours of fiddling around with the cost from the blog post above I eventually figured it out and got it to work. The resulting control looks like this:
 
-[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_7.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_8.png)
+[![image](/assets/images/posts/image_thumb_7.png "image")](/assets/images/posts/image_8.png)
 
 In order to use the foursquare jQuery auto complete plugin you will need to include on your page, [jQuery](http://docs.jquery.com/Downloading_jQuery), [jQuery UI](http://jqueryui.com/download), one of the jQuery UI [themes](http://jqueryui.com/themeroller/) and this plugin, [4sqacplugin](/assets/downloads/4sqacplugin.js)
 
 I’ve also included a sample page to get you started. It has a bunch of styles to make the use of the plugin a little cleaner. [4sqautocomplete](/assets/downloads/4sqautocomplete.html) Once you have the required files referenced on your page, you can “foursquare auto complete” a textbox by calling the `foursquareAutocomplete` method as shown here:
 
 ```js
-$(&quot;#venue&quot;).foursquareAutocomplete({
+$("#venue").foursquareAutocomplete({
   'latitude': 47.22,
   'longitude': -122.2,
-  'oauth_token': &quot;your oauth token&quot;,
+  'oauth_token': "your oauth token",
   'minLength': 3,
   'search': function (event, ui) {
     $('#venue-name').html(ui.item.name);
     $('#venue-id').val(ui.item.id);
     $('#venue-address').html(ui.item.address);
     $('#venue-cityLine').html(ui.item.cityLine);
-    $('#venue-icon').attr(&quot;src&quot;, ui.item.photo);
+    $('#venue-icon').attr("src", ui.item.photo);
     return false;
   },
   'onError' : function (errorCode, errorType, errorDetail) {
-    var message = &quot;Foursquare Error: Code=&quot; + errorCode + 
-    &quot;, errorType= &quot; + errorType + 
-    &quot;, errorDetail= &quot; + errorDetail;
+    var message = "Foursquare Error: Code=" + errorCode +
+    ", errorType= " + errorType +
+    ", errorDetail= " + errorDetail;
     log(message);
   }
 });
@@ -86,7 +86,7 @@ Once a user selects the venue from the list, the search event is raised. The sea
 
 The item that is returned is a custom object that provides the basic address properties for the venue. The properties combined, will look like a US formatted address and will take into account fields that are not populated in foursquare.
 
-[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_8.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_9.png)
+[![image](/assets/images/posts/image_thumb_8.png "image")](/assets/images/posts/image_9.png)
 
 |Property Name|Description|
 |--- |--- |

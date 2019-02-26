@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-Are you going to [Mix10](http://live.visitmix.com "Mix10") in March? If so, you might want to check out the new site I launched call [Mix 10 Events](http://visitmixevents.info "VisitMixEvents.info").  Mix 10 Events will be you one stop shop for all of the events and after parties at Mix10. Anyone can create an event on the sign. All you need to do is sign in with you Windows Live credentials, and link to create an event will appear.  Please note, the event will not be available until it is reviewed and approved for display. ![VisitMixEvents.info](https://www.josephguadagno.net/wp-content/uploads/2015/03/visitmixinfo-snapshot.png "VisitMixEvents.info")
+Are you going to [Mix10](http://live.visitmix.com "Mix10") in March? If so, you might want to check out the new site I launched call [Mix 10 Events](http://visitmixevents.info "VisitMixEvents.info").  Mix 10 Events will be you one stop shop for all of the events and after parties at Mix10. Anyone can create an event on the sign. All you need to do is sign in with you Windows Live credentials, and link to create an event will appear.  Please note, the event will not be available until it is reviewed and approved for display. ![VisitMixEvents.info](/assets/images/posts/visitmixinfo-snapshot.png "VisitMixEvents.info")
 
 ### Staying connected
 

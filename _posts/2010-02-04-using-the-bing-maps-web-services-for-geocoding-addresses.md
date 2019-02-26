@@ -21,7 +21,7 @@ For the [MVPSummitEvents](http://www.mvpsummitevents.com/) and [Mix10Events](htt
 
 Let’s get started. MSDN has just about everything you need to [get started](http://msdn.microsoft.com/en-us/library/cc966926.aspx) with using the Bing Map Web Services. Step 1: The first step is to get a key or token to use in your application for the Bing Maps Web Services application. This can be done by visiting the [Bing Maps Account center](https://www.bingmapsportal.com) and clicking on **Create a Bing Maps account**. Step 2: If you are using Visual Studio, add a service reference to one or more Bing Maps Web Services that provide the features you need. See the [Generating Client Proxy Classes](http://msdn.microsoft.com/en-us/library/cc980833.aspx) topic and the [Bing Maps Web Services Metadata](http://msdn.microsoft.com/en-us/library/cc966738.aspx) topic. 
 
-[![VirtualEarthWebServices](https://www.josephguadagno.net/wp-content/uploads/2015/03/VirtualEarthWebServices_thumb.png "VirtualEarthWebServices")](https://www.josephguadagno.net/wp-content/uploads/2015/03/VirtualEarthWebServices.png)
+[![VirtualEarthWebServices](/assets/images/posts/VirtualEarthWebServices_thumb.png "VirtualEarthWebServices")](/assets/images/posts/VirtualEarthWebServices.png)
 
 Whether you used Visual Studio or the `svcutil` application you should have one file, most likely named VirtualEarthWebServices.cs. The file will contain a bunch of wrapper classes around the Bing Maps Web Services, and the required Windows Communication Foundation (WCF) classes. You will also see the generated configuration settings for the app or web config files. Step 3: Set every Bing Maps Web Services request a valid Credentials property. You will see more on this in a bit.
 

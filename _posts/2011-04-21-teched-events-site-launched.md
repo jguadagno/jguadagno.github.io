@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Technology News
 ---
-Are you going to [Tech·Ed North America 2011](http://northamerica.msteched.com/myportal?fbid=R0PcL7ZnU9F "Tech·Ed North America 2011") in May? If so, you might want to check out the updated site I launched called [Tech·Ed Events](http://TechEdEvents.info "TechEd Events"). Tech·Ed Events will be your one stop shop for all of the events and after parties at Tech·Ed North America. Anyone can create an event on the site. All you need to do is sign in with your Windows Live credentials, and link to create an event will appear. Please note, the event will not be available until it is reviewed and approved for display. I added a few social media features like integration with Facebook and Twitter. A cleaner more consistent UI, bitly url shorten for sharing the event. And better support for Bing maps. Check out the [site](http://www.techedevents.info "TechEd Events"). [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_1.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_2.png)
+Are you going to [Tech·Ed North America 2011](http://northamerica.msteched.com/myportal?fbid=R0PcL7ZnU9F "Tech·Ed North America 2011") in May? If so, you might want to check out the updated site I launched called [Tech·Ed Events](http://TechEdEvents.info "TechEd Events"). Tech·Ed Events will be your one stop shop for all of the events and after parties at Tech·Ed North America. Anyone can create an event on the site. All you need to do is sign in with your Windows Live credentials, and link to create an event will appear. Please note, the event will not be available until it is reviewed and approved for display. I added a few social media features like integration with Facebook and Twitter. A cleaner more consistent UI, bitly url shorten for sharing the event. And better support for Bing maps. Check out the [site](http://www.techedevents.info "TechEd Events"). [![image](/assets/images/posts/image_thumb_1.png "image")](/assets/images/posts/image_2.png)
 
 ## Staying connected
 
@@ -23,4 +23,7 @@ You will be able to view all of the events that are happening, even filter by da
 
 ## Atlanta
 
-In case you do not want to check out the events. Here are some other resources, also accessible from the site. Bing Local – Atlanta [http://www.bing.com/local/default.aspx?q=Atlanta%2C+GA&go=&form=LLSV](http://www.bing.com/local/default.aspx?q=Atlanta%2C+GA&go=&form=LLSV "http://www.bing.com/local/default.aspx?q=Atlanta%2C+GA&go=&form=LLSV") Transportation - Atlanta MARTA [http://www.atlanta.com/marta.php](http://www.atlanta.com/marta.php "http://www.atlanta.com/marta.php")
+In case you do not want to check out the events. Here are some other resources, also accessible from the site. 
+
+- Bing Local – Atlanta [http://www.bing.com/local/default.aspx?q=Atlanta%2C+GA&go=&form=LLSV](http://www.bing.com/local/default.aspx?q=Atlanta%2C+GA&go=&form=LLSV "http://www.bing.com/local/default.aspx?q=Atlanta%2C+GA&go=&form=LLSV")
+- Transportation - Atlanta MARTA [http://www.atlanta.com/marta.php](http://www.atlanta.com/marta.php "http://www.atlanta.com/marta.php")

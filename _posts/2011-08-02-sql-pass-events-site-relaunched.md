@@ -9,7 +9,9 @@ permalink: /2011/08/02/sql-pass-events-site-relaunched/
 categories:
   - News
 ---
-Are you going to [PASS Summit 2011](http://www.sqlpass.org/summit/2011/) in October? If so, you might want to check out the updated site I launched called [PASS Summit Events](http://passsummitevents.info). PASS Summit Events will be your one stop shop for all of the events and after parties at PASS Summit 2011. Anyone can create an event on the site, all you need to do is sign in with your Windows Live credentials. Once signed in a link to create an event will appear. Please note, the event will not be available until it is reviewed and approved for display by an administrator. I added a few social media features like integration with Facebook and Twitter. A cleaner more consistent UI, bitly url shorten for sharing the event. And better support for Bing maps. Check out the [site](http://passsummitevents.info). [![sqlpass](https://www.josephguadagno.net/wp-content/uploads/2015/03/sqlpass_thumb.png "sqlpass")](https://www.josephguadagno.net/wp-content/uploads/2015/03/sqlpass.png)
+Are you going to [PASS Summit 2011](http://www.sqlpass.org/summit/2011/) in October? If so, you might want to check out the updated site I launched called [PASS Summit Events](http://passsummitevents.info). PASS Summit Events will be your one stop shop for all of the events and after parties at PASS Summit 2011. Anyone can create an event on the site, all you need to do is sign in with your Windows Live credentials. Once signed in a link to create an event will appear. Please note, the event will not be available until it is reviewed and approved for display by an administrator. I added a few social media features like integration with Facebook and Twitter. A cleaner more consistent UI, bitly url shorten for sharing the event. And better support for Bing maps. Check out the [site](http://passsummitevents.info).
+
+[![sqlpass](/assets/images/posts/sqlpass_thumb.png "sqlpass")](/assets/images/posts/sqlpass.png)
 
 ## Staying connected
 
@@ -24,7 +26,7 @@ Don’t feel like checking out the site every day to see what is happening? Here
 
 ## Mobile Users
 
-You will be able to view all of the events that are happening, even filter by day. In addition, you can view the events on a Map, and check out the event info. 
+You will be able to view all of the events that are happening, even filter by day. In addition, you can view the events on a Map, and check out the event info.
 
 * Mobile Site [http://www.passsummitevents.info/m/default.aspx](http://www.passsummitevents.info/m/default.aspx)
 * Mobile Map [http://www.passsummitevents.info/m/m.aspx](http://www.passsummitevents.info/m/m.aspx)

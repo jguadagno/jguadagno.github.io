@@ -11,13 +11,13 @@ categories:
 ---
 And no it is not because the Yankees won the World Series (although congrats to them) it is because it has been an awesome month for me personally and professionally.
 
-##On the personal front…
+## On the personal front…
 
 My son’s baseball team, which I am an assistant coach, finished the season undefeated in regular season games (end of year tournament in next week).  My son hit his first over the fence homerun which was a Grand Slam (technically not November but pretty awesome). My daughter's softball team, which I am an assistant coach, finished the season undefeated in regular season games (end of year tournament in next week).
 
 I get to go fly back to NY in a few days to see family and friends and wish my mother a happy 60th birthday.
 
-##On the professional front…
+## On the professional front…
 
 I was elected to the North American [INETA](http://www.ineta.org) board of directors.
 

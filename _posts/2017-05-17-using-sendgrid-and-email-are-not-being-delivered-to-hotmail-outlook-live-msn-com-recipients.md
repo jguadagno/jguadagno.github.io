@@ -43,11 +43,11 @@ The answer is '[Whitelist](http://sendgrid.com/blog/dmarc-domain-based-message-a
 
 ### What is Whitelabeling?
 
-Whitelabeling allows you to send through your own custom domain instead of SendGrid's default settings. This will mask the header information of your emails with your data--not theirs--and will improve your email deliverability. 
+Whitelabeling allows you to send through your own custom domain instead of SendGrid's default settings. This will mask the header information of your emails with your data--not theirs--and will improve your email deliverability.
 
-{% include figure image_path="https://www.josephguadagno.net/wp-content/uploads/2017/05/whitelabeling.png" alt="Non-Whitelabeled Example vs. Whitelabeled" caption="Non-Whitelabeled Example vs. Whitelabeled" %}
+{% include figure image_path="/assets/images/posts/whitelabeling.png" alt="Non-Whitelabeled Example vs. Whitelabeled" caption="Non-Whitelabeled Example vs. Whitelabeled" %}
 
-Example Luckily, SendGrid makes it easy to whitelist your domain(s). Here is how you do it. **Please note:** _You will need access to your domain records, you will be making changes to your TXT or CNAME entries to prove you have rights to the domain_. 
+Example Luckily, SendGrid makes it easy to whitelist your domain(s). Here is how you do it. **Please note:** _You will need access to your domain records, you will be making changes to your TXT or CNAME entries to prove you have rights to the domain_.
 
 * First, log-in to your SendGrid Account
 * Click `Settings` (on the left)

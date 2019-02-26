@@ -13,7 +13,7 @@ categories:
 ---
 Have you ever tried to debug an application and wish the Visual Studio debugger did not display `{Namespace.ObjectName}` when you wanted to see some of the details of the objects?
 
-[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_4.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_5.png) 
+[![image](/assets/images/posts/image_thumb_4.png "image")](/assets/images/posts/image_5.png) 
 
 Visual Studio has an attribute that you can add to a class to inform the debugger what to display when it is displaying that class in the debugger. As you probably guessed the attribute is called [DebuggerDisplay](http://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx).
 
@@ -69,11 +69,11 @@ public class Person
 
 This will display like so:
 
-[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_5.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_6.png) 
+[![image](/assets/images/posts/image_thumb_5.png "image")](/assets/images/posts/image_6.png) 
 
 You’ll notice this makes it easier to see what you are looking at. It also works in the immediate window. 
 
-[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_6.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_7.png)
+[![image](/assets/images/posts/image_thumb_6.png "image")](/assets/images/posts/image_7.png)
 
 ## Summary
 

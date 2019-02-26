@@ -45,7 +45,7 @@ The jQuery Mobile framework has a [list view widget](http://jquerymobile.com/dem
 </ul>
 ```
 
-From this HTML markup the jQuery Mobile framework will generate a view that looks like this: [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_2.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_3.png)
+From this HTML markup the jQuery Mobile framework will generate a view that looks like this: [![image](/assets/images/posts/image_thumb_2.png "image")](/assets/images/posts/image_3.png)
 
 ## The jQuery Mobile ListView
 
@@ -63,7 +63,7 @@ The `data-role` of `listview` tells the jQuery Mobile framework to use the jQuer
 
 Adding the `data-role` of `list-divider` (Line 2 of the initial example) will make that list item appear as a divider. You can use this attribute to group items, in my case, I grouped by date. To establish the count bubble you will need to wrap the count of item around a span tag and give it the class of `ui-li-count`, as shown in Line 2. Here’s an annotated image with markup.
 
-[![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_3.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_4.png)
+[![image](/assets/images/posts/image_thumb_3.png "image")](/assets/images/posts/image_4.png)
 
 The item in red is the individual list item which will be discussed in the next section.
 

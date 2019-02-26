@@ -7,7 +7,7 @@ permalink: /mvp-summit-2011-c-mvp-2-mvp-sessions/
 ---
 # C# “MVP 2 MVP” Sessions
 
-[MVP](http: //1222-7915.el-alt.com/image.axd?picture=2011%2f1%2fMVP_FullColor_ForScreen.png)
+[MVP](/assets/images/posts/MVP_FullColor_ForScreen.png)
 
 This series of 15 minute "lightening round" sessions will be given by MVPs, for MVPs. It will be an opportunity for MVPs to share things they've learned or showcase what they have created/mastered with .net technologies using C#.
 

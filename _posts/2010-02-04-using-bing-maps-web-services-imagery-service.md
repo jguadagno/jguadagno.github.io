@@ -100,6 +100,6 @@ string mapUri = Imagery.GetMapUri("YourAppId", 47.62, -122.2);
 imgMap.imageUrl = mapUri;
 ```
 
-![image-right](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb.png "downtown Bellevue"){: .align-right}
+![image-right](/assets/images/posts/image_thumb.png "downtown Bellevue"){: .align-right}
 
 This call retrieves the Uri to use to display a 200x200 road map of the area at latitude 47.62 and longitude -122.2 with a zoom of 14, which is downtown Bellevue, WA. If you want to add pushpins or markers similar to the above image you will need to populate the array of [PushPin](http://msdn.microsoft.com/en-us/library/cc966869.aspx) objects. A PushPin object has an [IconStyle](http://msdn.microsoft.com/en-us/library/cc980903.aspx) which is the type of icon to use, a [Label](http://msdn.microsoft.com/en-us/library/cc981045.aspx) which an optional text to display on the pushpin (only works with certain pushpins) and the [Location](http://msdn.microsoft.com/en-us/library/cc966941.aspx) which contains the latitude and longitude that the pushpin should be located at. That’s it.  It seems like a lot of work for a one-line call.  With the attached [Imagery.cs](/assets/downloads/Imagery.cs_.zip) class, a lot of the overhead work was done for you.

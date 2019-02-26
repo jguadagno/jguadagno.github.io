@@ -21,7 +21,7 @@ This Part 4 of a [series of posts](https://www.josephguadagno.net/post/2013/05/2
 
 ## Getting Started
 
-When you first come to you web site from the management portal you are presented with a screen similar to this. [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_20.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_21.png) The start page gives you three options:
+When you first come to you web site from the management portal you are presented with a screen similar to this. [![image](/assets/images/posts/image_thumb_20.png "image")](/assets/images/posts/image_21.png) The start page gives you three options:
 
 ### Get the tools
 
@@ -55,19 +55,19 @@ Set up continuous deployment from source control providers like TFS, CodePlex, G
 
 ### Monitor
 
-The dashboard allows you to see some performance metrics of your site. These are CPU Time, Data In, Data Out, HTTP Server Errors, and Requests. [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_21.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_22.png)  
+The dashboard allows you to see some performance metrics of your site. These are CPU Time, Data In, Data Out, HTTP Server Errors, and Requests. [![image](/assets/images/posts/image_thumb_21.png "image")](/assets/images/posts/image_22.png)  
 
 ### Usage Overview
 
-The usage overview shows you where you might be in trouble of hitting the limits of the the type of site you have (free, shared, reserved). [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_22.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_23.png)  
+The usage overview shows you where you might be in trouble of hitting the limits of the the type of site you have (free, shared, reserved). [![image](/assets/images/posts/image_thumb_22.png "image")](/assets/images/posts/image_23.png)  
 
 ### Quick Glance
 
-This shows you every thing that you will need to connect to your Windows Azure services. [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_23.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_24.png)
+This shows you every thing that you will need to connect to your Windows Azure services. [![image](/assets/images/posts/image_thumb_23.png "image")](/assets/images/posts/image_24.png)
 
 ## Monitor
 
-The monitor displays the some of the web sites performance counters like CPU time, Data In, Data Out, etc. [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_24.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_25.png)
+The monitor displays the some of the web sites performance counters like CPU time, Data In, Data Out, etc. [![image](/assets/images/posts/image_thumb_24.png "image")](/assets/images/posts/image_25.png)
 
 ## Configure
 
