@@ -103,4 +103,4 @@ public static string GetButton(string url)
 }
 ```
 
-That's it. You can download the complete extension here [GooglePlusOne.cs](https://www.josephguadagno.net/wp-content/uploads/2015/03/GooglePlusOne.cs_.zip)
+That's it. You can download the complete extension here [GooglePlusOne.cs](/assets/downloads/GooglePlusOne.cs_.zip)

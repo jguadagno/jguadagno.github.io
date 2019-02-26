@@ -28,7 +28,7 @@ C: (602) 293-6767<br />
 - [Affiliations / Awards / Certification](#affiliations-awards-and-certifications "jump to section")
 - [Additional Information](#additional-information "jump to section")
 
-Download a copy of my resume: [Joseph Guadagno Resume](//www.josephguadagno.net/wp-content/uploads/2017/05/Joseph_Guadagno_Resume.docx)
+Download a copy of my resume: [Joseph Guadagno Resume](/assets/downloads/Joseph_Guadagno_Resume.docx)
 
 ## Experience
 
@@ -292,4 +292,4 @@ I have had two articles published in a magazine, one in Windows Developers Journ
 
 [Back to Top](#sections)
 
-Download a copy of my resume here: [Joseph Guadagno Resume](//www.josephguadagno.net/wp-content/uploads/2017/05/Joseph_Guadagno_Resume.docx)
+Download a copy of my resume here: [Joseph Guadagno Resume](/assets/downloads/Joseph_Guadagno_Resume.docx)

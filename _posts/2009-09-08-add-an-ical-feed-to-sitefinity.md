@@ -16,7 +16,7 @@ tags:
 ---
 [iCal](http://en.wikipedia.org/wiki/Ical "iCal on Wikipedia") feeds let you share your and/or import your events that are stored in Sitefinity.  Here is a library that will let you generate an iCal feed from Sitefinity. Future versions of this library might have us filtering by categories or date.
 
-iCal feed for Sitefinity [CalendarHandler_2](https://www.josephguadagno.net/wp-content/uploads/2015/03/CalendarHandler_2.zip)
+iCal feed for Sitefinity [CalendarHandler_2](/assets/downloads/CalendarHandler_2.zip)
 
 I’ve made a few changes since the last release to include some bug fixes.
 

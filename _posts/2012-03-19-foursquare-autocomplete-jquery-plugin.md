@@ -40,9 +40,9 @@ I decided to go with using the [auto complete](http://jqueryui.com/demos/autocom
 
 [![image](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_thumb_7.png "image")](https://www.josephguadagno.net/wp-content/uploads/2015/03/image_8.png)
 
-In order to use the foursquare jQuery auto complete plugin you will need to include on your page, [jQuery](http://docs.jquery.com/Downloading_jQuery), [jQuery UI](http://jqueryui.com/download), one of the jQuery UI [themes](http://jqueryui.com/themeroller/) and this plugin, [4sqacplugin](https://www.josephguadagno.net/wp-content/uploads/2015/03/4sqacplugin.js)
+In order to use the foursquare jQuery auto complete plugin you will need to include on your page, [jQuery](http://docs.jquery.com/Downloading_jQuery), [jQuery UI](http://jqueryui.com/download), one of the jQuery UI [themes](http://jqueryui.com/themeroller/) and this plugin, [4sqacplugin](/assets/downloads/4sqacplugin.js)
 
-I’ve also included a sample page to get you started. It has a bunch of styles to make the use of the plugin a little cleaner. [4sqautocomplete](https://www.josephguadagno.net/wp-content/uploads/2015/03/4sqautocomplete.html) Once you have the required files referenced on your page, you can “foursquare auto complete” a textbox by calling the `foursquareAutocomplete` method as shown here:
+I’ve also included a sample page to get you started. It has a bunch of styles to make the use of the plugin a little cleaner. [4sqautocomplete](/assets/downloads/4sqautocomplete.html) Once you have the required files referenced on your page, you can “foursquare auto complete” a textbox by calling the `foursquareAutocomplete` method as shown here:
 
 ```js
 $(&quot;#venue&quot;).foursquareAutocomplete({
