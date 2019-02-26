@@ -69,7 +69,7 @@ This does Over the past few months, I have built quite a few sites using Twitter
 
 ## Visual Studio NuGet Packages
 
-As of [ASP.NET MVC 5](http://www.asp.net/mvc/mvc5), the File | New templates are already wired for Twitter Bootstrap, just in case, here are a few packages to get you started.
+As of [ASP.NET MVC 5](http://www.asp.net/mvc/mvc5), the File \| New templates are already wired for Twitter Bootstrap, just in case, here are a few packages to get you started.
 
 |Name|Url|
 |--- |--- |
@@ -81,11 +81,11 @@ As of [ASP.NET MVC 5](http://www.asp.net/mvc/mvc5), the File | New templates are
 
 ## UI Widgets
 
-* [General Libraries](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_general)
-* [Buttons](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_buttons)
-* [Fonts](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_fonts")
-* [Input Widgets](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_input)
-* [Notification Helpers](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_notification)
+- [General Libraries](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_general)
+- [Buttons](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_buttons)
+- [Fonts](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_fonts")
+- [Input Widgets](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_input)
+- [Notification Helpers](https://www.josephguadagno.net/post/2014/01/24/Twitter-Bootstrap-Resources#ui_notification)
 
 ### General Libraries
 
