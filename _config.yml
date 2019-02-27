@@ -121,6 +121,10 @@ comments:
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
 
+search: true
+google:
+  search_engine_id: 012137879525636912191:y-ah0w7drds
+
 author:
   name        : "Joseph Guadagno"
   bio         : >-
