@@ -114,6 +114,13 @@ analytics:
     tracking_id: "UA-2998428-1"
     anonymize_ip: false # default
 
+comments:
+  provider: "facebook"
+  facebook:
+    appid: 266442613419593 # optional
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
+
 author:
   name        : "Joseph Guadagno"
   bio         : >-
