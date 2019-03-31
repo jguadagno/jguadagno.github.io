@@ -32,7 +32,7 @@ Below is a list of resources that were available in the program.
 * [Phoenix Workforce Connection](http://www.phoenix.gov/econdev/phxwc/index.html)
 * [Bureau of Labor Statistics: Resource for Job Seekers](http://www.bls.gov/audience/jobseekers.htm)
 * [HireFlyer Job Bank](http://hireflyer.com)
-* [Get a Freelancer](http://www.getafreelancer.com/)
+* [Go Freelancer](https://gofreelance.com/freelance-jobs/)
 * [10 til 2](http://www.tentiltwo.com)
 * [Working in Gilbert, Arizona](http://www.ci.gilbert.az.us/busdev/)
 
