@@ -1,6 +1,5 @@
 ---
 title: Presentations
-date: 2015-03-04T17:00:07+00:00
 author: Joseph Guadagno
 dsq_thread_id:
   - "3566992649"
@@ -10,7 +9,8 @@ permalink: /presentations/
 
 |Event|Location|Presentation|Date(s)|
 |--- |--- |--- |--- |
-|||||
+|[DevSum19](https://www.devsum.se){:target="_blank}|Stockholm, Sweden|Typescript for the Microsoft Developer|May 23rd-24th|
+|[DEVIntersection](https://devintersection.com/#!/){:target="_blank}|Orlando, FL|What's Happening in My App?, Application Insights<br />Write Once, Run Everywhere!<br />Use code **GUADAGNO** for $50 off Registration.|June 11th-13th|
 
 ## Previous Engagements <!-- omit in toc -->
 
