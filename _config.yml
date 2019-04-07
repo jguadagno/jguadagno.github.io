@@ -96,7 +96,7 @@ twitter:
 
 facebook:
   app_id: 266442613419593 # A Facebook app ID
-  publisher:  # A Facebook page URL or ID of the publishing entity
+  publisher: 1580735823  # A Facebook page URL or ID of the publishing entity
   username: "JosephGuadagnoNet"
 
 social:
@@ -119,7 +119,7 @@ comments:
   facebook:
     appid: 266442613419593 # optional
     num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
+    colorscheme: light # "light" (default), "dark"
 
 search: true
 google:
@@ -130,6 +130,11 @@ author:
   bio         : >-
     Microsoft Developer Services MVP, Director at Quicken Loans, Organizer of Desert Code Camp
   avatar      : "/assets/images/authors/Joe_Guadagno_512x512.jpg"
+  twitter     : jguadagno
+  facebook    :
+    app_id      : 266442613419593
+    publisher   : 1580735823
+    admins      : 1580735823
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
