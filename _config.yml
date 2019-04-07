@@ -90,15 +90,6 @@ head_scripts:
   - /assets/js/ai.js
 
 # Social
-
-twitter:
-  username: "jguadagno"
-
-facebook:
-  app_id: 266442613419593 # A Facebook app ID
-  publisher: 1580735823  # A Facebook page URL or ID of the publishing entity
-  username: "JosephGuadagnoNet"
-
 social:
   type:  # Person or Organization (defaults to Person)
   name: "Joseph Guadagno" # If the user or organization name differs from the site's name
@@ -106,6 +97,14 @@ social:
     - "https://twitter.com/jguadagno"
     - "https://facebook.com/JosephGuadagnoNet"
     - "https://www.linkedin.com/in/JosephGuadagno"
+
+twitter     : 
+  username    : "jguadagno"
+  card        : "summary"
+facebook    :
+  app_id      : 266442613419593
+  publisher   : 1580735823
+  admins      : "Joseph.J.Guadagno"
 
 # Analytics
 analytics:
@@ -119,38 +118,11 @@ comments:
   facebook:
     appid: 266442613419593 # optional
     num_posts: # 5 (default)
-    colorscheme: light # "light" (default), "dark"
+    colorscheme: # "light" (default), "dark"
 
 search: true
 google:
   search_engine_id: 012137879525636912191:y-ah0w7drds
-
-author:
-  name        : "Joseph Guadagno"
-  bio         : >-
-    Microsoft Developer Services MVP, Director at Quicken Loans, Organizer of Desert Code Camp
-  avatar      : "/assets/images/authors/Joe_Guadagno_512x512.jpg"
-  twitter     : jguadagno
-  facebook    :
-    app_id      : 266442613419593
-    publisher   : 1580735823
-    admins      : 1580735823
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jguadagno@hotmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.josephguadagno.net"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jguadagno"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jguadagno"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/JosephGuadagnoNet"
 
 footer:
   links:
@@ -163,3 +135,5 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/JosephGuadagnoNet"
+
+author: "Joseph Guadagno"
