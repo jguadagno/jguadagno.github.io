@@ -1,0 +1,21 @@
+---
+layout: single
+---
+{% if page.isKeynote == true %}
+<p class="notice--info">This talk can be given as a Keynote<p>
+{% endif %}
+{% if page.isRetired == true %}
+<p class="notice--danger">This talk has been retired. It is no longer given.  If you need this talk, please contact me.<p>
+{% endif %}
+
+{{ content }}
+
+{% if page.sourceUrl %}
+<h3>Source Code</h3>
+<a href="{{page.sourceUrl}}" target="_blank">{{page.sourceUrl}}</a>
+{% endif %}
+
+{% if page.powerPointUrl %}
+<h3>Slide Deck</h3>
+<iframe src="{{page.powerPointUrl}}" width="610px" height="367px" frameborder="0"></iframe>
+{% endif %}

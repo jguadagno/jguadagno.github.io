@@ -1,9 +1,16 @@
 main:
-    - title: "About Joseph Guadagno"
+    - title: "About Me"
       url: /about-joseph-guadagno
+      description: "About Joseph Guadagno"
     - title: "Resume"
       url: /resume
-    - title: "Contact"
-      url: /contact
+      description: "The resume of Joseph Guadagno"
     - title: "Presentations"
       url: /presentations
+      description: "Presentations the Joseph Guadagno can present"
+    - title: "Speaking"
+      url: /speaking-engagements
+      description: "Events that Joseph Guadagno will be or has spoken at"
+    - title: "Contact"
+      url: /contact
+      description: "Contact Joseph Guadagno"

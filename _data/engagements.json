@@ -1,0 +1,420 @@
+[
+    {
+        "eventName" : "DevSum19",
+        "eventUrl" : "https://www.devsum.se",
+        "location" : "Stockholm, Sweden",
+        "presentation" :
+        {
+            "name" : "TypeScript for the Microsoft Developer",
+            "url": "/presentations/typescript-for-the-microsoft-developer",
+            "date" : "2019-05-24",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/#!/",
+        "location" : "Orlando, FL",
+        "presentation" :
+        {
+            "name" : "Write Once, Run Everywhere",
+            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+            "date" : "2019-06-11",
+            "comments": "Use code '**Guadagno**' for $50 off registration"
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/#!/",
+        "location" : "Orlando, FL",
+        "presentation" :
+        {
+            "name" : "What's Happening in My App?, Application Insights",
+            "url": "/presentations/look-into-your-application-with-application-insights",
+            "date" : "2019-06-12",
+            "comments": "Use code '**Guadagno**' for $50 off registration"
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/#!/",
+        "location" : "Las Vegas, NV",
+        "presentation" :
+        {
+            "name" : "Building Mobile Applications with Ionic",
+            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+            "date" : "2018-12-03",
+            "comments": "Use code '**Guadagno**' for $50 off registration"
+        },
+        "isCurrent" : false
+    }
+    ,
+    {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/#!/",
+        "location" : "Las Vegas, NV",
+        "presentation" :
+        {
+            "name" : "Building Mobile Applications with React Native",
+            "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
+            "date" : "2018-12-03",
+            "comments": "Use code '**Guadagno**' for $50 off registration"
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "Devreach",
+        "eventUrl" : "https://devreach.com",
+        "location" : "Sofia, Bulgaria",
+        "presentation" :
+        {
+            "name" : "Typescript for the Microsoft Developer",
+            "url": "/presentations/typescript-for-the-microsoft-developer",
+            "date" : "2018-11-13",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "Devreach",
+        "eventUrl" : "https://devreach.com",
+        "location" : "Sofia, Bulgaria",
+        "presentation" :
+        {
+            "name" : "Debugging Tips and Tricks with Visual Studio",
+            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+            "date" : "2018-11-13",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "TechBash",
+        "eventUrl" : "https://techbash.com",
+        "location" : "Pocono Mountains, PA",
+        "presentation" :
+        {
+            "name" : "Typescript for the Microsoft Developer",
+            "url": "/presentations/typescript-for-the-microsoft-developer",
+            "date" : "2018-10-02",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "TechBash",
+        "eventUrl" : "https://techbash.com",
+        "location" : "Pocono Mountains, PA",
+        "presentation" :
+        {
+            "name" : "Look into your Application with Application Insights",
+            "url": "/presentations/look-into-your-application-with-application-insights",
+            "date" : "2018-10-02",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "KCDC",
+        "eventUrl" : "https://www.kcdc.info",
+        "location" : "Kansas City, MO",
+        "presentation" :
+        {
+            "name" : "Typescript for the Microsoft Developer",
+            "url": "/presentations/typescript-for-the-microsoft-developer",
+            "date" : "2018-07-11",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "KCDC",
+        "eventUrl" : "https://www.kcdc.info",
+        "location" : "Kansas City, MO",
+        "presentation" :
+        {
+            "name" : "Building Native Application with React Native and Javascript",
+            "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
+            "date" : "2018-07-11",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "Music City Code",
+        "eventUrl" : "https://www.musiccitytech.com",
+        "location" : "Nashville, TN",
+        "presentation" :
+        {
+            "name" : "Debugging Tips and Tricks with Visual Studio",
+            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+            "date" : "2018-06-01",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "Music City Code",
+        "eventUrl" : "https://www.musiccitytech.com",
+        "location" : "Nashville, TN",
+        "presentation" :
+        {
+            "name" : "Building Native Applications with Ionic and Javascript",
+            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+            "date" : "2018-06-01",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "C# Corner Conference",
+        "eventUrl" : "https://conference.c-sharpcorner.com",
+        "location" : "New Delhi, India",
+        "presentation" :
+        {
+            "name" : "Open Source, Javascript, Mobile Trends, and the Future",
+            "url": "",
+            "date" : "2018-04-13",
+            "comments": "**Keynote**"
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "C# Corner Conference",
+        "eventUrl" : "https://conference.c-sharpcorner.com",
+        "location" : "New Delhi, India",
+        "presentation" :
+        {
+            "name" : "Being More Personable",
+            "url": "",
+            "date" : "2018-04-13",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "C# Corner Conference",
+        "eventUrl" : "https://conference.c-sharpcorner.com",
+        "location" : "New Delhi, India",
+        "presentation" :
+        {
+            "name" : "Building Native Applications with Ionic and Javascript",
+            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+            "date" : "2018-04-13",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "Tech Outbound",
+        "eventUrl" : "https://www.techoutbound.com",
+        "location" : "**Caribbean Cruise**",
+        "presentation" :
+        {
+            "name" : "Multiple sessions on .NET Core",
+            "url": "/2017/12/04/im-speaking-on-a-boat/",
+            "date" : "2018-02-10",
+            "comments": "See the blog post 'I'm Speaking on a Boat'"
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "TechBash",
+        "eventUrl" : "https://www.techbash.com",
+        "location" : "Pocono Mountains, PA",
+        "presentation" :
+        {
+            "name" : "Introduction to ASP.NET Core",
+            "url": "/presentations/introduction-to-asp-net-core",
+            "date" : "2017-10-04",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "TechBash",
+        "eventUrl" : "https://www.techbash.com",
+        "location" : "Pocono Mountains, PA",
+        "presentation" :
+        {
+            "name" : "Typescript for the Microsoft Developer",
+            "url": "/presentations/typescript-for-the-microsoft-developer",
+            "date" : "2017-10-04",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "DEVintersections",
+        "eventUrl" : "https://devintersection.com/#!",
+        "location" : "Orlando, FL",
+        "presentation" :
+        {
+            "name" : "Bootstrap 4.0. What's New?",
+            "url": "/presentations/bootstrap-4-0-whats-new",
+            "date" : "2017-05-21",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "DEVintersections",
+        "eventUrl" : "https://devintersection.com/#!",
+        "location" : "Orlando, FL",
+        "presentation" :
+        {
+            "name" : "Build Native Mobile Apps Using Ionic and Javascript",
+            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+            "date" : "2017-05-21",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "Code Stock",
+        "eventUrl" : "https://codestock.org",
+        "location" : "Knoxville, TN",
+        "presentation" :
+        {
+            "name" : "Bootstrap 4.0. What's New?",
+            "url": "/presentations/bootstrap-4-0-whats-new",
+            "date" : "2017-05-05",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "Code Stock",
+        "eventUrl" : "https://codestock.org",
+        "location" : "Knoxville, TN",
+        "presentation" :
+        {
+            "name" : "Look into Your Application with Application Insights",
+            "url": "/presentations/look-into-your-application-with-application-insights",
+            "date" : "2017-05-05",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "C# Corner Conference",
+        "eventUrl" : "http://conference.c-sharpcorner.com/",
+        "location" : "New Delhi, India",
+        "presentation" :
+        {
+            "name" : "Bootstrap 4.0. What's New?",
+            "url": "/presentations/bootstrap-4-0-whats-new",
+            "date" : "2017-04-09",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "C# Corner Conference",
+        "eventUrl" : "http://conference.c-sharpcorner.com/",
+        "location" : "New Delhi, India",
+        "presentation" :
+        {
+            "name" : "Build Native Applications with Ionic and Javascript",
+            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+            "date" : "2017-04-09",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "User Group",
+        "eventUrl" : "",
+        "location" : "Gurugram, India",
+        "presentation" :
+        {
+            "name" : "How to be Active in the Community",
+            "url": "",
+            "date" : "2017-04-07",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "Philly Code Camp 2017.1",
+        "eventUrl" : "http://phillydotnet.azurewebsites.net/",
+        "location" : "Malvern, PA",
+        "presentation" :
+        {
+            "name" : "Build Native Mobile Apps using Javascript and Ionic",
+            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+            "date" : "2017-02-25",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "Philly Code Camp 2017.1",
+        "eventUrl" : "http://phillydotnet.azurewebsites.net/",
+        "location" : "Malvern, PA",
+        "presentation" :
+        {
+            "name" : "Build Native Mobile Apps using Javascript and React Native",
+            "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
+            "date" : "2017-02-25",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "MVP Mix",
+        "eventUrl" : "http://www.mvpmix.com/dallas",
+        "location" : "Dallas, TX",
+        "presentation" :
+        {
+            "name" : "Bootstrap 4.0 - What's New?",
+            "url": "/presentations/bootstrap-4-0-whats-new",
+            "date" : "2017-03-09",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "MVP Mix",
+        "eventUrl" : "http://www.mvpmix.com/dallas",
+        "location" : "Dallas, TX",
+        "presentation" :
+        {
+            "name" : "Typescript for the Microsoft Developer",
+            "url": "/presentations/typescript-for-the-microsoft-developer",
+            "date" : "2017-03-09",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "MVP Mix",
+        "eventUrl" : "http://www.mvpmix.com/dallas",
+        "location" : "Dallas, TX",
+        "presentation" :
+        {
+            "name" : "Introduction to ASP.NET Core",
+            "url": "/presentations/introduction-to-asp-net-core",
+            "date" : "2017-03-09",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
+        "eventName" : "Tucson, AZ User Group",
+        "eventUrl" : "https://www.meetup.com/Tucson-NET-User-Group/events/238142492/",
+        "location" : "Tucson, AZ",
+        "presentation" :
+        {
+            "name" : "Build Native Apps using Javascript and Ionic",
+            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+            "date" : "2017-03-15",
+            "comments": ""
+        },
+        "isCurrent" : false
+    }
+
+]
