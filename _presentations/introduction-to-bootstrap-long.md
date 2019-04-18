@@ -1,6 +1,6 @@
 ---
 title: Introduction to Bootstrap (Long)
-isKeynote: true
+isKeynote: false
 sourceUrl:
 powerPointUrl:
 ---
