@@ -151,3 +151,10 @@ footer:
       url: "https://www.facebook.com/JosephGuadagnoNet"
 
 author: "Joseph Guadagno"
+
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
