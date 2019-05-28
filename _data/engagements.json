@@ -10,7 +10,7 @@
             "date" : "2019-05-24",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "DEVIntersection",
