@@ -23,7 +23,7 @@
             "date" : "2019-06-11",
             "comments": "Use code '**Guadagno**' for $50 off registration"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "DEVIntersection",
