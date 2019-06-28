@@ -1,5 +1,31 @@
 [
     {
+        "eventName" : "Music City Code",
+        "eventUrl" : "https://www.musiccitycode.com",
+        "location" : "Nashville, TN",
+        "presentation" :
+        {
+            "name" : "Debugging Tips and Tricks with Visual Studio",
+            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+            "date" : "2019-09-05",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "Music City Code",
+        "eventUrl" : "https://www.musiccitycode.com",
+        "location" : "Nashville, TN",
+        "presentation" :
+        {
+            "name" : "Typescript for the Microsoft Developer",
+            "url": "/presentations/typescript-for-the-microsoft-developer",
+            "date" : "2019-09-05",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "DevSum19",
         "eventUrl" : "https://www.devsum.se",
         "location" : "Stockholm, Sweden",
@@ -36,7 +62,7 @@
             "date" : "2019-06-12",
             "comments": "Use code '**Guadagno**' for $50 off registration"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "DEVIntersection",

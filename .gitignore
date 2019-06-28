@@ -2,3 +2,4 @@ _site/
 .jekyll-metadata
 node_modules
 todo.txt
+.DS_Store
