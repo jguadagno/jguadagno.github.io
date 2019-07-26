@@ -1,5 +1,31 @@
 [
     {
+        "eventName" : "Southeast Valley .NET User Group",
+        "eventUrl" : "https://www.meetup.com/sevdnug/events/263472581",
+        "location" : "Chandler, AZ ",
+        "presentation" :
+        {
+            "name" : "Look into your Application with Azure Application Insights",
+            "url": "/presentations/look-into-your-application-with-application-insights",
+            "date" : "2019-08-22",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "Northwest Valley .NET User Group",
+        "eventUrl" : "https://www.meetup.com/NWVDNUG/events/263472395/",
+        "location" : "Glendale, AZ ",
+        "presentation" :
+        {
+            "name" : "Look into your Application with Azure Application Insights",
+            "url": "/presentations/look-into-your-application-with-application-insights",
+            "date" : "2019-08-21",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "Music City Code",
         "eventUrl" : "https://www.musiccitycode.com",
         "location" : "Nashville, TN",
