@@ -8,7 +8,7 @@ If you would like for me to speak at your event please [contact me]({% link _pag
 
 To see a list of presentations I speak on, please visit [Joseph Guadagno's Presentations]({% link _pages/presentations.md %})
 
-{% assign sortedCurrentEngagements = site.data.engagements | sort: 'date' | where:'isCurrent', 'true' %}
+{% assign sortedCurrentEngagements = site.data.engagements | sort: 'presentation.date' | where:'isCurrent', 'true' %}
 {% assign sortedPastEngagements = site.data.engagements | sort: 'presentation.date' | reverse | where:'isCurrent', 'false' %}
 
 ## Upcoming Engagements
