@@ -32,6 +32,16 @@ markdown: kramdown
 show_excerpts: true
 repository: "jguadagno/jguadagno.github.io"
 include: ["_pages"]
+highlighter: rouge
+
+# Kramdown settings
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts: 
+    block:
+      line_numbers: true
+      start_line: 1
+
 
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
