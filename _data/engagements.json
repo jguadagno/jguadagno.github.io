@@ -1,5 +1,57 @@
 [
     {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/#!/",
+        "location" : "Las Vegas, NV",
+        "presentation" :
+        {
+            "name" : "Migrate It!",
+            "url": "/presentations/migrate-it",
+            "date" : "2018-11-18",
+            "comments": "Use code '**Guadagno**' for $50 off registration"
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/#!/",
+        "location" : "Las Vegas, NV",
+        "presentation" :
+        {
+            "name" : "Typescript for the Microsoft Developer",
+            "url": "/presentations/typescript-for-the-microsoft-developer",
+            "date" : "2018-11-18",
+            "comments": "Use code '**Guadagno**' for $50 off registration"
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "TechBash",
+        "eventUrl" : "https://techbash.com",
+        "location" : "Pocono Mountains, PA",
+        "presentation" :
+        {
+            "name" : "Help Your Application Scale with Azure",
+            "url": "/presentations/help-your-application-scale-with-azure",
+            "date" : "2019-11-12",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "TechBash",
+        "eventUrl" : "https://techbash.com",
+        "location" : "Pocono Mountains, PA",
+        "presentation" :
+        {
+            "name" : "Look into your Application with Azure Application Insights",
+            "url": "/presentations/look-into-your-application-with-application-insights",
+            "date" : "2019-11-12",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "Southeast Valley .NET User Group",
         "eventUrl" : "https://www.meetup.com/sevdnug/events/263472581",
         "location" : "Chandler, AZ ",
