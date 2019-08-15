@@ -14,3 +14,9 @@ main:
     - title: "Contact"
       url: /contact
       description: "Contact Joseph Guadagno"
+    - title: "Categories"
+      url: /categories
+      description: "See all posts in a categories"
+    - title: "Tags"
+      url: /tags
+      description: "See all post around a tag"

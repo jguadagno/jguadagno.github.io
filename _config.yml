@@ -26,6 +26,8 @@ collections:
   presentations:
     output: true
     permalink: /presentations/:name
+atom_feed:
+  path: "http://feeds.feedburner.com/JosephGuadagno"
 
 # Build settings
 markdown: kramdown
@@ -52,6 +54,8 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
   - jekyll-include-cache
+  - jekyll-avatar
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -141,8 +145,8 @@ comments:
   provider: "facebook"
   facebook:
     appid: 266442613419593 # optional
-    num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
+    num_posts: 5 # 5 (default)
+    colorscheme: "light" # "light" (default), "dark"
 
 search: true
 google:
@@ -162,9 +166,9 @@ footer:
 
 author: "Joseph Guadagno"
 
-#category_archive:
-#  type: liquid
-#  path: /categories/
-#tag_archive:
-#  type: liquid
-#  path: /tags/
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
