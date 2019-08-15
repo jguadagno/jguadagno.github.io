@@ -20,3 +20,6 @@ main:
     - title: "Tags"
       url: /tags
       description: "See all post around a tag"
+    - title: "By Year"
+      url: /year-archive
+      description: "See all post around a tag"
