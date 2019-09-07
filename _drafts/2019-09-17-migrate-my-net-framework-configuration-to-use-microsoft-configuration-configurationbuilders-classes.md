@@ -1,6 +1,6 @@
 ---
-title: "Dynamic Blog Posts with Jekyll"
-date: 2019-08-17 13:30:00 -0700
+title: "Migrate my .Net Framework Configuration to use Microsoft.Configuration.ConfigurationBuilders Classes"
+date: 2019-09-17 13:30:00 -0700
 categories:
   - Articles
 tags:
@@ -8,7 +8,7 @@ tags:
   - Migrate
   - Configuration
 ---
-Migrate my .Net Framework Configuration to Azure Key Vault
+Migrate my .Net Framework Configuration to use Microsoft.Configuration.ConfigurationBuilders Classes
 
 ## Local/Dev setup
 
