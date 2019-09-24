@@ -18,6 +18,7 @@ Require .NET Framework 4.7.1
 Microsoft.Configuration.ConfigurationBuilders.Base
 Microsoft.Configuration.ConfigurationBuilders.Json
 Microsoft.Configuration.ConfigurationBuilders.UserSecrets
+Microsoft.Configuration.ConfigurationBuilders.Azure
 
 Modify App.Config/Web.Config
 
@@ -33,6 +34,4 @@ c:\Users\...\ secrets.xml, secrets.json
 Modify calls to Configuration.AppSettings...
 
 ## Azure Key Vault
-
-
 
