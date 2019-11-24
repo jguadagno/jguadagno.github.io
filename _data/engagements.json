@@ -10,7 +10,7 @@
             "date" : "2019-11-18",
             "comments": "Use code '**Guadagno**' for $50 off registration"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "DEVIntersection",
@@ -23,7 +23,7 @@
             "date" : "2019-11-18",
             "comments": "Use code '**Guadagno**' for $50 off registration"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "TechBash",
@@ -36,7 +36,7 @@
             "date" : "2019-11-12",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "TechBash",
@@ -49,7 +49,7 @@
             "date" : "2019-11-12",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Southeast Valley .NET User Group",
@@ -62,7 +62,7 @@
             "date" : "2019-08-22",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Northwest Valley .NET User Group",
@@ -75,7 +75,7 @@
             "date" : "2019-08-21",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Music City Code",
@@ -88,7 +88,7 @@
             "date" : "2019-09-05",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Music City Code",
@@ -101,7 +101,7 @@
             "date" : "2019-09-05",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "DevSum19",
