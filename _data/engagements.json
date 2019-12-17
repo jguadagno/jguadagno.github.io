@@ -1,5 +1,18 @@
 [
     {
+        "eventName" : "C# Corner Conference 2020",
+        "eventUrl" : "https://www.csharpcon.com",
+        "location" : "New Delhi, India",
+        "presentation" :
+        {
+            "name" : "Not selected yet",
+            "url": "/presentations/",
+            "date" : "2020-03-13",
+            "comments": "The talks have not been selected yet."
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "DEVIntersection",
         "eventUrl" : "https://devintersection.com/#!/",
         "location" : "Las Vegas, NV",
