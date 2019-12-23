@@ -2,34 +2,33 @@
 title: About Joseph Guadagno
 date: 2015-03-04T17:06:26+00:00
 author: Joseph Guadagno
-dsq_thread_id:
-  - "84738031"
 permalink: /about-joseph-guadagno/
 classes: wide
 ---
-I have been in software development for about 20 years or so. I started out with a small book on QuickBASIC, then moved the Visual Basic for DOS, then Visual Basic for Windows, then Visual Basic .NET and eventually Visual C#. I am a Director in Technology at Quicken Loans. I am a public speaker and present internationally on a lot of technology topics, a list of them are available at [Presentations]({% link _pages/presentations.md %}).  I have been recognized as a [Microsoft MVP](http://jjg.me/MVPLink) in .NET (since 2009) and a Friends of Red Gate [program](http://www.red-gate.com/community/friends-of-rg) (from 2015 to 2018).
+Joe Guadagno is a Director of Engineering at Quicken Loans, the nation’s largest mortgage lender, which is based in Detroit, Michigan.  He has been writing software for over 20 years and has been an active member of the .NET community, serving as a [Microsoft MVP](http://jjg.me/MVPLink){:target="_blank"} in .NET for over 10 years. At Quicken Loans, I lead 3 software development teams building and modernizing our internal services. He has spoken through the United States and at International events on topics ranging from Microsoft .NET, Microsoft Azure, Ionic, Bootstrap, and many others. You can see the complete list at [https://www.josephguadagno.net/presentations]({% link _pages/presentations.md %}){:target="_blank"}.  When not sitting at a computer Joe loves to hang out with his family and play games. When not playing games with the family, Joe is checking out the latest in Home Automation. You can connect with Joe on twitter at [@jguadagno](https://www.twitter.com/jguadagno){:target="_blank"}, Facebook at [JosephGuadagnoNet](https://www.facebook.com/JosephGuadagnoNet/){:target="_blank"}, and on his blog at [https://www.josephguadagno.net](/).
 
 ### Some of my notable achievements
 
-* Former President and Vice President of [INETA](http://ineta.org/) North America (2007-2015)
-* Founder of the Southeast Valley .NET User Group ([SEVDNUG](http://sevdnug.org/home.aspx)) in Chandler, AZ (2007-2013)
-* Currently serving on my the [City of Chandler](http://www.chandleraz.gov/)'s [Parks](http://www.chandleraz.gov/default.aspx?pageid=287) and [Recreation](http://www.chandleraz.gov/default.aspx?pageid=732) [board](http://www.chandleraz.gov/default.aspx?pageid=268) (since 2010)
-* [Telerik MVP](http://www.telerik.com/community/client-profile.aspx?cId=187651) (2010 to 2012)
+* Friend of RegGate [program](http://www.red-gate.com/community/friends-of-rg){:target="_blank"} (2015 to 2018)
+* Former President and Vice President of [INETA](http://ineta.org/){:target="_blank"}North America (2007-2015)
+* Founder of the Southeast Valley .NET User Group ([SEVDNUG](http://sevdnug.org/home.aspx){:target="_blank"}) in Chandler, AZ (2007-2013)
+* Currently serving on my the [City of Chandler](http://www.chandleraz.gov/){:target="_blank"}'s [Parks](http://www.chandleraz.gov/default.aspx?pageid=287){:target="_blank"} and [Recreation](http://www.chandleraz.gov/default.aspx?pageid=732){:target="_blank"} [board](http://www.chandleraz.gov/default.aspx?pageid=268){:target="_blank"} (2010 to 2018)
+* [Telerik MVP](http://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"} (2010 to 2012)
 * Microsoft Visual Basic MVP (1996)
 
-### Open Source Projects ([https://github.com/jguadagno](https://github.com/jguadagno))
+### Open Source Projects ([https://github.com/jguadagno](https://github.com/jguadagno){:target="_blank"})
 
-* [BingSharp](http://bingsharp.codeplex.com/): A wrapper around the Bing API in C#
-* [bootstrapThemeSwitcher](https://github.com/jguadagno/bootstrapThemeSwitcher): jquery plugin to dynamically load Bootstrap themes
-* [twbs-flickrCarousel](https://github.com/jguadagno/twbs-flickrCarousel): a bootstrap carousel to loop through Flickr pictures
+* [BingSharp](http://bingsharp.codeplex.com/){:target="_blank"}: A wrapper around the Bing API in C#
+* [bootstrapThemeSwitcher](https://github.com/jguadagno/bootstrapThemeSwitcher){:target="_blank"}: jquery plugin to dynamically load Bootstrap themes
+* [twbs-flickrCarousel](https://github.com/jguadagno/twbs-flickrCarousel){:target="_blank"}: a bootstrap carousel to loop through Flickr pictures
 
 ### Events I organize or participate in
 
-* [Desert Code Camp](https://desertcodecamp.com/)
-* [AZGiveCamp](http://azgivecamp.org/)
+* [Desert Code Camp](https://desertcodecamp.com/){:target="_blank"}
+* [AZGiveCamp](http://azgivecamp.org/){:target="_blank"}
 * Organizer for the 1st Time MVP event at the MVP Summit
-* [MVP 2 MVP Sessions]({% link _pages/mvp-summit-2011-c-mvp-2-mvp-sessions.md %}) at MVP Summit.
-* Awesome bean pusher at [GeekGive](http://geekgive.org/project/mvpsummit2012.aspx) at the MVP Summit.
+* [MVP 2 MVP Sessions]({% link _pages/mvp-summit-2011-c-mvp-2-mvp-sessions.md %}){:target="_blank"} at MVP Summit.
+* Awesome bean pusher at [GeekGive](http://geekgive.org/project/mvpsummit2012.aspx){:target="_blank"} at the MVP Summit.
 
 ## Resume
 

@@ -67,7 +67,7 @@ The next step is to iterate/loop through all of the engagements in the `sortedCu
 ```markdown
 {% raw %}
 {% for engagement in sortedCurrentEngagements -%}
-|[{{engagement.eventName}}]({{engagement.eventUrl}}){:target="_blank}|{{engagement.location}}|[{{engagement.presentation.name}}]({{engagement.presentation.url}})|{{engagement.presentation.date}}|{{engagement.presentation.comments }}|
+|[{{engagement.eventName}}]({{engagement.eventUrl}}){:target="_blank"}|{{engagement.location}}|[{{engagement.presentation.name}}]({{engagement.presentation.url}})|{{engagement.presentation.date}}|{{engagement.presentation.comments }}|
 {% endfor %}
 {% endraw %}
 ```

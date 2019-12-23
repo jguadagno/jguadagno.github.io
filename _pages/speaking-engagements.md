@@ -16,7 +16,7 @@ To see a list of presentations I speak on, please visit [Joseph Guadagno's Prese
 |Event|Location|Presentation|Date|Comments|
 |--- |--- |--- |--- |--- |
 {% for engagement in sortedCurrentEngagements -%}
-|[{{engagement.eventName}}]({{engagement.eventUrl}}){:target="_blank}|{{engagement.location}}|[{{engagement.presentation.name}}]({{engagement.presentation.url}})|{{engagement.presentation.date}}|{{engagement.presentation.comments }}|
+|[{{engagement.eventName}}]({{engagement.eventUrl}}){:target="_blank"}|{{engagement.location}}|[{{engagement.presentation.name}}]({{engagement.presentation.url}})|{{engagement.presentation.date}}|{{engagement.presentation.comments }}|
 {% endfor %}
 
 ## Previous Engagements
@@ -24,5 +24,5 @@ To see a list of presentations I speak on, please visit [Joseph Guadagno's Prese
 |Event|Location|Presentation|Date|Comments|
 |--- |--- |--- |--- |--- |
 {% for engagement in sortedPastEngagements -%}
-|[{{engagement.eventName}}]({{engagement.eventUrl}}){:target="_blank}|{{engagement.location}}|[{{engagement.presentation.name}}]({{engagement.presentation.url}})|{{engagement.presentation.date}}|{{engagement.presentation.comments }}|
+|[{{engagement.eventName}}]({{engagement.eventUrl}}){:target="_blank"}|{{engagement.location}}|[{{engagement.presentation.name}}]({{engagement.presentation.url}})|{{engagement.presentation.date}}|{{engagement.presentation.comments }}|
 {% endfor %}

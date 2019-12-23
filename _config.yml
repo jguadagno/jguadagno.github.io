@@ -72,7 +72,7 @@ plugins:
 exclude:
   - todo.txt
 
-remote_theme: "mmistakes/minimal-mistakes@4.16.6"
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 
 # Minimal Mistakes Settings
 
