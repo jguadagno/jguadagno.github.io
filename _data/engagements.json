@@ -5,10 +5,23 @@
         "location" : "New Delhi, India",
         "presentation" :
         {
-            "name" : "Not selected yet",
-            "url": "/presentations/",
+            "name" : "Debugging Tips and Tricks with Visual Studio 2019",
+            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+            "date" : "2020-03-14",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "C# Corner Conference 2020",
+        "eventUrl" : "https://www.csharpcon.com",
+        "location" : "New Delhi, India",
+        "presentation" :
+        {
+            "name" : "Build a Native Mobile Application using React Native and JavaScript",
+            "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
             "date" : "2020-03-13",
-            "comments": "The talks have not been selected yet."
+            "comments": ""
         },
         "isCurrent" : true
     },
