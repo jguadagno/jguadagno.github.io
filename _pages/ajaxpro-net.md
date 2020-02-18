@@ -18,7 +18,7 @@ Added the first draft of the Using AjaxPro.Net documentation.  The documentation
 If anyone wants to help with the documentation, please feel free to mark it up with the Track Changes feature of Microsoft Word, and I will incorporate the changes.
 
 * Download the [Microsoft Word version]({% link /assets/downloads/Using_Ajax_Professional_Library.doc %}).
-* Download the [HTML version](/assets/downloads/Using_Ajax_Professional.htm).
+* Download the [HTML version]({% link assets/downloads/Using_Ajax_Professional.md %}).
 
 ### June 20, 2006
 
@@ -31,7 +31,7 @@ Added a copy of the supporting database for the Contacts Sample Application in M
 This document is a getting started guide to using Ajax Professional .NET  
 
 * Download the [Microsoft Word version]({% link /assets/downloads/Using_Ajax_Professional.doc %}).
-* Download the [HTML version](/assets/downloads/Using_Ajax_Professional.htm>).
+* Download the [HTML version]({% link assets/downloads/Using_Ajax_Professional.md %}).
 
 Here is a sample Visual Basic.NET project to demonstrate using AjaxPro.NET.  This sample retrieves the time from the server.
 
