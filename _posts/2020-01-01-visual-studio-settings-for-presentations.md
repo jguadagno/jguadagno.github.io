@@ -7,7 +7,7 @@ tags:
   - Visual Studio
   - Settings
   - Presentation
-excerpt: There was a twitter conversation around building an extension to make it easier for presenters/twitchers and others to quickly switch between settings in Visual Studio.  I decided to blog about how I do it.
+excerpt: "There was a twitter conversation around building an extension to make it easier for presenters/twitchers and others to quickly switch between settings in Visual Studio.  I decided to blog about how I do it."
 ---
 
 There was a twitter conversation, started by [@julielerman](https://twitter.com/julielerman?s=20) around building an extension would quickly disable the **Quick Info** feature for C# to make it easier for presenters/twitchers and others when recording demos or showing code.  
