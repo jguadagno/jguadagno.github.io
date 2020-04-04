@@ -1,6 +1,6 @@
 ---
 title: "Migrate my .Net Framework Configuration to use Microsoft.Configuration.ConfigurationBuilders Classes"
-date: 2019-09-17 13:30:00 -0700
+date: 2021-01-01 13:30:00 -0700
 categories:
   - Articles
 tags:
