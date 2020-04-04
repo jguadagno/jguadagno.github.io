@@ -10,7 +10,7 @@
             "date": "2020-04-06",
             "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName": "Microsoft Azure + AI Conference Spring 2020",
@@ -23,7 +23,7 @@
             "date": "2020-04-06",
             "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName": "Microsoft Azure + AI Conference Spring 2020",
@@ -36,7 +36,7 @@
             "date" : "2020-04-06",
             "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "C# Corner Conference 2020",
