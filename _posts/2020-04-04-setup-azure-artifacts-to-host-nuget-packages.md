@@ -1,6 +1,6 @@
 ---
 title: "Setup Azure Artifacts to Host Your NuGet Packages"
-date: 2020-04-04 11:00:00 -0700
+date: 2020-04-04 19:30:00 -0700
 categories:
   - Articles
 tags:
