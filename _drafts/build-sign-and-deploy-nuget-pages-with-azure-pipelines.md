@@ -23,11 +23,14 @@ tags:
 
 ## Test the project
 
-## Azure Key Vault (Separate post?)
+## Azure Key Vault
 
-### Setup (Separate post?)
+There is a little bit of a setup that is required to get certificate signing with Azure Key Vault working.  I broke it down into two blog posts.
 
-### Upload Certificate (Separate post?)
+TODO: Update these URL with the published URLS
+
+* Step 1: [Setup Code Signing Certificates in Azure Key Vault](https://www.josephguadagno.net))
+* Step 2: [Setup an Azure Application with Permissions to Enable Certificate Signing](https://www.josephguadagno.net)
 
 ### Pipeline Tasks for Key Vault
 
