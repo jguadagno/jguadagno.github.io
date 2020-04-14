@@ -1,5 +1,18 @@
 [
     {
+        "eventName": "Public Speaking Virtual Conference",
+        "eventUrl" : "https://www.c-sharpcorner.com/events/public-speaking-virtual-conference",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Preparedness and Feedback Matters",
+            "url": "https://www.c-sharpcorner.com/events/public-speaking-virtual-conference",
+            "date": "2020-04-24",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName": "Devintersection, AngleBrackets, AngularMix Spring 2020",
         "eventUrl" : "https://devintersection.com/#!/",
         "location" : "Orlando, FL",
