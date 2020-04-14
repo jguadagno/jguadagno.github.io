@@ -1,6 +1,5 @@
 ---
 title: About Joseph Guadagno
-date: 2015-03-04T17:06:26+00:00
 author: Joseph Guadagno
 permalink: /about-joseph-guadagno/
 classes: wide
@@ -9,8 +8,8 @@ Joe Guadagno is a Director of Engineering at Quicken Loans, the nation’s large
 
 ### Some of my notable achievements
 
-* Friend of RegGate [program](http://www.red-gate.com/community/friends-of-rg){:target="_blank"} (2015 to 2018)
-* Former President and Vice President of [INETA](http://ineta.org/){:target="_blank"}North America (2007-2015)
+* Friend of Redgate [program](http://www.red-gate.com/community/friends-of-rg){:target="_blank"} (2015 to 2018)
+* Former President,Vice President, and Marketing Director of [INETA](http://ineta.org/){:target="_blank"} North America (2007-2015)
 * Founder of the Southeast Valley .NET User Group ([SEVDNUG](http://sevdnug.org/home.aspx){:target="_blank"}) in Chandler, AZ (2007-2013)
 * Currently serving on my the [City of Chandler](http://www.chandleraz.gov/){:target="_blank"}'s [Parks](http://www.chandleraz.gov/default.aspx?pageid=287){:target="_blank"} and [Recreation](http://www.chandleraz.gov/default.aspx?pageid=732){:target="_blank"} [board](http://www.chandleraz.gov/default.aspx?pageid=268){:target="_blank"} (2010 to 2018)
 * [Telerik MVP](http://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"} (2010 to 2012)
