@@ -191,10 +191,12 @@ Now, that we have the parameter, we need to create a variable to place the selec
 
 Below the `pool` and before the `steps`, around line 19, insert this YAML to create the variable.
 
+{% raw %}
 ```yaml
 variables:
-  buildConfiguration: $\{\{ parameters.buildConfig \}\}
+  buildConfiguration: ${{ parameters.buildConfig }}
 ```
+{% endraw %}
 
 This now creates the variable **buildConfigurations** based on the **buildConfig** parameter
 
