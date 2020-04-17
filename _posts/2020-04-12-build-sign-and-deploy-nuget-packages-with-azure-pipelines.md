@@ -193,7 +193,7 @@ Below the `pool` and before the `steps`, around line 19, insert this YAML to cre
 
 ```yaml
 variables:
-  buildConfiguration: ${{ parameters.buildConfig }}
+  buildConfiguration: $\{\{ parameters.buildConfig \}\}
 ```
 
 This now creates the variable **buildConfigurations** based on the **buildConfig** parameter
