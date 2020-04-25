@@ -12,4 +12,6 @@ You can view this presentation as given at [KCDC](http://www.kcdc.info/) in 2018
 Or at DevReach in Sofia, Bulgaria
 
 {% include video id="gSMFM0HDI_k" provider="youtube" %}
-<figcaption>TypeScript for the Microsoft Developer. DevReach (Sofia, Bulgaria)</figcaption>
+
+TypeScript for the Microsoft Developer. DevReach (Sofia, Bulgaria)
+{: .text-center}

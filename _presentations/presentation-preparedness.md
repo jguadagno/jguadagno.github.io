@@ -7,3 +7,8 @@ powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4
 ---
 
 How do you prepare yourself including any practicing, setting up and testing machines, any gadgets you carry with you.
+
+{% include video id="h3YySNz-rcA?start=4760" provider="youtube" %}
+
+Presentation Preparedness. Public Speaking Virtual Conference
+{: .text-center}
