@@ -1,5 +1,18 @@
 [
     {
+        "eventName": "European Cloud Conference",
+        "eventUrl" : "https://europeancloudconference.com/sessions/",
+        "location" : "Nice, France",
+        "presentation" :
+        {
+            "name" : "Build and Ship It!",
+            "url": "/presentations/build-and-ship-it",
+            "date": "2020-10-27",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
         "eventName": "Public Speaking Virtual Conference",
         "eventUrl" : "https://www.c-sharpcorner.com/events/public-speaking-virtual-conference",
         "location" : "Virtual",
