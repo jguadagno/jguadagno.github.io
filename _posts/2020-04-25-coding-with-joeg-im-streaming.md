@@ -44,5 +44,6 @@ I'm going to start out streaming 3 days a week, Monday, Tuesday, and Thursday. I
 * Stream - [https://twitch.tv/jguadagno](https://twitch.tv/jguadagno)
 * Github Repository (Contacts) - [https://github.com/jguadagno/Contacts](https://github.com/jguadagno/Contacts)
 * Development Flow - [https://github.com/jguadagno/Contacts/blob/master/outline.md](https://github.com/jguadagno/Contacts/blob/master/outline.md)
+* YouTube Playlist - [Coding with JoeG](https://www.youtube.com/playlist?list=PLESGit66MnblZW06pJQwB_VPFZnOT-gG2)
 
 I hope to see you there!
