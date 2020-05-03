@@ -10,7 +10,20 @@
             "date": "2020-10-27",
             "comments": ""
         },
-        "isCurrent" : false
+        "isCurrent" : true
+    },
+    {
+        "eventName": "Software Architecture Virtual Conference",
+        "eventUrl" : "https://www.c-sharpcorner.com/events/software-architecture-virtual-conference",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Application Architecture",
+            "url": "/presentations/application-architecture",
+            "date": "2020-06-05",
+            "comments": ""
+        },
+        "isCurrent" : true
     },
     {
         "eventName": "Public Speaking Virtual Conference",
