@@ -44,7 +44,6 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
@@ -72,7 +71,7 @@ plugins:
 exclude:
   - todo.txt
 
-remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 
 # Minimal Mistakes Settings
 
@@ -108,6 +107,7 @@ defaults:
       share: true
       classes : wide
       author_profile: true
+      comments: true
 
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
