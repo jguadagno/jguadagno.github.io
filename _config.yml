@@ -85,7 +85,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
       share: true
       related: true
       classes: wide
@@ -107,7 +106,6 @@ defaults:
       share: true
       classes : wide
       author_profile: true
-      comments: true
 
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
@@ -142,12 +140,12 @@ analytics:
     tracking_id: "UA-2998428-1"
     anonymize_ip: false # default
 
-comments:
-  provider: "facebook"
-  facebook:
-    appid: 266442613419593 # optional
-    num_posts: 5 # 5 (default)
-    colorscheme: "light" # "light" (default), "dark"
+# comments:
+#   provider: "facebook"
+#   facebook:
+#     appid: 266442613419593 # optional
+#     num_posts: 5 # 5 (default)
+#     colorscheme: "light" # "light" (default), "dark"
 
 search: true
 google:
