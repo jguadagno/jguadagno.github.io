@@ -38,7 +38,7 @@ Here are some images that you might want to create for your stream.  Recommended
 * YouTube
   * Intro Image (*1920x1080*)
   * End Image (*1920x1080*)
-  * Thumbnail (*1920x1080*)
+  * Thumbnail (*1280x720*)
   * Channel Art (*2560x1440*) [Details](https://support.google.com/youtube/answer/2972003?visit_id=637255225946398540-2674606628&p=picker_channel_art&hl=en&rd=1){:target="_blank"}
 
 Happy Streaming!
