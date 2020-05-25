@@ -27,4 +27,4 @@ These are plugins for OBS that I want to research a little more to potentially a
 
 ## Suggestions
 
-Have any suggestions for plugins for me to give a shot.  Put them below in the comments.
+Have any suggestions for plugins for me to give a shot, shoot me an email.

@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.0.3)
+    activesupport (6.0.3.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -244,6 +244,7 @@ GEM
     tzinfo-data (1.2020.1)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.7.0)
+    wdm (0.1.1)
     zeitwerk (2.3.0)
 
 PLATFORMS
@@ -257,6 +258,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-include-cache
   tzinfo-data
+  wdm (~> 0.1.0)
 
 BUNDLED WITH
    2.1.4

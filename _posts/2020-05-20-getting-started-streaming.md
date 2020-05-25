@@ -56,5 +56,5 @@ Now you are ready to stream, go for it.  Here is a quick [checklist](https://ard
 
 * [Branding your stream]({% post_url 2020-05-20-branding-your-stream %})
 * Coding with JoeG - [Hardware Configuration]({% post_url 2020-05-20-coding-with-joeg-streaming-hardware-configuration %})
-* Coding with JoeG - [Software Configuration]()... *Coming soon*
+* Coding with JoeG - [Software Configuration]({% post_url 2020-05-25-coding-with-joeg-streaming-software-configuration %})
 * Coding with JoeG - [OBS Plugins]({% post_url 2020-05-20-coding-with-joeg-stream-plugins %}) to add to your stream
