@@ -20,7 +20,9 @@ Joseph Guadagno:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/JosephGuadagnoNet"
-    - label: "YouTube"
+    - label: "Videos from stream 'Coding with JoeG'"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/playlist?list=PLESGit66MnblZW06pJQwB_VPFZnOT-gG2"
-      
+    - label: "Videos from previous presentations"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/playlist?list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ"    
