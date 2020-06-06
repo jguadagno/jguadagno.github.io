@@ -1,5 +1,70 @@
 [
     {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/#!/",
+        "location" : "Las Vegas, NV",
+        "presentation" :
+        {
+            "name" : "Build and Ship It!",
+            "url": "/presentations/build-and-ship-it",
+            "date" : "2020-12-06",
+            "comments": "Use code '**Guadagno**' for $50 off registration"
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/#!/",
+        "location" : "Las Vegas, NV",
+        "presentation" :
+        {
+            "name" : "Look into your Application with Application Insights",
+            "url": "/presentations/look-into-your-application-with-application-insights",
+            "date" : "2020-12-06",
+            "comments": "Use code '**Guadagno**' for $50 off registration"
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "SciFiDevCon",
+        "eventUrl" : "https://www.scifidevcon.com/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Building Native Applications with JavaScript and React Native",
+            "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
+            "date" : "2020-07-31",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "SciFiDevCon",
+        "eventUrl" : "https://www.scifidevcon.com/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Debugging Tips and Tips with Visual Studio",
+            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+            "date" : "2020-07-30",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "SciFiDevCon",
+        "eventUrl" : "https://www.scifidevcon.com/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Typescript for the Microsoft Developer",
+            "url": "/presentations/typescript-for-the-microsoft-developer",
+            "date" : "2020-07-31",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName": "European Cloud Conference",
         "eventUrl" : "https://europeancloudconference.com/sessions/",
         "location" : "Nice, France",
@@ -8,6 +73,19 @@
             "name" : "Build and Ship It!",
             "url": "/presentations/build-and-ship-it",
             "date": "2020-10-27",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName": "Code PaLOUsa 2020",
+        "eventUrl" : "http://www.codepalousa.com/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Migrate It!",
+            "url": "/presentations/migrate-it",
+            "date": "2020-08-19",
             "comments": ""
         },
         "isCurrent" : true
@@ -23,7 +101,7 @@
             "date": "2020-06-05",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName": "Public Speaking Virtual Conference",
