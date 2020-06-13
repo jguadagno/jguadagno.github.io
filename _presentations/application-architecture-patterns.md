@@ -1,12 +1,12 @@
 ---
-title: Application Architecture
+title: Application Architecture Patterns
 isKeynote: false
 isRetired: false
 sourceUrl:
-powerPointUrl:
+powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2178593&authkey=AAD5mp6M2jn40f0&em=2
 ---
 Architecting an application can be hard.  What do you do to keep your application flexible to ever constant requirement changes? How do you handle landscape changes (cloud, on-premises, databases)? How do you avoid over-engineering the application? How do I make sure my application plays well with other applications?
 
-In this session, we'll take a look at finding the right balance between writing too much code and too little code. We'll look at how you can make some improvements in your application to support quick changes, flexibility, and scalability.
+In this session, we'll take a look at some well understood and practiced Software Architecture patterns.  We'll cover these patterns at a high level to give you an understanding of how to use these patterns in different scenarios.
 
 You'll walk away with some knowledge, tips, and tricks that you'll be able to use for new and existing applications.
