@@ -10,7 +10,7 @@ tags:
   - Microsoft MVP
   - MVP
 ---
-This blog post has been a long time coming. As a matter of fact, it has been on my Todo list for about two years. I know I am behind :). While parts of this post might come off as bragging or boasting that is not the intent. The point I want to get across is how the community has helped me get to where I am today.
+This blog post has been a long time coming. As a matter of fact, it has been on my Todo list for about two years. I know I am behind :smile:. While parts of this post might come off as bragging or boasting that is not the intent. The point I want to get across is how the community has helped me get to where I am today.
 
 ## The Back Story
 
@@ -18,7 +18,7 @@ The journey started about 11 or so years ago when I first moved to Arizona. I ha
 
 ## The Effect
 
-At this point you are probably saying "Blah Blah Blah Joe, I can see why you think this could be interpreted as bragging" :).  Well, let me tell you the effect these community efforts had. The first was more speaking opportunities, I was able to speak at other groups in Arizona and California, in addition to Code Camps. Eventually, I got to speak at paid conferences, although I think I have Hurricane Sandy to thank for that :(. But the creating of the group or lunch or organizing Desert Code Camp was not the only reason for that, it was the networking.  Through the group, lunch, and code camp I have made a lot of friends and connections.  I also got a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4024623?fullName=Joseph%20Guadagno) out of it which help improved on those connections. I also got to help people along the way.
+At this point you are probably saying "Blah Blah Blah Joe, I can see why you think this could be interpreted as bragging" :smile:.  Well, let me tell you the effect these community efforts had. The first was more speaking opportunities, I was able to speak at other groups in Arizona and California, in addition to Code Camps. Eventually, I got to speak at paid conferences, although I think I have Hurricane Sandy to thank for that :disappointed:. But the creating of the group or lunch or organizing Desert Code Camp was not the only reason for that, it was the networking.  Through the group, lunch, and code camp I have made a lot of friends and connections.  I also got a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4024623?fullName=Joseph%20Guadagno) out of it which help improved on those connections. I also got to help people along the way.
 
 ## Connections
 

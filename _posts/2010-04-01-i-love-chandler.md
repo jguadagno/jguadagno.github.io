@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Arizona Technology News
 ---
-No not Chandler Bing from Friends, although maybe Monica :) … it’s living in Chandler, Arizona.
+No not Chandler Bing from Friends, although maybe Monica :smile: … it’s living in Chandler, Arizona.
 
 In the past, I have tried to keep this blog mostly technical but something happened this morning that made me realize I love living in [Chandler, Arizona](http://www.chandleraz.gov "City of Chandler web site."). I forgot to close my garage door last night and during the [City of Chandler Police Departments](http://chandlerpd.com) nightly patrol, the officer closed the door for me and left me a nice little note/reminder. Way to go!
 

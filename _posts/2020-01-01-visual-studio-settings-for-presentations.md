@@ -28,7 +28,7 @@ The list is simple Visual Studio (any edition) and something that syncs folders/
 
 ### Step 1: Save your 'Default' settings
 
-If you are unsure how to save your settings, check out [Environment Setting for Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/environment-settings?view=vs-2019) in the MSDN docs. Feel free to call the settings whatever you wish, I use '*default*' because these are my day to day, or week to week settings lately :), for Visual Studio.  
+If you are unsure how to save your settings, check out [Environment Setting for Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/environment-settings?view=vs-2019) in the MSDN docs. Feel free to call the settings whatever you wish, I use '*default*' because these are my day to day, or week to week settings lately :smile:, for Visual Studio.  
 
 ### Step 1a: Save your files to OneDrive
 

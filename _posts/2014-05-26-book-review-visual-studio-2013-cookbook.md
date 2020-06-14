@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Books
 ---
-When I first looked at the title of the book Visual Studio 2013 Cookbook I wondered what it could be about.  You can’t cook with Visual Studio, at least not yet :) . It turns out that, outside of two chapters, the book is an series of getting started guides with topics the are new(ish) to Visual Studio 2013\. It is not a bad thing. If you are getting started with using Visual Studio 2013 or Team Foundation Server or .NET 4.5.x, this book provides a good overview of the new features in Visual Studio and version 4.5.x of the .NET Framework.
+When I first looked at the title of the book Visual Studio 2013 Cookbook I wondered what it could be about.  You can’t cook with Visual Studio, at least not yet :smile: . It turns out that, outside of two chapters, the book is an series of getting started guides with topics the are new(ish) to Visual Studio 2013\. It is not a bad thing. If you are getting started with using Visual Studio 2013 or Team Foundation Server or .NET 4.5.x, this book provides a good overview of the new features in Visual Studio and version 4.5.x of the .NET Framework.
 
 **Disclaimer**: I was given a copy of this book in the hopes that I would review it. I only post reviews on books that I think would provide some benefit to the development community.
 {: .notice}

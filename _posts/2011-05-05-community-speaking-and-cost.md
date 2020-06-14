@@ -8,7 +8,7 @@ categories:
 ---
 At the beginning of 2011, I set a goal for myself to speak at least twice at a community event that was outside of my area, the Phoenix metro area.  There are three reasons for this.
 
-1. People here are probably sick of me talking :)
+1. People here are probably sick of me talking :smile:
 2. I wanted to reach out to other audiences and get feedback on my presenting and talks
 3. The final, was / is a selfish one, to get my name out there
 
@@ -22,7 +22,7 @@ The poll asked a simple question, “_What is the most money you will spend out 
 * $500: 23%
 * $1000: 18%
 
-Looking at the results of this scientific poll :), I could not determine anything that I could really use to set the bar for myself.  However, some of the comments I received painted a totally different picture.
+Looking at the results of this scientific poll :smile:, I could not determine anything that I could really use to set the bar for myself.  However, some of the comments I received painted a totally different picture.
 
 A friend of mine, Paul writes:
 

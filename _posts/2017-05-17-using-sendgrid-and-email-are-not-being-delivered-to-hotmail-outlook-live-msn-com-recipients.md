@@ -29,7 +29,7 @@ When an announcement email goes out to our attendees or users of the site, we ne
 
 Now that I implemented the new Azure/SendGrid combination everything was great.
 
-Fast forward a year, to this past weekend; I announced that the next [Desert Code Camp](https://oct2017.desertcodecamp.com) was happening on Twitter and some people started submitting sessions. This is great! But I noticed that I was wasn't getting my emails about the submissions. At first, I thought, "Oh Joe, you forgot something when you 'created' the new event." It happens every time :). However, this was not the case this time. Microsoft decided to [embrace](https://sendgrid.com/docs/Classroom/Deliver/Sender_Authentication/microsoft_dmarc_changes.html) something called [DMARC](http://sendgrid.com/blog/dmarc-domain-based-message-authentication-reporting-conformance/), Domain-based Message Authentication, Reporting & Conformance. In a nutshell, it checks to see if you are sending emails from the domain you claim you are sending them from, which for me was bad. Not because I was trying to be deceitful, but because I was sending emails saying they were from '_@hotmail.com_' and sending them via '_SendGrid_' because I wanted people to reply to my Hotmail address. Well, when Microsoft implemented the DMARC...
+Fast forward a year, to this past weekend; I announced that the next [Desert Code Camp](https://oct2017.desertcodecamp.com) was happening on Twitter and some people started submitting sessions. This is great! But I noticed that I was wasn't getting my emails about the submissions. At first, I thought, "Oh Joe, you forgot something when you 'created' the new event." It happens every time :smile:. However, this was not the case this time. Microsoft decided to [embrace](https://sendgrid.com/docs/Classroom/Deliver/Sender_Authentication/microsoft_dmarc_changes.html) something called [DMARC](http://sendgrid.com/blog/dmarc-domain-based-message-authentication-reporting-conformance/), Domain-based Message Authentication, Reporting & Conformance. In a nutshell, it checks to see if you are sending emails from the domain you claim you are sending them from, which for me was bad. Not because I was trying to be deceitful, but because I was sending emails saying they were from '_@hotmail.com_' and sending them via '_SendGrid_' because I wanted people to reply to my Hotmail address. Well, when Microsoft implemented the DMARC...
 
 **What this means:** As of June 2016, you can no longer send with the From address being anything from a Microsoft address when sending to a domain that checks DMARC before accepting mail.
 
@@ -55,7 +55,7 @@ Example Luckily, SendGrid makes it easy to whitelist your domain(s). Here is how
 
 ### But what about the replies to @Hotmail.com
 
-I'm glad you are still with me :). This part is the easy part. Essentially, I added '_noreply@desertcodecamp.com_' as the ToAddress and added '_jguadagno@hotmail.com_' as the ReplyTo. As shown here.
+I'm glad you are still with me :smile:. This part is the easy part. Essentially, I added '_noreply@desertcodecamp.com_' as the ToAddress and added '_jguadagno@hotmail.com_' as the ReplyTo. As shown here.
 
 ```cs
 string apiKey = ConfigurationManager.AppSettings["SendGrid.ApiKey"];

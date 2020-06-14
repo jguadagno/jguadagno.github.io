@@ -148,7 +148,7 @@ I do not have a separate device to 'monitor' the stream audio
 
 ##### Advanced - Replay Buffer
 
-These are the default values.  I imagine that if you are streaming your gaming, you might want to provide some replay functionality for a 'sweet kill'.  No one said ever, 'That was a great use of a lambda, let me replay that' :)
+These are the default values.  I imagine that if you are streaming your gaming, you might want to provide some replay functionality for a 'sweet kill'.  No one said ever, 'That was a great use of a lambda, let me replay that' :smile:
 
 | --- | --- | --- |
 | Setting | Value | Description |
@@ -264,7 +264,7 @@ You will probably mess around with these settings a lot until you get it just ri
 | Brightness | `0` | |
 | Gamma | `0` | |
 
-**Semi-pro** tip: Don't where the same color shirt as your Chromakey :)
+**Semi-pro** tip: Don't where the same color shirt as your Chromakey :smile:
 
 #### Microphone Filters
 

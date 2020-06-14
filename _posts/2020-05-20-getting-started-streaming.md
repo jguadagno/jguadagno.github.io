@@ -23,7 +23,7 @@ As I [posted]({% post_url 2020-04-25-coding-with-joeg-im-streaming %}) about a m
 
 ### Software to Stream
 
-There are several different ways to stream to Twitch.  Twitch supposed in-browser streaming, which I haven't tried.  If you want to install software to do it, there are a variety of paid and free software listed here.  Note, these links are provided based on what I have seen.  I have no affiliation with any of these companies :)
+There are several different ways to stream to Twitch.  Twitch supposed in-browser streaming, which I haven't tried.  If you want to install software to do it, there are a variety of paid and free software listed here.  Note, these links are provided based on what I have seen.  I have no affiliation with any of these companies :smile:
 
 * **Open Broadcast Software (OBS)** - Free and open source software for recording and live streaming. Source code is available to everyone to contribute and improve. [link](https://obsproject.com/){:target="_blank}
 * **Twitch Studio (Beta)** - Our free streaming software, designed to help new streamers get started. With features like guided setup, customizable templates, and integrated alerts, Twitch Studio takes the guesswork out of setting up and managing your stream. [link](https://www.twitch.tv/studio){:target="_blank}

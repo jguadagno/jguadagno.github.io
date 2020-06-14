@@ -9,7 +9,7 @@ Much of the discussions happen because most people do not understand what a ‘S
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What do you say when people ask you what you do? I say &quot;I&#39;m a computer programmer&quot;. Because it&#39;s all too complicated.</p>&mdash; Sara Ownbey Chipps (@SaraJChipps) <a href="https://twitter.com/SaraJChipps/status/1259968675144179714?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-While I agree with Sara that it is complicated to explain at times, deep down, it isn’t. I replied to Sara, half-jokingly, *“Professional Searcher” or “Professional Googler” too complicated? :)*. Later on that day, on a different thread, someone said, *“I do know what I’m doing. I’m damned good at Googling for answers!”*
+While I agree with Sara that it is complicated to explain at times, deep down, it isn’t. I replied to Sara, half-jokingly, *“Professional Searcher” or “Professional Googler” too complicated? :smile:*. Later on that day, on a different thread, someone said, *“I do know what I’m doing. I’m damned good at Googling for answers!”*
 
 Combine these two separate threads with a random tweet of mine from Sunday.
 

@@ -48,7 +48,7 @@ Since I am going to be using this project for future demos, I am going to make i
 
 And I am leaving the defaults for `version control` and `work item process`.
 
-**NOTE**: The default for an organization is *private*.  You have to edit your organizational security policy to go public.  For most people and organizations that you don't want to be public.  I'm only doing this for the demo.  *Famous last words* :)
+**NOTE**: The default for an organization is *private*.  You have to edit your organizational security policy to go public.  For most people and organizations that you don't want to be public.  I'm only doing this for the demo.  *Famous last words* :smile:
 
 ## Artifacts
 

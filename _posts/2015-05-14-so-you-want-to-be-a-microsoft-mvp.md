@@ -19,6 +19,6 @@ It’s very common for myself and other Microsoft MVPs to get asked “What does
 * speak at conference/user groups
 * respond to forum post on [MSDN](https://social.msdn.microsoft.com/Forums/en-US/home), [Stack Overflow](http://stackoverflow.com/), [C# Corner](http://www.c-sharpcorner.com/Forums/) and similar forums
 * help out your local user groups and Microsoft Developer Evangelists at events
-* contribute to open source projects, especially ones that Microsoft is interested in :) (Thanks [@jamie_dixon](https://twitter.com/jamie_dixon) for the tip)
+* contribute to open source projects, especially ones that Microsoft is interested in :smile: (Thanks [@jamie_dixon](https://twitter.com/jamie_dixon) for the tip)
 
 My recommendation is that you do not make becoming a Microsoft MVP a goal, but let it happen naturally by doing some of the things mentioned above and even if you do not get the Microsoft MVP award, remember that you are still helping people with your contributions.

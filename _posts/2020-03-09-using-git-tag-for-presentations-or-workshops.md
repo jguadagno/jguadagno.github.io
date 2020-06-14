@@ -32,7 +32,7 @@ The third step is where we 'track' or store our presentations '*steps*'. For me,
 
 1. `git add .` - This will add all of the files since the last commit
 2. `git commit -m "Your commit message"` - Replace `"Your commit message"` with a meaningful message. For me, these have been the step names, like '*Demo-Start*', '*Demo-Database Complete*'
-3. `git push origin master` - This may vary for you and is based on my understanding of git :)
+3. `git push origin master` - This may vary for you and is based on my understanding of git :smile:
 4. `git tag "Tag Message/Name"` - Replace `"Tag Message/Name"` with the name for the tag. This is the name you want call the commit. I use the same name as the commit message.
 
 After I `tag` the commit, I am ready to repeat step 3 until all of the steps are done.
@@ -51,7 +51,7 @@ gittag "Demo-Complete"
 
 The fourth step is a 'final' commit and tag for 'completed demo'.
 
-Step five, this is an **important** step.  You must commit your tags to the repo! Tags, by nature, are local to your machine.  This step is only required if you are sharing the repository, for instance, a workshop, or want the ability to 'pull down' the tags or steps from another machine, which is something I do :).  To do that, execute `git push origin --tags` from the command line.
+Step five, this is an **important** step.  You must commit your tags to the repo! Tags, by nature, are local to your machine.  This step is only required if you are sharing the repository, for instance, a workshop, or want the ability to 'pull down' the tags or steps from another machine, which is something I do :smile:.  To do that, execute `git push origin --tags` from the command line.
 
 You can run the individual commands if you want but I created a bash and windows script to execute the commands for me which I included [below](#helper-scripts) which I called `gittag`.
 

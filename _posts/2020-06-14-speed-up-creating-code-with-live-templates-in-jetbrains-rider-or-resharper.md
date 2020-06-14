@@ -40,9 +40,9 @@ Here is what the Live Template settings looks like.
 
 The 'Template List' is where you will find all of the templates for the given language.
 
-Clicking on a template will show you the template in the area I named 'Template'. I know original naming :). Ignore the dollar signs ($) for a second.
+Clicking on a template will show you the template in the area I named 'Template'. I know original naming :smile:. Ignore the dollar signs ($) for a second.
 
-The 'Template Settings' displays the settings for the template. I know I'm being original again :).
+The 'Template Settings' displays the settings for the template. I know I'm being original again :smile:.
 
 ## Creating a New Template
 
@@ -80,7 +80,7 @@ This is where you can tweak the settings a bit
 
 ## Wrap Up
 
-There are a lot of things that you can do with live templates. I urge you to take a look at them.  I know they have saved me some time, except for writing this blog post :).
+There are a lot of things that you can do with live templates. I urge you to take a look at them.  I know they have saved me some time, except for writing this blog post :smile:.
 
 ### Further Resources
 

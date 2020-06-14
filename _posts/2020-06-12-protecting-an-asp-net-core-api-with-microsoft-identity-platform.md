@@ -329,6 +329,6 @@ You should get a error message with this. The most likely cause is that the name
 
 ## Wrap up
 
-This is a rather long post. The good thing about using the Microsoft Identity Platform is once you set up the App Registrations in the Azure portal and do it correctly :), the rest is easy.  
+This is a rather long post. The good thing about using the Microsoft Identity Platform is once you set up the App Registrations in the Azure portal and do it correctly :smile:, the rest is easy.  
 
 After the team at Microsoft watched me struggle through it, they said they would make it easier and probably even have some Powershell scripts for the initial setup.

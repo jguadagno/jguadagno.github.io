@@ -61,7 +61,7 @@ If you want to follow along, here are the settings I used.
 | Resource Group | `Presentations` | I put all of my presentation and blog resources in this one group |
 | Key Vault Name | `Code-Signing-Demo-Vault` | **Note**: This must be unique |
 | Region | `(US) West US 2` | You should chose a region close to your resources |
-| Pricing tier | Standard | Where's the *free* option :) |
+| Pricing tier | Standard | Where's the *free* option :smile: |
 
 The rest are defaults.
 
