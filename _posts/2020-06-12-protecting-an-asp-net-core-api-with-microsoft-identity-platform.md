@@ -94,7 +94,7 @@ Applications are registered!  Next step, create the scopes.
 
 Scope is a mechanism in OAuth 2.0 to limit an application's access to a user's account. An application can request one or more scopes, this information is then presented to the user in the consent screen, and the access token issued to the application will be limited to the scopes granted.
 
-For this sample, we will create one scope to use and enable.
+For this sample, we will create one scope to use and enable in our application.
 
 In the Azure portal, go to the API application registration and click on 'Expose an API'.  You'll see something similar to this.
 
@@ -126,7 +126,7 @@ You would repeat these steps for each scope you want in your application
 
 Now that we have a scope, we need to give our client application the permissions to use that scope.
 
-Go to the App Registration for the client application in the Azure portal and click on 'API Permissions'.
+Go to the App Registration for the Client application in the Azure portal and click on 'API Permissions'.
 
 - Click on '+ Add a permission'
 
