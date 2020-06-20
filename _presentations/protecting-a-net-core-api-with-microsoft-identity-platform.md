@@ -1,5 +1,5 @@
 ---
-title: Protecting a .NET Core Application with Microsoft Identity Platform
+title: Protecting a .NET Core API with Microsoft Identity Platform
 isKeynote: false
 isRetired: false
 sourceUrl:
