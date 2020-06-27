@@ -194,7 +194,9 @@ You can see the example project at the point all this worked on [Github](https:/
 
 #### Gotchas
 
-Working with a preview of any product can be challenging, here is something I ran into and what fixed it.
+Working with a preview of any product can be challenging, here are some things I ran into and what fixed it.
+
+##### No account or login hint was passed to the AcquireTokenSilent call
 
 Exception with the text of `no account or login hint was passed to the AcquireTokenSilent call.`  This message generally means that the token or permissions are out of sync. Typically the user needs to provide new consents, or the token expires.
 
@@ -203,6 +205,26 @@ Fix 1: Clear your cookies in whatever web browser you are using an try again.
 Fix 2: Check to ensure that the AzureAd configuration has the correct `TenantId`, `ClientId`, and `ClientSecret`.
 
 Fix 3: Implement the changes in the 'Login Changes' section below.
+
+##### Message contains error: 'invalid_client' error_description: 'AADSTS650053'
+
+The full messages is something like
+
+> OpenIdConnectProtocolException: Message contains error: 'invalid_client', error_description: 'AADSTS650053: The application '*Application Name*' asked for scope '*Scope Name*' that doesn't exist on the resource '00000003-0000-0000-c000-000000000000'. Contact the app vendor.
+
+Where *Application Name* is your application name (as known in Azure Active Directory) and *Scope Name* is the scope you have defined.
+
+This is due to you **NOT** having the fully qualified Scope Name in the `AuthorizeForScopes` attributes.  The `Scopes` parameter should be the fully qualified name with the app uri as defined in the Azure App Registration for your API.  In this sample I had.
+
+```cs
+[AuthorizeForScopes(Scopes = new []{"Contacts.List"})]
+```
+
+instead of
+
+```cs
+[AuthorizeForScopes(Scopes = new []{"api://dc68a11f-d265-4e9c-8a24-abbbd3520f8a/Contacts.List"})]
+```
 
 ### Login Changes
 
