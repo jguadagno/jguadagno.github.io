@@ -73,9 +73,9 @@
             "name" : "Build and Ship It!",
             "url": "/presentations/build-and-ship-it",
             "date": "2020-10-27",
-            "comments": ""
+            "comments": "Cancelled"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName": "Code PaLOUsa 2020",
