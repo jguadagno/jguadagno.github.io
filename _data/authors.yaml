@@ -9,7 +9,7 @@ Joseph Guadagno:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jguadagno@hotmail.com"
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-globe"
       url: "https://www.josephguadagno.net"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
