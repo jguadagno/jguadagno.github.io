@@ -15,11 +15,11 @@ In this post, we'll walk through how you can use [Azure Key Vault](https://docs.
 
 If you have secrets set up in your Key Vault you jump to [Secret Details](#secret-details). If not, let's create a secret in your Key Vault.  In the Azure Portal, got to your Key Vault and click on `Secrets` in the Settings section on the left.
 
-{% include figure image_path="/assets/images/posts/secure-azure-function-key-vault-settings.png" alt="Azure Key Vault Secrets" caption="Azure Key Vault - Secrets" %}
+![Azure Key Vault Secrets](/assets/images/posts/secure-azure-function-key-vault-settings.png){: .align-center}
 
-Click on `+ Generate/Import` and you will come to the 'Create a secret' blade.
+* Click on `+ Generate/Import` and you will come to the 'Create a secret' blade.
 
-{% include figure image_path="/assets/images/posts/secure-azure-function-key-vault-create-secret.png" alt="Azure Key Vault - Create a Secret" caption="Azure Key Vault - Create a Secret" %}
+![Azure Key Vault - Create a Secret](/assets/images/posts/secure-azure-function-key-vault-create-secret.png){: .align-center}
 
 | --- | --- | --- |
 | Name | Value | Description |
@@ -31,23 +31,23 @@ Click on `+ Generate/Import` and you will come to the 'Create a secret' blade.
 | Set expiration date? | | Unchecked to have the secret never expire |
 | Enabled? | `Yes` | Whether or not to enable the secret on create |
 
-Click `Create`
+* Click `Create`
 
 ### Secret Details
 
 Now that you have created the secret or already have one, we need to go to secret details to get the Url for the secret.
 
-Click on the secret name in your Key Vault secrets.
+* Click on the secret name in your Key Vault secrets.
 
 This will take you to blade that looks like this.
 
-{% include figure image_path="/assets/images/posts/secure-azure-function-key-vault-secret-info.png" alt="Azure Key Vault - Secret Info" caption="Azure Key Vault - Secret Info" %}
+![Azure Key Vault - Secret Info](/assets/images/posts/secure-azure-function-key-vault-secret-info.png){: .align-center}
 
-Click on the current version number. `971663857bc3477ab80f0de1335dad65` in this screen shot.
+* Click on the current version number. `971663857bc3477ab80f0de1335dad65` in this screen shot.
 
 That takes you to the secret details
 
-{% include figure image_path="/assets/images/posts/secure-azure-function-key-vault-secret-details.png" alt="Azure Key Vault - Secret Details" caption="Azure Key Vault - Secret Details" %}
+![Azure Key Vault - Secret Details](/assets/images/posts/secure-azure-function-key-vault-secret-details.png){: .align-center}
 
 You'll notice, as in this screenshot, there is a copy button highlighted next to the **Secret Identifier** that says `Copy to Clipboard`.  Click that button and paste that Url somewhere.  We'll need it in a future step.  In this example, the value is `https://personalsecrets.vault.azure.net/secrets/the-name-of-the-secret/971663857bc3477ab80f0de1335dad65`.  If you notice, the format of the url is `<vault_name>.vault.azure.net/secrets/<name-of-secret>/<secret-version-number>`.
 
@@ -55,9 +55,9 @@ You'll notice, as in this screenshot, there is a copy button highlighted next to
 
 Assuming you have the Azure Function App set up already, click on `Access control (IAM)` in the left menu. Note, you may have to go back to the home of your Key Vault to see it.
 
-Click on `+ Add`, then `Role Assignment`
+* Click on `+ Add`, then `Role Assignment`
 
-{% include figure image_path="/assets/images/posts/secure-azure-function-key-vault-add-role-assignment.png" alt="Azure Key Vault - Add Role Assignment" caption="Azure Key Vault - Add Role Assignment" %}
+![Azure Key Vault - Add Role Assignment](/assets/images/posts/secure-azure-function-key-vault-add-role-assignment.png){: .align-center}
 
 | --- | --- | --- |
 | Name | Value | Description |
@@ -65,13 +65,14 @@ Click on `+ Add`, then `Role Assignment`
 | Assign access to | `Azure AD user, group, or service principal` |
 | Select | `*your function name*` | As you start typing the name, it should start searching for resources that match that |
 
-Select the match, then click save.
+* Select the match
+* Then click save.
 
 ## Azure Function
 
 Now head over to your Azure Function. In the `Settings` group, click on `Configuration`. If you need to create the setting click on `+ New application setting`, otherwise click on an existing setting.
 
-{% include figure image_path="/assets/images/posts/secure-azure-function-function-setting.png" alt="Azure Function - Add/Edit application setting" caption="Azure Function - Add/Edit application setting" %}
+![Azure Key Vault - Add/Edit application settings](/assets/images/posts/secure-azure-function-function-setting.png){: .align-center}
 
 | --- | --- | --- |
 | Name | Value | Description |

@@ -29,11 +29,11 @@ Now that you have an organization you'll need to sign into it. The url should lo
 
 Artifacts, in Azure are hosted as part of a project.  Let's go and create a project for this.  You should a '+ New project' button on your organization page.  Highlighted below.
 
-{% include figure image_path="/assets/images/posts/artifacts-new-project.png" alt="Azure Artifacts - New Project" caption="Azure Artifacts - New Project." %}
+![Azure Artifacts - New Project](/assets/images/posts/artifacts-new-project.png){: .align-center}
 
 Click the '+ New Project' button and you will be prompted with the *new project* dialog.
 
-{% include figure image_path="/assets/images/posts/artifacts-create-new-project.png" alt="Azure Artifacts - Create new Project" caption="Azure Artifacts - Create new Project." %}
+![Azure Artifacts - Create a New Project](/assets/images/posts/artifacts-create-new-project.png){: .align-center}
 
 Enter a `project name`, `description`, and `visibility` for the project.  If you want to change the default version control of *git* and the default work item process of *agile* click the **Advanced** option.
 
@@ -54,11 +54,11 @@ And I am leaving the defaults for `version control` and `work item process`.
 
 After creating the project, Azure DevOps takes you right to the Project home page.  You can access the projects Artifacts section using the table of contents to the left.
 
-{% include figure image_path="/assets/images/posts/artifacts-table-of-contents.png" alt="Azure Artifacts - Project Table of Contents" caption="Azure Artifacts - Project Table of Contents." %}
+![Azure Artifacts - Project Table of Contents](/assets/images/posts/artifacts-table-of-contents.png){: .align-center}
 
 Earlier I said that Azure Artifacts are as part of a project, while that is partially true, for the most part it isn't.  You can see in the image below that after I clicked on *Artifacts* I see one of my other feeds (*SupportLibraries*).  The separate project for me is so I can separate the repositories for each package.  In theory, you can do that for any project and/or repository. I just like them separate.
 
-{% include figure image_path="/assets/images/posts/artifacts-feeds.png" alt="Azure Artifacts - Feed View" caption="Azure Artifacts - Feed View." %}
+![Azure Artifacts - Feed View](/assets/images/posts/artifacts-feeds.png){: .align-center}
 
 ### Create the Feed
 
@@ -66,7 +66,7 @@ Let's create a feed.  A feed, in NuGet terms, is your repository.  This is where
 
 Click the '+ Create Feed' button.
 
-{% include figure image_path="/assets/images/posts/artifacts-create-feed.png" alt="Azure Artifacts - Create Feed" caption="Azure Artifacts - Create Feed." %}
+![Azure Artifacts - Create Feed](/assets/images/posts/artifacts-create-feed.png){: .align-center}
 
 I've entered the following for the new feed.  Keep in mind, as the note states beneath the `name` field, this name will appear in the URL for your feed.
 
@@ -82,7 +82,7 @@ Click 'Create'
 
 Once the creation is done, you are ready to connect to the feed.
 
-{% include figure image_path="/assets/images/posts/artifacts-connect-to-feed.png" alt="Azure Artifacts - Connect to the Feed" caption="Azure Artifacts - Connect to the Feed." %}
+![Azure Artifacts - Connect to the Feed](/assets/images/posts/artifacts-connect-to-feed.png){: .align-center}
 
 ## Connect to the Feed
 

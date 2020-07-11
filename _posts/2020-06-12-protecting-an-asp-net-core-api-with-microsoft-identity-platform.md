@@ -35,7 +35,7 @@ First, log into the Azure Portal.
 - In the search box, type `Azure Active Directory` and select it
 - Click on 'Create'
 
-{% include figure image_path="/assets/images/posts/protect-api-create-tenant.png" alt="Azure Active Directory - Create Tenant" caption="Azure Active Directory - Create Tenant" %}
+![Azure Active Directory - Create Tenant](/assets/images/posts/protect-api-create-tenant.png){: .align-center}
 
 Enter an Organization name. The organization name is required and should be something that relates to your organization.
 
@@ -43,7 +43,7 @@ Next, enter the initial domain name. This domain name is a subdomain of onmicros
 
 Select your country and click 'Create'. Once the directory is created, you will see a message similar to this.
 
-{% include figure image_path="/assets/images/posts/protect-api-tenant-created.png" alt="Azure Active Directory - Create Tenant" caption="Azure Active Directory - Tenant Created" %}
+![Azure Active Directory - Tenant Created](/assets/images/posts/protect-api-tenant-created.png){: .align-center}
 
 ### Registering Applications with the Directory
 
@@ -55,7 +55,7 @@ This application is used by your ASP.NET Core Web Api to check the clients authe
 
 Back in the Azure portal for your tenant, click on 'App Registration', and then click on '+ New Registration'
 
-{% include figure image_path="/assets/images/posts/protect-api-create-application.png" alt="Azure Active Directory - Register Application" caption="Azure Active Directory - Register Application" %}
+![Azure Active Directory - Register Application](/assets/images/posts/protect-api-create-application.png){: .align-center}
 
 - Enter a name, I typically choose the name of the application and 'Api'. Example: `Contacts Api`
 - Choose who can access your application.  For this post I am choosing the option that allows anyone that has a Azure AD Account or consumers account (Xbox, Skype, etc) access to the Api.  That is `Accounts in any organizational directory (Any Azure AD directory - Multitenant) and personal Microsoft accounts (e.g. Skype, Xbox)`
@@ -98,13 +98,13 @@ For this sample, we will create one scope to use and enable in our application.
 
 In the Azure portal, go to the API application registration and click on 'Expose an API'.  You'll see something similar to this.
 
-{% include figure image_path="/assets/images/posts/protect-api-expose-an-api.png" alt="Protect a Web Api - Expose an Api" caption="Protect an Api - Expose an Api" %}
+![Protect an Api - Expose an Api](/assets/images/posts/protect-api-expose-an-api.png){: .align-center}
 
 Where you see the 'Application ID URI', click 'Set'. You'll something like `api://747cc384-f337-4138-a25b-6b38664404a5`. This is used as the base of your scopes, the Guid is automatically generated.  Click 'Save'. Copy this somewhere, we'll need it later.
 
 Next, we'll add one or more scopes.  You'll want one scope defined for every permission you want.  If you think of it from an operating systems file stand point, one permission to read, one to write, one to delete, etc.  Click on '+ Add a scope'.
 
-{% include figure image_path="/assets/images/posts/protect-api-add-a-scope.png" alt="Protect a Web Api - Add a scope" caption="Protect an Api - Add a Scope" %}
+![Protect an Api - Add a Scope](/assets/images/posts/protect-api-add-a-scope.png){: .align-center}
 
 | --- | --- | --- |
 | Name | Value | Description |
@@ -130,7 +130,7 @@ Go to the App Registration for the Client application in the Azure portal and cl
 
 - Click on '+ Add a permission'
 
-{% include figure image_path="/assets/images/posts/protect-api-request-api-permissions.png" alt="Protect a Web Api - Request API permissions" caption="Protect an Api - Request Api Permissions" %}
+![Protect an Api - Request API Permissions](/assets/images/posts/protect-api-request-api-permissions.png){: .align-center}
 
 - Click on 'My APIs'
 - Select your Api: `Contacts Api`
@@ -262,7 +262,7 @@ Add a new request in Postman to get the contacts which will call the `\Contacts`
 - For **Type**, select 'OAuth 2.0'
 - Click 'Get New Access Token'
 
-{% include figure image_path="/assets/images/posts/protect-api-postman-access-token.png" alt="Protect a Web Api - Postman - Get New Access Token" caption="Protect an Api - Postman - Get new access token" %}
+![Protect an Api - Postman - Get a New Access Token](/assets/images/posts/protect-api-postman-access-token.png){: .align-center}
 
 | --- | --- | --- |
 | Name | Value | Description |
@@ -281,7 +281,7 @@ Add a new request in Postman to get the contacts which will call the `\Contacts`
 
 After authenticating with your Microsoft or Domain account, you will be presented with a Permissions screen similar to this.
 
-{% include figure image_path="/assets/images/posts/protect-api-login-permissions.png" alt="Protect a Web Api - Postman - Login Permissions" caption="Protect an Api - Postman - Permission Consent" %}
+![Protect an Api - Postman - Permission Concent](/assets/images/posts/protect-api-login-permissions.png){: .align-center}
 
 After you click 'Yes' you will be presented with a the 'Manage Access Tokens' screen in Postman. Click 'Use Token'.  If you are curious what is in that token, visit [jwt.ms](https://jwt.ms) and paste the contents of that token into the textbox.
 

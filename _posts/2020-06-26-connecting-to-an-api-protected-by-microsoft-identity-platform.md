@@ -24,11 +24,11 @@ For the new client application, the ASP.NET Core Web application, we will use us
 
 Navigate to your Azure Active Directory Tenant, click on 'App Registrations', and select your API application. In the App Registration for your API, click on 'Expose an API.'
 
-{% include figure image_path="/assets/images/posts/protect-api-expose-an-api.png" alt="Protect a Web Api - Expose an Api" caption="Protect an Api - Expose an Api" %}
+![Protect a Web Api - Expose an API](/assets/images/posts/protect-api-expose-an-api.png){: .align-center}
 
 Click on '+ Add a scope'
 
-{% include figure image_path="/assets/images/posts/protect-api-add-a-scope.png" alt="Protect a Web Api - Add a scope" caption="Protect an Api - Add a Scope" %}
+![Protect a Web Api - Add a Scope](/assets/images/posts/protect-api-add-a-scope.png){: .align-center}
 
 | --- | --- | --- |
 | Name | Value | Description |
@@ -54,7 +54,7 @@ Now in that newly created application, go to 'API permissions.'
 
 You should see the new 'user_impersonation' permissions under the 'Permission' section.
 
-{% include figure image_path="/assets/images/posts/connecting-to-protected-api-request-permission.png" alt="Connecting to a Protected API - Requesting Permissions" caption="Connecting to a Protected API - Requesting Permissions" %}
+![Connecting to a Protected API - Requesting Permissions](/assets/images/posts/connecting-to-protected-api-request-permission.png){: .align-center}
 
 * Check 'user_impersonation'
 * Click 'Add permissions'

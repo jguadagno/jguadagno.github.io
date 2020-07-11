@@ -47,13 +47,13 @@ Once the creation is complete, you will have to select how this application is g
 
 * Select '+ New client secret'.
 
-{% include figure image_path="/assets/images/posts/pipeline-create-client-id.png" alt="Pipeline - Creating the Client Id" caption="Pipeline - Creating the Client Id" %}
+![Pipeline - Creating the Client Id](/assets/images/posts/pipeline-create-client-id.png){: .align-center}
 
 * Enter a description and chose the expiration date.  I chose to never expire the client id since this will only be used for the pipeline.
 * Click 'Add'
 * Copy the secret value.  You will need the later. As mentioned in the image below and one top of the blade, the client secret wont be available to be retrieved again once you leave this blade.
 
-{% include figure image_path="/assets/images/posts/pipeline-save-secret.png" alt="Pipeline - Remember save the secret" caption="Pipeline - Remember to save the secret" %}
+![Pipeline - Remember to Save the Secret](/assets/images/posts/pipeline-save-secret.png){: .align-center}
 
 ## Assign the Contributor role to the Application
 
@@ -78,7 +78,7 @@ Now that we established the application and assigned it to the *contributor* rol
 * Click on 'Access Policies'
 * Click on '+ Add Access Policy'
 
-{% include figure image_path="/assets/images/posts/pipeline-add-access-policy.png" alt="Pipeline - Add Access Policy" caption="Pipeline - Add Access Policy" %}
+![Pipeline - Add Access Policy](/assets/images/posts/pipeline-add-access-policy.png){: .align-center}
 
 ### Required Permissions
 

@@ -204,7 +204,7 @@ All of the other settings, Hotkeys, Game Overlay, Scene Collections, Notificatio
 
 Scenes in OBS provide a different way to provide content to the viewer. Do you just want to show code? Do you just want to show you?  Scenes are a way to do that, and a preference.  From what I have seen, no two streams are the same.  I have eight scenes registered, three of them are just helper scenes that are reused as part of other scenes.
 
-{% include figure image_path="/assets/images/posts/streaming-software-scenes.jpg" alt="Coding with JoeG Scenes" caption="Coding with JoeG - Scenes" %}
+![Coding with JoeG Scenes](/assets/images/posts/streaming-software-scenes.jpg){: .align-center}
 
 | Scene Name | Use |
 | Overlay | Samples, provided by the theme, with some visual UI elements |

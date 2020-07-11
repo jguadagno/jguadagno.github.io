@@ -27,27 +27,27 @@ Sign into the Azure DevOps portal, click on *Pipelines* then *Pipelines* or visi
 
 If you don't have any pipelines created, you'll see this.
 
-{% include figure image_path="/assets/images/posts/build-sign-create-pipeline.png" alt="Build and Sign - Create Pipeline" caption="Build and Sign - Create Pipeline" %}
+![Build and Sign - Create Pipeline](/assets/images/posts/build-sign-create-pipeline.png){: .align-center}
 
 Click 'Create Pipeline' to start the Pipeline Wizard.
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-connect.png" alt="Build and Sign - Create Pipeline Wizard - Connect" caption="Build and Sign - Create Pipeline Wizard - Connect" %}
+![Build and Sign - Create Pipeline Wizard - Connect](/assets/images/posts/build-sign-pipeline-connect.png){: .align-center}
 
 Choose the repository where your source code is. I used 'Azure Repos Git'
 
 Select the repository. I chose my 'AwesomeSample' repository
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-select.png" alt="Build and Sign - Create Pipeline Wizard - Select" caption="Build and Sign - Create Pipeline Wizard - Select" %}
+![Build and Sign - Create Pipeline Wizard - Select](/assets/images/posts/build-sign-pipeline-select.png){: .align-center}
 
 Now choice your pipeline.
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-configure.png" alt="Build and Sign - Create Pipeline Wizard - Configure" caption="Build and Sign - Create Pipeline Wizard - Configure" %}
+![Build and Sign - Create Pipeline Wizard - Configure](/assets/images/posts/build-sign-pipeline-configure.png){: .align-center}
 
 If you chose, 'Show more', you will get some templates for common projects like .NET applications, web application, Android applications, and more.
 
 Click 'Starter pipeline' since we are going to build it from scratch.  This will bring use to the pipeline editor to review it.
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-review.png" alt="Build and Sign - Create Pipeline Wizard - Review" caption="Build and Sign - Create Pipeline Wizard - Review" %}
+![Build and Sign - Create Pipeline Wizard - Review](/assets/images/posts/build-sign-pipeline-review.png){: .align-center}
 
 ### Pipeline Editor
 
@@ -55,7 +55,7 @@ While you are good to go at this point, once you click 'Save and run', let's go 
 
 The components of the editor:
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-review-annotated.png" alt="Build and Sign - Create Pipeline Wizard - Annotated Editor" caption="Build and Sign - Create Pipeline Wizard - Annotated Editor" %}
+![Build and Sign - Create Pipeline Wizard - Annotated Editor](/assets/images/posts/build-sign-pipeline-review-annotated.png){: .align-center}
 
 **1** - Repository Name
 
@@ -135,7 +135,7 @@ In order to run the unit tests and ultimately sign the package we need to build 
 
 You'll notice after we paste or type in the code in the editor a *Settings* item appeared.  You can click on this to get the assistant to open for that task.  It looks something like this.
 
-{% include figure image_path="/assets/images/posts/build-sign-assistant.png" alt="Build and Sign - Task Assistant" caption="Build and Sign - Task Assistant" %}
+![Build and Sign - Task Assistant](/assets/images/posts/build-sign-assistant.png){: .align-center}
 
 The 'Assistant' provides a GUI for editing specifics of a task.  In most cases you can click on '*About this task*' for the tasks documentation.
 
@@ -243,7 +243,7 @@ You'll probably want to open another tab for this step. In the new tab, navigate
 
 You should see a variable *New variable group* screen.
 
-{% include figure image_path="/assets/images/posts/build-sign-variable-groups.png" alt="Build and Sign - Creating a Variable Group" caption="Build and Sign - Creating a Variable Group" %}
+![Build and Sign - Creating a Variable Group](/assets/images/posts/build-sign-variable-groups.png){: .align-center}
 
 * Click on '+ Variable Group'
 * Enter the following
@@ -259,7 +259,7 @@ You should see a variable *New variable group* screen.
 
 Once the 'Link secrets from an Azure Key vault as variables' is complete and you click '+ Add' under variables, you will be presented with a dialog to 'Choose secrets', similar to this one.
 
-{% include figure image_path="/assets/images/posts/build-sign-variable-add.png" alt="Build and Sign - Adding a linked variable" caption="Build and Sign - Adding a linked variable" %}
+![Build and Sign - Adding a linked variable](/assets/images/posts/build-sign-variable-add.png){: .align-center}
 
 I added the client id and secrets to my vault already, so I selected them and clicked ok.
 
@@ -280,14 +280,14 @@ variables:
 
 Since we are accessing the library now, this pipeline is going to need extra permissions.
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-needs-permission.png" alt="Build and Sign - Pipeline needs permissions" caption="Build and Sign - Pipeline needs permissions" %}
+![Build and Sign - Pipeline needs permissions](/assets/images/posts/build-sign-pipeline-needs-permission.png){: .align-center}
 
 * Click 'View'
 * Click 'Permit'
 
 You'll be prompted to confirm the permission.
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-needs-permission-confirm.png" alt="Build and Sign - Pipeline confirm permission" caption="Build and Sign - Pipeline confirm permissions" %}
+![Build and Sign - Pipeline Confirm Permissions](/assets/images/posts/build-sign-pipeline-needs-permission-confirm.png){: .align-center}
 
 * Click 'Permit'
 
@@ -367,7 +367,7 @@ We started this task to get triggered whenever there was a commit to the master 
 
 * Click the 'Save' button, or 'Save and Run' if you haven't been saving along with the post.
   
-{% include figure image_path="/assets/images/posts/build-sign-save-pipeline.png" alt="Build and Sign - Save Pipeline" caption="Build and Sign - Save the Pipeline" %}
+![Build and Sign - Save Pipeline](/assets/images/posts/build-sign-save-pipeline.png){: .align-center}
 
 * Enter a commit message
 * Any optional text (optional)
@@ -376,21 +376,21 @@ We started this task to get triggered whenever there was a commit to the master 
 
 At this point the commit is being saved and a pipeline run is being triggered. Open up a new tab with the pipeline showing.
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-view.png" alt="Build and Sign - Pipeline View" caption="Build and Sign - Pipeline View" %}
+![Build and Sign - Pipeline View](/assets/images/posts/build-sign-pipeline-view.png){: .align-center}
 
 You'll see the repository name, 'AwesomeSample' in this case, with the Last Run. This image in front of the repository name indicates the start of the run.  In the case of the image above, it's being queued.  If it fails, you will get an ![red X](/assets/images/posts/azure-red-x.png) . If you click on the commit message, in this case *#20200412.1 - Blog post complete*, you will get to the job details to see what went wrong.  
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-job-failed.png" alt="Build and Sign - Pipeline Job Failed" caption="Build and Sign - Pipeline Job Failed" %}
+![Build and Sign - Pipeline Job Failed](/assets/images/posts/build-sign-pipeline-job-failed.png){: .align-center}
 
 This shows us that there was a failure with one of the dotnet.exe tasks.  If you click on the Job below, you can see exactly what happened.
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-job-failed-details.png" alt="Build and Sign - Pipeline Job Failed with Details" caption="Build and Sign - Pipeline Job Failed with details" %}
+![Build and Sign - Pipeline Job Failed with Details](/assets/images/posts/build-sign-pipeline-job-failed-details.png){: .align-center}
 
 We see that the task '*Build the Assembly*' failed, if you click on it, you will see the details.
 
 This was just for illustration, I had the paths and folders different from what the pipeline scripts were expecting. In addition, I was missing the Visual Studio solution, otherwise you have to update the tasks with folder paths.  If you build is successful, you will see a ![green check mark](/assets/images/posts/azure-green-check.png) to the job. And if you click on the job you'll see ![green check mark](/assets/images/posts/azure-green-check.png) next to all of the tasks.
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-success.png" alt="Build and Sign - Pipeline Job Success" caption="Build and Sign - Pipeline Job Success" %}
+![Build and Sign - Pipeline Job Success](/assets/images/posts/build-sign-pipeline-success.png){: .align-center}
 
 Oh, and you'll get an email on the success (and failures).
 
@@ -410,7 +410,7 @@ Some would say that the release builds should be part of workflow, and I agree. 
 * Click on 'Awesome Sample'
 * Click on 'Run Pipeline'
 
-{% include figure image_path="/assets/images/posts/build-sign-pipeline-run.png" alt="Build and Sign - Pipeline Run Dialog" caption="Build and Sign - Run Pipeline Dialog" %}
+![Build and Sign - Pipeline Run Dialog](/assets/images/posts/build-sign-pipeline-run.png){: .align-center}
 
 You'll see the '*Build Configuration to Use*' parameter that we created earlier.  
 

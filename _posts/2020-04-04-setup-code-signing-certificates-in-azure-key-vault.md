@@ -45,13 +45,13 @@ We'll start by creating an Azure Key Vault.
 * In the 'Search the Marketplace' text box, type `Key Vault` and hit 'Enter'
 * Click 'Create'
 
-{% include figure image_path="/assets/images/posts/code-sign-key-vault-create.png" alt="Setup Code Signing Certificates - Key Vault Create" caption="Setup Code Signing Certificates - Key Vault Create" %}
+![Setup Code Signing Certificates - Key Vault Create](/assets/images/posts/code-sign-key-vault-create.png){: .align-center}
 
 ### Key Vault Creation
 
 You'll be presented with the 'Create key vault' wizard.  For the most part, you can leave all of the defaults.
 
-{% include figure image_path="/assets/images/posts/code-sign-key-vault-creation.png" alt="Setup Code Signing Certificates - Key Vault Creation" caption="Setup Code Signing Certificates - Key Vault Creation" %}
+![Setup Code Signing Certificates - Key Vault Creation](/assets/images/posts/code-sign-key-vault-creation.png){: .align-center}
 
 If you want to follow along, here are the settings I used.
 
@@ -73,7 +73,7 @@ Click 'Create'
 
 After a few moments, the vault will be created and you will have a page similar to this.  I blurred out the secret stuff.
 
-{% include figure image_path="/assets/images/posts/code-sign-key-vault-overview.png" alt="Setup Code Signing Certificates - Key Vault Overview" caption="Setup Code Signing Certificates - Key Vault Overview" %}
+![Setup Code Signing Certificates - Key Vault Overview](/assets/images/posts/code-sign-key-vault-overview.png){: .align-center}
 
 Click on 'Go to resource'
 
@@ -95,7 +95,7 @@ Back to the Azure Key Vault page do the following:
 
 If every was successful, you will see a page like this.
 
-{% include figure image_path="/assets/images/posts/code-sign-key-vault-certificate-import-success.png" alt="Setup Code Signing Certificates - Key Vault Successfully Imported Certificate" caption="Setup Code Signing Certificates - Key Vault Successfully Imported Certificate" %}
+![Setup Code Signing Certificates - Key Vault Successfully Imported Certificate](/assets/images/posts/code-sign-key-vault-certificate-import-success.png){: .align-center}
 
 ## Conclusion
 

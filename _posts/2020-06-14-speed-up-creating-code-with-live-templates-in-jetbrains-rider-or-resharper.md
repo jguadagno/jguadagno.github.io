@@ -32,11 +32,11 @@ How you get to viewing or creating the existing templates varies depending on wh
 
 Here is what the Live Template settings looks like.
 
-{% include figure image_path="/assets/images/posts/live-templates-settings.png" alt="Speed up code - Live Template Settings" caption="Speed up Code - Live Template Settings" %}
+![Speed up code - Live Template Settings](/assets/images/posts/live-templates-settings.png){: .align-center}
 
 ### Template Dialog Box Explained
 
-{% include figure image_path="/assets/images/posts/live-templates-settings-annotated.png" alt="Speed up code - Live Template Settings Annotated" caption="Speed up Code - Live Template Settings Annotated" %}
+![Speed up code - Live Template Settings Annotated](/assets/images/posts/live-templates-settings-annotated.png){: .align-center}
 
 The 'Template List' is where you will find all of the templates for the given language.
 

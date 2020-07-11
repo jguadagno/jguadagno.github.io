@@ -14,7 +14,7 @@ It’s not unusual nowadays for the typical person to be overwhelmed with tasks 
 
 ## Main
 
-{% include figure image_path="/assets/images/posts/main.png" alt="Todoist Interface" caption="Todoist Interface" %}
+![Todoist Interface](/assets/images/posts/todoist-main.png){: .align-center}
 
 As you can see the interface is quite simple. On the left, we have three links to “views” of your todo list. ‘Inbox” is used for anything that you did not assign to a project. “Today’ contains any items that are due today. ‘Next 7 days’ contain a list of the items due in the next seven days. There are then links to the projects, that you create with the color your assigned them.  The slightly grayed out number represents how many items are in the view or project.
 
@@ -22,13 +22,13 @@ As you can see the interface is quite simple. On the left, we have three links t
 
 To the right, we have the todo list view.  It contains a header
 
-{% include figure image_path="/assets/images/posts/rightside.png" alt="Header Bar" caption="Header Bar" %}
+![Todoist Header Bar](/assets/images/posts/todoist-right-side.png){: .align-center}
 
 The header contains the current filter applied (mine is overdue and next seven days). A plus button to add a new task. A bell for you to see the application notifications. The shield and numbers represent your todo [Karma](https://todoist.com/Help/Karma) rating and how it is trending.
 
 ### Adding a Task
 
-{% include figure image_path="/assets/images/posts/addtask.png" alt="Adding a Task" caption="Adding a Task" %}
+![Todoist - Adding a Task](/assets/images/posts/todoist-add-task.png){: .align-center}
 
 Adding a task is easy. Though out the desktop application the are multiple locations to add tasks and they all look like the image above.  You simply type the text you want and optionally set a due date. Due dates can be set by selecting from the popup calendar or typing in text like 'Every Friday'.  See [here](https://todoist.com/Help/DatesTimes) for date options. Overall the product is simple to use, and it has helped me a lot in the last month.
 
