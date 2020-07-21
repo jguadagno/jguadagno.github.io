@@ -16,7 +16,7 @@ C: (602) 293-6767<br />
 
 [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com "Click to email")
 
-### Sections <!-- omit in toc -->
+### Sections<!-- omit in toc -->
 
 - [Experience](#experience "jump to section")
 - [Speaking Engagements](#speaking-engagements "jump to section")
