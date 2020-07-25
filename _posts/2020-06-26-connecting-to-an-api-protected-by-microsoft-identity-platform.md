@@ -12,7 +12,7 @@ tags:
 ---
 In a previous [post]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}), I demonstrated how you can protect an ASP.NET Core Web API using the [Microsoft Identity Platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/). In this post, we are going to look at what you need to do to have an ASP.NET Core MVC application interact with the same protected API. It's really easy, once you figure it out! :wink:
 
-**Note!** This post was written based on a preview version of the [Microsoft Identity Web](https://github.com/AzureAD/microsoft-identity-web) library, version [0.1.5-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.1.4-preview). Your experience may vary!
+**Note!** This post was written based on a preview version of the [Microsoft Identity Web](https://github.com/AzureAD/microsoft-identity-web) library, version [0.1.5-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.1.5-preview). It has been updated to version [0.2.0-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.2.0-preview) of the library. Your experience may vary!
 {: .notice--warning}
 
 **Note!** This post assumes that you already have a tenant setup in Azure Active Directory with scopes, similar to the previous [post]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %})
@@ -68,7 +68,7 @@ There are a few different things that you have to do to enable authentication. F
 ### Microsoft.Identity.Web Package
 
 ```bash
-Install-Package Microsoft.Identity.Web -Version 0.1.5-preview
+Install-Package Microsoft.Identity.Web -Version 0.2.0-preview
 ```
 
 **Note** The latest version number might be different.
@@ -88,7 +88,7 @@ You will need to add the `AzureAd` section.
   }
 ```
 
-You need specify the TenantId only if you want to accept access tokens from a single tenant (line-of-business app). Otherwise, you can leave them set to common.
+You need specify the TenantId only if you want to accept access tokens from a single-tenant (line-of-business app). Otherwise, you can leave them set to common.
 
 This can be:
 
@@ -112,7 +112,8 @@ var initialScopes = new[]
 };
 // Token acquisition service based on MSAL.NET
 // and chosen token cache implementation
-services.AddWebAppCallsProtectedWebApi(Configuration, initialScopes)
+services.AddMicrosoftWebAppAuthentication(Configuration)
+    .AddMicrosoftWebAppCallsWebApi(Configuration, initialScopes)
     .AddInMemoryTokenCaches();
 
 services.AddControllersWithViews(options =>
@@ -228,7 +229,7 @@ instead of
 
 ### Login Changes
 
-When you have authentication enabled, the out-of-the-box ASP.NET Core MVC templates use the older Azure Active Directory package of `Microsoft.AspNetCore.Authentication.AzureAD.UI`. This package is safe to remove with respect to this sample. However, there is a small change to the `_LoginPartial.cshtml` that needs to happen. The `SignIn`\\`SignOut` components of the `_LoginPartial.cshtml` page needs to change.  So look for
+When you have authentication enabled, the out-of-the-box ASP.NET Core MVC templates use the older Azure Active Directory package of `Microsoft.AspNetCore.Authentication.AzureAD.UI`. This package is safe to remove with respect to this sample. However, there is a small change to the `_LoginPartial.cshtml` that needs to happen. The `SignIn`\\`SignOut` components of the `_LoginPartial.cshtml` page ~~needs~~ to change.  So look for
 
 ```html
 <a class="nav-link text-dark" asp-area="AzureAD" asp-controller="Account" asp-action="SignOut">Sign out</a>

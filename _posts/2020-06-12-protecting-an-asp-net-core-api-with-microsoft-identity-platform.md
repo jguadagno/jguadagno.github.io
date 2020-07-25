@@ -14,7 +14,7 @@ This library is for specific usage with:
 - [Web applications](https://github.com/AzureAD/microsoft-identity-web/wiki/web-apps), which sign in users and, optionally, call web APIs
 - [Protected web APIs](https://github.com/AzureAD/microsoft-identity-web/wiki/web-apis), which optionally call protected downstream web APIs
 
-**Note!** This post was written based on a preview version of the [Microsoft Identity Web](https://github.com/AzureAD/microsoft-identity-web) library, version [0.1.4-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.1.4-preview). Your experience may vary!
+**Note!** This post was written based on a preview version of the [Microsoft Identity Web](https://github.com/AzureAD/microsoft-identity-web) library, version [0.1.4-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.1.4-preview). It has been updated to version [0.2.0-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.2.0-preview). Your experience may vary!
 {: .notice--warning}
 
 ## Prerequisites
@@ -51,7 +51,7 @@ Now that we have an Azure Active Directory (AAD) tenant created, we will have to
 
 #### Register the Api Application
 
-This application is used by your ASP.NET Core Web Api to check the clients authentication.
+This application is used by your ASP.NET Core Web API to check the client's authentication.
 
 Back in the Azure portal for your tenant, click on 'App Registration', and then click on '+ New Registration'
 
@@ -176,10 +176,10 @@ That should be it for the portal.  On to the application.
 
 ### ASP.NET Core Web API application
 
-You'll need to make 5 changes to your ASP.NET Core Web API. First is to install the [Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web) package in your API package.  
+You'll need to make 5 changes to your ASP.NET Core Web API. First step is to install the [Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web) package in your API package.  
 
 ```bash
-Install-Package Microsoft.Identity.Web -Version 0.1.4-preview
+Install-Package Microsoft.Identity.Web -Version 0.2.0-preview
 ```
 
 **Note** The version number might be different.
@@ -207,7 +207,7 @@ This can be:
 Now in your `Startup.cs` file, you are going to need to enable the Microsoft Identity Platform. In the `ConfigureServices` method, add as one of the first lines in the method
 
 ```c#
-services.AddProtectedWebApi(Configuration);
+services.AddMicrosoftWebApiAuthentication(Configuration);
 ```
 
 This enables the platform.
@@ -283,13 +283,13 @@ After authenticating with your Microsoft or Domain account, you will be presente
 
 ![Protect an Api - Postman - Permission Concent](/assets/images/posts/protect-api-login-permissions.png){: .align-center}
 
-After you click 'Yes' you will be presented with a the 'Manage Access Tokens' screen in Postman. Click 'Use Token'.  If you are curious what is in that token, visit [jwt.ms](https://jwt.ms) and paste the contents of that token into the textbox.
+After you click 'Yes' you will be presented with the 'Manage Access Tokens' screen in Postman. Click 'Use Token'.  If you are curious what is in that token, visit [jwt.ms](https://jwt.ms) and paste the contents of that token into the textbox.
 
 At this point you should be able to click on 'Send'.
 
 ### Try it out
 
-Make sure the API is running. Once you visit an endpoint you will get a http status code of 401 - Unauthorized.
+Make sure the API is running. Once you visit an endpoint you will get an HTTP status code of 401 - Unauthorized.
 
 - Click 'Send' in Postman
 
@@ -321,11 +321,11 @@ Good luck!
 
 If you get a 'error_description' with it like `Bearer error="invalid_token", error_description="The audience '*some guid*' is invalid"`. This means you have the wrong client id in your appsettings.json.
 
-If you don't get a 'error_description' with it, that generally means something is wrong with the application registration. Go over the steps above.
+If you don't get an 'error_description' with it, that generally means something is wrong with the application registration. Go over the steps above.
 
 ##### 500 Internal Error
 
-You should get a error message with this. The most likely cause is that the name of the scope you have in the c# code does not exists in the token.
+You should get an error message with this. The most likely cause is that the name of the scope you have in the c# code does not exists in the token.
 
 ## Wrap up
 
