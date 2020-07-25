@@ -28,6 +28,7 @@ collections:
     permalink: /presentations/:name
 atom_feed:
   path: "http://feeds.feedburner.com/JosephGuadagno"
+og_image: /assets/images/og_image.png
 
 # Build settings
 markdown: kramdown
