@@ -34,9 +34,9 @@
             "name" : "Building Native Applications with JavaScript and React Native",
             "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
             "date" : "2020-07-31",
-            "comments": ""
+            "comments": "**Canceled**"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "SciFiDevCon",
@@ -47,9 +47,9 @@
             "name" : "Debugging Tips and Tips with Visual Studio",
             "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
             "date" : "2020-07-30",
-            "comments": ""
+            "comments": "**Cancelled**"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "SciFiDevCon",
@@ -60,9 +60,9 @@
             "name" : "Typescript for the Microsoft Developer",
             "url": "/presentations/typescript-for-the-microsoft-developer",
             "date" : "2020-07-31",
-            "comments": ""
+            "comments": "**Cancelled**"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName": "European Cloud Conference",
