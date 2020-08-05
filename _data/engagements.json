@@ -26,6 +26,32 @@
         "isCurrent" : true
     },
     {
+        "eventName" : ".NET Vegas",
+        "eventUrl" : "https://www.meetup.com/dotnetVegas/events/272238267/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Look into your Application with Application Insights",
+            "url": "/presentations/migrate-it",
+            "date" : "2020-08-13",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "Azure Virtual Conference 2020",
+        "eventUrl" : "https://www.2020twenty.net/azure-virtual-conference-2020/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "A Lap Around Microsoft Azure",
+            "url": "/presentations/a-lap-around-microsoft-azure",
+            "date" : "2020-08-07",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "SciFiDevCon",
         "eventUrl" : "https://www.scifidevcon.com/",
         "location" : "Virtual",
