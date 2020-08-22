@@ -26,6 +26,45 @@
         "isCurrent" : true
     },
     {
+        "eventName" : "Virtual Developers Conference in Mauritius",
+        "eventUrl" : "https://conference.mscc.mu/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Debugging Tips and Tricks with Visual Studio",
+            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+            "date" : "2020-09-09",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "Virtual Developers Conference in Mauritius",
+        "eventUrl" : "https://conference.mscc.mu/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Help Your Application Scale with Azure",
+            "url": "/presentations/help-your-application-scale-with-azure",
+            "date" : "2020-09-09",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "CodepoLOUsa",
+        "eventUrl" : "http://www.codepalousa.com/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Migrate It!",
+            "url": "/presentations/migrate-it",
+            "date" : "2020-08-21",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
         "eventName" : ".NET Vegas",
         "eventUrl" : "https://www.meetup.com/dotnetVegas/events/272238267/",
         "location" : "Virtual",
@@ -36,7 +75,7 @@
             "date" : "2020-08-13",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Azure Virtual Conference 2020",
