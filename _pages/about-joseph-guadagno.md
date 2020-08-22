@@ -8,7 +8,8 @@ Joe Guadagno is a Director of Engineering at Quicken Loans, the nation’s large
 
 ### Some of my notable achievements
 
-* Streaming 'Coding with JoeG' on [Twitch](https://twitch.tv/jguadagno)
+* Streaming 'Coding with JoeG' on [Twitch](https://twitch.tv/jguadagno){:target="_blank"}
+* [Telerik](https://www.telerik.com/){:target="_blank"} [Ninja](https://www.telerik.com/ninjas){:target="_blank"} - August 2020
 * Friend of Redgate [program](http://www.red-gate.com/community/friends-of-rg){:target="_blank"} (2015 to 2018)
 * Former President,Vice President, and Marketing Director of [INETA](http://ineta.org/){:target="_blank"} North America (2007-2015)
 * Founder of the Southeast Valley .NET User Group ([SEVDNUG](http://sevdnug.org/home.aspx){:target="_blank"}) in Chandler, AZ (2007-2013)
