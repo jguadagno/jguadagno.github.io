@@ -141,7 +141,7 @@
             "comments": "Cancelled"
         },
         "isCurrent" : false
-    }
+    },
     {
         "eventName": "Software Architecture Virtual Conference",
         "eventUrl" : "https://www.c-sharpcorner.com/events/software-architecture-virtual-conference",
