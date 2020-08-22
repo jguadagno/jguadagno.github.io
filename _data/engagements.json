@@ -141,20 +141,7 @@
             "comments": "Cancelled"
         },
         "isCurrent" : false
-    },
-    {
-        "eventName": "Code PaLOUsa 2020",
-        "eventUrl" : "http://www.codepalousa.com/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Migrate It!",
-            "url": "/presentations/migrate-it",
-            "date": "2020-08-19",
-            "comments": ""
-        },
-        "isCurrent" : true
-    },
+    }
     {
         "eventName": "Software Architecture Virtual Conference",
         "eventUrl" : "https://www.c-sharpcorner.com/events/software-architecture-virtual-conference",
