@@ -272,4 +272,5 @@ Wow, that was a lot.  Any questions, please feel free to send me and email or tw
 * Follow the 425show on [Twitch](https://www.twitch.tv/425show){:target="_blank"}
 
 A recording of me explaining this on my [Twitch](https://jjg.me/stream){:target="_blank"} stream.
+
 {% include video id="cR_ZGt363p4" provider="youtube" %}
