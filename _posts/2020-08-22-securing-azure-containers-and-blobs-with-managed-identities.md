@@ -270,3 +270,6 @@ Wow, that was a lot.  Any questions, please feel free to send me and email or tw
 
 * Microsoft identity platform [documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/){:target="_blank"}
 * Follow the 425show on [Twitch](https://www.twitch.tv/425show){:target="_blank"}
+
+A recording of me explaining this on my [Twitch](https://jjg.me/stream){:target="_blank"}
+{% include video id="R_ZGt363p4" provider="youtube" %}
