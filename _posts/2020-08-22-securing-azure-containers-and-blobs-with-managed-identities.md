@@ -12,7 +12,7 @@ tags:
   - MSAL
   - Managed Identity
 ---
-I've been streaming 'Coding with JoeG' on [Twitch](https://www.twitch.tv/jguadagno){:target="_blank"} for a few months now. The general theme of the stream is teaching software development with C#. We've been building a contact management application to demonstrate some *best practices*.  About two weeks ago, or so, I added an Azure Storage Blob Container to hold the images of the contacts. I did this using the way I knew how to do it using [Storage Access Keys](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage){:target="_blank"} and a library, [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage/){:target="_blank"}, that I wrote to make it '*easier*' to interact with Azure Storage. While talking about the stream on twitter, [Christos](https://twitter.com/ChristosMatskas){:target="_blank"}, PM on the Microsoft Identity team, reached out and said I should try securing the Container/Blob with [Managed Identity](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-msi){:target="_blank"}.  I tried on the stream for a good 5 or so hours and could not get it to work.  If you want to see it, check out the recording of the stream on my [YouTube](https://jjg.me/youtube){:target="_blank"} channel.
+I've been streaming 'Coding with JoeG' on [Twitch](https://www.twitch.tv/jguadagno){:target="_blank"} for a few months now. The general theme of the stream is teaching software development with C#. We've been building a contact management application to demonstrate some *best practices*.  About two weeks ago, or so, I added an Azure Storage Blob Container to hold the images of the contacts. I did this using the way I knew how to do it using [Storage Access Keys](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage){:target="_blank"} and a library, [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage/){:target="_blank"}, that I wrote to make it '*easier*' to interact with Azure Storage. While talking about the stream on Twitter, [Christos](https://twitter.com/ChristosMatskas){:target="_blank"}, PM on the Microsoft Identity team, reached out and said I should try securing the Container/Blob with [Managed Identity](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-msi){:target="_blank"}.  I tried on the stream for a good 5 or so hours and could not get it to work.  If you want to see it, check out the recording of the stream on my [YouTube](https://jjg.me/youtube){:target="_blank"} channel.
 
 * Security Azure Blob Using Microsoft Identity [Part 1](https://www.youtube.com/watch?v=JX_ysOk-IYM){:target="_blank"}
 * Security Azure Blob Using Microsoft Identity [Part 2](https://www.youtube.com/watch?v=xwoMnUZVafo){:target="_blank"}
@@ -30,7 +30,7 @@ The basic steps are:
 4. Pass the identity of the application to the Azure SDK or [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage/).
 5. Celebrate your secure connection!
 
-But before we talk about securing Azure Storage Blob Containers, let's look out what [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview){:target="_blank"} is. Azure RBAC, or Azure Role Based Access Control, is an authorization system built on Azure Resource Manager that provides fine-grained access management of Azure resources.  It allows you to create roles or use predefined roles for your applications.  Azure Storages has many predefined [roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage){:target="_blank"}. The Azure Storage Container ones are as follows:
+But before we talk about securing Azure Storage Blob Containers, let's look out what [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview){:target="_blank"} is. Azure RBAC, or Azure Role-Based Access Control, is an authorization system built on Azure Resource Manager that provides fine-grained access management of Azure resources.  It allows you to create roles or use predefined roles for your applications.  Azure Storages has many predefined [roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage){:target="_blank"}. The Azure Storage Container ones are as follows:
 
 | --- | --- |
 | Role | Description |
@@ -53,13 +53,13 @@ If you don't have the CLI installed and you prefer the command, check out the [i
 
 To register your application with Azure using the Azure CLI, open up Terminal, Bash, Command Prompt, ITerm, or whatever your preferred command prompt is.
 
-First, you need to login with the command line.
+First, you need to log in with the command line.
 
 ```powershell
 az login
 ```
 
-After you are logged in, the next step would be to create the Azure Active Directory service principal.  This *registers* the application.  You can use the [ad sp](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest){:target="_blank"} command, which stands for 'Active Directory' 'Service Principal'. We are going to use the `create-for-rbac` sub-command.  The full documentation for it can be found [here](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az-ad-sp-create-for-rbac){:target="_blank"}
+After you are logged in, the next step would be to create the Azure Active Directory service principal.  This *registers* the application.  You can use the [ad sp](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest){:target="_blank"} command, which stands for 'Active Directory' 'Service Principal'. We are going to use `create-for-rbac` sub-command [Documentation](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az-ad-sp-create-for-rbac){:target="_blank"}.
 
 The command looks similar to this.
 
@@ -85,7 +85,7 @@ Replace the following 'tokens' with your actual values
 
 Since the `name` and `role` can contain spaces, you should wrap them in double quotes (").
 
-Assuming you have the authorization and syntax correct, the call will return a JSON file that looks like this:
+Assuming you have the authorization and syntax-correct, the call will return a JSON file that looks like this:
 
 ```json
 {
@@ -106,7 +106,7 @@ You can find more about this approach on [Azure Documentation site](https://docs
 
 ### Azure Portal
 
-If you are like me, you like to do most of the work in the portal, although I find myself using command line more.  Let's take a look registering your application with the portal.
+If you are like me, you like to do most of the work in the portal, although I find myself using the command line more.  Let's take a look at registering your application with the portal.
 
 #### Register the Application
 
@@ -120,7 +120,7 @@ Click on '+ New registration'
 | Name | Value | Description |
 | Name | `my application` | The name you want to identify with this application |
 | Supported account types | `Accounts in any organization...` | Chose the type that fits your needs |
-| Redirect URI (Optional) |  | This is required if you are going to be using the application to sign in.  I'm leaving blank for this |
+| Redirect URI (Optional) |  | This is required if you are going to be using the application to sign in.  I'm leaving this blank for local development |
 
 * Click 'Register'
 
@@ -130,7 +130,7 @@ You will be presented with the information around the application.  Copy down th
 
 * Find the 'Certificates & secrets' link on the menu on the left and click it.
 * Click '+ New client secret'
-* Add a description.  The Azure Command line calls it `rbac` but I don't think the name matters.
+* Add a description.  The Azure CLI names it `rbac` but I don't think the name matters.
 * Chose an expires in option.
 * Copy the value.
 
@@ -139,11 +139,11 @@ You will be presented with the information around the application.  Copy down th
 
 #### Assign the Role
 
-Now we need to assign a role to the application with allows the application to use the Azure Storage container.
+Now we need to assign a role to the application which allows the application to use the Azure Storage container.
 
-Navigate to container that you want to provide access and click on 'Access control (IAM') on the left menu.
+Navigate to the container that you want to provide access and click on 'Access control (IAM') on the left menu.
 
-There are two ways to add the role.  Option 1, is click the '+ Add', then 'Add role assignment'. Option 2, is click the 'Add' button.
+There are two ways to add the role.  Option 1, click the '+ Add', then 'Add role assignment'. Option 2, click the 'Add' button.
 
 ![Add IAM Role](/assets/images/posts/securing-container-add-role.png){: .align-center}
 
@@ -229,7 +229,7 @@ await blobs.UploadAsync("blob1.txt", "path_to_file");
 
 ### Local Development
 
-Your setup may vary depending on the IDE you are usually, Visual Studio, Jetbrains Rider, IntelliJ, Visual Studio Code, etc.  I'm going to show you how to setup your *Environment* variables to use the `DefaultAzureCredentials`.  For this, you will need the Application (Client) ID, Directory (Tenant) ID, and Client Secret (password).
+Your setup may vary depending on the IDE you are using, Visual Studio, Jetbrains Rider, IntelliJ, Visual Studio Code, etc.  I'm going to show you how to set up your *Environment* variables to use the `DefaultAzureCredentials`.  For this, you will need the Application (Client) ID, Directory (Tenant) ID, and Client Secret (password).
 
 #### Windows
 
