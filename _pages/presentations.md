@@ -1,8 +1,6 @@
 ---
 title: Presentations
 author: Joseph Guadagno
-dsq_thread_id:
-  - "3566992649"
 permalink: /presentations/
 ---
 If you would like for me to speak at your event please [contact me]({% link _pages/contact.md %}).
