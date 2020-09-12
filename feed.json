@@ -15,7 +15,7 @@ layout: null
   },
   "expired": "false",
   "items": [
-{% for post in site.posts limit:15 %}
+{% for post in site.posts %}
     {
       "id": "{{ post.id }}",
       "url": "{{ site.baseurl }}{{ post.url }}?utm_source=jsonFeed&amp;utm_medium=jsonFeed&amp;utm_campaign={{ post.title | replace: ',','' | replace: ' ', '' | handleize | xml_escape }}",
