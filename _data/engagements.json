@@ -32,7 +32,7 @@
         "presentation" :
         {
             "name" : ".NET 5 - What is it?",
-            "url": "/presentations/ddotnet5-what-is-it",
+            "url": "/presentations/dotnet5-what-is-it",
             "date" : "2020-10-15",
             "comments": ""
         },
