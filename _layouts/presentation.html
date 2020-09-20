@@ -19,3 +19,16 @@ layout: single
 <h3>Slide Deck</h3>
 <iframe src="{{page.powerPointUrl}}" width="610px" height="367px" frameborder="0"></iframe>
 {% endif %}
+
+{% if page.youTubeId %}
+{% capture youtube_id %}
+{{page.youTubeId}}
+{% endcapture %}
+<h3>Video</h3>
+{% include video id=youtube_id provider="youtube" %}
+{% if page.youTubeCaption %}
+<p class="text-center">
+{{page.youTubeCaption}}
+</p>
+{% endif %}
+{% endif %}
