@@ -26,6 +26,19 @@
         "isCurrent" : true
     },
     {
+        "eventName" : ".NET Virtual Conference",
+        "eventUrl" : "https://www.2020twenty.net/dotnet/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : ".NET 5 - What is it?",
+            "url": "/presentations/ddotnet5-what-is-it",
+            "date" : "2020-10-15",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "Virtual Developers Conference in Mauritius",
         "eventUrl" : "https://conference.mscc.mu/",
         "location" : "Virtual",
@@ -36,7 +49,7 @@
             "date" : "2020-09-09",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Virtual Developers Conference in Mauritius",
@@ -49,7 +62,7 @@
             "date" : "2020-09-09",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "CodepoLOUsa",
