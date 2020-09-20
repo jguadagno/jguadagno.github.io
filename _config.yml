@@ -29,6 +29,38 @@ collections:
 atom_feed:
   path: "http://feeds.feedburner.com/JosephGuadagno"
 og_image: /assets/images/og_image.png
+author: 
+  name        : "Joseph Guadagno - config"
+  bio         : >-
+    Microsoft Developer Services MVP, Director at Quicken Loans, Organizer of Desert Code Camp
+  avatar      : "/assets/images/authors/Joe_Guadagno_512x512.jpg"
+  picture     : "/assets/images/authors/Joe_Guadagno_512x512.jpg"
+  location    : "Chandler, AZ, USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jguadagno@hotmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-globe"
+      url: "https://www.josephguadagno.net"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jguadagno"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jguadagno"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/JosephGuadagnoNet"
+    - label: "'Coding with JoeG' Videos"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/playlist?list=PLESGit66MnblZW06pJQwB_VPFZnOT-gG2"
+    - label: "Previous Presentations"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/playlist?list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ"
+    - label: "'Coding with JoeG' stream"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/jguadagno"   
 
 # Build settings
 markdown: kramdown
@@ -163,8 +195,6 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/JosephGuadagnoNet"
-
-author: "Joseph Guadagno"
 
 category_archive:
   type: liquid
