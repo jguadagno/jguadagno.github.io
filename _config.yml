@@ -30,7 +30,7 @@ atom_feed:
   path: "http://feeds.feedburner.com/JosephGuadagno"
 og_image: /assets/images/og_image.png
 author: 
-  name        : "Joseph Guadagno - config"
+  name        : "Joseph Guadagno"
   bio         : >-
     Microsoft Developer Services MVP, Director at Quicken Loans, Organizer of Desert Code Camp
   avatar      : "/assets/images/authors/Joe_Guadagno_512x512.jpg"
