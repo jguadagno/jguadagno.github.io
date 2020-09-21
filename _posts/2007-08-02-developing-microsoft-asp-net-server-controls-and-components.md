@@ -1,7 +1,6 @@
 ---
 title: Developing Microsoft ASP.NET Server Controls and Components
 date: 2007-08-02T00:12:56+00:00
-author: Joseph Guadagno
 permalink: /2007/08/02/developing-microsoft-asp-net-server-controls-and-components/
 categories:
   - Books

@@ -1,7 +1,6 @@
 ---
 title: INETA and TechEd
 date: 2011-05-11T18:56:54+00:00
-author: Joseph Guadagno
 permalink: /2011/05/11/ineta-and-teched/
 categories:
   - News

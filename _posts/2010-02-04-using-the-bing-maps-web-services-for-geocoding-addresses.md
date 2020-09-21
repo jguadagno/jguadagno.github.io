@@ -1,7 +1,6 @@
 ---
 title: Using the Bing Maps Web Services for Geocoding Addresses
 date: 2010-02-04T16:06:53+00:00
-author: Joseph Guadagno
 permalink: /2010/02/04/using-the-bing-maps-web-services-for-geocoding-addresses/
 dsq_thread_id:
   - "3570874323"

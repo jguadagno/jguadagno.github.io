@@ -1,7 +1,6 @@
 ---
 title: Gangplank Jr Track at Code Camp Jr.
 date: 2009-10-19T21:35:29+00:00
-author: Joseph Guadagno
 permalink: /2009/10/19/gangplank-jr-track-at-code-camp-jr/
 categories:
   - Arizona Technology News

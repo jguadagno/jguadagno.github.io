@@ -1,7 +1,6 @@
 ---
 title: Desert Code Camp is back
 date: 2009-09-14T09:00:00+00:00
-author: Joseph Guadagno
 permalink: /2009/09/14/desert-code-camp-is-back/
 categories:
   - Arizona Technology News

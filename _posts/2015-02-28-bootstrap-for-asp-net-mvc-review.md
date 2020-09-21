@@ -1,7 +1,6 @@
 ---
 title: Bootstrap for ASP.NET MVC Review
 date: 2015-02-28T18:40:00+00:00
-author: Joseph Guadagno
 permalink: /2015/02/28/bootstrap-for-asp-net-mvc-review/
 dsq_thread_id:
   - "3556291841"

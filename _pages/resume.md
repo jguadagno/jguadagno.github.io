@@ -1,6 +1,5 @@
 ---
 title: Resume
-author: Joseph Guadagno
 excerpt: 'For 20 years or so I have been in Software Development. During that time I have used many tools, languages, and technologies. I started out programming with a small book on QuickBASIC. I later moved on to Visual Basic for DOS. Windows then came along and I starting using Visual Basic for Windows, I then migrated to Visual Basic .NET and eventually ended up using Visual C#. I work as a Team Leader at Quicken Loans, based in Detroit, MI. I am a public speaker and present internationally on a lot of different technology topics, here is a list of the topics I present on https://www.josephguadagno.net/presentations/.  I have been recognized as a Microsoft MVP in .NET (since 2009) and a Friends of Red Gate program (since 2015).'
 dsq_thread_id:
   - "3566993251"

@@ -1,7 +1,6 @@
 ---
 title: Motivation
 date: 2012-04-09T15:48:00+00:00
-author: Joseph Guadagno
 permalink: /2012/04/09/motivation/
 dsq_thread_id:
   - "4379693258"

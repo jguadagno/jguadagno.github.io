@@ -1,7 +1,6 @@
 ---
 title: Beginners Guide to SQL Server Integration Services Using Visual Studio 2005
 date: 2008-02-23T16:00:00+00:00
-author: Joseph Guadagno
 permalink: /2008/02/23/beginners-guide-to-sql-server-integration-services-using-visual-studio-2005/
 dsq_thread_id:
   - "3766263241"

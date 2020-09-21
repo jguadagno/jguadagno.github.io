@@ -1,7 +1,6 @@
 ---
 title: The Power of Community
 date: 2016-12-28T19:58:23+00:00
-author: Joseph Guadagno
 permalink: /2016/12/28/the-power-of-community/
 categories:
   - Articles

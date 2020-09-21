@@ -1,7 +1,6 @@
 ---
 title: Bootstrap Theme Switcher
 date: 2014-05-24T04:07:00+00:00
-author: Joseph Guadagno
 permalink: /2014/05/24/bootstrap-theme-switcher/
 dsq_thread_id:
   - "3566883633"

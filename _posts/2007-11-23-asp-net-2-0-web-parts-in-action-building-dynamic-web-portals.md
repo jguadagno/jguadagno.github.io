@@ -1,7 +1,6 @@
 ---
 title: 'ASP.NET 2.0 Web Parts in Action: Building Dynamic Web Portals'
 date: 2007-11-23T01:00:00+00:00
-author: Joseph Guadagno
 permalink: /2007/11/23/asp-net-2-0-web-parts-in-action-building-dynamic-web-portals/
 categories:
   - Books

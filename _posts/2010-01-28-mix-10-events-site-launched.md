@@ -1,7 +1,6 @@
 ---
 title: Mix 10 Events Site Launched
 date: 2010-01-28T14:25:17+00:00
-author: Joseph Guadagno
 permalink: /2010/01/28/mix-10-events-site-launched/
 dsq_thread_id:
   - "3842850253"

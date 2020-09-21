@@ -1,7 +1,6 @@
 ---
 title: Introduction to jQuery Mobile
 date: 2011-12-31T21:46:53+00:00
-author: Joseph Guadagno
 permalink: /2011/12/31/introduction-to-jquery-mobile/
 dsq_thread_id:
   - "3617238514"

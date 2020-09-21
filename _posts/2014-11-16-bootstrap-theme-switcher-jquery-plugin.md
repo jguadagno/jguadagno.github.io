@@ -1,7 +1,6 @@
 ---
 title: Bootstrap Theme Switcher jQuery plugin
 date: 2014-11-16T02:43:00+00:00
-author: Joseph Guadagno
 permalink: /2014/11/16/bootstrap-theme-switcher-jquery-plugin/
 dsq_thread_id:
   - "3591475275"

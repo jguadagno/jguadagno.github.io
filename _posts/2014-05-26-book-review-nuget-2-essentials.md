@@ -1,7 +1,6 @@
 ---
 title: 'Book Review: NuGet 2 Essentials'
 date: 2014-05-26T16:49:04+00:00
-author: Joseph Guadagno
 permalink: /2014/05/26/book-review-nuget-2-essentials/
 dsq_thread_id:
   - "3582936219"

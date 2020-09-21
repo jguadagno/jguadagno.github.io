@@ -1,7 +1,6 @@
 ---
 title: Call for speakers for 2010
 date: 2009-12-04T14:51:15+00:00
-author: Joseph Guadagno
 categories:
   - Arizona Technology News
 ---

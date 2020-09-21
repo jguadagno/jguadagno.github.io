@@ -1,7 +1,6 @@
 ---
 title: Inside Windows Communication Foundation
 date: 2007-11-23T01:00:00+00:00
-author: Joseph Guadagno
 permalink: /2007/11/23/inside-windows-communication-foundation/
 categories:
   - Books

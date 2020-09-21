@@ -1,7 +1,6 @@
 ---
 title: How to create a Sitefinity custom module
 date: 2008-06-12T04:56:05+00:00
-author: Joseph Guadagno
 permalink: /2008/06/12/how-to-create-a-sitefinity-custom-module/
 dsq_thread_id:
   - "3615253834"

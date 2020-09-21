@@ -1,7 +1,6 @@
 ---
 title: Great Events in November 2012
 date: 2012-11-06T02:28:00+00:00
-author: Joseph Guadagno
 permalink: /2012/11/06/great-events-in-november-2012/
 dsq_thread_id:
   - "3742416602"

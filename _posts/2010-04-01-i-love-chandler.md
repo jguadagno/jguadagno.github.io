@@ -1,7 +1,6 @@
 ---
 title: I Love Chandler…
 date: 2010-04-01T16:19:55+00:00
-author: Joseph Guadagno
 permalink: /2010/04/01/i-love-chandler/
 dsq_thread_id:
   - "5317250711"

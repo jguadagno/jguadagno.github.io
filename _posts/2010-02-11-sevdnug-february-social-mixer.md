@@ -1,7 +1,6 @@
 ---
 title: 'SEVDNUG: February Social Mixer'
 date: 2010-02-11T13:34:50+00:00
-author: Joseph Guadagno
 permalink: /2010/02/11/sevdnug-february-social-mixer/
 dsq_thread_id:
   - "5317250179"

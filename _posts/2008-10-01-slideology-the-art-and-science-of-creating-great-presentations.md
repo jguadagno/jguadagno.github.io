@@ -1,7 +1,6 @@
 ---
 title: 'slide:ology: The Art and Science of Creating Great Presentations'
 date: 2008-10-01T09:31:22+00:00
-author: Joseph Guadagno
 permalink: /2008/10/01/slideology-the-art-and-science-of-creating-great-presentations/
 dsq_thread_id:
   - "3615190871"

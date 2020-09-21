@@ -1,7 +1,6 @@
 ---
 title: Programming .NET Components, 2nd Edition
 date: 2007-11-23T01:00:00+00:00
-author: Joseph Guadagno
 permalink: /2007/11/23/programming-net-components-2nd-edition/
 dsq_thread_id:
   - "3622729827"

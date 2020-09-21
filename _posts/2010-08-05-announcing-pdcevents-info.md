@@ -1,7 +1,6 @@
 ---
 title: Announcing PDCEvents.info
 date: 2010-08-05T21:16:05+00:00
-author: Joseph Guadagno
 permalink: /2010/08/05/announcing-pdcevents-info/
 categories:
   - Technology News

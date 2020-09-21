@@ -1,7 +1,6 @@
 ---
 title: TechEd Events Site Launched
 date: 2011-04-21T15:22:42+00:00
-author: Joseph Guadagno
 permalink: /2011/04/21/teched-events-site-launched/
 dsq_thread_id:
   - "3654714092"

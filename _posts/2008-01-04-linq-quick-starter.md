@@ -1,7 +1,6 @@
 ---
 title: LINQ Quick Starter
 date: 2008-01-04T09:50:45+00:00
-author: Joseph Guadagno
 permalink: /2008/01/04/linq-quick-starter/
 dsq_thread_id:
   - "3616995694"

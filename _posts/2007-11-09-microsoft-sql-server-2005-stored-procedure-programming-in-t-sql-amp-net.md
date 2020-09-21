@@ -1,7 +1,6 @@
 ---
 title: 'Microsoft SQL Server 2005 Stored Procedure Programming in T-SQL &amp;amp; .NET'
 date: 2007-11-09T16:00:00+00:00
-author: Joseph Guadagno
 permalink: /2007/11/09/microsoft-sql-server-2005-stored-procedure-programming-in-t-sql-amp-net/
 categories:
   - Books

@@ -1,7 +1,6 @@
 ---
 title: Upcoming Events in Arizona
 date: 2012-05-03T14:57:00+00:00
-author: Joseph Guadagno
 permalink: /2012/05/03/upcoming-events-in-arizona/
 dsq_thread_id:
   - "4379692859"

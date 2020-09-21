@@ -1,7 +1,6 @@
 ---
 title: Another Phoenix area meet up
 date: 2009-10-01T16:01:50+00:00
-author: Joseph Guadagno
 permalink: /2009/10/01/another-phoenix-area-meet-up/
 categories:
   - Arizona Technology News

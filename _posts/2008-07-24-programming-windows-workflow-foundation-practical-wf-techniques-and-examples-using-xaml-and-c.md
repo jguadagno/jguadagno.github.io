@@ -1,7 +1,6 @@
 ---
 title: 'Programming Windows Workflow Foundation: Practical WF Techniques and Examples using XAML and C#'
 date: 2008-07-24T10:10:45+00:00
-author: Joseph Guadagno
 permalink: /2008/07/24/programming-windows-workflow-foundation-practical-wf-techniques-and-examples-using-xaml-and-c/
 dsq_thread_id:
   - "3579290129"

@@ -1,7 +1,6 @@
 ---
 title: Being More Productive with @Todoist
 date: 2015-03-13T10:55:41+00:00
-author: Joseph Guadagno
 permalink: /2015/03/13/being-more-productive-with-todoist/
 dsq_thread_id:
   - "3592762888"

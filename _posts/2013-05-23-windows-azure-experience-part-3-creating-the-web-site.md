@@ -1,7 +1,6 @@
 ---
 title: 'Windows Azure Experience–Part 3: Creating the Web Site'
 date: 2013-05-23T07:04:00+00:00
-author: Joseph Guadagno
 permalink: /2013/05/23/windows-azure-experience-part-3-creating-the-web-site/
 dsq_thread_id:
   - "4683673517"

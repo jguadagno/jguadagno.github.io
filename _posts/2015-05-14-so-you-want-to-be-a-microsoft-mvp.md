@@ -1,7 +1,6 @@
 ---
 title: So you want to be a Microsoft MVP
 date: 2015-05-14T18:03:21+00:00
-author: Joseph Guadagno
 permalink: /2015/05/14/so-you-want-to-be-a-microsoft-mvp/
 dsq_thread_id:
   - "3764885376"

@@ -1,7 +1,6 @@
 ---
 title: Using the Search Sitemap Provider with the ASP.NET Futures release
 date: 2007-11-27T06:44:16+00:00
-author: Joseph Guadagno
 dsq_thread_id:
   - "3602488251"
 categories:

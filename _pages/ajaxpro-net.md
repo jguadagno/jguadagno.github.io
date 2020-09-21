@@ -1,7 +1,6 @@
 ---
 title: AjaxPro.Net
 date: 2015-03-04T17:05:54+00:00
-author: Joseph Guadagno
 dsq_thread_id:
   - "75176961"
 permalink: /ajaxpro-net/

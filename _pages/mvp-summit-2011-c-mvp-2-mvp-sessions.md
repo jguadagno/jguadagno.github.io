@@ -1,7 +1,6 @@
 ---
 title: 'MVP Summit 2011 &#8211; C# MVP 2 MVP Sessions'
 date: 2015-03-04T17:01:12+00:00
-author: Joseph Guadagno
 permalink: /mvp-summit-2011-c-mvp-2-mvp-sessions/
 ---
 # C# “MVP 2 MVP” Sessions

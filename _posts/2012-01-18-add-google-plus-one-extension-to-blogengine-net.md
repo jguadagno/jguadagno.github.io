@@ -1,7 +1,6 @@
 ---
 title: Add Google Plus One Extension to BlogEngine.NET
 date: 2012-01-18T17:45:00+00:00
-author: Joseph Guadagno
 permalink: /2012/01/18/add-google-plus-one-extension-to-blogengine-net/
 dsq_thread_id:
   - "3585868671"

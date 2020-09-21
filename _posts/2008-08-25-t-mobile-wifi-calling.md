@@ -1,7 +1,6 @@
 ---
 title: T-Mobile WiFi Calling
 date: 2008-08-25T19:47:13+00:00
-author: Joseph Guadagno
 permalink: /2008/08/25/t-mobile-wifi-calling/
 dsq_thread_id:
   - "3663731864"

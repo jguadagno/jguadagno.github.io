@@ -1,7 +1,6 @@
 ---
 title: SQL Pass Events Site Relaunched
 date: 2011-08-02T03:35:20+00:00
-author: Joseph Guadagno
 permalink: /2011/08/02/sql-pass-events-site-relaunched/
 categories:
   - News

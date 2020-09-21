@@ -1,7 +1,6 @@
 ---
 title: 'Community Server Quickly: A Concise and Practical Guide to Installation, Administration, and Customization'
 date: 2008-02-24T00:04:05+00:00
-author: Joseph Guadagno
 permalink: /2008/02/24/community-server-quickly-a-concise-and-practical-guide-to-installation-administration-and-customization/
 categories:
   - Books

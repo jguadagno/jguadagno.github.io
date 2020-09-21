@@ -1,7 +1,6 @@
 ---
 title: DebuggerDisplay Attribute
 date: 2012-01-12T17:49:00+00:00
-author: Joseph Guadagno
 permalink: /2012/01/12/debuggerdisplay-attribute/
 dsq_thread_id:
   - "3617067418"

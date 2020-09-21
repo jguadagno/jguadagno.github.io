@@ -1,6 +1,5 @@
 ---
 title: Presentations
-author: Joseph Guadagno
 permalink: /presentations/
 ---
 If you would like for me to speak at your event please [contact me]({% link _pages/contact.md %}).

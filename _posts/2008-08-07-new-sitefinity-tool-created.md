@@ -1,7 +1,6 @@
 ---
 title: New Sitefinity tool created
 date: 2008-08-07T11:18:00+00:00
-author: Joseph Guadagno
 permalink: /2008/08/07/new-sitefinity-tool-created/
 dsq_thread_id:
   - "3930497331"

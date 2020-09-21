@@ -1,7 +1,6 @@
 ---
 title: Introducing Microsoft ASP.NET AJAX
 date: 2007-11-09T16:00:00+00:00
-author: Joseph Guadagno
 permalink: /2007/11/09/introducing-microsoft-asp-net-ajax-2/
 categories:
   - Books

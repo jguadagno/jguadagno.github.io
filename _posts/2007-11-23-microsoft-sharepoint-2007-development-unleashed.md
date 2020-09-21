@@ -1,7 +1,6 @@
 ---
 title: Microsoft® SharePoint® 2007 Development Unleashed
 date: 2007-11-23T01:00:00+00:00
-author: Joseph Guadagno
 permalink: /2007/11/23/microsoft-sharepoint-2007-development-unleashed/
 categories:
   - Books

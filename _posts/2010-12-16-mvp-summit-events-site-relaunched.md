@@ -1,7 +1,6 @@
 ---
 title: MVP Summit Events Site Relaunched
 date: 2010-12-16T17:52:00+00:00
-author: Joseph Guadagno
 permalink: /2010/12/16/mvp-summit-events-site-relaunched/
 dsq_thread_id:
   - "3710607423"

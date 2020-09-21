@@ -1,7 +1,6 @@
 ---
 title: Managing Software Development with Trac and Subversion
 date: 2008-07-28T06:35:25+00:00
-author: Joseph Guadagno
 permalink: /2008/07/28/managing-software-development-with-trac-and-subversion/
 categories:
   - Books

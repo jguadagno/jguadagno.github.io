@@ -1,6 +1,5 @@
 ---
 title: About Joseph Guadagno
-author: Joseph Guadagno
 permalink: /about-joseph-guadagno/
 classes: wide
 ---

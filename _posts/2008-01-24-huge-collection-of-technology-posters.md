@@ -1,7 +1,6 @@
 ---
 title: Huge Collection of Technology Posters
 date: 2008-01-24T01:46:09+00:00
-author: Joseph Guadagno
 permalink: /2008/01/24/huge-collection-of-technology-posters/
 dsq_thread_id:
   - "3886692501"

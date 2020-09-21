@@ -1,7 +1,6 @@
 ---
 title: Converting an ASP.NET “Mobile” site to use jQuery Mobile
 date: 2011-12-31T22:54:55+00:00
-author: Joseph Guadagno
 permalink: /2011/12/31/converting-an-asp-net-mobile-site-to-use-jquery-mobile/
 dsq_thread_id:
   - "3617142059"

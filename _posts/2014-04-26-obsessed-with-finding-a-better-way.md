@@ -1,7 +1,6 @@
 ---
 title: Obsessed With Finding a Better Way
 date: 2014-04-26T00:08:34+00:00
-author: Joseph Guadagno
 permalink: /2014/04/26/obsessed-with-finding-a-better-way/
 dsq_thread_id:
   - "3615185379"

@@ -1,7 +1,6 @@
 ---
 title: Telerik.Events
 date: 2008-04-25T21:57:12+00:00
-author: Joseph Guadagno
 permalink: /2008/04/25/telerik-events/
 dsq_thread_id:
   - "3618030515"

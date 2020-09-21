@@ -1,7 +1,6 @@
 ---
 title: LINQ in Action
 date: 2008-09-29T11:55:13+00:00
-author: Joseph Guadagno
 permalink: /2008/09/29/linq-in-action/
 dsq_thread_id:
   - "4273137936"

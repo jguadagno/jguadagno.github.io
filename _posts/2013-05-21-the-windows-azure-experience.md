@@ -1,7 +1,6 @@
 ---
 title: The Windows Azure Experience
 date: 2013-05-21T04:48:00+00:00
-author: Joseph Guadagno
 permalink: /2013/05/21/the-windows-azure-experience/
 categories:
   - Articles

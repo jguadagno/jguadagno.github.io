@@ -1,7 +1,6 @@
 ---
 title: A November to Remember
 date: 2009-11-09T13:59:00+00:00
-author: Joseph Guadagno
 permalink: /2009/11/09/a-november-to-remember/
 categories:
   - Articles

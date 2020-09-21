@@ -1,7 +1,6 @@
 ---
 title: Code Camp redone
 date: 2010-07-06T17:16:44+00:00
-author: Joseph Guadagno
 permalink: /2010/07/06/code-camp-redone/
 dsq_thread_id:
   - "3706170602"

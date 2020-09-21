@@ -1,7 +1,6 @@
 ---
 title: LaidOffCampPhx was a success!
 date: 2009-08-10T16:12:00+00:00
-author: Joseph Guadagno
 permalink: /2009/08/10/laidoffcampphx-was-a-success/
 categories:
   - Arizona Technology News

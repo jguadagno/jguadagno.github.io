@@ -1,7 +1,6 @@
 ---
 title: 'Windows Azure Experience–Part 2: Management Portal'
 date: 2013-05-23T06:07:00+00:00
-author: Joseph Guadagno
 permalink: /2013/05/23/windows-azure-experience-part-2-management-portal/
 categories:
   - Articles

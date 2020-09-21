@@ -1,7 +1,6 @@
 ---
 title: Community Speaking and Cost
 date: 2011-05-05T17:26:53+00:00
-author: Joseph Guadagno
 permalink: /2011/05/05/community-speaking-and-cost/
 categories:
   - Articles

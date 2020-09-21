@@ -1,7 +1,6 @@
 ---
 title: Desert Code Camp
 date: 2015-10-01T10:21:25+00:00
-author: Joseph Guadagno
 permalink: /2015/10/01/desert-code-camp/
 ftf_open_type:
   - ""

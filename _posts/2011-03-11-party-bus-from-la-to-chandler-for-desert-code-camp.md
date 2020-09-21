@@ -1,7 +1,6 @@
 ---
 title: Party Bus from LA to Chandler for Desert Code Camp
 date: 2011-03-11T14:16:00+00:00
-author: Joseph Guadagno
 permalink: /2011/03/11/party-bus-from-la-to-chandler-for-desert-code-camp/
 dsq_thread_id:
   - "3640244414"

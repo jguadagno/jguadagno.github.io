@@ -1,7 +1,6 @@
 ---
 title: Thinking of starting a User Group
 date: 2010-10-26T05:56:39+00:00
-author: Joseph Guadagno
 permalink: /2010/10/26/thinking-of-starting-a-user-group/
 dsq_thread_id:
   - "4761123885"

@@ -1,7 +1,6 @@
 ---
 title: Speakers are not Idols
 date: 2015-03-03T14:00:00+00:00
-author: Joseph Guadagno
 permalink: /2015/03/03/speakers-are-not-idols/
 dsq_thread_id:
   - "3564061460"

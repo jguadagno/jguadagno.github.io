@@ -1,7 +1,6 @@
 ---
 title: 'Book Review: Visual Studio 2013 Cookbook'
 date: 2014-05-26T18:22:05+00:00
-author: Joseph Guadagno
 permalink: /2014/05/26/book-review-visual-studio-2013-cookbook/
 dsq_thread_id:
   - "3615150547"

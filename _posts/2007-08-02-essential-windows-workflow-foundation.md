@@ -1,7 +1,6 @@
 ---
 title: Essential Windows Workflow Foundation
 date: 2007-08-02T00:12:20+00:00
-author: Joseph Guadagno
 permalink: /2007/08/02/essential-windows-workflow-foundation/
 categories:
   - Books

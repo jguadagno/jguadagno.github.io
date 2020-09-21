@@ -1,7 +1,6 @@
 ---
 title: ASP.NET Data Presentation Controls Essentials
 date: 2008-02-18T16:00:00+00:00
-author: Joseph Guadagno
 permalink: /2008/02/18/asp-net-data-presentation-controls-essentials/
 categories:
   - Books

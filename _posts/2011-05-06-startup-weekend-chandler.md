@@ -1,7 +1,6 @@
 ---
 title: Startup Weekend Chandler
 date: 2011-05-06T16:40:46+00:00
-author: Joseph Guadagno
 permalink: /2011/05/06/startup-weekend-chandler/
 categories:
   - Arizona Technology News

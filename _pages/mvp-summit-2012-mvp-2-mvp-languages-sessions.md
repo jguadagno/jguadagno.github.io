@@ -1,7 +1,6 @@
 ---
 title: MVP Summit 2012 MVP 2 MVP Languages Sessions
 date: 2015-03-04T17:00:31+00:00
-author: Joseph Guadagno
 permalink: /mvp-summit-2012-mvp-2-mvp-languages-sessions/
 ---
 ## Schedule

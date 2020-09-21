@@ -1,7 +1,6 @@
 ---
 title: ASP.NET 3.5 Application Architecture and Design
 date: 2008-11-24T21:58:36+00:00
-author: Joseph Guadagno
 permalink: /2008/11/24/asp-net-3-5-application-architecture-and-design/
 categories:
   - Books

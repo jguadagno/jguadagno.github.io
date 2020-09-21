@@ -1,7 +1,6 @@
 ---
 title: 'Using Ajax Professional'
 date: 2007-11-23T01:00:00+00:00
-author: Joseph Guadagno
 permalink: /assets/downloads/using_ajax_professional.htm
 categories:
   - Articles

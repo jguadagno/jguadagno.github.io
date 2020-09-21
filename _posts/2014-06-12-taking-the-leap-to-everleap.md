@@ -1,7 +1,6 @@
 ---
 title: Taking the “Leap” to Everleap
 date: 2014-06-12T16:30:00+00:00
-author: Joseph Guadagno
 permalink: /2014/06/12/taking-the-leap-to-everleap/
 dsq_thread_id:
 - "3602770933"

@@ -1,7 +1,6 @@
 ---
 title: Why I Organize Desert Code Camp
 date: 2017-10-21T13:53:08+00:00
-author: Joseph Guadagno
 permalink: /2017/10/21/why-i-organize-desert-code-camp/
 categories:
   - Articles

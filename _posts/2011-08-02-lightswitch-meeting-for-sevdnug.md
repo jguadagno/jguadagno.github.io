@@ -1,7 +1,6 @@
 ---
 title: LightSwitch Meeting for SEVDNUG
 date: 2011-08-02T16:07:59+00:00
-author: Joseph Guadagno
 permalink: /2011/08/02/lightswitch-meeting-for-sevdnug/
 dsq_thread_id:
   - "4439099185"

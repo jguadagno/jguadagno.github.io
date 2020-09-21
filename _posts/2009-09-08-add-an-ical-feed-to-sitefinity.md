@@ -1,7 +1,6 @@
 ---
 title: Add an iCal feed to Sitefinity
 date: 2009-09-08T15:22:34+00:00
-author: Joseph Guadagno
 permalink: /2009/09/08/add-an-ical-feed-to-sitefinity/
 dsq_thread_id:
   - "3617303793"

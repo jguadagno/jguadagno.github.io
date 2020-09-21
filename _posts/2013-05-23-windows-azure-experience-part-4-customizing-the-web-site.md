@@ -1,7 +1,6 @@
 ---
 title: 'Windows Azure Experience–Part 4: Customizing the Web Site'
 date: 2013-05-23T07:52:00+00:00
-author: Joseph Guadagno
 permalink: /2013/05/23/windows-azure-experience-part-4-customizing-the-web-site/
 dsq_thread_id:
   - "3615331577"

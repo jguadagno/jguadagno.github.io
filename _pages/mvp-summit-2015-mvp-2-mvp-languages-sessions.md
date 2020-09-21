@@ -1,7 +1,6 @@
 ---
 title: 'MVP Summit 2015 &#8211; MVP 2 MVP Languages Sessions'
 date: 2015-10-27T10:44:41+00:00
-author: Joseph Guadagno
 permalink: /mvp-summit-2015-mvp-2-mvp-languages-sessions/
 ---
 Here are the MVP to MVP sessions taking place on Tuesday, November 3rd, 2015. &nbsp;These sessions will take place from 8:00 am to 9:00 am at the Microsoft Conference Center.

@@ -1,6 +1,5 @@
 ---
 title: Speaking Engagements
-author: Joseph Guadagno
 permalink: /speaking-engagements/
 ---
 If you would like for me to speak at your event please [contact me]({% link _pages/contact.md %}).

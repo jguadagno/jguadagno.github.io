@@ -1,7 +1,6 @@
 ---
 title: My TechEd Video on Community
 date: 2011-06-03T17:07:25+00:00
-author: Joseph Guadagno
 permalink: /2011/06/03/my-teched-video-on-community/
 categories:
   - Articles

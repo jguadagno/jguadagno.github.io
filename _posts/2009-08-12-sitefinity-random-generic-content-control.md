@@ -1,7 +1,6 @@
 ---
 title: 'Sitefinity: Random Generic Content Control'
 date: 2009-08-12T18:19:45+00:00
-author: Joseph Guadagno
 permalink: /2009/08/12/sitefinity-random-generic-content-control/
 dsq_thread_id:
   - "3612632845"

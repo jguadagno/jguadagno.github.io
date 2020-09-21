@@ -1,7 +1,6 @@
 ---
 title: 'Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries'
 date: 2007-08-02T00:14:17+00:00
-author: Joseph Guadagno
 permalink: /2007/08/02/framework-design-guidelines-conventions-idioms-and-patterns-for-reusable-net-libraries/
 dsq_thread_id:
   - "3651955406"

@@ -1,7 +1,6 @@
 ---
 title: 'Windows Azure Experience–Part 1: Creating the Account'
 date: 2013-05-23T05:18:00+00:00
-author: Joseph Guadagno
 permalink: /2013/05/23/windows-azure-experience-part-1-creating-the-account/
 categories:
   - Articles

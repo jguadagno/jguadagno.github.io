@@ -1,7 +1,6 @@
 ---
 title: Twitter Bootstrap Resources
 date: 2014-01-24T13:50:30+00:00
-author: Joseph Guadagno
 permalink: /2014/01/24/twitter-bootstrap-resources/
 dsq_thread_id:
   - "3572019631"

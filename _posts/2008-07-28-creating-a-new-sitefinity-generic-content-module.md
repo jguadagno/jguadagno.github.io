@@ -1,7 +1,6 @@
 ---
 title: Creating a new Sitefinity generic content module
 date: 2008-07-28T03:39:00+00:00
-author: Joseph Guadagno
 permalink: /2008/07/28/creating-a-new-sitefinity-generic-content-module/
 dsq_thread_id:
   - "3621086018"

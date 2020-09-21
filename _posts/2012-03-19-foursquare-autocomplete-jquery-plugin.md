@@ -1,7 +1,6 @@
 ---
 title: Foursquare Autocomplete jQuery Plugin
 date: 2012-03-19T18:09:00+00:00
-author: Joseph Guadagno
 permalink: /2012/03/19/foursquare-autocomplete-jquery-plugin/
 dsq_thread_id:
   - "3569123846"

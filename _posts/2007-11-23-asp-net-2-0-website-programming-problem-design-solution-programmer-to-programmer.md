@@ -1,7 +1,6 @@
 ---
 title: 'ASP.NET 2.0 Website Programming: Problem &#8211; Design &#8211; Solution (Programmer to Programmer)'
 date: 2007-11-23T01:00:00+00:00
-author: Joseph Guadagno
 permalink: /2007/11/23/asp-net-2-0-website-programming-problem-design-solution-programmer-to-programmer/
 categories:
   - Books

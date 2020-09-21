@@ -1,7 +1,6 @@
 ---
 title: A Tester and/or Unit Tests Should Be Your Friend
 date: 2016-09-22T06:00:18+00:00
-author: Joseph Guadagno
 permalink: /2016/09/22/a-tester-andor-unit-tests-should-be-your-friend/
 categories:
   - Articles

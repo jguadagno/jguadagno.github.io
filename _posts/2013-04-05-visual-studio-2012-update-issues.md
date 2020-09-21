@@ -1,7 +1,6 @@
 ---
 title: Visual Studio 2012–Update Issues
 date: 2013-04-05T16:12:35+00:00
-author: Joseph Guadagno
 permalink: /2013/04/05/visual-studio-2012-update-issues/
 dsq_thread_id:
   - "3814990096"

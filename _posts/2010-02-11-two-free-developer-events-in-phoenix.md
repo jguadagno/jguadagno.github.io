@@ -1,7 +1,6 @@
 ---
 title: Two Free Developer Events in Phoenix
 date: 2010-02-11T13:28:17+00:00
-author: Joseph Guadagno
 permalink: /2010/02/11/two-free-developer-events-in-phoenix/
 dsq_thread_id:
   - "4907478523"

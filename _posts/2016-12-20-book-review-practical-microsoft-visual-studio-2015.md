@@ -1,7 +1,6 @@
 ---
 title: 'Book Review: Practical Microsoft Visual Studio 2015'
 date: 2016-12-20T20:03:57+00:00
-author: Joseph Guadagno
 permalink: /2016/12/20/book-review-practical-microsoft-visual-studio-2015/
 categories:
   - Books

@@ -1,7 +1,6 @@
 ---
 title: Announcing Desert Code Camp 2010.2
 date: 2010-08-17T03:47:00+00:00
-author: Joseph Guadagno
 permalink: /2010/08/17/announcing-desert-code-camp-2010-2/
 categories:
   - Arizona Technology News

@@ -1,7 +1,6 @@
 ---
 title: Pro NuGet Book Review
 date: 2015-02-28T18:38:00+00:00
-author: Joseph Guadagno
 permalink: /2015/02/28/pro-nuget-book-review/
 dsq_thread_id:
   - "3556296941"

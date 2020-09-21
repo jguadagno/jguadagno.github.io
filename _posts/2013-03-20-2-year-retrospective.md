@@ -1,7 +1,6 @@
 ---
 title: 2 Year Retrospective
 date: 2013-03-20T03:17:36+00:00
-author: Joseph Guadagno
 permalink: /2013/03/20/2-year-retrospective/
 dsq_thread_id:
   - "3682166604"
