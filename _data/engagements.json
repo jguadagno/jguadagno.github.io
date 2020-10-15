@@ -52,6 +52,19 @@
         "isCurrent" : false
     },
     {
+        "eventName" : "Granite State Code Camp 2020",
+        "eventUrl" : "https://www.granitestatecodecamp.org",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : ".NET 5 - What is it?",
+            "url": "/presentations/dotnet5-what-is-it",
+            "date" : "2020-11-14",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "Virtual Developers Conference in Mauritius",
         "eventUrl" : "https://conference.mscc.mu/",
         "location" : "Virtual",
