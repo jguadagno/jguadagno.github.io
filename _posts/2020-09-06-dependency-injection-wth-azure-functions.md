@@ -32,7 +32,7 @@ This will require the following using statement.
 using Microsoft.Azure.Functions.Extensions.DependencyInjection;
 ```
 
-Have your class inherit from `FunctionsStartup`. Doing so requires your class to override the `Configure` method. The `Configure` method is where you register the services that you would like to inject. Since Azure Functions relies on the .NET Core Dependency Injection features, you can choose any supported [service lifetimes](https://docs.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection?WT.mc_id=DOP-MVP-4024623#service-lifetimes).
+Have your class inherit from `FunctionsStartup`. Doing so requires your class to override the `Configure` method. The `Configure` method is where you register the services that you would like to inject. Since Azure Functions relies on the .NET Core Dependency Injection features, you can choose any supported [service lifetimes](https://docs.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection?WT.mc_id=DOP-MVP-4024623#service-lifetimes){:target="_blank"}.
 
 ```csharp
 using MyFunctions.Samples;
@@ -83,6 +83,6 @@ That’s it. Pretty easy. I’ve included links to the Azure Function documentat
 
 ## References
 
-* [Use dependency injection in .NET Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection?WT.mc_id=DOP-MVP-4024623)
-* Sample code before Dependency Injection: [Code](https://github.com/jguadagno/Contacts/blob/28349f06d2ead5282381895feb975b2b1d6a4171/src/Contacts.Functions.ThumbnailCreator/CreateThumbnailImage.cs)
-* Sample code after Dependency Injection: [Code](https://github.com/jguadagno/Contacts/blob/main/src/Contacts.Functions.ThumbnailCreator/CreateThumbnailImage.cs)
+* [Use dependency injection in .NET Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection?WT.mc_id=DOP-MVP-4024623){:target="_blank"}
+* Sample code before Dependency Injection: [Code](https://github.com/jguadagno/Contacts/blob/28349f06d2ead5282381895feb975b2b1d6a4171/src/Contacts.Functions.ThumbnailCreator/CreateThumbnailImage.cs){:target="_blank"}
+* Sample code after Dependency Injection: [Code](https://github.com/jguadagno/Contacts/blob/main/src/Contacts.Functions.ThumbnailCreator/CreateThumbnailImage.cs){:target="_blank"}
