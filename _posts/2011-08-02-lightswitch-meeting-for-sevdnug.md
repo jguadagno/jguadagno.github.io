@@ -7,7 +7,7 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-We are having a special user group meeting this month on [LightSwitch](http://msdn.microsoft.com/en-us/lightswitch) on [August 25th](http://sevdnug.org/Events/All/SEVDNUG_August_2011_Meeting_-_LightSwitch.aspx) where [Beth Massi](http://blogs.msdn.com/b/bethmassi/), Senior Program Manager for BizApps, will present up to three sessions on LightSwitch.
+We are having a special user group meeting this month on [LightSwitch](http://msdn.microsoft.com/en-us/lightswitch?WT.mc_id=DOP-MVP-4024623) on [August 25th](http://sevdnug.org/Events/All/SEVDNUG_August_2011_Meeting_-_LightSwitch.aspx) where [Beth Massi](http://blogs.msdn.com/b/bethmassi/), Senior Program Manager for BizApps, will present up to three sessions on LightSwitch.
 
 The descriptions for the sessions are below. If you are interested in LightSwitch and want to attend please complete this [survey](http://www.esurveyspro.com/Survey.aspx?id=b8813313-91f2-452e-8e38-dc8f537ed363).  
 

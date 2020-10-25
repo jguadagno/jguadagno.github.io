@@ -15,9 +15,9 @@ excerpt_separator: <!--more-->
 Let's take a look how you can build an Azure pipeline that will build your NuGet package, sign it, then deploy it to Azure Artifacts
 <!--more-->
 
-According the Azure Artifacts [site](https://azure.microsoft.com/en-us/services/devops/artifacts/), Azure Artifacts provides a service to "Create and share Maven, npm, NuGet, and Python package feeds from public and private sources". In this post, I'll focus on setting up a repository to host my own private NuGet packages.
+According the Azure Artifacts [site](https://azure.microsoft.com/en-us/services/devops/artifacts/?WT.mc_id=AZ-MVP-4024623), Azure Artifacts provides a service to "Create and share Maven, npm, NuGet, and Python package feeds from public and private sources". In this post, I'll focus on setting up a repository to host my own private NuGet packages.
 
-Just like most services provided with Azure their maybe a cost to using it.  Azure Artifacts provide both free and paid options, please visit the [pricing for Azure DevOps](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/) page for the latest on costs for using this service.
+Just like most services provided with Azure their maybe a cost to using it.  Azure Artifacts provide both free and paid options, please visit the [pricing for Azure DevOps](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/?WT.mc_id=AZ-MVP-4024623) page for the latest on costs for using this service.
 
 ## Setup
 

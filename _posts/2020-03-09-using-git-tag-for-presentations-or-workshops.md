@@ -20,11 +20,11 @@ In a nutshell, git tagging provides the ability to 'tag' a specific commit with 
 
 ## The How
 
-For my planned presentations or workshops, I generally have a script that I use. The script contains setup info for the talk (tools, software, versions, etc), prep work (how to get ready), then the actual talk.  The talk is usually bullet points with the code snippets I want to run/type/copy&paste/etc.  Sometimes, as we all know, code does not always run the first time or you type something and things break and you have to recover.  The good presenters, typically recover without the attendees even knowing. This is where the *tagging* comes in. Now, instead of multiple copies of the different 'stages' or 'steps' in an demo, I commit the step and then `git *tag*` the commit.
+For my planned presentations or workshops, I generally have a script that I use. The script contains setup info for the talk (tools, software, versions, etc), prep work (how to get ready), then the actual talk.  The talk is usually bullet points with the code snippets I want to run/type/copy&paste/etc.  Sometimes, as we all know, code does not always run the first time or you type something and things break and you have to recover.  The good presenters, typically recover without the attendees even knowing. This is where the *tagging* comes in. Now, instead of multiple copies of the different 'stages' or 'steps' in a demo, I commit the step and then `git *tag*` the commit.
 
 ### The Steps
 
-First step is to start with a git repository for your presentation or demo. The provider, [GitHub](https://github.com/), [Azure](https://azure.microsoft.com/en-us/products/github/), [GitLab](https://about.gitlab.com/) or others does not matter. I chose GitHub because it's free and more people use it.
+First step is to start with a git repository for your presentation or demo. The provider, [GitHub](https://github.com/), [Azure](https://azure.microsoft.com/en-us/products/github/?WT.mc_id=AZ-MVP-4024623), [GitLab](https://about.gitlab.com/) or others does not matter. I chose GitHub because it's free and more people use it.
 
 Second step is in `git init` your folder where your code is going to be. Don't forget to add a `.gitignore`!
 

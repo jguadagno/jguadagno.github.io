@@ -16,7 +16,7 @@ It’s very common for myself and other Microsoft MVPs to get asked “What does
 
 * you can blog
 * speak at conference/user groups
-* respond to forum post on [MSDN](https://social.msdn.microsoft.com/Forums/en-US/home), [Stack Overflow](http://stackoverflow.com/), [C# Corner](http://www.c-sharpcorner.com/Forums/) and similar forums
+* respond to forum post on [MSDN](https://social.msdn.microsoft.com/Forums/en-US/home?WT.mc_id=DOP-MVP-4024623), [Stack Overflow](http://stackoverflow.com/), [C# Corner](http://www.c-sharpcorner.com/Forums/) and similar forums
 * help out your local user groups and Microsoft Developer Evangelists at events
 * contribute to open source projects, especially ones that Microsoft is interested in :smile: (Thanks [@jamie_dixon](https://twitter.com/jamie_dixon) for the tip)
 

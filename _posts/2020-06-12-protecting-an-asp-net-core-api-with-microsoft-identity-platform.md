@@ -19,7 +19,7 @@ This library is for specific usage with:
 
 ## Prerequisites
 
-- An Azure account with an active subscription. [Create an account for free](https://azure.microsoft.com/free/?ref=microsoft.com&utm_source=microsoft.com&utm_medium=docs&utm_campaign=visualstudio).
+- An Azure account with an active subscription. [Create an account for free](https://azure.microsoft.com/free/?ref=microsoft.com&utm_source=microsoft.com&utm_medium=docs&utm_campaign=visualstudio&WT.mc_id=AZ-MVP-4024623).
 - An [Azure AD tenant](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant).
 - An ASP.NET Core Web Api.  If you need one, you can start with the [Contacts](https://www.github.com/jguadagno/contacts) application at this [commit](https://github.com/jguadagno/Contacts/commit/e34ff477146c336a47eae141de31cede197650cf).
 

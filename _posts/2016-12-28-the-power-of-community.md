@@ -32,7 +32,7 @@ Some of these connections helped me:
 * These connections had led to at least 2 different jobs and my current employer, [Quicken Loans](http://www.quickenloans.com).
 * Offers to speak at several US based conferences, like [DEVIntersections](http://www.devintersection.com), [DEVConnections](http://www.itdevconnections.com/dc16/Public/Enter.aspx), [Code Stock](http://www.codestock.org), [TechBash](http://www.techbash.com/), [MVP Mix Dallas](http://www.mvpmix.com/dallas), and others
 * Offers to speak at two international ones, [C# Corner Conference](http://conference.c-sharpcorner.com/) and [NDC London](http://ndc-london.com/).
-* I was even on .[NET Rocks](http://dotnetrocks.com/?show=1255) talking about [Application Insights](https://azure.microsoft.com/en-us/services/application-insights/).
+* I was even on .[NET Rocks](http://dotnetrocks.com/?show=1255) talking about [Application Insights](https://azure.microsoft.com/en-us/services/application-insights/?WT.mc_id=AZ-MVP-4024623).
 
 ## The Bottom Line
 

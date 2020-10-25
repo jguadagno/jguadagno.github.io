@@ -75,7 +75,7 @@ Install-Package Microsoft.Identity.Web -Version 0.2.0-preview
 
 ### Application Settings
 
-Next up, add the Azure Active Directory Settings to your `appsettings.Development.json` file.  **Note**, you should not store client secrets or PII in your version repository, Git, SVN, TFS, etc. you should use the '[user secrets](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-3.1&tabs=windows)' functionality, [Azure App Configuration](https://azure.microsoft.com/en-us/services/app-configuration/) service, or [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/) service.  For now, I will show it the `appsettings.development.json`.
+Next up, add the Azure Active Directory Settings to your `appsettings.Development.json` file.  **Note**, you should not store client secrets or PII in your version repository, Git, SVN, TFS, etc. you should use the '[user secrets](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-3.1&tabs=windows)' functionality, [Azure App Configuration](https://azure.microsoft.com/en-us/services/app-configuration/?WT.mc_id=AZ-MVP-4024623) service, or [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/?WT.mc_id=AZ-MVP-4024623) service.  For now, I will show it the `appsettings.development.json`.
 
 You will need to add the `AzureAd` section.
 

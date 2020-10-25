@@ -20,7 +20,7 @@ I've been streaming 'Coding with JoeG' on [Twitch](https://www.twitch.tv/jguadag
 * Security Azure Blob Using Microsoft Identity [Part 4](https://www.youtube.com/watch?v=kksVNpRX2jU){:target="_blank"}
 * Security Azure Blob Using Microsoft Identity [Part 5](https://www.youtube.com/watch?v=mc9ODk121og){:target="_blank"}
 
-Well, I was playing around yesterday after reading the [Azure SDK](https://azure.github.io/azure-sdk/){:target="_blank"} - [Azure Identity August 2020 General Availability Release](https://devblogs.microsoft.com/azure-sdk/azure-identity-august-2020-ga/){:target="_blank"} notes, wow that is a long title! :smile:, and I got it to work! :relieved:
+Well, I was playing around yesterday after reading the [Azure SDK](https://azure.github.io/azure-sdk/){:target="_blank"} - [Azure Identity August 2020 General Availability Release](https://devblogs.microsoft.com/azure-sdk/azure-identity-august-2020-ga/?WT.mc_id=DOP-MVP-4024623){:target="_blank"} notes, wow that is a long title! :smile:, and I got it to work! :relieved:
 
 The basic steps are:
 
@@ -167,7 +167,7 @@ You can find more about this approach on [Azure Documentation site](https://docs
 
 The [Azure SDK](https://azure.github.io/azure-sdk/){:target="_blank"} added support for using credentials instead of just the shared storage keys. I added the same support to [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage/){:target="_blank"}, since underneath the hood it uses the Azure SDK.
 
-Both SDKs take a [TokenCredential](https://docs.microsoft.com/en-us/dotnet/api/azure.core.tokencredential?view=azure-dotnet){:target="_blank"} that can be one of many types.  For this post, we are going to allow the SDK to do the work for us by providing the `DefaultAzureCredential`.  The `DefaultAzureCredential` will look through many '*different sources*' for credential data, including but not limited to, the **Environment**, **Shared Token Cache**, **Visual Studio**, **IntelliJ**, and many more. You read more about it in the [Azure Identity August 2020 GA Release Notes](https://devblogs.microsoft.com/azure-sdk/azure-identity-august-2020-ga/){:target="_blank"}.
+Both SDKs take a [TokenCredential](https://docs.microsoft.com/en-us/dotnet/api/azure.core.tokencredential?view=azure-dotnet){:target="_blank"} that can be one of many types.  For this post, we are going to allow the SDK to do the work for us by providing the `DefaultAzureCredential`.  The `DefaultAzureCredential` will look through many '*different sources*' for credential data, including but not limited to, the **Environment**, **Shared Token Cache**, **Visual Studio**, **IntelliJ**, and many more. You read more about it in the [Azure Identity August 2020 GA Release Notes](https://devblogs.microsoft.com/azure-sdk/azure-identity-august-2020-ga/?WT.mc_id=DOP-MVP-4024623){:target="_blank"}.
 
 ### Using the Azure SDK
 

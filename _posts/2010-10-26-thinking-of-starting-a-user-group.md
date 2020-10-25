@@ -23,4 +23,4 @@ There are a lot of components to starting a user group.  The biggest are locatio
 
 **Sponsors** Getting sponsorship is hard, especially in beginning, until you have the contacts. Most local recruiting companies are willing to help sponsor pizza and such for a meeting.  Most third-party vendors have contacts in their marketing department on their sites.  They are always willing to provide SWAG.  You can also check out the offers page on the [INETA](http://ineta.org/offers/) site.  
 
-**Additional Help** Check with your local Microsoft developer [evangelist](http://msdn.microsoft.com/en-us/bb905078.aspx) they should be able to provide some help to get you started. Also look at the INETA [Membership](http://ineta.org/MembershipTeam.aspx) mentors to help get you started.
+**Additional Help** Check with your local Microsoft developer [evangelist](http://msdn.microsoft.com/en-us/bb905078.aspx?WT.mc_id=DOP-MVP-4024623) they should be able to provide some help to get you started. Also look at the INETA [Membership](http://ineta.org/MembershipTeam.aspx) mentors to help get you started.

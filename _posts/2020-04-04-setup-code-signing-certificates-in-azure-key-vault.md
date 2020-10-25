@@ -34,7 +34,7 @@ You can purchase a code signing certificate from a few different sources like [D
 * **Certificate Management** - Azure Key Vault is also a service that lets you easily provision, manage, and deploy public and private Transport Layer Security/Secure Sockets Layer (TLS/SSL) certificates for use with Azure and your internal connected resources.
 * **Store secrets backed by Hardware Security Modules** - The secrets and keys can be protected either by software or FIPS 140-2 Level 2 validated HSMs
 
-Like most services on Azure, there is a cost.  Check out the [pricing](https://azure.microsoft.com/en-us/pricing/details/key-vault/) for Azure Key Vault.
+Like most services on Azure, there is a cost.  Check out the [pricing](https://azure.microsoft.com/en-us/pricing/details/key-vault/?WT.mc_id=AZ-MVP-4024623) for Azure Key Vault.
 
 ## Getting Started
 

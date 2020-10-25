@@ -231,9 +231,9 @@ The **nobuild** tells *dotnet* to not build the project. Building the project is
 
 Phew, the project is packaged, let's sign it.
 
-We are going to use [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/) to use our certificate to sign the package. If you haven't setup a certificate in a key vault yet, check out [Setup Code Signing Certificates in Azure Key Vault]({% post_url 2020-04-04-setup-code-signing-certificates-in-azure-key-vault %}))
+We are going to use [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/?WT.mc_id=AZ-MVP-4024623) to use our certificate to sign the package. If you haven't setup a certificate in a key vault yet, check out [Setup Code Signing Certificates in Azure Key Vault]({% post_url 2020-04-04-setup-code-signing-certificates-in-azure-key-vault %})
 
-To assist us in using Azure Key Vault certificate signing, we are going to use a community created tool, [NuGetKeyVaultSignTool](https://github.com/novotnyllc/NuGetKeyVaultSignTool).  This tool uses some of the Key Vault apis.  As a result, we are going to need *client id* and *client secret*. For more on setting up an application in Azure to access the Key Vault through an API check out [Setup an Azure Application with Permissions to Enable Certificate Signing]({% post_url 2020-04-07-setup-an-azure-application-with-permissions-to-enable-certificate-signing %})).  
+To assist us in using Azure Key Vault certificate signing, we are going to use a community created tool, [NuGetKeyVaultSignTool](https://github.com/novotnyllc/NuGetKeyVaultSignTool).  This tool uses some of the Key Vault APIs.  As a result, we are going to need *client id* and *client secret*. For more on setting up an application in Azure to access the Key Vault through an API check out [Setup an Azure Application with Permissions to Enable Certificate Signing]({% post_url 2020-04-07-setup-an-azure-application-with-permissions-to-enable-certificate-signing %}).  
 
 We are going to need the *client id*, *client secret*, and a few other values for our building and signing of the package. Since you ***NEVER EVER*** want to store any secrets in your source code repository, we are going to need an alternate way to access those secrets and keep them out of our source code repository.  Azure Pipelines offers Variable for that.  So let's create some.
 
