@@ -7,4 +7,15 @@ permalink: /contact/
 ---
 I'll answer your email as soon as I can.
 
- [contact-form subject='Comment from JosephGuadagno.net'][contact-field label='Name' type='name' required='1'/][contact-field label='Email' type='email' required='1'/][contact-field label='Website' type='url'/][contact-field label='Comment' type='textarea' required='1'/][/contact-form]
+<form action="https://formcarry.com/s/2jcNsRKCJy" method="POST" accept-charset="UTF-8" >
+Email Address
+<input type="email" name="email"><!-- use this to reply visitors and prevent spam via akismet --> 
+First Name
+<input type="text" name="given-name">
+Last Name
+<input type="text" name="family-name">
+Comment
+<input type="text" name="comment">
+<input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
+<input type="submit" class="btn" />
+</form>
