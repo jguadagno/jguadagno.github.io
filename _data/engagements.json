@@ -1,18 +1,5 @@
 [
     {
-        "eventName" : "Granite State Code Camp",
-        "eventUrl" : "https://www.granitestatecodecamp.org/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : ".NET 5 - What is it?",
-            "url": "/presentations/dotnet5-what-is-it",
-            "date" : "2020-11-14",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
         "eventName" : "DEVIntersection",
         "eventUrl" : "https://devintersection.com/#!/",
         "location" : "Las Vegas, NV",
