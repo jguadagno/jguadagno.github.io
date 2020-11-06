@@ -1,5 +1,7 @@
 ---
 title: "NLog, Dependency Injection, and Azure Functions, Oh My!"
+date: 2020-11-03 12:00
+last_modified_date: 2020-11-05 16:00
 header:
     og_image: /assets/images/posts/header/nlog-di-azure-functions.png
 categories:
