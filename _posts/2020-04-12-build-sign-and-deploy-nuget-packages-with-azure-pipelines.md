@@ -1,6 +1,7 @@
 ---
 title: "Build, Sign, and Deploy NuGet Packages with Azure Pipeline"
 date: 2020-04-12 11:00:00 -0700
+last_modified_date: 2020-11-11 09:16:00 -0700
 excerpt: "Let's take a look how you can build an Azure pipeline that will build your NuGet package, sign it, then deploy it to Azure Artifacts"
 categories:
   - Articles
@@ -17,7 +18,7 @@ In this post we'll cover how you can use Azure Pipelines to build, test, sign, a
 
 ## Intro to Yaml
 
-Before we get started, you might want to brush up on [YAML](https://yaml.org/). If you do not know what YAML is, it is a human friendly data serialization standard for all programming languages. I like to think of it as a more modern, less verbose version of XML. If YAML or learning another language/data format scares you, do be worried!  You don't need to read/write YAML in order to use Azure Pipelines. Azure provides a UI to build out your pipeline.  That's how I learned it!
+Before we get started, you might want to brush up on [YAML](https://yaml.org/). If you do not know what YAML is, it is a human-friendly data serialization standard for all programming languages. I like to think of it as a more modern, less verbose version of XML. If YAML or learning another language/data format scares you, do be worried!  You don't need to read/write YAML in order to use Azure Pipelines. Azure provides a UI to build out your pipeline.  That's how I learned it!
 
 If you understand YAML, check out the [Azure YAML schema](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema).
 
@@ -43,7 +44,7 @@ Now choice your pipeline.
 
 ![Build and Sign - Create Pipeline Wizard - Configure](/assets/images/posts/build-sign-pipeline-configure.png){: .align-center}
 
-If you chose, 'Show more', you will get some templates for common projects like .NET applications, web application, Android applications, and more.
+If you chose, 'Show more', you will get some templates for common projects like .NET applications, web applications, Android applications, and more.
 
 Click 'Starter pipeline' since we are going to build it from scratch.  This will bring use to the pipeline editor to review it.
 
@@ -51,7 +52,7 @@ Click 'Starter pipeline' since we are going to build it from scratch.  This will
 
 ### Pipeline Editor
 
-While you are good to go at this point, once you click 'Save and run', let's go through the editor. You'll notice that is has a familiar feel if you have done and Visual Studio or Visual Studio Code development.  In fact, this editor has Intellisense built in also.
+While you are good to go at this point, once you click 'Save and run', let's go through the editor. You'll notice that is has a familiar feel if you have done and Visual Studio or Visual Studio Code development.  In fact, this editor has Intellisense built-in also.
 
 The components of the editor:
 
@@ -77,7 +78,7 @@ Check the docs, [Key Concepts](https://docs.microsoft.com/en-us/azure/devops/pip
 
 The trigger of a pipeline is probably exactly what you are thinking it is.  This is what will kick off or trigger the script automatically.  You can still kick off a script from this page or the pipeline page.
 
-For our script, and simplicity sake, we are going to have the script kick off on any commits to the *master* branch.
+For our script, and simplicity's sake, we are going to have the script kick off on any commits to the *master* branch.
 
 ```yaml
 trigger:
@@ -86,9 +87,9 @@ trigger:
 
 ### Setup Pool
 
-The pool tells Azure when VMs and 'pooled' resources it should use.  This varies based on the subscription model you have and are willing to pay for. For a list of the built in agents, see the document called '[Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops)'.
+The pool tells Azure when VMs and 'pooled' resources it should use.  This varies based on the subscription model you have and are willing to pay for. For a list of the built-in agents, see the document called '[Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops)'.
 
-Since we are planning to sign the package and the signing only works on Windows machines (at least that I could get to work). We are going to chose a vmImage of `windows-latest`.
+Since we are planning to sign the package and the signing only works on Windows machines (at least that I could get to work). We are going to choose a vmImage of `windows-latest`.
 
 ```yaml
 pool:
@@ -116,7 +117,7 @@ Now let's tell the agent what version of .NET to run
     includePreviewVersions: true
 ```
 
-The `- task:` should be on the next line after the `steps:` element. The value after the `task` is the task name.  In this case, we are running the task call *UseDotNet* and version *2*.  Convention for the task name is `taskName@versionNumber`. Don't worry, you don't have to remember them all.  You use the assistant to generate the snippet. the *displayName* can be whatever text you want it to be. This will be shown in the pipeline progress/status page.
+The `- task:` should be on the next line after the `steps:` element. The value after the `task` is the task name.  In this case, we are running the task call *UseDotNet* and version *2*.  The convention for the task name is `taskName@versionNumber`. Don't worry, you don't have to remember them all.  You use the assistant to generate the snippet. the *displayName* can be whatever text you want it to be. This will be shown in the pipeline progress/status page.
 
 `inputs` vary by tasks.  In the case, we are using `packageType`, `version`, and `includePreviewVersions`.
 
@@ -137,9 +138,9 @@ You'll notice after we paste or type in the code in the editor a *Settings* item
 
 ![Build and Sign - Task Assistant](/assets/images/posts/build-sign-assistant.png){: .align-center}
 
-The 'Assistant' provides a GUI for editing specifics of a task.  In most cases you can click on '*About this task*' for the tasks documentation.
+The 'Assistant' provides a GUI for editing specifics of a task.  In most cases you can click on '*About this task*' for the task documentation.
 
-I bet your wondering the `$(BuildConfiguration)` value is for the *arguments* property is?  Well this tasks will build the project, as the *command* input property suggests with the *versioningScheme* of `byBuildNumber`. To me, this was one of the hardest piece to automate so I had proper [semantic versioning](https://semver.org/) for the package. In order for this to work 'correctly' and automatically we needed to make some changes to the project file.  I added two project groups to my projects .csproj file.
+I bet you are wondering the `$(BuildConfiguration)` value is for the *arguments* property is?  These tasks will build the project, as the *command* input property suggests with the *versioningScheme* of `byBuildNumber`. To me, this was one of the hardest pieces to automate so I had proper [semantic versioning](https://semver.org/) for the package. For this to work 'correctly' and automatically we needed to make some changes to the project file.  I added two project groups to my projects .csproj file.
 
 #### Assembly Versioning
 
@@ -159,7 +160,7 @@ I bet your wondering the `$(BuildConfiguration)` value is for the *arguments* pr
 
 The first group is contains the versioning info.  Now, the engineer is responsible for versioning the project.  **Note**: The version number will be used for the Assembly, the NuGet package name, and NuGet versioning information.
 
-The second group, defines how the version number is generated. These version numbers are based on the where and how the application is being build.  
+The second group, defines how the version number is generated. These version numbers are based on where and how the application is being built.  
 
 | Version Prefix | Condition | Assembly Info | Comments |
 | --- | --- | --- | --- |
@@ -257,7 +258,7 @@ You should see a variable *New variable group* screen.
 | Azure subscription | *your azure subscription* | Optional, if you chose to link secrets.  You will have to authorize the secrets if you haven't already |
 | Key Vault Name | *your vault* | Optional, if you chose to link secrets.  You will have to authorize the secrets if you haven't already |
 
-Once the 'Link secrets from an Azure Key vault as variables' is complete and you click '+ Add' under variables, you will be presented with a dialog to 'Choose secrets', similar to this one.
+Once the 'Link secrets from an Azure Key Vault as variables' is complete and you click '+ Add' under variables, you will be presented with a dialog to 'Choose secrets', similar to this one.
 
 ![Build and Sign - Adding a linked variable](/assets/images/posts/build-sign-variable-add.png){: .align-center}
 
@@ -291,7 +292,7 @@ You'll be prompted to confirm the permission.
 
 * Click 'Permit'
 
-By granting the permission, a new hidden task happens to download the certificates.  In my case, I get a 'Download secrets: PersonalSecrets'.
+By granting permission, a new hidden task happens to download the certificates.  In my case, I get a 'Download secrets: PersonalSecrets'.
 
 We first need to install the [NuGetKeyVaultSignTool](https://github.com/novotnyllc/NuGetKeyVaultSignTool), so let's create a task for it.
 
@@ -319,12 +320,13 @@ Now we'll need to create a script to call the tool
       --timestamp-rfc3161 "http://timestamp.digicert.com" `
       --timestamp-digest "sha256" `
       --azure-key-vault-url "https://<yourvaultname>.vault.azure.net/" `
+      --azure-key-vault-tenant-id "92a85e53-affe-4d2d-ac5d-99383f88e2e3" `
       --azure-key-vault-client-id "$(azure-key-vault-client-id)" `
       --azure-key-vault-client-secret "$(azure-key-vault-client-secret)" `
       --azure-key-vault-certificate "<certificateName>"
 ```
 
-**NOTE** There a back ticks "\`" at the end of every line.  This is used so the Powershell tasks knows that we are continuing on the next line.
+**NOTE** There a backticks "\`" at the end of every line.  This is used so the Powershell tasks knows that we are continuing on the next line.
 
 The first part of the Powershell shell task is the execute the `NuGetKeyVaultSignTool` with the `sign` option. The `./src/**/*.nupkg` argument will get us the built package. The rest of the arguments go into what the tool needs to sign the package suing Azure Key Vault.
 
@@ -334,6 +336,7 @@ The first part of the Powershell shell task is the execute the `NuGetKeyVaultSig
 | **timestamp-rfc3161** | `http://timestamp.digicert.com` | This shouldn't need to change unless you get your certificate from another source |
 | **timestamp-digest** | `sha256` | This shouldn't need to change depending on your certificate |
 | **azure-key-vault-url** | `https://<yourvaultname>.vault.azure.net/` | Replace this vault with the Url for your Azure Key Vault |
+| **azure-key-vault-tenant-id** | `92a85e53-affe-4d2d-ac5d-99383f88e2e3` | Replace this with the Azure Tenant Id that this Key Vault is in |
 | **azure-key-vault-client-id** | `$(azure-key-vault-client-id)` | Pulls the value from the CodeSigning group and Azure Key Vault |
 | **azure-key-vault-client-secret** | `$(azure-key-vault-client-secret)` | Pulls the value from the CodeSigning group and Azure Key Vault |
 | **azure-key-vault-certificate** | `<certificateName>`| Replace with the name of your certificate |
@@ -359,11 +362,11 @@ The last step is publishing or 'pushing' the package off to Azure Artifacts. For
 | **command** | `push` | |
 | **packagesToPush** | `$(Build.ArtifactStagingDirectory)/*.nupkg` | The `Build.ArtifactStagingDirectory` is an global variable that Azure Pipelines exposes to indicate the directory where build artifacts are placed |
 | **nuGetFeedType** | `internal` | Internal is used if the Artifact is located in the same organization |
-| **publishVstsFeed** | `<libraryGuid>` | The Guid that identifies the library.  It's not easy to find, so after you paste the YAML into the editor. Use the assistance to edit the tasks |
+| **publishVstsFeed** | `<libraryGuid>` | The GUID that identifies the library.  It's not easy to find, so after you paste the YAML into the editor. Use the assistance to edit the tasks |
 
 ## Running the Pipeline
 
-We started this task to get triggered whenever there was a commit to the master branch.  Once we click save in the editor, if you haven't been saving at each tasks, we will be prompted for a commit messages.
+We started this task to get triggered whenever there was a commit to the master branch.  Once we click save in the editor, if you haven't been saving at each task, we will be prompted for a commit message.
 
 * Click the 'Save' button, or 'Save and Run' if you haven't been saving along with the post.
   
@@ -398,7 +401,7 @@ Oh, and you'll get an email on the success (and failures).
 
 Now that we published the package, we can view it in our Artifacts
 
-Click on 'Artifacts' and you will now see the AwesomeSample version 1.0.0-`<builddate>`.`<buildNumber>`-preview.  The version number and name coorelates to the values and settings in our csproj as we outlined in the ***Assembly Versioning*** part of this post.
+Click on 'Artifacts' and you will now see the AwesomeSample version 1.0.0-`<builddate>`.`<buildNumber>`-preview.  The version number and name correlates to the values and settings in our csproj as we outlined in the ***Assembly Versioning*** part of this post.
 
 Click on the artifact name and up will get instructions on how to add it to your .NET application via NeGet.  If you click on the 'Versions' button on the toolbar you will see more details about it.
 
@@ -417,7 +420,7 @@ You'll see the '*Build Configuration to Use*' parameter that we created earlier.
 * Chose 'Release'
 * Click 'Run'
 
-This will take your to the job details page.  Assuming everything runs successfully, you will get a green check mark and we can see the release build in the Artifacts.
+This will take your to the job details page.  Assuming everything runs successfully, you will get a green checkmark and we can see the release build in the Artifacts.
 
 * Click on 'Artifacts'
 

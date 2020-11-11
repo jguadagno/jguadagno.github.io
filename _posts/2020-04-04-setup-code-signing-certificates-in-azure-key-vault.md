@@ -1,6 +1,7 @@
 ---
 title: "Setup Code Signing Certificates in Azure Key Vault"
 date: 2020-04-04 11:00:00 -0700
+last_modified_date: 2020-11-11 09:16:00 -0700
 categories:
   - Articles
 tags:
@@ -21,7 +22,7 @@ In this post, we'll take a look at how to store Code Signing Certificates in an 
 
 What is a code signing certificate you ask? I'm glad you asked! According to [DigiCert](https://digicert.com/code-signing/), code signing certificates are used by software developers to digitally sign apps, drivers, and software programs as a way for end-users to verify that the code they receive has not been altered or compromised by a third party. They include your signature, your company’s name, and if desired, a timestamp.
 
-Essentially, they are a way to validate that source code, packages, executables, etc., comes from who it says it's from, similarly to how certificates on a web site authenticate the web site when you go to https enabled web site.
+Essentially, they are a way to validate that source code, packages, executables, etc., comes from who it says it's from, similarly to how certificates on a web site authenticate the web site when you go to HTTPS enabled web site.
 
 You can purchase a code signing certificate from a few different sources like [DigiCert](https://digicert.com/code-signing/), who I have my code certificate from.  I am not going to cover how to purchase one.  If you do not have one, you can purchase on with DigiCert, GoDaddy, or several others companies.  Please note, they can be expensive for an individual.
 
