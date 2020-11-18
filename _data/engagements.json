@@ -1,4 +1,18 @@
 [
+    
+    {
+        "eventName" : "Granite State (NH) .NET",
+        "eventUrl" : "https://www.meetup.com/Granite-State-NH-dotNET/events/cmzfvrybcpbzb/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : ".NET 5 - What is it?",
+            "url": "/presentations/dotnet5-what-is-it",
+            "date" : "2020-11-19",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
     {
         "eventName" : "DEVIntersection",
         "eventUrl" : "https://devintersection.com/#!/",
@@ -49,7 +63,7 @@
             "date" : "2020-11-14",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Virtual Developers Conference in Mauritius",
