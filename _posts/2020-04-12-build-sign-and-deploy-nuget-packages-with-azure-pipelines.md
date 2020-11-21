@@ -1,7 +1,7 @@
 ---
 title: "Build, Sign, and Deploy NuGet Packages with Azure Pipeline"
 date: 2020-04-12 11:00:00 -0700
-last_modified_date: 2020-11-11 09:16:00 -0700
+last_modified_at: 2020-11-11 09:16:00 -0700
 excerpt: "Let's take a look how you can build an Azure pipeline that will build your NuGet package, sign it, then deploy it to Azure Artifacts"
 categories:
   - Articles

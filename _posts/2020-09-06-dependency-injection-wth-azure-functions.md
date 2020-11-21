@@ -3,7 +3,7 @@ title: "Dependency Injection with Azure Functions"
 header:
     og_image: /assets/images/posts/header/di-with-azure-function.png
 date: 2020-09-06 18:50:00 -0700
-last_modified_date: 2020-11-06 16:16:00 -0700
+last_modified_at: 2020-11-06 16:16:00 -0700
 categories:
   - Articles
 tags:

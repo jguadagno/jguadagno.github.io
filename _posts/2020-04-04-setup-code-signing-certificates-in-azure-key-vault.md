@@ -1,7 +1,7 @@
 ---
 title: "Setup Code Signing Certificates in Azure Key Vault"
 date: 2020-04-04 11:00:00 -0700
-last_modified_date: 2020-11-11 09:16:00 -0700
+last_modified_at: 2020-11-11 09:16:00 -0700
 categories:
   - Articles
 tags:

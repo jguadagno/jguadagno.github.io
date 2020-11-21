@@ -1,7 +1,7 @@
 ---
 title: "Embedding OneDrive Hosted PowerPoint slides in Jekyll Posts"
 date: 2020-11-04 18:50:00 -0700
-last_modified_date: 2020-11-05 19:50:00 -0700
+last_modified_at: 2020-11-05 19:50:00 -0700
 header:
     og_image: /assets/images/posts/header/embed-powerpoint-jekyll.png
 categories:
