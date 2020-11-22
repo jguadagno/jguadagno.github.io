@@ -1,6 +1,7 @@
 ---
 title: "Adding .NET 5 Support to Azure App Service"
 date: 2020-11-17 10:05:00 -0700
+last_modified_at: 2020-11-21 16:23:00 -0700
 header:
     og_image: /assets/images/posts/header/app-service-dotnet5.png
 categories:
@@ -20,7 +21,7 @@ Yesterday I updated the [Contacts](https://www.github.com/jguadagno/contacts){:t
 
 This reminded of something that Scott Hunter mentioned at .NET Conf.  Azure App Service supports .NET 5, just not by default.
 
-That reminded me that I had to check the configuration of the App Service to change it support .NET 5.  It's actually pretty easy to do.
+That reminded me that I had to check the configuration of the App Service to change it to enable support for .NET 5.  It's was pretty easy to do.
 
 * Log in to your portal
 * Navigate to your App Service
