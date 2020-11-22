@@ -1,7 +1,7 @@
 ---
 title: "Setup Code Signing Certificates in Azure Key Vault"
 date: 2020-04-04 11:00:00 -0700
-last_modified_at: 2020-11-11 09:16:00 -0700
+last_modified_at: 2020-11-21 18:16:00 -0700
 categories:
   - Articles
 tags:
@@ -13,7 +13,7 @@ tags:
   - Certificate
 excerpt_separator: <!--more-->
 ---
-Let's take a look how you can setup and configure Azure Key Vault to store Code Signing Certificates
+Let's take a look at how you can set up and configure Azure Key Vault to store Code Signing Certificates
 <!--more-->
 
 In this post, we'll take a look at how to store Code Signing Certificates in an Azure Key Vault.  In a future post we'll use this certificate to sign a NuGet package to ultimately deploy to [Azure Artifacts]({% post_url 2020-04-04-setup-azure-artifacts-to-host-nuget-packages %}).
@@ -24,7 +24,7 @@ What is a code signing certificate you ask? I'm glad you asked! According to [Di
 
 Essentially, they are a way to validate that source code, packages, executables, etc., comes from who it says it's from, similarly to how certificates on a web site authenticate the web site when you go to HTTPS enabled web site.
 
-You can purchase a code signing certificate from a few different sources like [DigiCert](https://digicert.com/code-signing/), who I have my code certificate from.  I am not going to cover how to purchase one.  If you do not have one, you can purchase on with DigiCert, GoDaddy, or several others companies.  Please note, they can be expensive for an individual.
+You can purchase a code signing certificate from a few different sources like [DigiCert](https://digicert.com/code-signing/), who I have my code certificate from.  I am not going to cover how to purchase one.  If you do not have one, you can purchase one with DigiCert, GoDaddy, or several other companies.  Please note, they can be expensive for an individual.
 
 ### Azure Key Vault
 
@@ -39,9 +39,9 @@ Like most services on Azure, there is a cost.  Check out the [pricing](https://a
 
 ## Getting Started
 
-We'll start by creating an Azure Key Vault. 
+We'll start by creating an Azure Key Vault.
 
-* Sign into the [Azure Portal](https://portal.azure.com#home)
+* Sign in to the [Azure Portal](https://portal.azure.com#home)
 * Click 'Create Resource'
 * In the 'Search the Marketplace' text box, type `Key Vault` and hit 'Enter'
 * Click 'Create'
@@ -61,7 +61,7 @@ If you want to follow along, here are the settings I used.
 | Subscription | *my subscription* | |
 | Resource Group | `Presentations` | I put all of my presentation and blog resources in this one group |
 | Key Vault Name | `Code-Signing-Demo-Vault` | **Note**: This must be unique |
-| Region | `(US) West US 2` | You should chose a region close to your resources |
+| Region | `(US) West US 2` | You should choose a region close to your resources |
 | Pricing tier | Standard | Where's the *free* option :smile: |
 
 The rest are defaults.
@@ -82,7 +82,7 @@ Click on 'Go to resource'
 
 There are a few ways to get a certificate into Azure Key Vault as outlined by the page [Certificate creation methods](https://docs.microsoft.com/en-us/azure/key-vault/create-certificate).  The easiest would probably be the 'Partnered CA Providers' method.  But who likes easy?
 
-I chose to import my certificate into Azure Key Vault. This requires importing the certificate into the certificate store on my local computer first, then exporting the certificate in order to upload/import it into the Azure Key Vault. Since I purchased my certificate from DigiCert, I could use their [DigiCert Certificate Utility](https://www.digicert.com/kb/code-signing/import-export-authenticode-code-signing-certificates.htm). The steps below assume that you have a '*pfx*' file with your private secret, aka password for the certificate.
+I chose to import my certificate into Azure Key Vault. This requires importing the certificate into the certificate store on my local computer first, then exporting the certificate to upload/import it into the Azure Key Vault. Since I purchased my certificate from DigiCert, I could use their [DigiCert Certificate Utility](https://www.digicert.com/kb/code-signing/import-export-authenticode-code-signing-certificates.htm). The steps below assume that you have a '*pfx*' file with your private secret, aka password for the certificate.
 
 Back to the Azure Key Vault page do the following:
 
@@ -91,10 +91,10 @@ Back to the Azure Key Vault page do the following:
 * Under 'Method of Certificate Creation', chose `Import`
 * Give the certificate a name.  For me, I used the name of the certificate with the year it expires.  Example: `JosephGuadagno-2020`
 * Select the certificate file. **Note**: Key Vault requires that the certificate be in the *pfx* or *pem* format
-* Use the 'private key' that you used when your exported your key.
+* Use the 'private key' that you used when you exported your key.
 * Click 'Create'
 
-If every was successful, you will see a page like this.
+If everything was successful, you will see a page like this.
 
 ![Setup Code Signing Certificates - Key Vault Successfully Imported Certificate](/assets/images/posts/code-sign-key-vault-certificate-import-success.png){: .align-center}
 
