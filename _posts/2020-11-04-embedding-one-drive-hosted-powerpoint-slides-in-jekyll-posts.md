@@ -1,7 +1,7 @@
 ---
 title: "Embedding OneDrive Hosted PowerPoint slides in Jekyll Posts"
 date: 2020-11-04 18:50:00 -0700
-last_modified_at: 2020-11-05 19:50:00 -0700
+last_modified_at: 2020-11-28 09:05:00 -0700
 header:
     og_image: /assets/images/posts/header/embed-powerpoint-jekyll.png
 categories:
@@ -17,7 +17,7 @@ Here is what the page looks like on my site.
 
 ![Screen shot](/assets/images/posts/embed-powerpoint-example.png){: .align-center}
 
-I host all of my presentations decks on OneDrive and make them available to all the attendees of my talks.  This allows me to embed the links in any emails or sites that I want to. I embed all the talks, code links, and sample videos on each of the talks' respective pages on my [site]({% link _pages/presentations.md %}). With my site is built using [Jekyll](https://jekyllrb.com/){:target="_blank"} and hosted on GitHub pages, embedding the slide decks was quite simple. Now here is the how?
+I host all of my presentation decks on OneDrive and make them available to all the attendees of my talks.  This allows me to embed the links in any emails or sites that I want to. I embed all the talks, code links, and sample videos on each of the talks' respective pages on my [site]({% link _pages/presentations.md %}). With my site is built using [Jekyll](https://jekyllrb.com/){:target="_blank"} and hosted on GitHub pages, embedding the slide decks was quite simple. Now here is the how?
 
 ## Get the Embed Code from OneDrive
 
