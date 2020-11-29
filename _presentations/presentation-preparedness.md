@@ -9,3 +9,5 @@ youTubeCaption: Presentation Preparedness. Public Speaking Virtual Conference
 ---
 
 How do you prepare yourself including any practicing, setting up and testing machines, any gadgets you carry with you.
+
+I've grown this talk in [Building a Talk for an Event](building-a-talk-for-an-event.md).
