@@ -1,5 +1,17 @@
 [
-    
+    {
+        "eventName" : "Growth Mindset Weekly Show",
+        "eventUrl" : "https://www.c-sharpcorner.com/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Tech Hiring, Career Advice, and Culture",
+            "url": "https://www.youtube.com/watch?v=1Q8ZUNSyNqg",
+            "date" : "2020-12-18",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
     {
         "eventName" : "Granite State (NH) .NET",
         "eventUrl" : "https://www.meetup.com/Granite-State-NH-dotNET/events/cmzfvrybcpbzb/",
