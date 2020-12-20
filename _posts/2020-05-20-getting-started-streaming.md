@@ -1,5 +1,7 @@
 ---
 title: "Getting Started Streaming"
+date: 2020-05-20 04:05:00 -0700
+last_modified_at: 2020-12-20 08:30:00 -0700
 categories:
   - Articles
 tags:
@@ -11,14 +13,14 @@ As I [posted]({% post_url 2020-04-25-coding-with-joeg-im-streaming %}) about a m
 
 ## Getting Started
 
-*Do It*! Don't overthink it as I did.  Don't be concerned that there are *so many people* streaming now. While there may be many people streaming (there isn't), each person has his or her voice and style. Don't worry if you don't know every, no one does.  I've watched quite a few people stream before I leaped, and the one thing in common is we all make mistakes, and we all need to look things up.  I plan on demonstrating basic application creation and the way I like to do stuff for my stream.  Some of the stuff I don't know how to do. Like we say at work, 'We'll figure it out'! That is was one of the hardest things for me to get.  I've been a public speaker/presenter for over 10 years now, and I was treating each stream like a presentation.  I had to have my scripts, backups of the code, and the plan.  However, streaming is not that.  At least not for me and others.  Streaming is a way to show others how you solve a problem or riddle.  A way to show yourself and others that speakers/presenters are not all-mighty and know everything. So do it!
+*Just Do It*! Don't overthink it as I did.  Don't be concerned that there are *so many people* streaming now. While there may be many people streaming (there isn't), each person has his or her voice and style. Don't worry if you don't know every, no one does.  I've watched quite a few people stream before I leaped, and the one thing in common is we all make mistakes, and we all need to look things up.  I plan on demonstrating basic application creation and the way I like to do stuff for my stream.  Some of the stuff I don't know how to do. Like we say at work, 'We'll figure it out'! That is was one of the hardest things for me to get.  I've been a public speaker/presenter for over 10 years now, and I was treating each stream like a presentation.  I had to have my scripts, backups of the code, and the plan.  However, streaming is not that.  At least not for me and others.  Streaming is a way to show others how you solve a problem or riddle.  A way to show yourself and others that speakers/presenters are not all-mighty and know everything. So do it!
 
 ## I'm Convinced
 
 "*You convinced me, Joe! What do I need to do now?*" I'm glad you ask! First off, you need to avoid G.A.S., **G**ear **A**cquisition **S**yndrome. G.A.S. is something familiar in the podcasting world and the streaming world to some extent.  The wanting to buy the latest and greatest set of *xyz*. To get started, you don't need high-end video cards, cameras, lighting, microphones, or lighting. Most modern computers are enough to handle the basics of what you need.  The shortlist is:
 
-* Web Cam, built in is usually good enough.
-* Microphone, built in is usually good enough.
+* Web Cam, built-in is usually good enough.
+* Microphone, built-in is usually good enough.
 * Software to stream
 
 ### Software to Stream
@@ -27,7 +29,7 @@ There are several different ways to stream to Twitch.  Twitch supposed in-browse
 
 * **Open Broadcast Software (OBS)** - Free and open source software for recording and live streaming. Source code is available to everyone to contribute and improve. [link](https://obsproject.com/){:target="_blank}
 * **Twitch Studio (Beta)** - Our free streaming software, designed to help new streamers get started. With features like guided setup, customizable templates, and integrated alerts, Twitch Studio takes the guesswork out of setting up and managing your stream. [link](https://www.twitch.tv/studio){:target="_blank}
-* **Streamlabs OBS** - **This is what I use** - Streamlabs OBS is free, open source, and easy way to get started streaming. The app is built on top of OBS with a whole lot of exciting features: facemasks, built-in widgets & chat, game specific encoders and thousands of free overlays and themes. [link](https://streamlabs.com/streamlabs-obs/){:target="_blank}
+* **Streamlabs OBS** - **This is what I use** - Streamlabs OBS is free, open-source, and easy way to get started streaming. The app is built on top of OBS with a whole lot of exciting features: facemasks, built-in widgets & chat, game-specific encoders and thousands of free overlays and themes. [link](https://streamlabs.com/streamlabs-obs/){:target="_blank}
 * **Lightstream Studio** - Professional live streaming from your browser. Build your ideal layout. Bring on guests remotely. Advanced creative possibilities made easy for anyone. [link](https://app.golightstream.com/twitchmusic){:target="_blank}
 * **OBS.Live** - OBS.Live is StreamElements' OBS Studio free add-on for streaming (supports V23). OBS.Live makes stream management easy, integrating Twitch chat, your Activity Feed, and Media Request directly into OBS. Other features include Custom Bot name, HotKeys and Leaderboards. [link](https://streamelements.com/obslive){:target="_blank}
 * **XSplit Broadcaster** - XSplit is a free, highly customizable, and powerful suite of applications to broadcast to Twitch. Whether creating a live stream or editing/uploading clips, it is easy to get started. [link](https://www.xsplit.com/partners/twitch){:target="_blank}
@@ -55,6 +57,7 @@ Now you are ready to stream, go for it.  Here is a quick [checklist](https://ard
 ## Up Next
 
 * [Branding your stream]({% post_url 2020-05-20-branding-your-stream %})
-* Coding with JoeG - [Hardware Configuration]({% post_url 2020-05-20-coding-with-joeg-streaming-hardware-configuration %})
+* Coding with JoeG - ~~[Hardware Configuration]({% post_url 2020-05-20-coding-with-joeg-streaming-hardware-configuration %})~~
+* Coding with JoeG - [Hardware Configuration - December 2020 Update]({% post_url 2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %})
 * Coding with JoeG - [Software Configuration]({% post_url 2020-05-25-coding-with-joeg-streaming-software-configuration %})
 * Coding with JoeG - [OBS Plugins]({% post_url 2020-05-20-coding-with-joeg-stream-plugins %}) to add to your stream

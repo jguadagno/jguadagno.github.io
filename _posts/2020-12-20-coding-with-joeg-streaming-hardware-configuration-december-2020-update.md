@@ -1,7 +1,6 @@
 ---
-title: "Coding with JoeG - Streaming Hardware Configuration"
-date: 2020-05-20 04:05:00 -0700
-last_modified_at: 2020-12-20 08:30:00 -0700
+title: "Coding with JoeG - Streaming Hardware Configuration - December 2020 Update"
+date: 2020-12-20 04:05:00 -0700
 categories:
   - Articles
 tags:
@@ -9,36 +8,29 @@ tags:
   - Stream
   - CodingWithJoeG
 ---
-***NOTE*** I have a new hardware configuration as outlined in '[Stream Hardware Configuration - December 2020]({% post_url 2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %}). Check it out!
-{: .notice--info}
+Since the original '[Stream Hardware Configuration]({% post_url 2020-05-20-coding-with-joeg-streaming-hardware-configuration %}) post, I've changed my hardware configuration a bit.  This post contains the most current hardware configuration.
 
 I've listed out all of the equipment that I use to stream 'Coding with JoeG' on [Twitch](https://twitch.tv/jguadagno){:target="_blank"}. While all this equipment is not necessary, it has helped me produce a reliable stream.  *Your mileage may vary!*
 
 ## Computer Equipment
 
-### Primary PC
+I've learned a little bit and upgraded my hardware setup.  Now I use a more powerful laptop with more memory and a better video card.  I now have a [Dell Precision 5540](https://www.dell.com/en-us/work/shop/cty/pdp/spd/precision-15-5540-laptop/xctop554015us?gacd=9646510-1069-5763017-266828445-0&dgc=st&gclid=bd6cc4f26da8178727499b2d04620654&gclsrc=3p.ds&ds_rl=1282789&msclkid=bd6cc4f26da8178727499b2d04620654) laptop.  The extra memory is key when you are using one pc. At minimum when I stream, I am running JetBrains Rider, StreamLabs OBS, and Microsoft Edge. Having the extra members keeps the operating system from swapping applications to the hard drive.
 
-This is the laptop that I do my presentations from. A **Mac Book Pro 2018 - 15 inch** with the specs of:
+The next big change is the video card. This laptop has a higher-end (for laptops) video card, the NVIDIA Quadro T2000.
 
-* Intel i7 6 Core
-* 16 Gb of memory
-* 512 Gb SSD
-* Graphics
-  * Radeon Pro 560x
-  * Intel UHD graphics 630
+### Streaming PC
+
+A [Dell Precision 5540](https://www.dell.com/en-us/work/shop/cty/pdp/spd/precision-15-5540-laptop/xctop554015us?gacd=9646510-1069-5763017-266828445-0&dgc=st&gclid=bd6cc4f26da8178727499b2d04620654&gclsrc=3p.ds&ds_rl=1282789&msclkid=bd6cc4f26da8178727499b2d04620654) with the specs of:
+
+* Intel i9-9880H (2.30Ghz) - 8 Cores
+* 32 Gb of memory
+* 512 Gb SSD (NVMe)
+* NVIDIA Quadro T2000
 
 ### Secondary PC
 
-I use a secondary PC to manage the stream since my primary pc was not strong enough to simultaneously handle the coding and streaming. For that, I use a **Lenovo Flex 5-1570** with the following specs:
-
-View on [Manufacturers Site](https://www.lenovo.com/us/en/laptops/ideapad/ideapad-flex-series/IdeaPad-Flex-5-15IIL-05/p/88IPF501454){:target="_blank"}
-
-* Intel i7-08550U 4 Core (8 logical processors)
-* 16 gig of memory
-* 512 gig SSD
-* Graphics
-  * Intel UHD Graphics 620
-  * NVIDIA GeForce MX130
+I no longer use a secondary computer thanks to the power of the primary streaming PC.
+{: .notice--info}
 
 ## Streaming 'Gear'
 
@@ -60,6 +52,9 @@ View on [Amazon](https://amzn.to/2XiLx5Q){:target="_blank"}
 A microphone is probably the one piece of hardware that I recommend you buy, not necessarily the ATR2100. I love the sound quality of this microphone so far.  Most built-in microphones are low quality and, on laptops, are next to the keyboard.  These two factors lead to the microphone picking up considerable extra noise.  Having a separate microphone mounted on a 'Boom arm' with the shock mount and pop filter reduces much noise.  With this configuration, you can't hear me type, the fan in my office, or when I accidentally bang the desk.  This microphone is a great starter purchase.  As a bonus, this comes with an XLR connection to plug into a mixer board and other gear if you want to get serious about your audio.
 
 ### Elgato HD 60 S+
+
+***NOTE*** This is no longer used since I only use one PC.
+{: .notice--info}
 
 View on [Manufacturer Site](https://www.elgato.com/en/gaming/game-capture-hd60-s-plus){:target="_blank"}
 View on [Amazon](https://amzn.to/2WOiVTi){:target="_blank"}
@@ -98,7 +93,9 @@ View on [Amazon](https://amzn.to/2XbYyON){:target="_blank"}
 
 The StreamDeck provides physical buttons that you can assign to an assortment of things.  You can program scene transitions, sound effects, send tweets, and more.  For me, I have it currently starting a few different applications and sending tweets.
 
-I haven't used the Elgato StreamDeck to the fullest extend yet.  I'll play around with it some more this weekend.
+~~I haven't used the Elgato StreamDeck to the fullest extend yet.  I'll play around with it some more this weekend.~~ I've since, starting using the Streamdeck a lot more, as you can see in the picture.  I'll blog about the configuration another time.
+
+![Elgato StreamDeck](/assets/images/posts/streaming-equipment-elgato-streamdeck-config.png){: .align-center}
 
 ### Desk Lights
 
@@ -109,6 +106,9 @@ View on [Amazon](https://amzn.to/2TnLTHv){:target="_blank"}
 I have 6 'Daylight' bulbs in my home office, so the lighting is pretty good.  I use these lights mostly to highlight imperfections with shadows (mainly on my face).
 
 ### Amazon USB 3.0 Hub
+
+**NOTE** This is no longer used since I only use one PC.
+{: .notice--info}
 
 View on [Amazon](https://amzn.to/3cNRw9B){:target="_blank"}
 
@@ -121,7 +121,7 @@ A USB hub is not required.  However, because of my current configuration of lapt
 
 ### Wired Ethernet Connection
 
-While not required, it is strongly recommended depending on your network configuration.  Both laptops are hard-wired into my router (it's super close to my desk).  Having both laptops hard-wired prevents wi-fi interference and potential packet/frame dropping.
+While not required, it is strongly recommended depending on your network configuration.  The laptop hard-wired into my router (it's super close to my desk).  Having the laptop hard-wired prevents wi-fi interference and potential packet/frame dropping.
 
 ## Wrapping up
 
