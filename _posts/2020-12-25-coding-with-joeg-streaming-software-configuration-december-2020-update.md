@@ -1,7 +1,6 @@
 ---
-title: "Coding with JoeG - Streaming Software Configuration"
-date: 2020-05-25 04:05:00 -0700
-last_modified_at: 2020-12-25 09:30:00 -0700
+title: "Coding with JoeG - Streaming Software Configuration - December 2020 Update"
+date: 2020-12-25 09:30:00 -0700
 categories:
   - Articles
 tags:
@@ -9,10 +8,8 @@ tags:
   - Stream
   - CodingWithJoeG
 ---
-***NOTE*** Since I have a new hardware configuration as outlined in '[Stream Hardware Configuration - December 2020]({% post_url 2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %}), I've updated the software configuration in the post [Stream Software Configuration - December 2020]({% post_url 2020-12-25-coding-with-joeg-streaming-software-configuration-december-2020-update %}). Check it out!
-{: .notice--info}
 
-In a previous post, I covered the [hardware]({% post_url 2020-05-20-coding-with-joeg-streaming-hardware-configuration %}) I use for the stream.  In this post, I'll cover the software and settings to 'produce' the stream and artifacts. Please keep in mind, this is a guide based on some of my searchings, my playing around, and my hardware, your needs may be different. Another thing to keep in mind, is these are my settings for streaming live coding not live gaming.
+In a previous post, I covered the [hardware]({% post_url 2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %}) I use for the stream.  In this post, I'll cover the software and settings to 'produce' the stream and artifacts. Please keep in mind, this is a guide based on some of my searchings, my playing around, and my hardware, your needs may be different. Another thing to keep in mind, is these are my settings for streaming live coding not live gaming.
 
 ## Streamlabs OBS Configuration
 
@@ -22,9 +19,9 @@ Streamlabs OBS is a free reliable streaming app with the fastest setup process o
 
 ### Settings
 
-The first thing, from what I remember, is that Streamlabs OBS runs an 'Auto Optimize' function, which you can find on the general tab of settings.  From everything I have seen and read, you really never want to do this, except for maybe the first time.  Most of the time, you will want to 'tweak' the settings to fit your needs.  I've been on streams where the host says "What a minute. I have to tweak something".  It's gonna happen for a while.
+The first thing, from what I remember, is that Streamlabs OBS runs an 'Auto Optimize' function, which you can find on the general tab of settings.  From everything I have seen and read, you really never want to, except for maybe the first time.  Most of the time, you will want to 'tweak' the settings to fit your needs.  I've been on streams where the host says "What a minute. I have to tweak something".  It's gonna happen for a while.
 
-First we are going to talk about the Streamlabs OBS settings.  You can get to these by clicking on gear (<i class="fas fa-cog"></i>) icon. Again, some settings might not be applicable depending on your hardware.
+First, we are going to talk about the setting for Streamlabs OBS.  You can get to these by clicking on gear (<i class="fas fa-cog"></i>) icon. Again, some settings might not be applicable depending on your hardware.
 
 #### General Tab
 
@@ -47,17 +44,19 @@ For this tab, I have a few things tweaked based on my hardware and conditions.  
 | --- | --- | --- |
 | Setting | Value | Description |
 | Audio Track | `1` | Only have one track.  This is helpful if you want to separate music from your voice |
-| Encoder | `Hardware (QSV)` | This is set to software, by default, I changed it to hardware because I wanted to offload some of the video encoding to my video chip/card since my PC not fast enough |
-| Enforce stream service encoder settings | `Unchecked` | |
-| Rescale output | `Unchecked` | I broadcast at the resolution I want. |
-| Target Usage | `quality` | |
-| Profile  | `high` | |
-| Keyframe Interval | `3` | |
-| Async Depth | `4` | |
-| Rate Control | `VBR` | |
-| Bitrate | `2500` | The higher the better |
-| B Frames | 3`` | |
-| Content Adaptive Quantization | `Checked` | |
+| Encoder | `Hardware (NVENC)` | This is set to software, by default, I changed it to hardware because I wanted to offload some of the video encoding to my video chip/card since my PC not fast enough |
+| Enforce stream service encoder settings | `Checked` | |
+| Rate Control | `CBR` | *Constant Bitrate Stream*: This is the standard bitrate to use for streamers. Let’s say you’ve set your video bitrate to 3000 Kbps for your next stream, using CBR means your stream will always be at 3000 Kbps, even when less could be used, such as a dark game that lacks detail. |
+| Bit Rate | `6000` | The higher the better |
+| Keyframe Interval | `0` | `0` Indicates that Streamlabs will figure it out before it starts. The "Keyframe Interval" could be set at 2, meaning that the video frame will be rendered every 2 seconds. |
+| Preset | `Performance` | |
+| Profile | `high` | |
+| Look-ahead | `Unchecked` |  |
+| Psycho Visual Tuning | `Checked` | |
+| GPU | `0` | |
+| Max B-frames | `2` |  |
+
+For a more in-depth look at bitrates, and keyframes, check out [What is Video Bitrate](https://castr.io/blog/what-is-video-bitrate/).
 
 ##### Output - Recording
 
@@ -68,18 +67,17 @@ For this tab, I have a few things tweaked based on my hardware and conditions.  
 | Generate File Name without Space | `Checked` | |
 | Recording Format | `mp4` | |
 | Audio Track | `1` | Only have one track.  This is helpful if you want to separate music from your voice |
-| Encoder | `Hardware (QSV)` | This is set to software, by default, I changed it to hardware because I wanted to offload some of the video encoding to my video chip/card since my PC not fast enough |
-| Rescale output | `Unchecked` | I broadcast at the resolution I want. |
-| Custom Mixer Settings | *empty* | |
-| Target Usage | `quality` | |
-| Profile  | `high` | |
-| Keyframe Interval | `3` | |
-| Async Depth | `4` | |
-| Rate Control | `VBR` | |
-| Bitrate | `2500` | The higher the better |
-| Max Bitrate | `3000` | |
-| B Frames | 3`` | |
-| Content Adaptive Quantization | `Checked` | |
+| Encoder | `Hardware (NVENC)` | This is set to software, by default, I changed it to hardware because I wanted to offload some of the video encoding to my video chip/card since my PC has a detected video card now. |
+| Enforce stream service encoder settings | `Checked` | |
+| Rate Control | `CBR` | *Constant Bitrate Stream*: This is the standard bitrate to use for streamers. Let’s say you’ve set your video bitrate to 3000 Kbps for your next stream, using CBR means your stream will always be at 3000 Kbps, even when less could be used, such as a dark game that lacks detail. |
+| Bit Rate | `6000` | The higher the better |
+| Keyframe Interval | `0` | `0` Indicates that Streamlabs will figure it out before it starts. The "Keyframe Interval" could be set at 2, meaning that the video frame will be rendered every 2 seconds. |
+| Preset | `Performance` | |
+| Profile | `high` | |
+| Look-ahead | `Unchecked` |  |
+| Psycho Visual Tuning | `Checked` | |
+| GPU | `0` | |
+| Max B-frames | `2` |  |
 
 ##### Output - Audio
 
@@ -98,9 +96,9 @@ All of these settings are untouched
 | Setting | Value | Description |
 | Sample Rate | `48khz` | Set this to the highest value your audio will support! The higher the hertz, the better the audio quality |
 | Channels | `Stereo` | Especially if you have music playing |
-| Desktop Audio Device 1 | `Default` | |
+| Desktop Audio Device 1 | `Disabled` | |
 | Desktop Audio Device 2 | `Disabled` | |
-| Mic/Auxiliary Device 1 | *Unselected* | |
+| Mic/Auxiliary Device 1 | `Disabled` | |
 | Mic/Auxiliary Device 2 | `Disabled` | |
 | Mic/Auxiliary Device 3 | `Disabled` | |
 
@@ -110,7 +108,7 @@ You can select your microphone for either of the *mic/auxiliary* slots if you ch
 
 | --- | --- | --- |
 | Setting | Value | Description |
-| Base (Canvas) Resolution | `3840x2160` | **4k**. I have one screen with 4K but I use that for monitoring stuff. I'll probably change this. |
+| Base (Canvas) Resolution | `1920x1080` | **1080p**. Most providers support 1080p and 4k.  If you stream in 4k the resolution on the viewer's screen will be different if they don't have a 4k monitor due to scaling. |
 | Output (Scaled) Resolution | `19020x1080` | **HD** |
 | Downscale Filter | `Bicubic (Sharpened scaling, 16 samples)` | **Bilateral**, best for CPU. **Lanczos**, is better quality but CPU intensive. **Bicubic**, is the in-between. |
 | FPS Type| `Common FPS Values` | This will defaults to Frames per Second based on the resolution |
@@ -209,7 +207,7 @@ All of the other settings, Hotkeys, Game Overlay, Scene Collections, Notificatio
 
 Scenes in OBS provide a different way to provide content to the viewer. Do you just want to show code? Do you just want to show you?  Scenes are a way to do that, and a preference.  From what I have seen, no two streams are the same.  I have eight scenes registered, three of them are just helper scenes that are reused as part of other scenes.
 
-![Coding with JoeG Scenes](/assets/images/posts/streaming-software-scenes.jpg){: .align-center}
+![Coding with JoeG Scenes](/assets/images/posts/streaming-software-scenes.png){: .align-center}
 
 | Scene Name | Use |
 | Overlay | Samples, provided by the theme, with some visual UI elements |
@@ -218,6 +216,7 @@ Scenes in OBS provide a different way to provide content to the viewer. Do you j
 | Be Right Back Scene | I have not used this one yet.  It's for the times, I might need to run and get the door, or another drink, or something |
 | Ending Scene | This signals the users that the stream is ending and provides some social media links for them to continue the conversation.  My mic is still on at this point.  This might be replaced with the *Just Chatting* scene which I am still building. |
 | Just Chatting | Work in progress.  This will just be me with some background images for just the conversation. |
+| Secret Time | I use this when I am working with secrets on screen and I don't want to share them :smile: |
 | Social Media | A shared scene with all of my social media links |
 | Alerts | A shared scene with the OBS/Twitch alerts for new followers, subscribers, etc. |
 
@@ -227,7 +226,7 @@ All of my scenes and alerts use the [Pure](https://www.own3d.tv/product/pure-ser
 
 Filters are like advanced settings that let you tweak your devices (sources) even more.  I'm going to cover some of the Webcam and Microphone filters I use to provide a better experience.
 
-One thing to keep in mind is that the order of the filters matter.  The output of one filter is feed in as the source of the next filter.  So if you have four filters, the input of filter 4 would be the output of the third, not the original source data. So, you might want to play around with the ordering a bit.
+One thing to keep in mind is that the order of the filters matter.  The output of one filter is feed in as the source of the next filter.  So if you have four filters, the input of filter 4 would be the output of the third, not the source data. So, you might want to play around with the ordering a bit.
 
 To get to the filters in OBS, right-click on a source and chose `Filters`.
 
@@ -246,15 +245,11 @@ This filter will remove or add pixels to your webcam.  The webcam I use has a wi
 
 ##### Webcam Filter - Sharpen
 
-Next up is the *Sharpen* filter. This is used to clean up the image a little bit.  For my camera, this is barely needed.
-
-| --- | --- | --- |
-| Setting | Value | Description |
-| Sharpness | `0.08` | |
+I don't use this filter any more.
 
 ##### Webcam Filter - Chroma Key
 
-Chromakeying is used to mask out the background of your camera's field of view.  Think of the weather forecaster on TV standing in front of the weather map.  That image is superimposed by a computer by replacing the Chromakeying color with the computer image.  I have a Green chromakey for my setup.
+Chromakeying is used to mask out the background of your camera's field of view.  Think of the weather forecaster on TV standing in front of the weather map.  That image is superimposed by a computer by replacing the Chromakeying color with the computer image.  I have switched to a blue screen chromakey for my setup since my chair is blue. 
 
 You will probably mess around with these settings a lot until you get it just right.  The lighting in your room/office/studio is a big contributor to this.
 
@@ -273,27 +268,27 @@ You will probably mess around with these settings a lot until you get it just ri
 
 #### Microphone Filters
 
-These filters were based off of a video I watched [Best Microphone Settings for Streamlabs OBS (2020)](https://www.youtube.com/watch?v=JvFw1NsgElQ){:target="_blank}. I recommend you watch this video to learn more about the audio filters.
+These filters were based on a video I watched [Best Microphone Settings for Streamlabs OBS (2020)](https://www.youtube.com/watch?v=JvFw1NsgElQ){:target="_blank}. I recommend you watch this video to learn more about the audio filters.
 
 ##### Microphone Filter - Gain
 
 | --- | --- | --- |
 | Setting | Value | Description |
-| Gain | `13.4` | The more gain, the louder the audio is |
+| Gain | `3.7` | The more gain, the louder the audio is |
 
 ##### Microphone Filter - Noise Suppression
 
 | --- | --- | --- |
 | Setting | Value | Description |
-| Suppression Level | `-30` | |
+| MEthod | `RNNoise` | |
 
 ##### Microphone Filter - Noise Gate
 
-These settings will require a lot of tweaking to get a clear sound for your recording. I find myself tweaking the Close and Open Thresholds mostly.  The video above does a great job in explaining each of the settings.
+These settings will require a lot of tweaking to get a clear sound for your recording. I find myself tweaking the Close and Open Thresholds mostly.  The video above does a great job of explaining each of the settings.
 
 | --- | --- | --- |
 | Setting | Value | Description |
-| Close Threshold | `-51` | |
+| Close Threshold | `-53` | |
 | Open Threshold | `-26` | |
 | Attack Time | `25` | |
 | Hold Time | `200` | |
@@ -314,4 +309,4 @@ These settings will require a lot of tweaking to get a clear sound for your reco
 
 That's it!  Again, your mileage may vary.  These are the 'optimal' settings for my hardware, software, and environment.
 
-For details on my hardware, check out this [post]({% post_url 2020-05-20-coding-with-joeg-streaming-hardware-configuration %})
+For details on my hardware, check out this [post]({% post_url 2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %})
