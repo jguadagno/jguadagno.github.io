@@ -1,6 +1,7 @@
 ---
 title: "Hard Wire your Home without Ethernet using MoCA"
 date: 2020-12-26 19:20:00 -0700
+last_modified_at: 2020-12-28 10:55:00 -0700
 header:
     og_image: /assets/images/posts/header/moca.png
 categories:
