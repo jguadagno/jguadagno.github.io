@@ -56,5 +56,13 @@ After a week of using this set up there have been no network drops, no latency i
 
 In short, if your wireless network is struggling, you don't have ethernet wiring though out your home, and you have coax wiring, MoCA adapters are a low-cost way to help.
 
+## Security Matters
+
+If you install a MoCA setup, you should check to see if you have a 'Point of Entry' (POE) filter installed where your network connection comes into your home. They look something like this.
+
+![MoCA POE](/assets/images/posts/moca-poe.jpg){: .align-center}
+
+A POE prevents interference between subscriber homes that use MoCA technology. But more importantly, prevents you from leaking your network data back to your provider or anyone/anything else sharing the cable wiring. You can get on [Amazon](https://amzn.to/2JqWGij) for under $10.
+
 **Note** If you click on an Amazon link and purchase a product, I may get a commission from Amazon. The purpose of the links is to avoid much searching and not to make money on the blog post.
 {: .notice}
