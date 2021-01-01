@@ -4,6 +4,7 @@ date: 2007-11-23T01:00:00+00:00
 permalink: /2007/11/23/microsoft-sharepoint-2007-development-unleashed/
 categories:
   - Books
+  - Book Reviews
 ---
 When they put the word **Unleashed** in this title they were not kidding. This book has everything (or at least everything I needed) as it pertains to SharePoint development. Most books concentrate on building SharePoint sites, creating lists, setting permissions but not this book. This book looks at how to work with SharePoint through it's .NET objects and Web Services. A **must** if you are developing against SharePoint. Topics Covered:
 

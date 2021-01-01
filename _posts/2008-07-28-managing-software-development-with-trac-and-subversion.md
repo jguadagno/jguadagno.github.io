@@ -4,6 +4,7 @@ date: 2008-07-28T06:35:25+00:00
 permalink: /2008/07/28/managing-software-development-with-trac-and-subversion/
 categories:
   - Books
+  - Book Reviews
 ---
 This book is short on the number of pages but not necessarily on content.  The books author approaches Software Development Project Management as a problem and offers up how you can use [Trac](http://trac.edgewall.org/) and [Subversion](http://subversion.tigris.org/) as a solution.
 

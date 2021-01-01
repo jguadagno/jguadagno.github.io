@@ -4,7 +4,7 @@ date: 2016-12-20T20:03:57+00:00
 permalink: /2016/12/20/book-review-practical-microsoft-visual-studio-2015/
 categories:
   - Books
-  - Visual Studio
+  - Book Reviews
 tags:
   - Visual Studio
 ---

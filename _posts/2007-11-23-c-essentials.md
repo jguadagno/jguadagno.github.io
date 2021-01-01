@@ -4,6 +4,7 @@ date: 2007-11-23T01:00:00+00:00
 permalink: /2007/11/23/c-essentials/
 categories:
   - Books
+  - Book Reviews
 ---
 The book itself is quite thin but covers enough of C# to make it useful for an introduction and to see the potential for the .NET framework.
 

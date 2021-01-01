@@ -6,6 +6,7 @@ dsq_thread_id:
   - "3582936219"
 categories:
   - Books
+  - Book Reviews
 ---
 A few months ago I was asked to be a Technical Reviewer for a new NuGet book coming out.  I happily said yes and a month or two later out came [NuGet 2 Essentials](http://www.amazon.com/gp/product/178216586X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=178216586X&linkCode=as2&tag=beyondthebasic0e&linkId=IK4FKY7RGOQT7LZU).
 

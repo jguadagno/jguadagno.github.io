@@ -6,6 +6,7 @@ dsq_thread_id:
   - "3615149398"
 categories:
   - Books
+  - Book Reviews
 ---
 When I first learned about this book I could not wait to get my hands on it for two reasons.  One, my current work project involves designing an API for an application to “talk” to a wide variety of systems. The second is one of the authors, [Glenn Block](http://codebetter.com/glennblock/). I’ve known Glenn for a while. I’ve seen him present, I’ve talked with him, read his blog posts and knew the book would not disappoint and it did not.
 

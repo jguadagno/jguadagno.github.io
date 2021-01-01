@@ -6,6 +6,7 @@ dsq_thread_id:
   - "4265252986"
 categories:
   - Books
+  - Book Reviews
 ---
 Contrary to what I thought when I originally got this book it is **not** related to the ASP.NET Ajax Control toolkit for which you find many articles and websites dedicated to, instead this book is about the library behind the scenes that makes Microsoft Ajax work.  This is a good thing because there are a limited number of locations to get some details about underlining JavaScript libraries.
 

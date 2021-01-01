@@ -1,13 +1,13 @@
 ---
-title: How to use the Google AJAX Search API on your web site.
+title: How to use the Google AJAX Search API on your website.
 date: 2007-11-06T07:04:33+00:00
 dsq_thread_id:
   - "3618310716"
 categories:
   - Articles
-  - Web
 tags:
   - Google
+  - Web
 ---
 ## The Google AJAX Search API
 

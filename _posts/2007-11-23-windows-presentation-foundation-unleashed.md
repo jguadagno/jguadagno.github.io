@@ -4,6 +4,7 @@ date: 2007-11-23T01:00:00+00:00
 permalink: /2007/11/23/windows-presentation-foundation-unleashed/
 categories:
   - Books
+  - Book Reviews
 ---
 Just like the other Unleashed series of books, this one goes all out to explain Windows Presentation Foundation. The book actually has color examples which helps to illustrate some of the points. A **must** for a developer.  
 Topics covered:

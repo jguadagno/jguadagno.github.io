@@ -6,10 +6,10 @@ dsq_thread_id:
   - "3570874323"
 categories:
   - Articles
-  - Web
 tags:
   - Bing
   - Bing Maps
+  - Web
 ---
 For the [MVPSummitEvents](http://www.mvpsummitevents.com/) and [Mix10Events](http://www.visitmixevents.info) site, I wanted to create a map of all of the events listed on the site. In order to do that I needed to [Geocode](http://en.wikipedia.org/wiki/Geocoding) all of the addresses for the events.  There are several services out there for geocoding an address, [Microsoft](http://msdn.microsoft.com/en-us/library/cc966793.aspx?WT.mc_id=DOP-MVP-4024623), [Yahoo](http://developer.yahoo.com/maps/rest/V1/geocode.html), and [Google](http://code.google.com/apis/maps/documentation/geocoding/) provide this service as well as others.  I decided to go with the Microsoft Bing services, being a [Microsoft MVP](https://mvp.support.microsoft.com/profile=4C0083AE-C0DE-4F05-A179-D9072AF2EA2B).
 

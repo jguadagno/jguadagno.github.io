@@ -14,6 +14,6 @@ A [blog post](http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.a
 * Visual Basic 2008 Keybinding Poster
 * Visual c++ 2006 Keybinding Poster
 * Visual C# Keybinding Poster
-* and many more...
+* And many more...
 
 Check it out at [http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx](http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx "http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx")

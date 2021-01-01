@@ -4,5 +4,6 @@ date: 2007-11-09T16:00:00+00:00
 permalink: /2007/11/09/professional-web-parts-and-custom-controls-with-asp-net-2-0/
 categories:
   - Books
+  - Book Reviews
 ---
 As the name of the book suggest it covers a combination of WebParts and Custom Controls.  Unfortunately, the author/book jumps back and forth between the two topics.  This book assumes that you are well versed in WebForms and are looking to move the next step in development.

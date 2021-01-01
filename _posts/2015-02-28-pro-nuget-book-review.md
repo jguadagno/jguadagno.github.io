@@ -6,6 +6,7 @@ dsq_thread_id:
   - "3556296941"
 categories:
   - Books
+  - Book Reviews
 tags:
   - NuGet
 ---

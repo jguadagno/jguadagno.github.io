@@ -4,6 +4,7 @@ date: 2008-11-24T21:58:36+00:00
 permalink: /2008/11/24/asp-net-3-5-application-architecture-and-design/
 categories:
   - Books
+  - Book Reviews
 ---
 Although the title of this book states the book is for ASP.NET 3.5 application architecture and design, you will be able to take these concepts well beyond ASP.NET.  The concepts and technics that this author conveys can be used for all Windows .NET development.  The author starts out explaining basic 1 tier architecture and eventually graduates you to a five-tier architecture.
 

@@ -6,7 +6,6 @@ dsq_thread_id:
   - "3570155059"
 categories:
   - Articles
-  - Azure
 tags:
   - Azure
   - Microsoft Azure

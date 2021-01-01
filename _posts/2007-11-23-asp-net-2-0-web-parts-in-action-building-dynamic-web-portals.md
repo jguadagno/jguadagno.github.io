@@ -4,8 +4,9 @@ date: 2007-11-23T01:00:00+00:00
 permalink: /2007/11/23/asp-net-2-0-web-parts-in-action-building-dynamic-web-portals/
 categories:
   - Books
+  - Book Reviews
 ---
-This book provides an in depth look at using, implementing, customizing and developing your own web parts.
+This book provides an in-depth look at using, implementing, customizing and developing your own web parts.
 
 Topics include:
 

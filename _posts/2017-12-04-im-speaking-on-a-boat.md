@@ -3,14 +3,14 @@ title: 'Im Speaking on a Boat'
 date: 2017-12-04T09:30:24+00:00
 permalink: /2017/12/04/im-speaking-on-a-boat/
 categories:
-  - Azure
-  - Speaking
-  - Visual Studio
-  - Web
+  - News
 tags:
   - .NET Code
   - ASP.NET
   - Speaking
+  - Web
+  - Azure
+  - Visual Studio
 ---
 Well, it's more than a boat is a cruise ship, the [Norweigan Cruise Lines](https://ncl.com) [Escape](https://www.ncl.com/cruise-ship/escape). We will be departing from Miami with port stops in Falmouth (Jamaica); George Town (Grand Cayman); Great Stirrup Cay (Bahamas); Nassau (Bahamas); and come back to Miami.
 

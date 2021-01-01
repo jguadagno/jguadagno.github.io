@@ -6,6 +6,7 @@ dsq_thread_id:
   - "3615190871"
 categories:
   - Books
+  - Book Reviews
 ---
 I typically post reviews of books based on technology topics like .NET, LINQ, etc. but I thought this book would be a could fit for the site.  This book is about creating effective PowerPoint slides which many technology professionals, like myself, do on a regular basis. On to the review...
 

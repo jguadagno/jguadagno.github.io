@@ -6,9 +6,9 @@ dsq_thread_id:
   - "3612632845"
 categories:
   - Articles
-  - Web
 tags:
   - Sitefinity
+  - Web
 ---
 Download [RandomGCContent](/assets/downloads/RandomGCContent.zip)
 

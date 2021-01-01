@@ -6,12 +6,12 @@ dsq_thread_id:
   - "3569123846"
 categories:
   - Articles
-  - Web
 tags:
   - Foursquare
   - jQuery
   - jQuery Plugin
   - Plugin
+  - Web
 ---
 
 _This post will go over implementing the foursquare Autocomplete jQuery plugin. In the upcoming days (weeks) I will have a few blog posts on using the foursquare API with C#._ A few months ago I was making updates for the [MVP Summit Events](http://www.mvpsummitevents.info "MVP Summit Events") site, one of the features I wanted to add was [foursquare](http://www.foursquare.com) integration to the site. I was thinking that it would be cool for each of the parties listed on the site, to show how many people have checked in to that event (venue) on foursquare. This way you could see what parties to attend and which ones to avoid :smile:. In order to determine who was checked in at one of the events, I needed to add the foursquare venue id to all of my venues. For the existing venues, I manually added the foursquare venue id but for new venues I was thinking of making the user experience as easy as possible, a user should enter a few characters and get venues in the area with those characters. The first thing that popped into my head was to use an auto complete control and use foursquare as the data source. So after “Googling it with Bing” I found that there was one control that did this but no longer worked. So what does every good developer do, re-invent the wheel :smile:.

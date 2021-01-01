@@ -4,7 +4,6 @@ date: 2013-05-23T06:07:00+00:00
 permalink: /2013/05/23/windows-azure-experience-part-2-management-portal/
 categories:
   - Articles
-  - Azure
 tags:
   - Azure
   - Microsoft Azure

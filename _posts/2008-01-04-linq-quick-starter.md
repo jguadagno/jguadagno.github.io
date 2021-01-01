@@ -6,6 +6,7 @@ dsq_thread_id:
   - "3616995694"
 categories:
   - Books
+  - Book Reviews
 ---
 [Packt Publishing](http://www.packtpub.com/) recently contacted me to review their latest book, LINQ Quickly, so like any techie with three weeks off, I decided to catch up on some reading... Well actually I read this book on the flight to NY (5 hours).
 

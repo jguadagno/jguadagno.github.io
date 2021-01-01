@@ -5,7 +5,7 @@ permalink: /2014/11/18/jquery-twitter-bootstrap-flickr-carousel/
 dsq_thread_id:
   - "3582625746"
 categories:
-  - Web
+  - Articles
 tags:
   - Bootstrap
   - Carousel
@@ -14,6 +14,7 @@ tags:
   - jQuery Plugin
   - Plugin
   - Twitter Bootstrap
+  - Web
 ---
 A few months ago I built a jQuery plugin that uses the Twitter [Bootstrap](http://www.getbootstrap.com) [Carousel](http://getbootstrap.com/javascript/#carousel) to cycle through images on [Flickr](http://www.flickr.com). In order to use this plugin you need to get an [Api](https://www.flickr.com/services/api/misc.api_keys.html) Key from Flickr and have the following software:
 

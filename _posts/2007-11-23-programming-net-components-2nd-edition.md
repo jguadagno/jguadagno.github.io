@@ -6,8 +6,9 @@ dsq_thread_id:
   - "3622729827"
 categories:
   - Books
+  - Book Reviews
 ---
-This book is a must for those that want to go beyond the "Hello World" applications. It covers many of the "advanced" topics in building .NET applications. The chapter on Generics is well worth the price of the book. This is a **must have**. Topics Covered:
+This book is a must for those that want to go beyond the "Hello World" applications. It covers many of the "advanced" topics in building .NET applications. The chapter on Generics is well worth the price of the book. This is a ** must-have**. Topics Covered:
 
 * Introducing Component-Oriented Programming
 * .NET Component-Oriented Programming Essentials
@@ -25,4 +26,4 @@ This book is a must for those that want to go beyond the "Hello World" applicati
 * Unifying Windows Forms and ASP.NET Security
 * Reflection and Attributes
 * Generics
-* C# Coding Standard
+* C# Coding Standards

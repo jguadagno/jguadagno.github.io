@@ -6,8 +6,6 @@ dsq_thread_id:
   - "3570334330"
 categories:
   - Articles
-  - Azure
-  - Visual Studio
 tags:
   - Azure
   - Microsoft Azure

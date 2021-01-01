@@ -6,6 +6,7 @@ dsq_thread_id:
   - "3766263241"
 categories:
   - Books
+  - Book Reviews
 ---
 The back cover of the book states that the intended audience is ..."beginners in the developer track who are looking to get exposure to SSIS".  It was right on the money.
 

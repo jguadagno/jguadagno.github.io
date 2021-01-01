@@ -2,8 +2,8 @@
 title: 'Desert Code Camp: Using AjaxPro.Net'
 date: 2007-11-06T07:04:33+00:00
 permalink: /2007/11/06/desert-code-camp-using-ajaxpro-net/
-categories:
-  - Articles
+tags:
+  - Miscellaneous
 ---
 Download the PowerPoint® slide at [Desert Code Camp.ppt]({% link /assets/downloads/Desert-Code-Camp.ppt %})
 

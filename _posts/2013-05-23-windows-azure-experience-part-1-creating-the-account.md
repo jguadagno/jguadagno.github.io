@@ -4,7 +4,6 @@ date: 2013-05-23T05:18:00+00:00
 permalink: /2013/05/23/windows-azure-experience-part-1-creating-the-account/
 categories:
   - Articles
-  - Azure
 tags:
   - Azure
   - Microsoft Azure

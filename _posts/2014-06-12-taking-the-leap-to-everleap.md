@@ -5,7 +5,10 @@ permalink: /2014/06/12/taking-the-leap-to-everleap/
 dsq_thread_id:
 - "3602770933"
 categories:
+- Articles
+tags:
 - Web
+- hosting
 ---
 For the past 5+ years, I’ve had a few different sites hosted at [Discount ASP.NET](http://www.discountasp.net/a/jguadagn), this site being one of them. Recently, Discount ASP.NET released a new product in the web hosting arena, [Everleap](http://www.everleap.com/). Everleap is a new cloud-based hosting solution.I know, the word “cloud” is massively overused nowadays.Everleap differs from other solutions as it uses the [Windows Azure Pack](http://www.everleap.com/cloud-hosting/features/azure-pack-hosting/) for its services. The Windows Azure Pack is the same technology that Microsoft uses to run its own Windows Azure hosting platform. Microsoft has made Azure technologies available to their partners so they can build public and private cloud offerings that run in their own data centers. For more on the Windows Azure Pack check out [http://www.everleap.com/cloud-hosting/features/azure-pack-hosting/](http://www.everleap.com/cloud-hosting/features/azure-pack-hosting/ "http://www.everleap.com/cloud-hosting/features/azure-pack-hosting/")
 

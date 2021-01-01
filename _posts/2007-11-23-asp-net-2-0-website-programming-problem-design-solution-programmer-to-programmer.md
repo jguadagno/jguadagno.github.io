@@ -4,8 +4,9 @@ date: 2007-11-23T01:00:00+00:00
 permalink: /2007/11/23/asp-net-2-0-website-programming-problem-design-solution-programmer-to-programmer/
 categories:
   - Books
+  - Book Reviews
 ---
-This is a **GREAT** book for any one getting starting in ASP.NET. It covers everything you need to create an ASP.NET web site. Hey, the first version of this website was built based on the content of this book.  
+This is a **GREAT** book for anyone getting starting in ASP.NET. It covers everything you need to create an ASP.NET web site. Hey, the first version of this website was built based on the content of this book.  
 The topics covered:  
 
 * Account registration, personalization and theming

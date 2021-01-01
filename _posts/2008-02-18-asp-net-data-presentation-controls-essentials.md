@@ -4,6 +4,7 @@ date: 2008-02-18T16:00:00+00:00
 permalink: /2008/02/18/asp-net-data-presentation-controls-essentials/
 categories:
   - Books
+  - Book Reviews
 ---
 The book is a good starting point for people that was to learn the different ways of binding data from supported sources to ASP.NET controls.  The author does a pretty good job of explaining the basics of some of the data bindable controls like ListBox, DropDownList, etc.  There are whole chapters dedicated to the Repeater, DataList, DataGrid and DataView controls.
 

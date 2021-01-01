@@ -6,6 +6,7 @@ dsq_thread_id:
   - "3651955406"
 categories:
   - Books
+  - Book Reviews
 ---
 You should go out and buy this book this book immediately.  This is the perfect desktop reference for designing components and base class libraries. What better way to learn how to design / implement a library then from the Program Manager would designed the .NET framework.
 

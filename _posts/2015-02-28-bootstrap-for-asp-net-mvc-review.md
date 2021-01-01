@@ -6,6 +6,7 @@ dsq_thread_id:
   - "3556291841"
 categories:
   - Books
+  - Book Reviews
 tags:
   - Bootstrap
   - Twitter Bootstrap

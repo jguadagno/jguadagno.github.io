@@ -6,6 +6,7 @@ dsq_thread_id:
   - "3579290129"
 categories:
   - Books
+  - Book Reviews
 ---
 Well as you can see the title is quite but extremely accurate.  The book covers a "real world" use of Windows Workflow Foundation.  The author takes you through Windows Workflow Foundation by building a bug tracking application which is an ideal candidate for a workflow technology.  I think this approach is what makes this book stand apart from other Windows Workflow foundation books. It is short and concise and gives you a real application of the technology.  This is not a book filled with marketing fluff or the Hello World app (with the exception of the first chapter).
 

@@ -4,8 +4,6 @@ date: 2017-05-17T17:03:56+00:00
 permalink: /2017/05/17/using-sendgrid-and-email-are-not-being-delivered-to-hotmail-outlook-live-msn-com-recipients/
 categories:
   - Articles
-  - Azure
-  - Web
 tags:
   - Azure
   - gmail.com
@@ -15,6 +13,7 @@ tags:
   - Outlook.com
   - SendGrid
   - yahoo.com
+  - Web
 ---
 > _Me too, or at least I was_... While the problem I was having might not be related to SendGrid exclusively, I am going to talk about the solution.
 

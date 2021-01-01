@@ -6,11 +6,11 @@ dsq_thread_id:
   - "3610057336"
 categories:
   - Articles
-  - Web
 tags:
   - DataRepeater
   - jQuery
   - jQuery Mobile
+  - Web
 ---
 The jQuery Mobile framework has a [list view widget](http://jquerymobile.com/demos/1.0/docs/lists/docs-lists.html) that displays unordered lists in several different ways. In the process of converting the [Microsoft Global MVP Summit mobile](http://mvpsummitevents.info/m/) site to use jQuery Mobile, I wanted to change the way I displayed the events. The idea was to have a header for each date that there was an event along with some of the details of the event. Clicking on the event would take you the to event details page. To accomplish this I used the [count bubble](http://jquerymobile.com/demos/1.0/docs/lists/lists-count.html), [list dividers](http://jquerymobile.com/demos/1.0/docs/lists/lists-divider.html), [content formatting](http://jquerymobile.com/demos/1.0/docs/lists/lists-formatting.html) and the [search filter bar](http://jquerymobile.com/demos/1.0/docs/lists/lists-search.html) features of jQuery Mobile. First let’s look at the HTML, for the sake of brevity I removed the ID fields from the HTML.
 

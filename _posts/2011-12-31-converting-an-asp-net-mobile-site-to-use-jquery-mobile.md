@@ -6,9 +6,9 @@ dsq_thread_id:
   - "3617142059"
 categories:
   - Articles
-  - Web
 tags:
   - jQuery
+  - Web
 ---
 Building upon my previous post [Introduction to jQuery Mobile]({% link _posts/2011-12-31-introduction-to-jquery-mobile.md %}), I wanted to share how I converted the [Microsoft Global MVP Summit mobile](http://www.mvpsummitevents.info/m/default.aspx) site to use [jQuery Mobile](http://jquerymobile.com/).
 
