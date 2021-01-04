@@ -29,6 +29,8 @@ collections:
     permalink: /presentations/:name
 atom_feed:
   path: "http://feeds.feedburner.com/JosephGuadagno"
+feed:
+  posts_limit: 40
 og_image: /assets/images/og_image.png
 author: 
   name        : "Joseph Guadagno"
