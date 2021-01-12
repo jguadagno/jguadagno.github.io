@@ -1,5 +1,18 @@
 [
     {
+        "eventName" : "philly.NET Code Camp 2021",
+        "eventUrl" : "https://philly-net-code-camp-2021.sessionize.com/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "What's Happening in My App?",
+            "url": "/presentations/look-into-your-application-with-application-insights",
+            "date" : "2021-01-16",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "Growth Mindset Weekly Show",
         "eventUrl" : "https://www.c-sharpcorner.com/",
         "location" : "Virtual",
