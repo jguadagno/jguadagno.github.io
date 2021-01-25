@@ -12,11 +12,16 @@ To see a list of presentations I speak on, please visit [Joseph Guadagno's Prese
 
 ## Upcoming Engagements
 
+{% if sortedCurrentEngagements.size > 0 %}
 |Event|Location|Presentation|Date|Comments|
 |--- |--- |--- |--- |--- |
 {% for engagement in sortedCurrentEngagements -%}
 |[{{engagement.eventName}}]({{engagement.eventUrl}}){:target="_blank"}|{{engagement.location}}|[{{engagement.presentation.name}}]({{engagement.presentation.url}})|{{engagement.presentation.date}}|{{engagement.presentation.comments }}|
 {% endfor %}
+{% else %}
+I'm currently not scheduled to speak anywhere!
+{: .notice--info }
+{% endif %}
 
 ## Previous Engagements
 

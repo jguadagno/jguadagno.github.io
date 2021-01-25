@@ -1,5 +1,18 @@
 [
     {
+        "eventName" : "Growth Mindset Weekly Show",
+        "eventUrl" : "https://www.c-sharpcorner.com/live/growth-mindset",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "How to Become a Microsoft MVP",
+            "url": "",
+            "date" : "2021-02-12",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "philly.NET Code Camp 2021",
         "eventUrl" : "https://philly-net-code-camp-2021.sessionize.com/",
         "location" : "Virtual",
