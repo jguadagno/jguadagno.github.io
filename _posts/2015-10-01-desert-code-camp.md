@@ -2,10 +2,11 @@
 title: Desert Code Camp
 date: 2015-10-01T10:21:25+00:00
 permalink: /2015/10/01/desert-code-camp/
-ftf_open_type:
-  - ""
 categories:
-  - Articles
+  - News
+  - Arizona Technology News
+tags:
+  - Desert Code Camp
 ---
 I posted on Twitter today that Desert Code Camp is not happening this year.  The venue that we use, Chandler-Gilbert Community College is going through some renovations and just could not fit us in this year, unfortunately.  A few people asked what we would need from a venue to help make the Desert Code Camp happen.  I put together a list below:
 
