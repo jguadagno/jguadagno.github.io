@@ -3,7 +3,8 @@ title: "Desert Code Camp 2020 is Cancelled"
 header:
     og_image: /assets/images/posts/header/desert-code-camp-cancelled.png
 categories:
-  - Articles
+  - News
+  - Arizona Technology News
 tags:
   - Desert Code Camp
 ---
