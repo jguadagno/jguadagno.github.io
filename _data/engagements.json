@@ -6,8 +6,34 @@
         "presentation" :
         {
             "name" : "How to Become a Microsoft MVP",
-            "url": "",
+            "url": "/2015/05/14/so-you-want-to-be-a-microsoft-mvp/",
             "date" : "2021-02-12",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : ".NET Vegas",
+        "eventUrl" : "https://www.meetup.com/dotnetVegas/events/276029411/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Debugging Tips and Tricks with Visual Studio",
+            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+            "date" : "2021-02-11",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "Hampton Roads .NET Users Group",
+        "eventUrl" : "https://www.meetup.com/Hampton-Roads-NET-Users-Group/events/276084522/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Application Architecture Patterns",
+            "url": "/presentations/application-architecture-patterns",
+            "date" : "2021-02-09",
             "comments": ""
         },
         "isCurrent" : true
