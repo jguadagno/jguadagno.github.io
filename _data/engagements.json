@@ -1,9 +1,22 @@
 [
     {
-        "eventName" : "Growth Mindset Weekly Show",
-        "eventUrl" : "https://www.c-sharpcorner.com/live/growth-mindset",
+        "eventName": "Memphis .NET User Group",
+        "eventUrl" : "https://www.meetup.com/Memphis-NET-User-Group/events/wgnwsryccdbhc/",
         "location" : "Virtual",
         "presentation" :
+        {
+            "name" : "Application Architecture",
+            "url": "/presentations/application-architecture",
+            "date": "2021-02-25",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName": "Growth Mindset Weekly Show",
+        "eventUrl": "https://www.c-sharpcorner.com/live/growth-mindset",
+        "location": "Virtual",
+        "presentation":
         {
             "name" : "How to Become a Microsoft MVP",
             "url": "",
