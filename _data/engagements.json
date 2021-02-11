@@ -49,7 +49,7 @@
             "date" : "2021-02-09",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "philly.NET Code Camp 2021",
