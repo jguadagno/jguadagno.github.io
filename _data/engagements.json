@@ -1,5 +1,18 @@
 [
     {
+        "eventName" : "SoCo Visual Studio and VS Code Meetup",
+        "eventUrl" : "https://www.meetup.com/SoCo-Visual-Studio-and-VS-Code/events/tzxdqqyccfbmb/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "A lap around Microsoft Azure",
+            "url": "/presentations/a-lap-around-microsoft-azure",
+            "date" : "2021-03-09",
+            "comments": ""
+        },
+        "isCurrent" : false
+    },
+    {
         "eventName": "Memphis .NET User Group",
         "eventUrl" : "https://www.meetup.com/Memphis-NET-User-Group/events/wgnwsryccdbhc/",
         "location" : "Virtual",
@@ -36,7 +49,7 @@
             "date" : "2021-02-11",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Hampton Roads .NET Users Group",
