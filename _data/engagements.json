@@ -10,7 +10,7 @@
             "date" : "2021-03-09",
             "comments": ""
         },
-        "isCurrent" : false
+        "isCurrent" : true
     },
     {
         "eventName": "Memphis .NET User Group",
@@ -36,7 +36,7 @@
             "date" : "2021-02-12",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : ".NET Vegas",
