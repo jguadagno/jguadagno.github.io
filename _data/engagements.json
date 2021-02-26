@@ -19,11 +19,11 @@
         "presentation" :
         {
             "name" : "Application Architecture",
-            "url": "/presentations/application-architecture",
+            "url": "/presentations/application-architecture-patterns",
             "date": "2021-02-25",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName": "Growth Mindset Weekly Show",
