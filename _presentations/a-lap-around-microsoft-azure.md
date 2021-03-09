@@ -1,5 +1,5 @@
 ---
-title: A lap around Microsoft Azure
+title: A Lap Around Microsoft Azure
 isKeynote: false
 isRetired: false
 sourceUrl: https://github.com/jguadagno/sample-app
