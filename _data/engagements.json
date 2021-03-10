@@ -10,7 +10,7 @@
             "date" : "2021-03-09",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName": "Memphis .NET User Group",
