@@ -1,6 +1,6 @@
 ---
-title: "Using Kendo UI Autocomplete Widget with Azure Maps Search service"
-date: 2021-03-27 09:20:00 -0700
+title: "Creating a Search Suggestion widget using Azure Maps Search Service and KendoUI Autocomplete."
+date: 2021-03-27 10:20:00 -0700
 header:
     og_image: /assets/images/posts/header/kendo-autocomplete-azure-search-service.png
 categories:
@@ -14,7 +14,7 @@ tags:
   - Autocomplete
 ---
 
-When using Google or Bing Maps to look up an address or point of interest, the both display address suggestions in a user-friendly way. In the example below, I type "Time Square", and Bing suggests a few addresses/places.
+When using Google or Bing Maps to lookup an address or point of interest, both display address suggestions in a user-friendly way. In the example below, I type "Time Square", and Bing suggests a few addresses/places.
 
 ![Bing Autocomplete Suggestions](/assets/images/posts/kendo-autocomplete-bing-search.png){: .align-center}
 
