@@ -107,7 +107,7 @@ plugins:
 exclude:
   - todo.txt
 
-remote_theme: "mmistakes/minimal-mistakes@4.19.2"
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
 # Minimal Mistakes Settings
 
