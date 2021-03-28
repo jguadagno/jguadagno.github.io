@@ -20,6 +20,8 @@ When using Google or Bing Maps to lookup an address or point of interest, both d
 
 In this post, I'll walk you through how you can implement the same functionality using HTML, JavaScript, [Azure Map Search](https://docs.microsoft.com/en-us/rest/api/maps/search) service, and [Telerik Kendo UI](https://demos.telerik.com/kendo-ui/) [Autocomplete](https://demos.telerik.com/kendo-ui/autocomplete/index) control.  You'll be able to download the completed code at the end of the post.
 
+If you want to watch me do this "live" instead, check out the [video](https://youtu.be/cmpzZQa76rs).
+
 ## Software Versions
 
 This post was written for the following software and versions listed below.
@@ -486,11 +488,17 @@ Save the files, refresh the browser, type `Macy`, and select "Macy's Department 
 
 ## Wrap Up
 
-In about 100 lines of *our* code, we were able to use the Kendo UI Autocomplete control along with the Azure Maps Search service to build an address/point of interest search component.
+In about 100 lines of *our* code, we were able to use the Kendo UI Autocomplete control and the Azure Maps Search service to build an address/point of interest search component.
 
 ## Completed Code
 
 The completed code for this post, less the `azurekey.js` file, can be found at [https://github.com/jguadagno/kendo-autocomplete-azure-maps-search](https://github.com/jguadagno/kendo-autocomplete-azure-maps-search)
+
+## Video
+
+You can watch one of the sessions of `[Coding with JoeG](https://twitch.tv/jguadagno)' where I demonstrated this.
+
+{% include video id="cmpzZQa76rs" provider="youtube" %}
 
 ## References
 
