@@ -5,6 +5,7 @@ isRetired: false
 sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2171688&authkey=AN6iybrf8svFel0&em=2
 sessionizeUrl: whats_happening_in_my_app/23124
+level: 200
 ---
 Azure Application Insights, part of the Azure Monitor services, helps you collect, analyze, and act on telemetry data from your Azure and on-premises environment.
 

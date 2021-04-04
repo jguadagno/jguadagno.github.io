@@ -4,6 +4,7 @@ isKeynote: false
 isRetired: false
 sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2170187&amp;authkey=ANoJM7lWhlMxYm8&amp;em=2&amp;wdAr=1.7777777777777777
+level: 100
 ---
 Ionic lets you build mobile apps using only JavaScript. The [Ionic framework](http://ionicframework.com/) is a free and open source library of mobile-optimized HTML, CSS and JS components along with tools for building highly interactive native and progressive web apps. Built with Sass, optimized for AngularJS.
 

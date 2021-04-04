@@ -7,6 +7,7 @@ powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=40
 youTubeId: pPncy-l9iHQ
 youTubeCaption: A Lap Around Microsoft Azure. Azure Virtual Conference
 sessionizeUrl: a_lap_around_microsoft_azure/38962
+level: 200
 ---
 Microsoft Azure has a lot to offer us as developers. Looking at the product list can be daunting at times. In this session, we will look at how we can take an on-premises ASP.NET Core application that uses SQL and host it in Microsoft Azure.
 

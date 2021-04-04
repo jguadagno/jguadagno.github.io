@@ -10,6 +10,26 @@ layout: single
 
 {{ content }}
 
+{%- if page.level -%}
+<p class="notice">This session is rated <i>level {{page.level}} - 
+{%- assign level = page.level -%}
+{%- case level -%}
+    {%- when 100 -%}
+    "Introductory/Overview"
+    {%- when 200 -%}
+    "Basic Concepts"
+    {%- when 300 -%}
+    "More Advanced - Lots of Code"
+    {%- when 400 -%}
+    "Heavy Technical Content"
+    {%- when 500 -%}
+    "Very Advanced - not for the inexperienced"
+    {%- else -%}
+    Unknown
+{%- endcase -%}
+.</i></p>
+{%- endif -%}
+
 {% if page.sourceUrl %}
 <h3>Source Code</h3>
 <a href="{{page.sourceUrl}}" target="_blank">{{page.sourceUrl}}</a>
@@ -33,8 +53,10 @@ layout: single
 {% endif %}
 {% endif %}
 
-{% if page.sessionizeUrl %}
+
 <h3>Interested</h3>
-Would you like this talk at your event?  You can send me an email at the link to the left or if you use Sessionize you can view the talk on 
+Would you like this talk at your event?  You can send me an [email](mailto:jguadagno@hotmail.com).
+{% if page.sessionizeUrl %}
+If you use Sessionize you can view the talk on 
 <a href="https://sessionize.com/s/joseph-guadagno/{{page.sessionizeUrl}}" target="_blank">Sessionize</a>.
 {% endif %}

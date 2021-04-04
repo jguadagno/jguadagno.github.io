@@ -4,6 +4,7 @@ isKeynote: false
 isRetired: true
 sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2162462&amp;authkey=AKNG_Kam9n7FJCA&amp;em=2
+level: 200
 ---
 In this session, we will walk through all of the new features added to ASP.NET4.5 with respect to data binding and control validation.
 
