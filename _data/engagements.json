@@ -1,5 +1,44 @@
 [
     {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/",
+        "location" : "Orlando, FL and Virtual",
+        "presentation" :
+        {
+            "name" : "Build and Ship It!",
+            "url": "/presentations/build-and-ship-it",
+            "date" : "2021-06-08",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/",
+        "location" : "Orlando, FL and Virtual",
+        "presentation" :
+        {
+            "name" : "Migrate It!",
+            "url": "/presentations/migrate-it",
+            "date" : "2021-06-08",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "DEVIntersection",
+        "eventUrl" : "https://devintersection.com/",
+        "location" : "Orlando, FL and Virtual",
+        "presentation" :
+        {
+            "name" : "Look into your Application with Azure Application Insights",
+            "url": "/presentations/look-into-your-application-with-application-insights",
+            "date" : "2021-06-08",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "JetBrains .NET Days Online 2021",
         "eventUrl" : "https://jetbrains.com/",
         "location" : "Virtual",
