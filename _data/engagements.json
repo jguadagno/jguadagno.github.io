@@ -88,7 +88,7 @@
             "date" : "2021-04-14",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "SoCo Visual Studio and VS Code Meetup",
