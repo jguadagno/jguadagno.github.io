@@ -62,7 +62,7 @@
             "date" : "2021-05-04",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Minnesota Developers Conference 2021",
@@ -75,7 +75,7 @@
             "date" : "2021-05-04",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Triangle .NET User Group",
