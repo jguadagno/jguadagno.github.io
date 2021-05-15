@@ -8,7 +8,7 @@
             "name" : "Build and Ship It!",
             "url": "/presentations/build-and-ship-it",
             "date" : "2021-06-08",
-            "comments": ""
+            "comments": "Use code <b>GUADAGNO</b> for $50 off"
         },
         "isCurrent" : true
     },
@@ -21,7 +21,7 @@
             "name" : "Migrate It!",
             "url": "/presentations/migrate-it",
             "date" : "2021-06-08",
-            "comments": ""
+            "comments": "Use code <b>GUADAGNO</b> for $50 off"
         },
         "isCurrent" : true
     },
@@ -34,7 +34,7 @@
             "name" : "Look into your Application with Azure Application Insights",
             "url": "/presentations/look-into-your-application-with-application-insights",
             "date" : "2021-06-08",
-            "comments": ""
+            "comments": "Use code <b>GUADAGNO</b> for $50 off"
         },
         "isCurrent" : true
     },
@@ -49,7 +49,7 @@
             "date" : "2021-05-12",
             "comments": ""
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "Minnesota Developers Conference 2021",
