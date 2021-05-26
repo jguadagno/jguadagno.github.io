@@ -275,7 +275,7 @@ You can see my speaking engagements at: [presentations]({% link _pages/presentat
 
 ## Affiliations, Awards and Certifications
 
-|Company|Affiliation or Award or Certification|When Recieved|
+|Company|Affiliation or Award or Certification|When Received|
 |--- |--- |--- |
 |Microsoft|[Microsoft Developer Services MVP](https://mvp.support.microsoft.com/profile=4C0083AE-C0DE-4F05-A179-D9072AF2EA2B){:target="_blank"}|2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018|
 |Telerik|[Telerik MVP](http://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"}|2009, 2010, 2011, 2012, 2013, 2014, 2015|

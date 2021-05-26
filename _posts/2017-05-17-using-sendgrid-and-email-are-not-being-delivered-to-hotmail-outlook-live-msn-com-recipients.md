@@ -61,7 +61,7 @@ var sendGrid = new SendGridClient(apiKey);
 
 var msg = new SendGridMessage();
 msg.SetFrom(new EmailAddress("noreply@yourdomain.com", "No Reply"));
-msg.AddTo(new EmailAddress("reciever@theirdomain.com", "Joe Dirt"));
+msg.AddTo(new EmailAddress("receiver@theirdomain.com", "Joe Dirt"));
 msg.SetSubject("Hello World");
 msg.AddContent(MimeType.Text, "Hello World");
 msg.AddContent(MimeType.Html, <html><body>My Body</body></html>);
