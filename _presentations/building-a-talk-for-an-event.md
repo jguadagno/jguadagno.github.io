@@ -14,4 +14,4 @@ Building a talk or session or presentation for an event, whether it's your team 
 
 In this talk, we'll walk through the tips and tricks that I have developed over the years to make my conference talks better.
 
-This is similar to the [Presentation Preparedness](presentation-preparedness.md) talk.
+This talk is similar to the [Presentation Preparedness](presentation-preparedness.md) talk.

@@ -13,4 +13,4 @@ Building a talk or session or presentation for an event, whether it's your team 
 
 In this talk, we'll walk through the tips and tricks that I have developed over the years to make my conference talks better.
 
-I've grown this talk in [Building a Talk for an Event](building-a-talk-for-an-event.md).
+I've improved this talk with the following [Building a Talk for an Event]({% link _presentations/building-a-talk-for-an-event.md %}).
