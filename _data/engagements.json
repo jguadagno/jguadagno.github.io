@@ -10,7 +10,7 @@
             "date" : "2021-06-08",
             "comments": "Use code <b>GUADAGNO</b> for $50 off"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "DEVIntersection",
@@ -23,7 +23,7 @@
             "date" : "2021-06-08",
             "comments": "Use code <b>GUADAGNO</b> for $50 off"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "DEVIntersection",
@@ -36,7 +36,7 @@
             "date" : "2021-06-08",
             "comments": "Use code <b>GUADAGNO</b> for $50 off"
         },
-        "isCurrent" : true
+        "isCurrent" : false
     },
     {
         "eventName" : "JetBrains .NET Days Online 2021",
