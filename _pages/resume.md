@@ -4,6 +4,8 @@ excerpt: 'For 20 years or so I have been in Software Development. During that ti
 dsq_thread_id:
   - "3566993251"
 permalink: /resume/
+header:
+    og_image: /assets/images/pages/resume.png
 ---
 ## Joseph Guadagno
 

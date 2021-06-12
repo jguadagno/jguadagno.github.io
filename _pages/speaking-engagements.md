@@ -1,6 +1,8 @@
 ---
 title: Speaking Engagements
 permalink: /speaking-engagements/
+header:
+    og_image: /assets/images/pages/speaking-engagements.png
 ---
 If you would like for me to speak at your event please [contact me]({% link _pages/contact.md %}).
 {: .notice--info}

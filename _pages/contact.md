@@ -4,6 +4,8 @@ date: 2015-03-04T17:55:54+00:00
 dsq_thread_id:
   - "3567222452"
 permalink: /contact/
+header:
+    og_image: /assets/images/pages/contact.png
 ---
 I'll answer your email as soon as I can.
 
