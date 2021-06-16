@@ -45,7 +45,7 @@ Now move those model classes over to the new project. I would name it something 
 
 You'll want to add a reference to the new `Contacts.Domain` library to the existing Contacts application.  Don't forget to update the using statements!
 
-***Note***: When moving classes/files in between folders, namespaces, or projects, use the *Move Instance Method* refactoring ([Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/reference/move-type-to-namespace?view=vs-2019) or [JetBrain Rider/Resharper](https://www.jetbrains.com/help/resharper/Refactorings__Move__Instance_Method_to_Another_Type.html))
+***Note***: When moving classes/files in between folders, namespaces, or projects, use the *Move Instance Method* refactoring ([Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/reference/move-type-to-namespace?view=vs-2019) or [JetBrains Rider/Resharper](https://www.jetbrains.com/help/resharper/Refactorings__Move__Instance_Method_to_Another_Type.html))
 {: .notice--info}
 
 ## Separate the data layer
