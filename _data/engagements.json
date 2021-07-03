@@ -1,5 +1,18 @@
 [
     {
+        "eventName" : "Azure Summit 2021",
+        "eventUrl" : "https://azuresummit.live/",
+        "location" : "Virtual",
+        "presentation" :
+        {
+            "name" : "Build and Ship It!",
+            "url": "/presentations/build-and-ship-it",
+            "date" : "2021-09-13 - 2021-09-19",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "DEVIntersection",
         "eventUrl" : "https://devintersection.com/",
         "location" : "Orlando, FL and Virtual",
