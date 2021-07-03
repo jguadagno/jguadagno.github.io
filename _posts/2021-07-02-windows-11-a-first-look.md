@@ -3,6 +3,8 @@ title: "Windows 11 - A First Look"
 date: 2021-07-02 21:35:00 -0700
 header:
     og_image: /assets/images/posts/header/windows11-a-first-look.png
+redirect_from:
+    - /2021/07/02/windows-11-a-first-lookk
 categories:
   - Articles
 tags:
