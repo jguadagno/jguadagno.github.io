@@ -1,6 +1,7 @@
 ---
 title: "Windows 11 - A First Look"
 date: 2021-07-02 21:35:00 -0700
+last_modified_at: 2021-07-05 16:30:00 -07:00
 header:
     og_image: /assets/images/posts/header/windows11-a-first-look.png
 redirect_from:
@@ -27,9 +28,20 @@ The download completed in under 30 minutes.  Once I clicked restart, after about
 
 Here is what I noticed in the first few hours of using Windows 11.
 
+***NOTE***: Last updated on July 5th, 2021 with the Update/Shutdown estimates.
+{: .notice--info}
+
 ## User Interface Changes
 
 From what I can tell a lot of work went into creating a new, modern user interface.  The font selection is different, more crisp.  There icons have more color. Windows now have curved corners instead of the rectangular corners.
+
+## Operating Systems Updates
+
+Now when the system has updates to apply and you chose the power icon, you get prompted with estimates as to how long Windows should take to apply the updates and restart or shutdown.
+
+![Windows 11 - Apply Update](/assets/images/posts/windows11-devchannel-shutdown-estimate.png){: .align-center}
+
+Let's just hope it never says '*5 seconds remaining*' :smile:
 
 ### Start Menu
 
