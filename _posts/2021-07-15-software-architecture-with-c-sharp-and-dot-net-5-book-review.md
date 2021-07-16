@@ -4,7 +4,7 @@ date: 2021-07-15 17:30:00 -0700
 header:
     og_image: /assets/images/posts/header/software-architecture-with-c-sharp-and-dot-net-5-book-review.png
 categories:
-  - Book Review
+  - Book Reviews
 tags:
   - ASP.NET
   - Architecture

@@ -4,7 +4,7 @@ date: 2021-04-22 15:30:00 -0700
 header:
     og_image: /assets/images/posts/header/asp-net-core-5-angular-book-review-cover.png
 categories:
-  - Book Review
+  - Book Reviews
 tags:
   - ASP.NET
   - ASP.NET Core
