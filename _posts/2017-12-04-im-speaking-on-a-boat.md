@@ -5,7 +5,7 @@ permalink: /2017/12/04/im-speaking-on-a-boat/
 categories:
   - News
 tags:
-  - .NET Code
+  - .NET Core
   - ASP.NET
   - Speaking
   - Web

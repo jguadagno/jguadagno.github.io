@@ -4,7 +4,7 @@ date: 2019-08-12 06:30:00 -0700
 categories:
   - Articles
 tags:
-  - jekyll
+  - Jekyll
 ---
 
 Well "dynamic-ish". The [Speaking Engagements]({% link _pages/speaking-engagements.md %}) page on this site uses [data files](https://jekyllrb.com/docs/datafiles/) to generate the list of upcoming and previous speaking engagements. Which generates the content shown here.

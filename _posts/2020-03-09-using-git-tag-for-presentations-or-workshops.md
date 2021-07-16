@@ -6,7 +6,9 @@ categories:
   - Articles
 tags:
   - git
-  - presentation
+  - Presentation
+  - Presentations
+  - Speaking
   - workshop
 ---
 

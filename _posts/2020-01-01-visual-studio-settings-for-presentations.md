@@ -7,6 +7,8 @@ tags:
   - Visual Studio
   - Settings
   - Presentation
+  - Presentations
+  - presenting
 excerpt: "There was a twitter conversation around building an extension to make it easier for presenters/twitchers and others to quickly switch between settings in Visual Studio.  I decided to blog about how I do it."
 ---
 

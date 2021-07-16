@@ -9,7 +9,7 @@ categories:
 tags:
   - Azure
   - App Service
-  - dotnet5
+  - .NET 5
 ---
 Yesterday I updated the [Contacts](https://www.github.com/jguadagno/contacts){:target="_blank"} to .NET 5.  Now the process was pretty easy, you can watch the video [here](https://youtu.be/9eD0WfVizbE){:target="blank"}, however once published to [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} I got the following error.
 

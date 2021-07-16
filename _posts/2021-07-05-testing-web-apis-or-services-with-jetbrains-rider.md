@@ -8,7 +8,7 @@ categories:
 tags:
   - JetBrains
   - Rider
-  - WebApi
+  - WebAPI
   - ASP.NET Core
 ---
 For the last week or so I've been working on modernizing the [Desert Code Camp](https://www.desertcodecamp.com) site which meant that I am basically rewriting it. :smile:  Part of the rewrite is to make all of the user facing functionality, adding/viewing sessions, viewing the schedule, etc., available from an API and not code behind.  I spent the last week or so designing and implementing the API in ASP.NET Core 6.  The technology used in building the API does not matter for this post but the example repository is in ASP.NET Core. While testing the application, I started to heavily use the **HTTP Client** feature of [JetBrains Rider](https://www.jetbrains.com/rider/).  The **HTTP Client** is a bundled plugin, which is enabled by default, which allows you to emulate calls to a web service or web API.  It works very much like Postman, but in the IDE and included.

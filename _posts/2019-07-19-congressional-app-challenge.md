@@ -5,7 +5,7 @@ categories:
 - Articles
 tags: 
 - stem 
-- communities 
+- Community 
 - government
 ---
 I was proud to participate in the Congressional App Challenge last year even though it was just to help promote it in Arizona. The Congressional App Challenge is a Congressional initiative to encourage student engagement in STEM and, more specifically, computer science. Middle and high school students from across America are invited to participate.

@@ -5,7 +5,7 @@ categories:
 tags:
   - Azure
   - Identity
-  - WebApi
+  - WebAPI
   - ASP.NET Core
   - MVC
   - ASP.NET Core MVC
