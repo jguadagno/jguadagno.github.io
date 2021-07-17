@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-paypal"
       url: "https://www.paypal.me/jguadagno"
     - label: "Sponsor - Buy Me a Tea"
-      icon: "fab fa-fw fa-mug-hot"
+      icon: "fab fa-fw fa-coffee"
       url: "http://buymeacoffee.com/jguadagno"
 
 # Build settings
