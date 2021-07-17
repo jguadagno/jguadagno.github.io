@@ -3,6 +3,7 @@
 This repository contains the site source for building [https://www.josephguadagno.net](https://www.josephguadagno.net).
 
 Instructions for configuring your local development environment can be found at [here](install.md).
+
 ## Sponsor
 
 If this site helped you, **please consider sponsoring** through Github or one of the links below.
