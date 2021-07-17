@@ -64,6 +64,12 @@ author:
     - label: "'Coding with JoeG' stream"
       icon: "fab fa-fw fa-twitch"
       url: "https://www.twitch.tv/jguadagno"   
+    - label: "Sponsor - PayPal"
+      icon: "fab fa-fw fa-paypal"
+      url: "https://www.paypal.me/jguadagno"
+    - label: "Sponsor - Buy Me a Tea"
+      icon: "fab fa-fw fa-mug-hot"
+      url: "http://buymeacoffee.com/jguadagno"
 
 # Build settings
 markdown: kramdown
