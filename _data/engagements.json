@@ -1,5 +1,18 @@
 [
     {
+        "eventName" : "Kansas City Developers Conference",
+        "eventUrl" : "https://www.kcdc.info/",
+        "location" : "Kansas City, MO",
+        "presentation" :
+        {
+            "name" : "Application Architecture",
+            "url": "/presentations/application-architecture-patterns",
+            "date" : "2021-09-15 - 2021-09-17",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "Azure Summit 2021",
         "eventUrl" : "https://azuresummit.live/",
         "location" : "Virtual",
