@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+  Jekyll:
+    image: jekyll/jekyll:latest
+    container_name: jekyll
+    restart: always
+    environment: 
+      JEKYLL_GITHUB_TOKEN: ${JEKYLL_GITHUB_TOKEN}
+    command: jekyll serve --watch --incremental --force_polling
+    ports:
+      - '4000:4000'
+    volumes:
+      - ./:/srv/jekyll
