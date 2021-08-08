@@ -1,5 +1,31 @@
 [
     {
+        "eventName" : "TechBash",
+        "eventUrl" : "https://www.techbash.com/",
+        "location" : "Pocono Mountains, PA",
+        "presentation" :
+        {
+            "name" : "Application Architecture",
+            "url": "/presentations/application-architecture-patterns",
+            "date" : "2021-10-19 - 2021-10-22",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
+        "eventName" : "TechBash",
+        "eventUrl" : "https://www.techbash.com/",
+        "location" : "Pocono Mountains, PA",
+        "presentation" :
+        {
+            "name" : "What's Happening in My App",
+            "url": "/presentations/whats-happening-in-my-app",
+            "date" : "2021-10-19 - 2021-10-22",
+            "comments": ""
+        },
+        "isCurrent" : true
+    },
+    {
         "eventName" : "Kansas City Developers Conference",
         "eventUrl" : "https://www.kcdc.info/",
         "location" : "Kansas City, MO",
