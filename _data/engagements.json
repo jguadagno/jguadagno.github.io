@@ -1,1031 +1,1234 @@
 [
-    {
-        "eventName" : "TechBash",
-        "eventUrl" : "https://www.techbash.com/",
-        "location" : "Pocono Mountains, PA",
-        "presentation" :
-        {
-            "name" : "Application Architecture",
-            "url": "/presentations/application-architecture-patterns",
-            "date" : "2021-10-19 - 2021-10-22",
-            "comments": ""
-        },
-        "isCurrent" : true
-    },
-    {
-        "eventName" : "TechBash",
-        "eventUrl" : "https://www.techbash.com/",
-        "location" : "Pocono Mountains, PA",
-        "presentation" :
-        {
-            "name" : "What's Happening in My App",
-            "url": "/presentations/whats-happening-in-my-app",
-            "date" : "2021-10-19 - 2021-10-22",
-            "comments": ""
-        },
-        "isCurrent" : true
-    },
-    {
-        "eventName" : "Kansas City Developers Conference",
-        "eventUrl" : "https://www.kcdc.info/",
-        "location" : "Kansas City, MO",
-        "presentation" :
-        {
-            "name" : "Application Architecture",
-            "url": "/presentations/application-architecture-patterns",
-            "date" : "2021-09-15 - 2021-09-17",
-            "comments": ""
-        },
-        "isCurrent" : true
-    },
-    {
-        "eventName" : "Azure Summit 2021",
-        "eventUrl" : "https://azuresummit.live/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Build and Ship It!",
-            "url": "/presentations/build-and-ship-it",
-            "date" : "2021-09-13 - 2021-09-19",
-            "comments": ""
-        },
-        "isCurrent" : true
-    },
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/",
-        "location" : "Orlando, FL and Virtual",
-        "presentation" :
-        {
-            "name" : "Build and Ship It!",
-            "url": "/presentations/build-and-ship-it",
-            "date" : "2021-06-08",
-            "comments": "Use code <b>GUADAGNO</b> for $50 off"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/",
-        "location" : "Orlando, FL and Virtual",
-        "presentation" :
-        {
-            "name" : "Migrate It!",
-            "url": "/presentations/migrate-it",
-            "date" : "2021-06-08",
-            "comments": "Use code <b>GUADAGNO</b> for $50 off"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/",
-        "location" : "Orlando, FL and Virtual",
-        "presentation" :
-        {
-            "name" : "Look into your Application with Azure Application Insights",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date" : "2021-06-08",
-            "comments": "Use code <b>GUADAGNO</b> for $50 off"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "JetBrains .NET Days Online 2021",
-        "eventUrl" : "https://jetbrains.com/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Debugging Tips and Tricks with JetBrains Rider",
-            "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
-            "date" : "2021-05-12",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Minnesota Developers Conference 2021",
-        "eventUrl" : "https://mndevconf.com/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Application Architecture",
-            "url": "/presentations/application-architecture-patterns",
-            "date" : "2021-05-04",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Minnesota Developers Conference 2021",
-        "eventUrl" : "https://mndevconf.com/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name": "Look into your Application with Azure Application Insights",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date" : "2021-05-04",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Triangle .NET User Group",
-        "eventUrl" : "https://www.meetup.com/TRINUG/events/277108445/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Migrate It!",
-            "url": "/presentations/migrate-it",
-            "date" : "2021-04-14",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "SoCo Visual Studio and VS Code Meetup",
-        "eventUrl" : "https://www.meetup.com/SoCo-Visual-Studio-and-VS-Code/events/tzxdqqyccfbmb/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "A lap around Microsoft Azure",
-            "url": "/presentations/a-lap-around-microsoft-azure",
-            "date" : "2021-03-09",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName": "Memphis .NET User Group",
-        "eventUrl" : "https://www.meetup.com/Memphis-NET-User-Group/events/wgnwsryccdbhc/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Application Architecture",
-            "url": "/presentations/application-architecture-patterns",
-            "date": "2021-02-25",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName": "Growth Mindset Weekly Show",
-        "eventUrl": "https://www.c-sharpcorner.com/live/growth-mindset",
-        "location": "Virtual",
-        "presentation":
-        {
-            "name": "How to Become a Microsoft MVP",
-            "url": "/2015/05/14/so-you-want-to-be-a-microsoft-mvp/",
-            "date" : "2021-02-12",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : ".NET Vegas",
-        "eventUrl" : "https://www.meetup.com/dotnetVegas/events/276029411/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Debugging Tips and Tricks with Visual Studio",
-            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-            "date" : "2021-02-11",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Hampton Roads .NET Users Group",
-        "eventUrl" : "https://www.meetup.com/Hampton-Roads-NET-Users-Group/events/276084522/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Application Architecture Patterns",
-            "url": "/presentations/application-architecture-patterns",
-            "date" : "2021-02-09",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "philly.NET Code Camp 2021",
-        "eventUrl" : "https://philly-net-code-camp-2021.sessionize.com/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "What's Happening in My App?",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date" : "2021-01-16",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Growth Mindset Weekly Show",
-        "eventUrl" : "https://www.c-sharpcorner.com/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Tech Hiring, Career Advice, and Culture",
-            "url": "https://www.youtube.com/watch?v=1Q8ZUNSyNqg",
-            "date" : "2020-12-18",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Granite State (NH) .NET",
-        "eventUrl" : "https://www.meetup.com/Granite-State-NH-dotNET/events/cmzfvrybcpbzb/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : ".NET 5 - What is it?",
-            "url": "/presentations/dotnet5-what-is-it",
-            "date" : "2020-11-19",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/#!/",
-        "location" : "Las Vegas, NV",
-        "presentation" :
-        {
-            "name" : "Build and Ship It!",
-            "url": "/presentations/build-and-ship-it",
-            "date" : "2020-12-06",
-            "comments": "In Person - <b>cancelled</b>"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/#!/",
-        "location" : "Las Vegas, NV",
-        "presentation" :
-        {
-            "name" : "Look into your Application with Application Insights",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date" : "2020-12-06",
-            "comments": "In Person - <b>Cancelled</b>"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : ".NET Virtual Conference",
-        "eventUrl" : "https://www.2020twenty.net/dotnet/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : ".NET 5 - What is it?",
-            "url": "/presentations/dotnet5-what-is-it",
-            "date" : "2020-10-15",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Granite State Code Camp 2020",
-        "eventUrl" : "https://www.granitestatecodecamp.org",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : ".NET 5 - What is it?",
-            "url": "/presentations/dotnet5-what-is-it",
-            "date" : "2020-11-14",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Virtual Developers Conference in Mauritius",
-        "eventUrl" : "https://conference.mscc.mu/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Debugging Tips and Tricks with Visual Studio",
-            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-            "date" : "2020-09-09",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Virtual Developers Conference in Mauritius",
-        "eventUrl" : "https://conference.mscc.mu/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Help Your Application Scale with Azure",
-            "url": "/presentations/help-your-application-scale-with-azure",
-            "date" : "2020-09-09",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "CodepoLOUsa",
-        "eventUrl" : "http://www.codepalousa.com/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Migrate It!",
-            "url": "/presentations/migrate-it",
-            "date" : "2020-08-21",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : ".NET Vegas",
-        "eventUrl" : "https://www.meetup.com/dotnetVegas/events/272238267/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Migrate It!",
-            "url": "/presentations/migrate-it",
-            "date" : "2020-08-13",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Azure Virtual Conference 2020",
-        "eventUrl" : "https://www.2020twenty.net/azure-virtual-conference-2020/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "A Lap Around Microsoft Azure",
-            "url": "/presentations/a-lap-around-microsoft-azure",
-            "date" : "2020-08-07",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "SciFiDevCon",
-        "eventUrl" : "https://www.scifidevcon.com/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Building Native Applications with JavaScript and React Native",
-            "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
-            "date" : "2020-07-31",
-            "comments": "**Canceled**"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "SciFiDevCon",
-        "eventUrl" : "https://www.scifidevcon.com/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Debugging Tips and Tips with Visual Studio",
-            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-            "date" : "2020-07-30",
-            "comments": "**Cancelled**"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "SciFiDevCon",
-        "eventUrl" : "https://www.scifidevcon.com/",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Typescript for the Microsoft Developer",
-            "url": "/presentations/typescript-for-the-microsoft-developer",
-            "date" : "2020-07-31",
-            "comments": "**Cancelled**"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName": "European Cloud Conference",
-        "eventUrl" : "https://europeancloudconference.com/sessions/",
-        "location" : "Nice, France",
-        "presentation" :
-        {
-            "name" : "Build and Ship It!",
-            "url": "/presentations/build-and-ship-it",
-            "date": "2020-10-27",
-            "comments": "Cancelled"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName": "Software Architecture Virtual Conference",
-        "eventUrl" : "https://www.c-sharpcorner.com/events/software-architecture-virtual-conference",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Application Architecture",
-            "url": "/presentations/application-architecture",
-            "date": "2020-06-05",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName": "Public Speaking Virtual Conference",
-        "eventUrl" : "https://www.c-sharpcorner.com/events/public-speaking-virtual-conference",
-        "location" : "Virtual",
-        "presentation" :
-        {
-            "name" : "Preparedness and Feedback Matters",
-            "url": "/presentations/presentation-preparedness",
-            "date": "2020-04-24",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName": "Devintersection, AngleBrackets, AngularMix Spring 2020",
-        "eventUrl" : "https://devintersection.com/#!/",
-        "location" : "Orlando, FL",
-        "presentation" :
-        {
-            "name" : "Migrate It!",
-            "url": "/presentations/migrate-it",
-            "date": "2020-04-06",
-            "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName": "Microsoft Azure + AI Conference Spring 2020",
-        "eventUrl": "https://www.azureaiconf.com/#!/",
-        "location" : "Orlando, FL",
-        "presentation" :
-        {
-            "name": "Look into your Application with Azure Application Insights",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date": "2020-04-06",
-            "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName": "Microsoft Azure + AI Conference Spring 2020",
-        "eventUrl": "https://www.azureaiconf.com/#!/",
-        "location" : "Orlando, FL",
-        "presentation" :
-        {
-            "name" : "Build & Ship It!",
-            "url": "/presentations/build-and-ship-it",
-            "date" : "2020-04-06",
-            "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "C# Corner Conference 2020",
-        "eventUrl" : "https://www.csharpcon.com",
-        "location" : "New Delhi, India",
-        "presentation" :
-        {
-            "name" : "Debugging Tips and Tricks with Visual Studio 2019",
-            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-            "date" : "2020-03-14",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "C# Corner Conference 2020",
-        "eventUrl" : "https://www.csharpcon.com",
-        "location" : "New Delhi, India",
-        "presentation" :
-        {
-            "name" : "Build a Native Mobile Application using React Native and JavaScript",
-            "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
-            "date" : "2020-03-13",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/#!/",
-        "location" : "Las Vegas, NV",
-        "presentation" :
-        {
-            "name" : "Migrate It!",
-            "url": "/presentations/migrate-it",
-            "date" : "2019-11-18",
-            "comments": "Use code '**Guadagno**' for $50 off registration"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/#!/",
-        "location" : "Las Vegas, NV",
-        "presentation" :
-        {
-            "name" : "Typescript for the Microsoft Developer",
-            "url": "/presentations/typescript-for-the-microsoft-developer",
-            "date" : "2019-11-18",
-            "comments": "Use code '**Guadagno**' for $50 off registration"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "TechBash",
-        "eventUrl" : "https://techbash.com",
-        "location" : "Pocono Mountains, PA",
-        "presentation" :
-        {
-            "name" : "Help Your Application Scale with Azure",
-            "url": "/presentations/help-your-application-scale-with-azure",
-            "date" : "2019-11-12",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "TechBash",
-        "eventUrl" : "https://techbash.com",
-        "location" : "Pocono Mountains, PA",
-        "presentation" :
-        {
-            "name" : "Look into your Application with Azure Application Insights",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date" : "2019-11-12",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Southeast Valley .NET User Group",
-        "eventUrl" : "https://www.meetup.com/sevdnug/events/263472581",
-        "location" : "Chandler, AZ ",
-        "presentation" :
-        {
-            "name" : "Look into your Application with Azure Application Insights",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date" : "2019-08-22",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Northwest Valley .NET User Group",
-        "eventUrl" : "https://www.meetup.com/NWVDNUG/events/263472395/",
-        "location" : "Glendale, AZ ",
-        "presentation" :
-        {
-            "name" : "Look into your Application with Azure Application Insights",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date" : "2019-08-21",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Music City Code",
-        "eventUrl" : "https://www.musiccitycode.com",
-        "location" : "Nashville, TN",
-        "presentation" :
-        {
-            "name" : "Debugging Tips and Tricks with Visual Studio",
-            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-            "date" : "2019-09-05",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Music City Code",
-        "eventUrl" : "https://www.musiccitycode.com",
-        "location" : "Nashville, TN",
-        "presentation" :
-        {
-            "name" : "Typescript for the Microsoft Developer",
-            "url": "/presentations/typescript-for-the-microsoft-developer",
-            "date" : "2019-09-05",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DevSum19",
-        "eventUrl" : "https://www.devsum.se",
-        "location" : "Stockholm, Sweden",
-        "presentation" :
-        {
-            "name" : "TypeScript for the Microsoft Developer",
-            "url": "/presentations/typescript-for-the-microsoft-developer",
-            "date" : "2019-05-24",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/#!/",
-        "location" : "Orlando, FL",
-        "presentation" :
-        {
-            "name" : "Write Once, Run Everywhere",
-            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-            "date" : "2019-06-11",
-            "comments": "Use code '**Guadagno**' for $50 off registration"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/#!/",
-        "location" : "Orlando, FL",
-        "presentation" :
-        {
-            "name" : "What's Happening in My App?, Application Insights",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date" : "2019-06-12",
-            "comments": "Use code '**Guadagno**' for $50 off registration"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/#!/",
-        "location" : "Las Vegas, NV",
-        "presentation" :
-        {
-            "name" : "Building Mobile Applications with Ionic",
-            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-            "date" : "2018-12-03",
-            "comments": "Use code '**Guadagno**' for $50 off registration"
-        },
-        "isCurrent" : false
-    }
-    ,
-    {
-        "eventName" : "DEVIntersection",
-        "eventUrl" : "https://devintersection.com/#!/",
-        "location" : "Las Vegas, NV",
-        "presentation" :
-        {
-            "name" : "Building Mobile Applications with React Native",
-            "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
-            "date" : "2018-12-03",
-            "comments": "Use code '**Guadagno**' for $50 off registration"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Devreach",
-        "eventUrl" : "https://devreach.com",
-        "location" : "Sofia, Bulgaria",
-        "presentation" :
-        {
-            "name" : "Typescript for the Microsoft Developer",
-            "url": "/presentations/typescript-for-the-microsoft-developer",
-            "date" : "2018-11-13",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Devreach",
-        "eventUrl" : "https://devreach.com",
-        "location" : "Sofia, Bulgaria",
-        "presentation" :
-        {
-            "name" : "Debugging Tips and Tricks with Visual Studio",
-            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-            "date" : "2018-11-13",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "TechBash",
-        "eventUrl" : "https://techbash.com",
-        "location" : "Pocono Mountains, PA",
-        "presentation" :
-        {
-            "name" : "Typescript for the Microsoft Developer",
-            "url": "/presentations/typescript-for-the-microsoft-developer",
-            "date" : "2018-10-02",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "TechBash",
-        "eventUrl" : "https://techbash.com",
-        "location" : "Pocono Mountains, PA",
-        "presentation" :
-        {
-            "name" : "Look into your Application with Application Insights",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date" : "2018-10-02",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "KCDC",
-        "eventUrl" : "https://www.kcdc.info",
-        "location" : "Kansas City, MO",
-        "presentation" :
-        {
-            "name" : "Typescript for the Microsoft Developer",
-            "url": "/presentations/typescript-for-the-microsoft-developer",
-            "date" : "2018-07-11",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "KCDC",
-        "eventUrl" : "https://www.kcdc.info",
-        "location" : "Kansas City, MO",
-        "presentation" :
-        {
-            "name" : "Building Native Application with React Native and Javascript",
-            "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
-            "date" : "2018-07-11",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Music City Code",
-        "eventUrl" : "https://www.musiccitytech.com",
-        "location" : "Nashville, TN",
-        "presentation" :
-        {
-            "name" : "Debugging Tips and Tricks with Visual Studio",
-            "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-            "date" : "2018-06-01",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Music City Code",
-        "eventUrl" : "https://www.musiccitytech.com",
-        "location" : "Nashville, TN",
-        "presentation" :
-        {
-            "name" : "Building Native Applications with Ionic and Javascript",
-            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-            "date" : "2018-06-01",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "C# Corner Conference",
-        "eventUrl" : "https://conference.c-sharpcorner.com",
-        "location" : "New Delhi, India",
-        "presentation" :
-        {
-            "name" : "Open Source, Javascript, Mobile Trends, and the Future",
-            "url": "",
-            "date" : "2018-04-13",
-            "comments": "**Keynote**"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "C# Corner Conference",
-        "eventUrl" : "https://conference.c-sharpcorner.com",
-        "location" : "New Delhi, India",
-        "presentation" :
-        {
-            "name" : "Being More Personable",
-            "url": "",
-            "date" : "2018-04-13",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "C# Corner Conference",
-        "eventUrl" : "https://conference.c-sharpcorner.com",
-        "location" : "New Delhi, India",
-        "presentation" :
-        {
-            "name" : "Building Native Applications with Ionic and Javascript",
-            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-            "date" : "2018-04-13",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Tech Outbound",
-        "eventUrl" : "https://www.techoutbound.com",
-        "location" : "**Caribbean Cruise**",
-        "presentation" :
-        {
-            "name" : "Multiple sessions on .NET Core",
-            "url": "/2017/12/04/im-speaking-on-a-boat/",
-            "date" : "2018-02-10",
-            "comments": "See the blog post 'I'm Speaking on a Boat'"
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "TechBash",
-        "eventUrl" : "https://www.techbash.com",
-        "location" : "Pocono Mountains, PA",
-        "presentation" :
-        {
-            "name" : "Introduction to ASP.NET Core",
-            "url": "/presentations/introduction-to-asp-net-core",
-            "date" : "2017-10-04",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "TechBash",
-        "eventUrl" : "https://www.techbash.com",
-        "location" : "Pocono Mountains, PA",
-        "presentation" :
-        {
-            "name" : "Typescript for the Microsoft Developer",
-            "url": "/presentations/typescript-for-the-microsoft-developer",
-            "date" : "2017-10-04",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVintersections",
-        "eventUrl" : "https://devintersection.com/#!",
-        "location" : "Orlando, FL",
-        "presentation" :
-        {
-            "name" : "Bootstrap 4.0. What's New?",
-            "url": "/presentations/bootstrap-4-0-whats-new",
-            "date" : "2017-05-21",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "DEVintersections",
-        "eventUrl" : "https://devintersection.com/#!",
-        "location" : "Orlando, FL",
-        "presentation" :
-        {
-            "name" : "Build Native Mobile Apps Using Ionic and Javascript",
-            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-            "date" : "2017-05-21",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Code Stock",
-        "eventUrl" : "https://codestock.org",
-        "location" : "Knoxville, TN",
-        "presentation" :
-        {
-            "name" : "Bootstrap 4.0. What's New?",
-            "url": "/presentations/bootstrap-4-0-whats-new",
-            "date" : "2017-05-05",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Code Stock",
-        "eventUrl" : "https://codestock.org",
-        "location" : "Knoxville, TN",
-        "presentation" :
-        {
-            "name" : "Look into Your Application with Application Insights",
-            "url": "/presentations/look-into-your-application-with-application-insights",
-            "date" : "2017-05-05",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "C# Corner Conference",
-        "eventUrl" : "http://conference.c-sharpcorner.com/",
-        "location" : "New Delhi, India",
-        "presentation" :
-        {
-            "name" : "Bootstrap 4.0. What's New?",
-            "url": "/presentations/bootstrap-4-0-whats-new",
-            "date" : "2017-04-09",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "C# Corner Conference",
-        "eventUrl" : "http://conference.c-sharpcorner.com/",
-        "location" : "New Delhi, India",
-        "presentation" :
-        {
-            "name" : "Build Native Applications with Ionic and Javascript",
-            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-            "date" : "2017-04-09",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "User Group",
-        "eventUrl" : "",
-        "location" : "Gurugram, India",
-        "presentation" :
-        {
-            "name" : "How to be Active in the Community",
-            "url": "",
-            "date" : "2017-04-07",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Philly Code Camp 2017.1",
-        "eventUrl" : "http://phillydotnet.azurewebsites.net/",
-        "location" : "Malvern, PA",
-        "presentation" :
-        {
-            "name" : "Build Native Mobile Apps using Javascript and Ionic",
-            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-            "date" : "2017-02-25",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Philly Code Camp 2017.1",
-        "eventUrl" : "http://phillydotnet.azurewebsites.net/",
-        "location" : "Malvern, PA",
-        "presentation" :
-        {
-            "name" : "Build Native Mobile Apps using Javascript and React Native",
-            "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
-            "date" : "2017-02-25",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "MVP Mix",
-        "eventUrl" : "http://www.mvpmix.com/dallas",
-        "location" : "Dallas, TX",
-        "presentation" :
-        {
-            "name" : "Bootstrap 4.0 - What's New?",
-            "url": "/presentations/bootstrap-4-0-whats-new",
-            "date" : "2017-03-09",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "MVP Mix",
-        "eventUrl" : "http://www.mvpmix.com/dallas",
-        "location" : "Dallas, TX",
-        "presentation" :
-        {
-            "name" : "Typescript for the Microsoft Developer",
-            "url": "/presentations/typescript-for-the-microsoft-developer",
-            "date" : "2017-03-09",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "MVP Mix",
-        "eventUrl" : "http://www.mvpmix.com/dallas",
-        "location" : "Dallas, TX",
-        "presentation" :
-        {
-            "name" : "Introduction to ASP.NET Core",
-            "url": "/presentations/introduction-to-asp-net-core",
-            "date" : "2017-03-09",
-            "comments": ""
-        },
-        "isCurrent" : false
-    },
-    {
-        "eventName" : "Tucson, AZ User Group",
-        "eventUrl" : "https://www.meetup.com/Tucson-NET-User-Group/events/238142492/",
-        "location" : "Tucson, AZ",
-        "presentation" :
-        {
-            "name" : "Build Native Apps using Javascript and Ionic",
-            "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-            "date" : "2017-03-15",
-            "comments": ""
-        },
-        "isCurrent" : false
-    }
-
+  {
+    "eventName": "TechBash",
+    "eventUrl": "https://www.techbash.com/",
+    "location": "Pocono Mountains, PA",
+    "eventStart": "2021-10-19T00:00:00",
+    "eventEnd": "2021-10-22T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Application Architecture",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2021-10-19T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "What's Happening in My App",
+        "url": "/presentations/whats-happening-in-my-app",
+        "date": "2021-10-19T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Kansas City Developers Conference",
+    "eventUrl": "https://www.kcdc.info/",
+    "location": "Kansas City, MO",
+    "eventStart": "2021-09-15T00:00:00",
+    "eventEnd": "2021-09-17T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Application Architecture",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2021-09-17T08:30:00",
+        "room": "2201",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Azure Summit 2021",
+    "eventUrl": "https://azuresummit.live/",
+    "location": "Virtual",
+    "eventStart": "2021-09-13T00:00:00",
+    "eventEnd": "2021-09-23T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Build and Ship It!",
+        "url": "/presentations/build-and-ship-it",
+        "date": "2021-09-13T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "DEVIntersection",
+    "eventUrl": "https://devintersection.com/",
+    "location": "Orlando, FL and Virtual",
+    "eventStart": "2021-06-08T00:00:00",
+    "eventEnd": "2021-06-08T00:00:00",
+    "comments": "Use code <b>GUADAGNO</b> for $50 off",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Build and Ship It!",
+        "url": "/presentations/build-and-ship-it",
+        "date": "2021-06-08T00:00:00",
+        "room": "",
+        "comments": "Use code <b>GUADAGNO</b> for $50 off",
+        "isCanceled": false
+      },
+      {
+        "name": "Migrate It!",
+        "url": "/presentations/migrate-it",
+        "date": "2021-06-08T00:00:00",
+        "room": "",
+        "comments": "Use code <b>GUADAGNO</b> for $50 off",
+        "isCanceled": false
+      },
+      {
+        "name": "Look into your Application with Azure Application Insights",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2021-06-08T00:00:00",
+        "room": "",
+        "comments": "Use code <b>GUADAGNO</b> for $50 off",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "JetBrains .NET Days Online 2021",
+    "eventUrl": "https://jetbrains.com/",
+    "location": "Virtual",
+    "eventStart": "2021-05-12T00:00:00",
+    "eventEnd": "2021-05-12T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with JetBrains Rider",
+        "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
+        "date": "2021-05-12T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Minnesota Developers Conference 2021",
+    "eventUrl": "https://mndevconf.com/",
+    "location": "Virtual",
+    "eventStart": "2021-05-04T00:00:00",
+    "eventEnd": "2021-05-04T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Application Architecture",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2021-05-04T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Look into your Application with Azure Application Insights",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2021-05-04T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Triangle .NET User Group",
+    "eventUrl": "https://www.meetup.com/TRINUG/events/277108445/",
+    "location": "Virtual",
+    "eventStart": "2021-04-14T00:00:00",
+    "eventEnd": "2021-04-14T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Migrate It!",
+        "url": "/presentations/migrate-it",
+        "date": "2021-04-14T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "SoCo Visual Studio and VS Code Meetup",
+    "eventUrl": "https://www.meetup.com/SoCo-Visual-Studio-and-VS-Code/events/tzxdqqyccfbmb/",
+    "location": "Virtual",
+    "eventStart": "2021-03-09T00:00:00",
+    "eventEnd": "2021-03-09T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "A lap around Microsoft Azure",
+        "url": "/presentations/a-lap-around-microsoft-azure",
+        "date": "2021-03-09T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Memphis .NET User Group",
+    "eventUrl": "https://www.meetup.com/Memphis-NET-User-Group/events/wgnwsryccdbhc/",
+    "location": "Virtual",
+    "eventStart": "2021-02-25T00:00:00",
+    "eventEnd": "2021-02-25T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Application Architecture",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2021-02-25T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Growth Mindset Weekly Show",
+    "eventUrl": "https://www.c-sharpcorner.com/live/growth-mindset",
+    "location": "Virtual",
+    "eventStart": "2021-02-12T00:00:00",
+    "eventEnd": "2021-02-12T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "How to Become a Microsoft MVP",
+        "url": "/2015/05/14/so-you-want-to-be-a-microsoft-mvp/",
+        "date": "2021-02-12T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": ".NET Vegas",
+    "eventUrl": "https://www.meetup.com/dotnetVegas/events/276029411/",
+    "location": "Virtual",
+    "eventStart": "2021-02-11T00:00:00",
+    "eventEnd": "2021-02-11T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2021-02-11T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Hampton Roads .NET Users Group",
+    "eventUrl": "https://www.meetup.com/Hampton-Roads-NET-Users-Group/events/276084522/",
+    "location": "Virtual",
+    "eventStart": "2021-02-09T00:00:00",
+    "eventEnd": "2021-02-09T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2021-02-09T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "philly.NET Code Camp 2021",
+    "eventUrl": "https://philly-net-code-camp-2021.sessionize.com/",
+    "location": "Virtual",
+    "eventStart": "2021-01-16T00:00:00",
+    "eventEnd": "2021-01-16T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "What's Happening in My App?",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2021-01-16T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Growth Mindset Weekly Show",
+    "eventUrl": "https://www.c-sharpcorner.com/",
+    "location": "Virtual",
+    "eventStart": "2020-12-18T00:00:00",
+    "eventEnd": "2020-12-18T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Tech Hiring, Career Advice, and Culture",
+        "url": "https://www.youtube.com/watch?v=1Q8ZUNSyNqg",
+        "date": "2020-12-18T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Granite State (NH) .NET",
+    "eventUrl": "https://www.meetup.com/Granite-State-NH-dotNET/events/cmzfvrybcpbzb/",
+    "location": "Virtual",
+    "eventStart": "2020-11-19T00:00:00",
+    "eventEnd": "2020-11-19T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": ".NET 5 - What is it?",
+        "url": "/presentations/dotnet5-what-is-it",
+        "date": "2020-11-19T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "DEVIntersection",
+    "eventUrl": "https://devintersection.com/#!/",
+    "location": "Las Vegas, NV",
+    "eventStart": "2020-12-06T00:00:00",
+    "eventEnd": "2020-12-06T00:00:00",
+    "comments": "In Person - <b>Canceled</b>",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Build and Ship It!",
+        "url": "/presentations/build-and-ship-it",
+        "date": "2020-12-06T00:00:00",
+        "room": "",
+        "comments": "In Person - <b>Canceled</b>",
+        "isCanceled": false
+      },
+      {
+        "name": "Look into your Application with Application Insights",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2020-12-06T00:00:00",
+        "room": "",
+        "comments": "In Person - <b>Canceled</b>",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": ".NET Virtual Conference",
+    "eventUrl": "https://www.2020twenty.net/dotnet/",
+    "location": "Virtual",
+    "eventStart": "2020-10-15T00:00:00",
+    "eventEnd": "2020-10-15T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": ".NET 5 - What is it?",
+        "url": "/presentations/dotnet5-what-is-it",
+        "date": "2020-10-15T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Granite State Code Camp 2020",
+    "eventUrl": "https://www.granitestatecodecamp.org",
+    "location": "Virtual",
+    "eventStart": "2020-11-14T00:00:00",
+    "eventEnd": "2020-11-14T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": ".NET 5 - What is it?",
+        "url": "/presentations/dotnet5-what-is-it",
+        "date": "2020-11-14T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Virtual Developers Conference in Mauritius",
+    "eventUrl": "https://conference.mscc.mu/",
+    "location": "Virtual",
+    "eventStart": "2020-09-09T00:00:00",
+    "eventEnd": "2020-09-09T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2020-09-09T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Help Your Application Scale with Azure",
+        "url": "/presentations/help-your-application-scale-with-azure",
+        "date": "2020-09-09T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "CodepoLOUsa",
+    "eventUrl": "http://www.codepalousa.com/",
+    "location": "Virtual",
+    "eventStart": "2020-08-21T00:00:00",
+    "eventEnd": "2020-08-21T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Migrate It!",
+        "url": "/presentations/migrate-it",
+        "date": "2020-08-21T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": ".NET Vegas",
+    "eventUrl": "https://www.meetup.com/dotnetVegas/events/272238267/",
+    "location": "Virtual",
+    "eventStart": "2020-08-13T00:00:00",
+    "eventEnd": "2020-08-13T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Migrate It!",
+        "url": "/presentations/migrate-it",
+        "date": "2020-08-13T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Azure Virtual Conference 2020",
+    "eventUrl": "https://www.2020twenty.net/azure-virtual-conference-2020/",
+    "location": "Virtual",
+    "eventStart": "2020-08-07T00:00:00",
+    "eventEnd": "2020-08-07T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "A Lap Around Microsoft Azure",
+        "url": "/presentations/a-lap-around-microsoft-azure",
+        "date": "2020-08-07T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "SciFiDevCon",
+    "eventUrl": "https://www.scifidevcon.com/",
+    "location": "Virtual",
+    "eventStart": "2020-07-31T00:00:00",
+    "eventEnd": "2020-07-31T00:00:00",
+    "comments": "<b>Canceled</b>",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Building Native Applications with JavaScript and React Native",
+        "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
+        "date": "2020-07-31T00:00:00",
+        "room": "",
+        "comments": "<b>Canceled</b>",
+        "isCanceled": false
+      },
+      {
+        "name": "Debugging Tips and Tips with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2020-07-30T00:00:00",
+        "room": "",
+        "comments": "<b>Canceled</b>",
+        "isCanceled": false
+      },
+      {
+        "name": "Typescript for the Microsoft Developer",
+        "url": "/presentations/typescript-for-the-microsoft-developer",
+        "date": "2020-07-31T00:00:00",
+        "room": "",
+        "comments": "<b>Canceled</b>",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "European Cloud Conference",
+    "eventUrl": "https://europeancloudconference.com/sessions/",
+    "location": "Nice, France",
+    "eventStart": "2020-10-27T00:00:00",
+    "eventEnd": "2020-10-27T00:00:00",
+    "comments": "<b>Canceled</b>",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Build and Ship It!",
+        "url": "/presentations/build-and-ship-it",
+        "date": "2020-10-27T00:00:00",
+        "room": "",
+        "comments": "<b>Canceled</b>",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Software Architecture Virtual Conference",
+    "eventUrl": "https://www.c-sharpcorner.com/events/software-architecture-virtual-conference",
+    "location": "Virtual",
+    "eventStart": "2020-06-05T00:00:00",
+    "eventEnd": "2020-06-05T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Application Architecture",
+        "url": "/presentations/application-architecture",
+        "date": "2020-06-05T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Public Speaking Virtual Conference",
+    "eventUrl": "https://www.c-sharpcorner.com/events/public-speaking-virtual-conference",
+    "location": "Virtual",
+    "eventStart": "2020-04-24T00:00:00",
+    "eventEnd": "2020-04-24T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Preparedness and Feedback Matters",
+        "url": "/presentations/presentation-preparedness",
+        "date": "2020-04-24T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Devintersection, AngleBrackets, AngularMix Spring 2020",
+    "eventUrl": "https://devintersection.com/#!/",
+    "location": "Orlando, FL",
+    "eventStart": "2020-04-06T00:00:00",
+    "eventEnd": "2020-04-06T00:00:00",
+    "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Migrate It!",
+        "url": "/presentations/migrate-it",
+        "date": "2020-04-06T00:00:00",
+        "room": "",
+        "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Microsoft Azure \u002B AI Conference Spring 2020",
+    "eventUrl": "https://www.azureaiconf.com/#!/",
+    "location": "Orlando, FL",
+    "eventStart": "2020-04-06T00:00:00",
+    "eventEnd": "2020-04-06T00:00:00",
+    "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Look into your Application with Azure Application Insights",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2020-04-06T00:00:00",
+        "room": "",
+        "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration",
+        "isCanceled": false
+      },
+      {
+        "name": "Build \u0026 Ship It!",
+        "url": "/presentations/build-and-ship-it",
+        "date": "2020-04-06T00:00:00",
+        "room": "",
+        "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "C# Corner Conference 2020",
+    "eventUrl": "https://www.csharpcon.com",
+    "location": "New Delhi, India",
+    "eventStart": "2020-03-14T00:00:00",
+    "eventEnd": "2020-03-14T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with Visual Studio 2019",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2020-03-14T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Build a Native Mobile Application using React Native and JavaScript",
+        "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
+        "date": "2020-03-13T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "DEVIntersection",
+    "eventUrl": "https://devintersection.com/#!/",
+    "location": "Las Vegas, NV",
+    "eventStart": "2019-11-18T00:00:00",
+    "eventEnd": "2019-11-18T00:00:00",
+    "comments": "Use code '**Guadagno**' for $50 off registration",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Migrate It!",
+        "url": "/presentations/migrate-it",
+        "date": "2019-11-18T00:00:00",
+        "room": "",
+        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "isCanceled": false
+      },
+      {
+        "name": "Typescript for the Microsoft Developer",
+        "url": "/presentations/typescript-for-the-microsoft-developer",
+        "date": "2019-11-18T00:00:00",
+        "room": "",
+        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "TechBash",
+    "eventUrl": "https://techbash.com",
+    "location": "Pocono Mountains, PA",
+    "eventStart": "2019-11-12T00:00:00",
+    "eventEnd": "2019-11-12T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Help Your Application Scale with Azure",
+        "url": "/presentations/help-your-application-scale-with-azure",
+        "date": "2019-11-12T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Look into your Application with Azure Application Insights",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2019-11-12T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Southeast Valley .NET User Group",
+    "eventUrl": "https://www.meetup.com/sevdnug/events/263472581",
+    "location": "Chandler, AZ ",
+    "eventStart": "2019-08-22T00:00:00",
+    "eventEnd": "2019-08-22T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Look into your Application with Azure Application Insights",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2019-08-22T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Northwest Valley .NET User Group",
+    "eventUrl": "https://www.meetup.com/NWVDNUG/events/263472395/",
+    "location": "Glendale, AZ ",
+    "eventStart": "2019-08-21T00:00:00",
+    "eventEnd": "2019-08-21T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Look into your Application with Azure Application Insights",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2019-08-21T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Music City Code",
+    "eventUrl": "https://www.musiccitycode.com",
+    "location": "Nashville, TN",
+    "eventStart": "2019-09-05T00:00:00",
+    "eventEnd": "2019-09-05T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2019-09-05T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Typescript for the Microsoft Developer",
+        "url": "/presentations/typescript-for-the-microsoft-developer",
+        "date": "2019-09-05T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "DevSum19",
+    "eventUrl": "https://www.devsum.se",
+    "location": "Stockholm, Sweden",
+    "eventStart": "2019-05-24T00:00:00",
+    "eventEnd": "2019-05-24T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "TypeScript for the Microsoft Developer",
+        "url": "/presentations/typescript-for-the-microsoft-developer",
+        "date": "2019-05-24T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "DEVIntersection",
+    "eventUrl": "https://devintersection.com/#!/",
+    "location": "Orlando, FL",
+    "eventStart": "2019-06-11T00:00:00",
+    "eventEnd": "2019-06-11T00:00:00",
+    "comments": "Use code '**Guadagno**' for $50 off registration",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Write Once, Run Everywhere",
+        "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+        "date": "2019-06-11T00:00:00",
+        "room": "",
+        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "isCanceled": false
+      },
+      {
+        "name": "What's Happening in My App?, Application Insights",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2019-06-12T00:00:00",
+        "room": "",
+        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "isCanceled": false
+      },
+      {
+        "name": "Building Mobile Applications with Ionic",
+        "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+        "date": "2018-12-03T00:00:00",
+        "room": "",
+        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "isCanceled": false
+      },
+      {
+        "name": "Building Mobile Applications with React Native",
+        "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
+        "date": "2018-12-03T00:00:00",
+        "room": "",
+        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Devreach",
+    "eventUrl": "https://devreach.com",
+    "location": "Sofia, Bulgaria",
+    "eventStart": "2018-11-13T00:00:00",
+    "eventEnd": "2018-11-13T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Typescript for the Microsoft Developer",
+        "url": "/presentations/typescript-for-the-microsoft-developer",
+        "date": "2018-11-13T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Debugging Tips and Tricks with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2018-11-13T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "TechBash",
+    "eventUrl": "https://techbash.com",
+    "location": "Pocono Mountains, PA",
+    "eventStart": "2018-10-02T00:00:00",
+    "eventEnd": "2018-10-02T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Typescript for the Microsoft Developer",
+        "url": "/presentations/typescript-for-the-microsoft-developer",
+        "date": "2018-10-02T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Look into your Application with Application Insights",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2018-10-02T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "KCDC",
+    "eventUrl": "https://www.kcdc.info",
+    "location": "Kansas City, MO",
+    "eventStart": "2018-07-11T00:00:00",
+    "eventEnd": "2018-07-11T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Typescript for the Microsoft Developer",
+        "url": "/presentations/typescript-for-the-microsoft-developer",
+        "date": "2018-07-11T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Building Native Application with React Native and Javascript",
+        "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
+        "date": "2018-07-11T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Music City Code",
+    "eventUrl": "https://www.musiccitytech.com",
+    "location": "Nashville, TN",
+    "eventStart": "2018-06-01T00:00:00",
+    "eventEnd": "2018-06-01T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2018-06-01T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Building Native Applications with Ionic and Javascript",
+        "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+        "date": "2018-06-01T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "C# Corner Conference",
+    "eventUrl": "https://conference.c-sharpcorner.com",
+    "location": "New Delhi, India",
+    "eventStart": "2018-04-13T00:00:00",
+    "eventEnd": "2018-04-13T00:00:00",
+    "comments": "**Keynote**",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Open Source, Javascript, Mobile Trends, and the Future",
+        "url": "",
+        "date": "2018-04-13T00:00:00",
+        "room": "",
+        "comments": "**Keynote**",
+        "isCanceled": false
+      },
+      {
+        "name": "Being More Personable",
+        "url": "",
+        "date": "2018-04-13T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Building Native Applications with Ionic and Javascript",
+        "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+        "date": "2018-04-13T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Tech Outbound",
+    "eventUrl": "https://www.techoutbound.com",
+    "location": "**Caribbean Cruise**",
+    "eventStart": "2018-02-10T00:00:00",
+    "eventEnd": "2018-02-10T00:00:00",
+    "comments": "See the blog post 'I'm Speaking on a Boat'",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Multiple sessions on .NET Core",
+        "url": "/2017/12/04/im-speaking-on-a-boat/",
+        "date": "2018-02-10T00:00:00",
+        "room": "",
+        "comments": "See the blog post 'I'm Speaking on a Boat'",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "TechBash",
+    "eventUrl": "https://www.techbash.com",
+    "location": "Pocono Mountains, PA",
+    "eventStart": "2017-10-04T00:00:00",
+    "eventEnd": "2017-10-04T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Introduction to ASP.NET Core",
+        "url": "/presentations/introduction-to-asp-net-core",
+        "date": "2017-10-04T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Typescript for the Microsoft Developer",
+        "url": "/presentations/typescript-for-the-microsoft-developer",
+        "date": "2017-10-04T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "DEVintersections",
+    "eventUrl": "https://devintersection.com/#!",
+    "location": "Orlando, FL",
+    "eventStart": "2017-05-21T00:00:00",
+    "eventEnd": "2017-05-21T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Bootstrap 4.0. What's New?",
+        "url": "/presentations/bootstrap-4-0-whats-new",
+        "date": "2017-05-21T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Build Native Mobile Apps Using Ionic and Javascript",
+        "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+        "date": "2017-05-21T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Code Stock",
+    "eventUrl": "https://codestock.org",
+    "location": "Knoxville, TN",
+    "eventStart": "2017-05-05T00:00:00",
+    "eventEnd": "2017-05-05T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Bootstrap 4.0. What's New?",
+        "url": "/presentations/bootstrap-4-0-whats-new",
+        "date": "2017-05-05T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Look into Your Application with Application Insights",
+        "url": "/presentations/look-into-your-application-with-application-insights",
+        "date": "2017-05-05T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "C# Corner Conference",
+    "eventUrl": "http://conference.c-sharpcorner.com/",
+    "location": "New Delhi, India",
+    "eventStart": "2017-04-09T00:00:00",
+    "eventEnd": "2017-04-09T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Bootstrap 4.0. What's New?",
+        "url": "/presentations/bootstrap-4-0-whats-new",
+        "date": "2017-04-09T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Build Native Applications with Ionic and Javascript",
+        "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+        "date": "2017-04-09T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "User Group",
+    "eventUrl": "",
+    "location": "Gurugram, India",
+    "eventStart": "2017-04-07T00:00:00",
+    "eventEnd": "2017-04-07T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "How to be Active in the Community",
+        "url": "",
+        "date": "2017-04-07T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Philly Code Camp 2017.1",
+    "eventUrl": "http://phillydotnet.azurewebsites.net/",
+    "location": "Malvern, PA",
+    "eventStart": "2017-02-25T00:00:00",
+    "eventEnd": "2017-02-25T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Build Native Mobile Apps using Javascript and Ionic",
+        "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+        "date": "2017-02-25T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Build Native Mobile Apps using Javascript and React Native",
+        "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
+        "date": "2017-02-25T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "MVP Mix",
+    "eventUrl": "http://www.mvpmix.com/dallas",
+    "location": "Dallas, TX",
+    "eventStart": "2017-03-09T00:00:00",
+    "eventEnd": "2017-03-09T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Bootstrap 4.0 - What's New?",
+        "url": "/presentations/bootstrap-4-0-whats-new",
+        "date": "2017-03-09T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Typescript for the Microsoft Developer",
+        "url": "/presentations/typescript-for-the-microsoft-developer",
+        "date": "2017-03-09T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Introduction to ASP.NET Core",
+        "url": "/presentations/introduction-to-asp-net-core",
+        "date": "2017-03-09T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Tucson, AZ User Group",
+    "eventUrl": "https://www.meetup.com/Tucson-NET-User-Group/events/238142492/",
+    "location": "Tucson, AZ",
+    "eventStart": "2017-03-15T00:00:00",
+    "eventEnd": "2017-03-15T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Build Native Apps using Javascript and Ionic",
+        "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
+        "date": "2017-03-15T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  }
 ]
