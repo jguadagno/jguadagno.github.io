@@ -1,5 +1,33 @@
 [
   {
+    "eventName": "Devintersection & AngleBrackets Fall 2021",
+    "eventUrl": "https://www.devintersection.com/",
+    "location": "las Vegas, NV",
+    "eventStart": "2021-12-07T00:00:00",
+    "eventEnd": "2021-12-09T00:00:00",
+    "comments": "Use code '<b>Guadagno</b>' for $50 off registration",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Migrate It!",
+        "url": "/presentations/migrate-it",
+        "date": "2021-12-07T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Communication is Hard. Make it better with Azure Communication Services",
+        "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
+        "date": "2021-12-07T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
     "eventName": "TechBash",
     "eventUrl": "https://www.techbash.com/",
     "location": "Pocono Mountains, PA",
