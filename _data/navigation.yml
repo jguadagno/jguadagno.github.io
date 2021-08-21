@@ -7,19 +7,19 @@ main:
       description: "The resume of Joseph Guadagno"
     - title: "Presentations"
       url: /presentations
-      description: "Presentations the Joseph Guadagno can present"
+      description: "Topics/Presentations that Joseph Guadagno can present"
     - title: "Speaking"
       url: /speaking-engagements
-      description: "Events that Joseph Guadagno will be or has spoken at"
+      description: "Events that Joseph Guadagno will be speaking, or has spoken, at"
     - title: "Contact"
       url: /contact
       description: "Contact Joseph Guadagno"
     - title: "Categories"
       url: /categories
-      description: "See all posts in a categories"
+      description: "See all the posts by categories"
     - title: "Tags"
       url: /tags
-      description: "See all post around a tag"
+      description: "See all posts around a tag"
     - title: "By Year"
       url: /year-archive
-      description: "See all post around a tag"
+      description: "See all posts by year"
