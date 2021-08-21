@@ -2,12 +2,13 @@
 title: "Priorities"
 header:
     og_image: /assets/images/posts/header/priorities.png
+date: 2020-09-19 18:50:00 -0700
 categories:
   - Articles
 tags:
   - Personal
 ---
-A year ago, yesterday, I went to the Emergency Room because I was getting cold sweats, and something did not feel right with my body. Well, after a few tests and a few doctors later, a cardiologist came in and told me I had 90% blockage in the *[left anterior descending artery](https://en.wikipedia.org/wiki/Left_anterior_descending_artery)*, better known as the *[Widow Maker](https://www.webmd.com/heart-disease/widow-maker-heart-attack)*. It’s known as the *widowmaker* because you tend to have minutes left to live when it is blocked. I am glad I listened to my body and my wife and went into the Emergency Room.
+A year ago, yesterday, I went to the Emergency Room because I was getting cold sweats, and something did not feel right with my body. Well, after a few tests and a few doctors later, a cardiologist came in and told me I had 90% blockage in the *[left anterior descending artery](https://en.wikipedia.org/wiki/Left_anterior_descending_artery)*, better known as the *[Widow Maker](https://www.webmd.com/heart-disease/widow-maker-heart-attack)*. It’s known as the *widow maker* because you tend to have minutes left to live when it is blocked. I am glad I listened to my body and my wife and went into the Emergency Room.
 
 A year ago today, the cardiologist successfully cleared the blockage and got me on the path to a healthier life.
 
@@ -47,14 +48,14 @@ Uncontrolled diabetes
 A family history of heart disease
 : Yep
 
-These checkmarks :white_square_button: are not something I am not proud of. I am quite disappointed :disappointed: in myself for letting myself get there. I know I could have gone with the excuse that I was doing a lot of traveling with work, public speaking, I was up late with work, preparing presentations, etc., the list could go on. But those are just excuses! I let myself go.
+These check marks :white_square_button: are not something I am not proud of. I am quite disappointed :disappointed: in myself for letting myself get there. I know I could have gone with the excuse that I was doing a lot of traveling with work, public speaking, I was up late with work, preparing presentations, etc., the list could go on. But those are just excuses! I let myself go.
 Those that know me to know I have a few mottos or things I live by. One of my favorites is
 
 Those that know me, know that I have a few mottos, or things I live by. One of my favorites is
 
 > *I work to live, I don't live to work*!.
 
-Somewhere along the way, I lost sight of that, and I guess I needed this *** wake-up call***.
+Somewhere along the way, I lost sight of that, and I guess I needed this ***wake-up call***.
 
 ## Me Now
 
