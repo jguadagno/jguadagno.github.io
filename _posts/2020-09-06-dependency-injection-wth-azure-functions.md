@@ -8,7 +8,7 @@ categories:
   - Articles
 tags:
   - Azure
-  - Azure
+  - Dependency Injection
   - Functions
 ---
 I got bit by the dependency injection bug a few months ago and want to use it when I can, and it makes sense. Within a month or so of writing this post, Azure Functions started to support dependency injection in functions. It uses the .NET Core Dependency Injection system, so if you are used to that, this should mostly look familiar to you, except for what you have to do to wire up the Azure Functions SDK.
