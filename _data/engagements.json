@@ -72,6 +72,14 @@
         "room": "2201",
         "comments": "",
         "isCanceled": false
+      },
+      {
+        "name": "Write Uno Time, Run Everywhere with the Uno Platform",
+        "url": "presentations/write-uno-time-run-everywhere-with-the-uno-platform",
+        "date": "2021-09-16T13:15:00",
+        "room": "2215-A",
+        "comments": "",
+        "isCanceled": false
       }
     ]
   },
