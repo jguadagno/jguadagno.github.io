@@ -3,7 +3,7 @@ title: Write Uno Time, Run Everywhere with the Uno Platform
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: 
+powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2181022&authkey=AHB8x2dRGLqj7r4&em=2
 sessionizeUrl: /write_uno_time_run_everywhere_with_/39898
 level: 200
 ---
