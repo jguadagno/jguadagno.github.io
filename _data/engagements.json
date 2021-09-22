@@ -28,6 +28,25 @@
     ]
   },
   {
+    "eventName": "AzConfDev",
+    "eventUrl": "https://www.azconf.dev/",
+    "location": "Virtual",
+    "eventStart": "2021-10-29T00:00:00",
+    "eventEnd": "2021-10-31T00:00:00",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "What's Happening in My App",
+        "url": "/presentations/whats-happening-in-my-app",
+        "date": "2021-10-30T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
     "eventName": "TechBash",
     "eventUrl": "https://www.techbash.com/",
     "location": "Pocono Mountains, PA",
