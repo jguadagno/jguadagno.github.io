@@ -1,5 +1,25 @@
 [
   {
+    "eventName": "RocketTech Developer Relations Stream",
+    "eventUrl": "http://twitch.tv/rocketdevrel",
+    "location": "Virtual",
+    "eventStart": "2021-10-13T10:00:00",
+    "eventEnd": "2021-10-13T11:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Uno Platform",
+        "url": "",
+        "date": "2021-10-13T10:00:00",
+        "room": "",
+        "comments": "Time is Mountain Standard (MST)",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
     "eventName": "CodeMash",
     "eventUrl": "https://www.codemash.org/",
     "location": "Sandusky, OH",
