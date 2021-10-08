@@ -107,7 +107,45 @@
       {
         "name": "What's Happening in My App",
         "url": "/presentations/whats-happening-in-my-app",
-        "date": "2021-10-30T00:00:00",
+        "date": "2021-10-29T11:30:00",
+        "room": "",
+        "comments": "India Standard Time (IST)",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Azure DevOps Podcast",
+    "eventUrl": "http://azuredevopspodcast.clear-measure.com/",
+    "location": "Podcast",
+    "eventStart": "2021-10-01T00:00:00",
+    "eventEnd": "2021-10-01T00:00:00",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Joe Guadagno on the Latest in Azure DevOps - Episode 159",
+        "url": "http://azuredevopspodcast.clear-measure.com/joe-guadagno-on-the-latest-in-azure-devops-episode-159",
+        "date": "2021-10-01T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Guidance Counselor 2.0",
+    "eventUrl": "https://www.taylordesseyn.com/",
+    "location": "Podcast",
+    "eventStart": "2021-09-29T00:00:00",
+    "eventEnd": "2021-09-29T00:00:00",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Guidance Counselor 2.0 w/Joe Guadagno on the Job Search and DevRel",
+        "url": "https://www.youtube.com/watch?v=gWJfXplqNbk&list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ&index=13",
+        "date": "2021-09-29T00:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false
