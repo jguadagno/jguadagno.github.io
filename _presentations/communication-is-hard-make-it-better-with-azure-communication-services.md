@@ -3,7 +3,7 @@ title: Communication is Hard. Make it better with Azure Communication Services.
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: 
+powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2181604&authkey=AGCWVysQAprF7iE&em=2
 youTubeId: 
 youTubeCaption: 
 sessionizeUrl: communication_is_hard_make_it_bette/41889
