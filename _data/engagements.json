@@ -1,26 +1,94 @@
 [
   {
-    "eventName": "Devintersection & AngleBrackets Fall 2021",
-    "eventUrl": "https://www.devintersection.com/",
-    "location": "las Vegas, NV",
-    "eventStart": "2021-12-07T00:00:00",
-    "eventEnd": "2021-12-09T00:00:00",
-    "comments": "Use code '<b>Guadagno</b>' for $50 off registration",
+    "eventName": "RocketTech Developer Relations Stream",
+    "eventUrl": "http://twitch.tv/rocketdevrel",
+    "location": "Virtual",
+    "eventStart": "2021-11-17T10:00:00",
+    "eventEnd": "2021-11-17T11:00:00",
+    "comments": "",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
       {
-        "name": "Migrate It!",
-        "url": "/presentations/migrate-it",
-        "date": "2021-12-07T00:00:00",
+        "name": "Uno Platform",
+        "url": "",
+        "date": "2021-11-17T10:00:00",
+        "room": "",
+        "comments": "Time is Mountain Standard (MST)",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "CodeMash",
+    "eventUrl": "https://www.codemash.org/",
+    "location": "Sandusky, OH",
+    "eventStart": "2022-01-11T00:00:00",
+    "eventEnd": "2022-01-14T00:00:00",
+    "comments": "In Person",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Build and Ship It!",
+        "url": "/presentations/build-and-ship-it",
+        "date": "2022-01-11T00:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false
       },
       {
+        "name": "6 (or so) new features of .NET 6",
+        "url": "/presentations/6-or-so-new-features-of-dotnet6",
+        "date": "2022-01-11T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Granite State Code Camp",
+    "eventUrl": "https://granitestatecodecamp.org/",
+    "location": "Manchester, NH",
+    "eventStart": "2021-11-07T08:00:00",
+    "eventEnd": "2021-11-07T17:00:00",
+    "comments": "In Person",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
         "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
-        "date": "2021-12-07T00:00:00",
+        "date": "2021-11-06T15:30:00",
+        "room": "Exeter",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Devintersection & AngleBrackets Fall 2021",
+    "eventUrl": "https://www.devintersection.com/",
+    "location": "Las Vegas, NV",
+    "eventStart": "2021-12-07T00:00:00",
+    "eventEnd": "2021-12-09T00:00:00",
+    "comments": "Use code '<b>Guadagno</b>' for $50 off registration. In Person",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Communication is Hard. Make it better with Azure Communication Services",
+        "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
+        "date": "2021-12-07T13:30:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Migrate It!",
+        "url": "/presentations/migrate-it",
+        "date": "2021-12-07T16:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false
@@ -76,7 +144,45 @@
       {
         "name": "What's Happening in My App",
         "url": "/presentations/whats-happening-in-my-app",
-        "date": "2021-10-30T00:00:00",
+        "date": "2021-10-29T11:30:00",
+        "room": "",
+        "comments": "India Standard Time (IST)",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Azure DevOps Podcast",
+    "eventUrl": "http://azuredevopspodcast.clear-measure.com/",
+    "location": "Podcast",
+    "eventStart": "2021-10-01T00:00:00",
+    "eventEnd": "2021-10-01T00:00:00",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Joe Guadagno on the Latest in Azure DevOps - Episode 159",
+        "url": "http://azuredevopspodcast.clear-measure.com/joe-guadagno-on-the-latest-in-azure-devops-episode-159",
+        "date": "2021-10-01T00:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "Guidance Counselor 2.0",
+    "eventUrl": "https://www.taylordesseyn.com/",
+    "location": "Podcast",
+    "eventStart": "2021-09-29T00:00:00",
+    "eventEnd": "2021-09-29T00:00:00",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Guidance Counselor 2.0 w/Joe Guadagno on the Job Search and DevRel",
+        "url": "https://www.youtube.com/watch?v=gWJfXplqNbk&list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ&index=13",
+        "date": "2021-09-29T00:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false
