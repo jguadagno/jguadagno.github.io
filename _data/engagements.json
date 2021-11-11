@@ -48,14 +48,14 @@
     ]
   },
   {
-    "eventName": "Granite State Code Camp",
+    "eventName": "Granite State Code Camp (2021)",
     "eventUrl": "https://granitestatecodecamp.org/",
     "location": "Manchester, NH",
     "eventStart": "2021-11-07T08:00:00",
     "eventEnd": "2021-11-07T17:00:00",
     "comments": "In Person",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
@@ -108,24 +108,6 @@
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
         "date": "2021-11-23T18:30:00",
-        "room": "",
-        "comments": "",
-        "isCanceled": false
-      }
-    ]
-  },{
-    "eventName": "Granite State Code Camp",
-    "eventUrl": "https://www.granitestatecodecamp.org/",
-    "location": "Virtual",
-    "eventStart": "2021-11-06T00:00:00",
-    "eventEnd": "2021-11-06T00:00:00",
-    "isCanceled": false,
-    "isCurrent": false,
-    "presentation": [
-      {
-        "name": "Communication is Hard. Make it better with Azure Communication Services",
-        "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
-        "date": "2021-11-06T15:30:00",
         "room": "",
         "comments": "",
         "isCanceled": false
