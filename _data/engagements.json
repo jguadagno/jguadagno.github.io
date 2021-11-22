@@ -3,8 +3,8 @@
     "eventName": "RocketTech Developer Relations Stream",
     "eventUrl": "http://twitch.tv/rocketdevrel",
     "location": "Virtual",
-    "eventStart": "2021-11-17T10:00:00",
-    "eventEnd": "2021-11-17T11:00:00",
+    "eventStart": "2021-12-01T10:00:00",
+    "eventEnd": "2021-12-01T11:00:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": true,
@@ -12,7 +12,7 @@
       {
         "name": "Uno Platform",
         "url": "",
-        "date": "2021-11-17T10:00:00",
+        "date": "2021-12-01T10:00:00",
         "room": "",
         "comments": "Time is Mountain Standard (MST)",
         "isCanceled": false
