@@ -37,7 +37,7 @@ Here are some images that you might want to create for your stream.  Recommended
   * Channel Header/Profile Banner (*1200x380*)
   * Stream Introduction Image (*1920x1080*)
   * Stream Ending ("Outro") Image (*1920x1080*)
-* YouTube
+* YouTube [Veed.io post](https://www.veed.io/learn/youtube-banner-size)
   * Intro Image (*1920x1080*)
   * End Image (*1920x1080*)
   * Thumbnail (*1280x720*)
