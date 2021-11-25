@@ -102,7 +102,7 @@
     "eventStart": "2021-11-23T18:30:00",
     "eventEnd": "2021-11-23T19:30:00",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
