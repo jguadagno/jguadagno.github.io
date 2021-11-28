@@ -14,11 +14,11 @@ tags:
 **Note:** This post was originally posted on the Telerik [blog](https://www.telerik.com/blogs/what-i-like-about-csharp-9).
 {: .notice--info}
 
-I’ve been a software engineer for 20+ years, and as the adage goes, *You can’t teach an old dog new tricks*. However, if there is one thing I learned in the 20+ years is that I am ***ALWAYS learning***. There are always new technologies coming out, new languages, and new products to solve complex problems. .NET 5 introduced C# 9, which had many new language features. So it was time for me to learn some new tricks and I dove into .NET 5's C# 9 language additions.
+I've been a software engineer for 20+ years, and as the adage goes, *You can't teach an old dog new tricks*. However, if there is one thing I learned in the 20+ years is that I am ***ALWAYS learning***. There are always new technologies coming out, new languages, and new products to solve complex problems. .NET 5 introduced C# 9, which had many new language features. So it was time for me to learn some new tricks and I dove into .NET 5's C# 9 language additions.
 
 After using these new language features, keywords, and syntax, I noticed that they started to save me keystrokes and time. Since these language additions helped me I wanted to share them with you.
 
-Let’s take a look at some of the new language features.
+Let's take a look at some of the new language features.
 
 ## Records
 
@@ -336,7 +336,7 @@ While this one is more keystrokes, the extra couple of characters makes it more 
 
 ## Omitting the type
 
-The compiler is getting smarter. It’s not necessarily getting more intelligent, but getting better at understanding what you are trying to do and, again, reducing the keystrokes. The C# 9 feature of target-typed new expressions demonstrates that the compiler is getting smarter. Now, based on the variable declaration or method signature, you can omit the type in variable declarations or usage.
+The compiler is getting smarter. It's not necessarily getting more intelligent, but getting better at understanding what you are trying to do and, again, reducing the keystrokes. The C# 9 feature of target-typed new expressions demonstrates that the compiler is getting smarter. Now, based on the variable declaration or method signature, you can omit the type in variable declarations or usage.
 
 Here we are declaring a variable `_people` of type `List<Person>`
 

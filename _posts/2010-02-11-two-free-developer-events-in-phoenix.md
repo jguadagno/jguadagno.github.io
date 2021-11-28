@@ -11,7 +11,7 @@ categories:
 
 ### February 23rd
 
-Join your local MSDN Events team as we take a deep dive into cloud computing and the Windows Azure Platform. We’ll start with a developer-focused overview of this new platform and the cloud computing services that can be used either together or independently to build highly scalable applications. As the day unfolds, we’ll explore data storage, SQL Azure, and the basics of deployment with Windows Azure. Register today for these free.
+Join your local MSDN Events team as we take a deep dive into cloud computing and the Windows Azure Platform. We'll start with a developer-focused overview of this new platform and the cloud computing services that can be used either together or independently to build highly scalable applications. As the day unfolds, we'll explore data storage, SQL Azure, and the basics of deployment with Windows Azure. Register today for these free.
 
 Register at: [http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032438178&Culture=en-US](http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032438178&Culture=en-US)
 

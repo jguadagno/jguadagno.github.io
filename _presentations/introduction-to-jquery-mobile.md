@@ -8,6 +8,6 @@ level: 100
 ---
 jQuery Mobile framework takes the “write less, do more” mantra to the next level: Instead of writing unique applications for each mobile device or OS, the jQuery mobile framework allows you to design a single highly branded responsive website or application that will work on all popular smartphone, tablet, and desktop platforms.
 
-We’ll walk through all of the components that make up the jQuery Mobile framework, like form widgets, themes and more.
+We'll walk through all of the components that make up the jQuery Mobile framework, like form widgets, themes and more.
 
 You can see the demo live at [http://jjg.me/jqmsite](http://jjg.me/jqmsite)

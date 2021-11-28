@@ -11,4 +11,4 @@ Ionic lets you build mobile apps using only JavaScript. The [Ionic framework](ht
 
 In this session, you will see how you can build rich, powerful, robust mobile applications that are clean, simple, and functional. These applications can use [Cordova](http://cordova.apache.org/), [PhoneGap](http://phonegap.com/) to deploy natively or be a modern-day web application.
 
-All you need for this session is to know are HTML, CSS, and JavaScript: the building blocks of the web. You’ll even learn AngularJS as you work with Ionic and this talk.
+All you need for this session is to know are HTML, CSS, and JavaScript: the building blocks of the web. You'll even learn AngularJS as you work with Ionic and this talk.

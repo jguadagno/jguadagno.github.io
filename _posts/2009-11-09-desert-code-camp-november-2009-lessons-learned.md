@@ -11,7 +11,7 @@ My first Code Camp is done and I wanted to jot down some of the lessons I learne
 
 ## Bring EXTRA equipment!
 
-You will never now what people will want or need. Here’s a list of items that are good to have.
+You will never now what people will want or need. Here's a list of items that are good to have.
 
 * Adapters
   * DVI to VGA (those MACs)
@@ -25,7 +25,7 @@ You will never now what people will want or need. Here’s a list of items that 
 ## Speakers
 
 * Speakers will cancel.  It is an unfortunate fact.
-* Don’t allow one speaker to speak at more than 3 sessions.  This reduces your risk in case of cancellation and prevents speaker fatigue.
+* Don't allow one speaker to speak at more than 3 sessions.  This reduces your risk in case of cancellation and prevents speaker fatigue.
 
 ## Schedule
 

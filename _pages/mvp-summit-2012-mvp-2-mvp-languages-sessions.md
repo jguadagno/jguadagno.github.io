@@ -56,7 +56,7 @@ Back to [top](#schedule)
 
 #### Craig Berntson
 
-Creating great software is not like construction. It’s more like gardening. In this session you will learn about important software gardening concepts such as soil, water, seeds, light, pruning, insecticide, weeding, and more. Along the way you’ll see processes, concepts, tools, and techniques that you can use in your software gardening project. By applying the ideas presented in this session, your software will be lush, green, and vibrant.  
+Creating great software is not like construction. It's more like gardening. In this session you will learn about important software gardening concepts such as soil, water, seeds, light, pruning, insecticide, weeding, and more. Along the way you'll see processes, concepts, tools, and techniques that you can use in your software gardening project. By applying the ideas presented in this session, your software will be lush, green, and vibrant.  
 
 Back to [top](#schedule)
 

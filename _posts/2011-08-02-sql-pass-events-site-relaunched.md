@@ -11,7 +11,7 @@ Are you going to [PASS Summit 2011](http://www.sqlpass.org/summit/2011/) in Octo
 
 ## Staying connected
 
-Don’t feel like checking out the site every day to see what is happening? Here are a few resources to help you. 
+Don't feel like checking out the site every day to see what is happening? Here are a few resources to help you. 
 
 * The site [http://www.passsummitevents.info/default.aspx](http://www.passsummitevents.info/default.aspx)
 * RSS Feed [http://www.passsummitevents.info/rss.ashx](http://www.mvppasssummitevents.info/rss.ashx)

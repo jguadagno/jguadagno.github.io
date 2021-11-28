@@ -23,7 +23,7 @@ There are many ways that one can do this; surgery, really restricting my diet, g
 
 ## Motivation for You!
 
-Are you looking for that push to get you to start losing weight well join me for the first leg of my weight loss journey? The [#TechEd20](https://twitter.com/#!/search/%23TechEd20)! That’s right, I set my first goal to lose 20 pounds by [TechEd North America](http://www.microsoft.com/click/services/Redirect2.ashx?CR_CC=200081762) and decided to make a little competition of it.  Join me in ~~my~~ our weight loss quest for some cools prizes. What the prizes are I do not know yet, but I am sure I will be able to get some books or free software for participants.  But the biggest prize will be being able to fit into the jeans or your favorite shirt again.
+Are you looking for that push to get you to start losing weight well join me for the first leg of my weight loss journey? The [#TechEd20](https://twitter.com/#!/search/%23TechEd20)! That's right, I set my first goal to lose 20 pounds by [TechEd North America](http://www.microsoft.com/click/services/Redirect2.ashx?CR_CC=200081762) and decided to make a little competition of it.  Join me in ~~my~~ our weight loss quest for some cools prizes. What the prizes are I do not know yet, but I am sure I will be able to get some books or free software for participants.  But the biggest prize will be being able to fit into the jeans or your favorite shirt again.
 
 So if you want to participate, leave a comment on this post and email me your target weight loss delta in pounds.  If you hit at least 20 pounds by the start of TechEd (Jun 10th), you get some sort of prize.  Everyone will most likely get something for participating.
 

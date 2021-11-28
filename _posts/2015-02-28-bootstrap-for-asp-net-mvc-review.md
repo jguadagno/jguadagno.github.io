@@ -17,6 +17,6 @@ In the next part of the book the author does what I have not seen in other books
 
 The author goes on to give suggestions are to how to work with and convert sites that do not have bootstrap.
 
-I’m not sure why but the author included a whole chapter using the jQuery DataTables plugin with some of it’s extensions with Bootstrap.
+I'm not sure why but the author included a whole chapter using the jQuery DataTables plugin with some of it's extensions with Bootstrap.
 
 Overall, the book was easy to read, the author was clear and logical in his explanations of Bootstrap. I would recommend this book to someone just starting to learn Bootstrap and working on ASP.NET applications.

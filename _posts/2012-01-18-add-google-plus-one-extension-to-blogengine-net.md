@@ -17,7 +17,7 @@ To create a BlogEngine.NET extension you need a class and attribute it with the 
 [Extension(
 "Adds the Google Plus One to your blog Posts",
 "1.0",
-"<a href=’https://www.josephguadagno.net’>Joseph Guadagno</a>",
+"<a href='https://www.josephguadagno.net'>Joseph Guadagno</a>",
 800)]
 ```
 

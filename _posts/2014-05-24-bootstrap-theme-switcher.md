@@ -13,7 +13,7 @@ tags:
   - Plugin
   - Twitter Bootstrap
 ---
-**UPDATE**: This is now a jQuery Plugin. See the post [Bootstrap Theme Switcher jQuery Plugin]({% link _posts/2014-11-16-bootstrap-theme-switcher-jquery-plugin.md %}). While creating a Proof of Concept design for a web site I was working on I thought it would be cool to demonstrate the power of themes in Twitter [Bootstrap](http://getbootstrap.com) by providing an option in the Proof of Concept to switch to some of the themes that are on [Bootswatch](http://www.bootswatch.com).  It was a remarkably easy solution, that involved [jQuery](http://www.jquery.com), [jQuery.cookie](https://github.com/carhartl/jquery-cookie) plugin, Twitter Bootstrap [Navbar](http://getbootstrap.com/components/#navbar) and the themes from [Bootswatch](http://www.bootswatch.com). This sample assumes that you are using a CDN for the Twitter Bootstrap and jQuery files and that you downloaded the themes from Bootswatch and copied them to the path of `/css/themes`. The example could easily be modified to use the themes on the Bootstrap [CDN](http://www.bootstrapcdn.com). First, let’s start with a basic template for Twitter Bootstrap
+**UPDATE**: This is now a jQuery Plugin. See the post [Bootstrap Theme Switcher jQuery Plugin]({% link _posts/2014-11-16-bootstrap-theme-switcher-jquery-plugin.md %}). While creating a Proof of Concept design for a web site I was working on I thought it would be cool to demonstrate the power of themes in Twitter [Bootstrap](http://getbootstrap.com) by providing an option in the Proof of Concept to switch to some of the themes that are on [Bootswatch](http://www.bootswatch.com).  It was a remarkably easy solution, that involved [jQuery](http://www.jquery.com), [jQuery.cookie](https://github.com/carhartl/jquery-cookie) plugin, Twitter Bootstrap [Navbar](http://getbootstrap.com/components/#navbar) and the themes from [Bootswatch](http://www.bootswatch.com). This sample assumes that you are using a CDN for the Twitter Bootstrap and jQuery files and that you downloaded the themes from Bootswatch and copied them to the path of `/css/themes`. The example could easily be modified to use the themes on the Bootstrap [CDN](http://www.bootstrapcdn.com). First, let's start with a basic template for Twitter Bootstrap
 
 ```html
 <html lang="en">
@@ -53,7 +53,7 @@ Your content here!
 </html>
 ```
 
-Next, we’ll add the navbar with the theme selector menu.
+Next, we'll add the navbar with the theme selector menu.
 
 ```html
 <div class="container">

@@ -76,7 +76,7 @@ Bonus Content! Win/Win!
 
 What's a content delivery network you ask?
 
-> A Content Delivery Network (CDN) is a system of geographically distributed servers that work together to provide fast delivery of Internet content. It’s designed to minimize latency in loading web pages by reducing the physical distance between the server and the user. A CDN allows for a quick transfer of assets needed to load content such as HTML pages, javascript files, stylesheets, images, and videos.
+> A Content Delivery Network (CDN) is a system of geographically distributed servers that work together to provide fast delivery of Internet content. It's designed to minimize latency in loading web pages by reducing the physical distance between the server and the user. A CDN allows for a quick transfer of assets needed to load content such as HTML pages, javascript files, stylesheets, images, and videos.
 
 Using Yarn to add your HTML, CSS, or javascript dependencies provides you with the option to not add these files to your source code repositories since you can install them at any time.  That choice is yours. However, using packages added by Yarn also make it easier for you to use CDNs for hosting these same files.  
 

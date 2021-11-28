@@ -7,7 +7,7 @@ dsq_thread_id:
 categories:
   - Arizona Technology News
 ---
-It’s time for the 7th iteration of [Desert Code Camp](http://www.desertcodecamp.com) (my second one as director).  Desert Code Camp will be held on May 15th at DeVry again.
+It's time for the 7th iteration of [Desert Code Camp](http://www.desertcodecamp.com) (my second one as director).  Desert Code Camp will be held on May 15th at DeVry again.
 
 DeVry University  
 2149 W Dunlap Ave ([Map](http://www.desertcodecamp.com/Map.aspx))  

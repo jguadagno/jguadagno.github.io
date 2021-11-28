@@ -11,7 +11,7 @@ Are you going to [Tech·Ed North America 2011](http://northamerica.msteched.com/
 
 ## Staying connected
 
-Don’t feel like checking out the site every day to see what is happening? Here are a few resources to help you. The site [http://www.techedevents.info/default.aspx](http://www.techedevents.info/default.aspx) RSS Feed [http://www.techedevents.info/rss.ashx](http://www.techedevents.info/rss.ashx) GeoRSS Feed [http://www.techedevents.info/rss.ashx?format=geo](http://www.techedevents.info/rss.ashx?format=geo) iCal Feed [http://www.techedevents.info/calendar.ashx](http://www.techedevents.info/calendar.ashx) Map of events [http://www.techedevents.info/map.aspx](http://www.techedevents.info/map.aspx) Flickr [http://www.techedevents.info/flickr.aspx](http://www.techedevents.info/flickr.aspx)
+Don't feel like checking out the site every day to see what is happening? Here are a few resources to help you. The site [http://www.techedevents.info/default.aspx](http://www.techedevents.info/default.aspx) RSS Feed [http://www.techedevents.info/rss.ashx](http://www.techedevents.info/rss.ashx) GeoRSS Feed [http://www.techedevents.info/rss.ashx?format=geo](http://www.techedevents.info/rss.ashx?format=geo) iCal Feed [http://www.techedevents.info/calendar.ashx](http://www.techedevents.info/calendar.ashx) Map of events [http://www.techedevents.info/map.aspx](http://www.techedevents.info/map.aspx) Flickr [http://www.techedevents.info/flickr.aspx](http://www.techedevents.info/flickr.aspx)
 
 ## Mobile Users
 

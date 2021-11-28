@@ -8,7 +8,7 @@ categories:
 tags:
   - Personal
 ---
-A year ago, yesterday, I went to the Emergency Room because I was getting cold sweats, and something did not feel right with my body. Well, after a few tests and a few doctors later, a cardiologist came in and told me I had 90% blockage in the *[left anterior descending artery](https://en.wikipedia.org/wiki/Left_anterior_descending_artery)*, better known as the *[Widow Maker](https://www.webmd.com/heart-disease/widow-maker-heart-attack)*. It’s known as the *widow maker* because you tend to have minutes left to live when it is blocked. I am glad I listened to my body and my wife and went into the Emergency Room.
+A year ago, yesterday, I went to the Emergency Room because I was getting cold sweats, and something did not feel right with my body. Well, after a few tests and a few doctors later, a cardiologist came in and told me I had 90% blockage in the *[left anterior descending artery](https://en.wikipedia.org/wiki/Left_anterior_descending_artery)*, better known as the *[Widow Maker](https://www.webmd.com/heart-disease/widow-maker-heart-attack)*. It's known as the *widow maker* because you tend to have minutes left to live when it is blocked. I am glad I listened to my body and my wife and went into the Emergency Room.
 
 A year ago today, the cardiologist successfully cleared the blockage and got me on the path to a healthier life.
 
@@ -20,7 +20,7 @@ There a quite a few factors that contribute to clogged arteries and/or being out
 - :white_square_button: Are obese
 - :white_square_button: Eat a lot of unhealthy foods
 - :white_square_button: Are over 45 (men) or 55 (women)
-- :white_square_button: Don’t exercise
+- :white_square_button: Don't exercise
 - :white_square_button: Have high blood pressure
 - :white_square_button: Have uncontrolled diabetes
 - :white_square_button: Have a family history of heart disease
@@ -59,9 +59,9 @@ Somewhere along the way, I lost sight of that, and I guess I needed this ***wake
 
 ## Me Now
 
-Thanks to the proverbial kick in the pants, and some medication, I am back on track. I watch what I eat now. I have five smaller meals a day that are heart-healthy, including vegetables, fruits, etc. I’ve avoided fried foods, foods high in salt, and most sweets. I’ve stopped drinking alcohol. I try to get around 15,000 steps a day now, which is really hard to be stuck at home.
+Thanks to the proverbial kick in the pants, and some medication, I am back on track. I watch what I eat now. I have five smaller meals a day that are heart-healthy, including vegetables, fruits, etc. I've avoided fried foods, foods high in salt, and most sweets. I've stopped drinking alcohol. I try to get around 15,000 steps a day now, which is really hard to be stuck at home.
 
-You’ll notice I used the word to avoid. I did not eliminate fried foods, sweets, etc. I just have them way less frequently. The reason being is you still have to live, and cutting everything out usually leads to failure.
+You'll notice I used the word to avoid. I did not eliminate fried foods, sweets, etc. I just have them way less frequently. The reason being is you still have to live, and cutting everything out usually leads to failure.
 
 Looking at the previous list
 
@@ -69,7 +69,7 @@ Looking at the previous list
 - :black_square_button: Are obese
 - :black_square_button: Eat a lot of unhealthy foods
 - :white_square_button: Are over 45 (men) or 55 (women)
-- :black_square_button: Don’t exercise
+- :black_square_button: Don't exercise
 - :black_square_button: Have high blood pressure
 - :black_square_button: Have uncontrolled diabetes
 - :white_square_button: Have a family history of heart disease

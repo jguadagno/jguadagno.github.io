@@ -7,7 +7,7 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-So, I heard that the [Sitefinity](http://www.sitefinity.com/) application had this generic content module that was pretty easy to use to create your own module with. Why do you need to create a new generic content based module you ask?  There a few answers to that question.  I created a new generic content based module because I wanted to track all of the discounts that were offered to the [Southeast Valley .NET user group](http://www.sevdnug.org/) and since free time is a something I do not have lately, it was an easy choice.  You might also want to leverage the existing Sitefinity generic content module because you do not have any development resources available to.  As the name implies it is generic, so generic in fact, it is used by the blog feature, news feature and events feature. After a week’s worth of digging into the code and documentation, I was successful. So that you do not have to go through the pain, I will lay out the instructions for you.  This guide will require virtually no coding, just a little HTML markup, and some web.config changes. There are few steps involved in creating a new copy of the generic module.  
+So, I heard that the [Sitefinity](http://www.sitefinity.com/) application had this generic content module that was pretty easy to use to create your own module with. Why do you need to create a new generic content based module you ask?  There a few answers to that question.  I created a new generic content based module because I wanted to track all of the discounts that were offered to the [Southeast Valley .NET user group](http://www.sevdnug.org/) and since free time is a something I do not have lately, it was an easy choice.  You might also want to leverage the existing Sitefinity generic content module because you do not have any development resources available to.  As the name implies it is generic, so generic in fact, it is used by the blog feature, news feature and events feature. After a week's worth of digging into the code and documentation, I was successful. So that you do not have to go through the pain, I will lay out the instructions for you.  This guide will require virtually no coding, just a little HTML markup, and some web.config changes. There are few steps involved in creating a new copy of the generic module.  
 
 The first step is to BACKUP your web.config file and Sitefinity project, just to be safe.
 {: .notice--danger}
@@ -46,7 +46,7 @@ Sitefinity is built on top of the .NET framework, and this coding technology can
 <% $Resources:SearchItemsBy %>
 ```
 
-This code tells the ASP.NET engine to get the resource file text in the key SearchItemsBy. This language is based on the page’s locale. If this text was on the `ControlPanelInsert.ascx` control, ASP.NET would look within the `ControlPanelInsert.ascx.resx` file, unless you had localized versions then it would look in `ControlPanelInsert.ascx.<_locale_>.resx`. For more information, please read [Walkthrough: Using Resources for Localization with ASP.NET](https://msdn.microsoft.com/en-us/library/fw69ke6f.aspx?WT.mc_id=DOP-MVP-4024623) from MSDN. Keep this in mind while editing your Sitefinity controls later on.
+This code tells the ASP.NET engine to get the resource file text in the key SearchItemsBy. This language is based on the page's locale. If this text was on the `ControlPanelInsert.ascx` control, ASP.NET would look within the `ControlPanelInsert.ascx.resx` file, unless you had localized versions then it would look in `ControlPanelInsert.ascx.<_locale_>.resx`. For more information, please read [Walkthrough: Using Resources for Localization with ASP.NET](https://msdn.microsoft.com/en-us/library/fw69ke6f.aspx?WT.mc_id=DOP-MVP-4024623) from MSDN. Keep this in mind while editing your Sitefinity controls later on.
 
 ### ContentView Control Overview
 
@@ -148,7 +148,7 @@ Further down in the web.config file, you should find an element, add Meta keys f
 <add key="Discounts.Author" valueType="ShortText" visible="True" searchable="True" sortable="True" defaultValue="Joseph Guadagno"/>
 ```
 
-Please note that the name of the module and the word before the period must match the module name. For the Discounts Module provider I discussed, the name should be Discounts as shown below this sentence: The important part is for each property/field you want you to need to add a line. You will notice the format is "PropertyName". For more information on the attributes, check out the [Sitefinity developer’s documentation](http://www.sitefinity.com/help/developer-manual/telerik.cms.engine-telerik.cms.engine.metainfo_members.html). Save your `web.config` and this completes all necessary changes to the file.
+Please note that the name of the module and the word before the period must match the module name. For the Discounts Module provider I discussed, the name should be Discounts as shown below this sentence: The important part is for each property/field you want you to need to add a line. You will notice the format is "PropertyName". For more information on the attributes, check out the [Sitefinity developer's documentation](http://www.sitefinity.com/help/developer-manual/telerik.cms.engine-telerik.cms.engine.metainfo_members.html). Save your `web.config` and this completes all necessary changes to the file.
 
 ## Create your new admin section
 
@@ -157,7 +157,7 @@ Please note that the name of the module and the word before the period must matc
 So you can interface with the Discounts Module, you will now need to create the template files by following these steps:
 
 1. Open the Windows Explorer (or within Visual Studio).
-2. Navigate to your website’s root directory.
+2. Navigate to your website's root directory.
 3. Go to `~/Sitefinity/Admin/ControlTemplates` folder.
 4. Select the `Generic_Content` folder and paste it into the `~/Sitefinity/Admin/ControlTemplates` directory.
 5. Rename that folder to `<ModuleName>`. In my example, I renamed it to Discounts.
@@ -442,7 +442,7 @@ Most of the files do not need to be modified unless you want to.  We will conce
 
 As mentioned above in the file list section above, the `ItemList` control will be used to display the content items in a "repeater" or list view. As a suggestion, I would print out or keep handy the web.config section so you type the Metadata field names.
 
-Let’s get started. If you renamed the `genericContentCommonLayout.css` you will need to update the FileName attribute of the `sfWeb:CssFileLink` element to match the new name.  It should look something link this.
+Let's get started. If you renamed the `genericContentCommonLayout.css` you will need to update the FileName attribute of the `sfWeb:CssFileLink` element to match the new name.  It should look something link this.
 
 ```html
 <sfWeb:CssFileLink ID="CssFileLink1"
@@ -457,7 +457,7 @@ The rest of the changes pretty much come in the `asp:Repeater` control.  You can
 
 As mentioned above in the file list section above, the SingleItem control will be used to display the content item. As a suggestion, I would print out or keep handy the `web.config` section so you type the Metadata field names.
 
-Let’s get started. If you renamed the `genericConentCommonLayout.css` you will need to update the FileName attribute of the sfWeb:CssFileLink element to match the new name.  It should look something like this.
+Let's get started. If you renamed the `genericConentCommonLayout.css` you will need to update the FileName attribute of the sfWeb:CssFileLink element to match the new name.  It should look something like this.
 
 ```html
 <sfWeb:CssFileLink ID="CssFileLink1"

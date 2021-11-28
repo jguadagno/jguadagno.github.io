@@ -9,7 +9,7 @@ Phoenix Geek Tag was a minor success so I decided to put together another Geek o
 
 **Option 1**: Bowling in Gilbert at [Brunswick Lanes](http://www.bowlbrunswick.com/home/home-center?op=setScratch;scratchName=centerNum;scratchValue=1090)
 
-What’s included…
+What's included…
 
 * Bowling with bowling shoes for two hours.
 * Drinks (alcoholic and non) are **not included**.
@@ -17,7 +17,7 @@ What’s included…
 
 **Option 2**: [GameWorks](http://www.gameworks.com/?tId=1&sId=14) in Tempe
 
-What’s included…
+What's included…
 
 * One or two hour game card (depending on package)
 * Private room for socializing and networking

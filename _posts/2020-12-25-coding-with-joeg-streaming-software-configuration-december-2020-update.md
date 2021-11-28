@@ -13,7 +13,7 @@ In a previous post, I covered the [hardware]({% post_url 2020-12-20-coding-with-
 
 ## Streamlabs OBS Configuration
 
-Streamlabs OBS is a free reliable streaming app with the fastest setup process on the market. We have developed an all-in-one application making streaming easy for everyone. Whether you’re a novice or experienced streamer, Streamlabs OBS will provide you the best streaming experience, with tools built to engage, grow, and monetize your channel.
+Streamlabs OBS is a free reliable streaming app with the fastest setup process on the market. We have developed an all-in-one application making streaming easy for everyone. Whether you're a novice or experienced streamer, Streamlabs OBS will provide you the best streaming experience, with tools built to engage, grow, and monetize your channel.
 
 [Download](https://streamlabs.com/streamlabs-obs){:target="_blank}
 
@@ -46,7 +46,7 @@ For this tab, I have a few things tweaked based on my hardware and conditions.  
 | Audio Track | `1` | Only have one track.  This is helpful if you want to separate music from your voice |
 | Encoder | `Hardware (NVENC)` | This is set to software, by default, I changed it to hardware because I wanted to offload some of the video encoding to my video chip/card since my PC not fast enough |
 | Enforce stream service encoder settings | `Checked` | |
-| Rate Control | `CBR` | *Constant Bitrate Stream*: This is the standard bitrate to use for streamers. Let’s say you’ve set your video bitrate to 3000 Kbps for your next stream, using CBR means your stream will always be at 3000 Kbps, even when less could be used, such as a dark game that lacks detail. |
+| Rate Control | `CBR` | *Constant Bitrate Stream*: This is the standard bitrate to use for streamers. Let's say you've set your video bitrate to 3000 Kbps for your next stream, using CBR means your stream will always be at 3000 Kbps, even when less could be used, such as a dark game that lacks detail. |
 | Bit Rate | `6000` | The higher the better |
 | Keyframe Interval | `0` | `0` Indicates that Streamlabs will figure it out before it starts. The "Keyframe Interval" could be set at 2, meaning that the video frame will be rendered every 2 seconds. |
 | Preset | `Performance` | |
@@ -69,7 +69,7 @@ For a more in-depth look at bitrates, and keyframes, check out [What is Video Bi
 | Audio Track | `1` | Only have one track.  This is helpful if you want to separate music from your voice |
 | Encoder | `Hardware (NVENC)` | This is set to software, by default, I changed it to hardware because I wanted to offload some of the video encoding to my video chip/card since my PC has a detected video card now. |
 | Enforce stream service encoder settings | `Checked` | |
-| Rate Control | `CBR` | *Constant Bitrate Stream*: This is the standard bitrate to use for streamers. Let’s say you’ve set your video bitrate to 3000 Kbps for your next stream, using CBR means your stream will always be at 3000 Kbps, even when less could be used, such as a dark game that lacks detail. |
+| Rate Control | `CBR` | *Constant Bitrate Stream*: This is the standard bitrate to use for streamers. Let's say you've set your video bitrate to 3000 Kbps for your next stream, using CBR means your stream will always be at 3000 Kbps, even when less could be used, such as a dark game that lacks detail. |
 | Bit Rate | `6000` | The higher the better |
 | Keyframe Interval | `0` | `0` Indicates that Streamlabs will figure it out before it starts. The "Keyframe Interval" could be set at 2, meaning that the video frame will be rendered every 2 seconds. |
 | Preset | `Performance` | |

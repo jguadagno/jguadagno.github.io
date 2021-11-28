@@ -443,4 +443,4 @@ To deploy your module, you must copy the module theme, the newly created bin fil
 |<a id="iv">iv</a>|Optional, only required if you controls/templates use this control and you are licensed to use it.|
 |<a id="v">v</a>|Optional, only if you wish to implement this command panel control.|
 |<a id="vi">vi</a>|Optional, only if you use the Nolics library for data access.|
-|<a id="vii">vii</a>|Optional, only if you want to add additional data access methods to the Nolics’ generated class.|
+|<a id="vii">vii</a>|Optional, only if you want to add additional data access methods to the Nolics' generated class.|

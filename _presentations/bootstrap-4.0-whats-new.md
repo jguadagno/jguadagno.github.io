@@ -1,5 +1,5 @@
 ---
-title: Bootstrap 4.0 – What’s new
+title: Bootstrap 4.0 – What's new
 isKeynote: false
 isRetired: false
 sourceUrl:

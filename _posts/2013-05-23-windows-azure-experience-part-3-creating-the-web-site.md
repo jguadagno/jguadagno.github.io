@@ -16,7 +16,7 @@ This Part 3 of a [series of posts]({% link _posts/2013-05-21-the-windows-azure-e
 
 ## Creating the Web Site
 
-[![image](/assets/images/posts/image_thumb_11.png "image")](/assets/images/posts/image_12.png) From here a menu will appear. _Hint: if you are in the Web Sites section of the Table of Contents, you will get three new web site selections available, otherwise you will have to navigate “Compute" then “Web Site”_ [![image](/assets/images/posts/image_thumb_12.png "image")](/assets/images/posts/image_13.png) You’ll see that I have 3 options **Quick Create** Quickly create your web site by specifying a URL. You can perform tasks like deployment and configuration later. **Custom Create** Create a web site with additional options, such as a new or existing database, or with continuous deployment from source control. **From Gallery** Choose a web application from the gallery. This lets you choose from one of the many preconfigured ASP.NET applications like WordPress.
+[![image](/assets/images/posts/image_thumb_11.png "image")](/assets/images/posts/image_12.png) From here a menu will appear. _Hint: if you are in the Web Sites section of the Table of Contents, you will get three new web site selections available, otherwise you will have to navigate “Compute" then “Web Site”_ [![image](/assets/images/posts/image_thumb_12.png "image")](/assets/images/posts/image_13.png) You'll see that I have 3 options **Quick Create** Quickly create your web site by specifying a URL. You can perform tasks like deployment and configuration later. **Custom Create** Create a web site with additional options, such as a new or existing database, or with continuous deployment from source control. **From Gallery** Choose a web application from the gallery. This lets you choose from one of the many preconfigured ASP.NET applications like WordPress.
 
 ### Quick Create
 
@@ -34,7 +34,7 @@ If the subdomain you have chosen is valid and available the text box will look l
 
 [![image-center](/assets/images/posts/image_thumb_16.png "image")](/assets/images/posts/image_17.png){: .align-center}
 
-You’ll notice now that I have a second web site created, in like 10 seconds. with a notification telling me it was complete.
+You'll notice now that I have a second web site created, in like 10 seconds. with a notification telling me it was complete.
 
 ### Custom Create
 

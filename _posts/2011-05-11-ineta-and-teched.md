@@ -12,7 +12,7 @@ Since being elected the President of [INETA](http://www.ineta.org) North America
 * Community Night on Tuesday
 * Walking throughout the convention center.
 
-If you have some compliments, complains, suggestions or just want to chat, here’s how you can get a hold of me:
+If you have some compliments, complains, suggestions or just want to chat, here's how you can get a hold of me:
 
 * Come to the [INETA Community Leadership Summit](http://inetateched2011.eventbrite.com/) on Sunday.
 * My TechEd [contact card](http://northamerica.msteched.com/Directory/Details/a6434085-9918-4201-849e-8e6b2ad89337?fbid=R0PcL7ZnU9F), contact me there or setup a meeting using that sites tool.

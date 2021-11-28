@@ -10,7 +10,7 @@ categories:
 tags:
   - NuGet
 ---
-First off, I love the subtitle “Your Salvation from Dependency Hell’, although NuGet does offer its own Dependency Hell sometimes.
+First off, I love the subtitle “Your Salvation from Dependency Hell', although NuGet does offer its own Dependency Hell sometimes.
 
 The first chapter starts out as you would expect, how to get started with NuGet.  However, the authors  added a helpful page of links to the different NuGet tools and documentation that they would be referring to.
 

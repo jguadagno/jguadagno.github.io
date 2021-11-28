@@ -14,7 +14,7 @@ tags:
 
 iCal feed for Sitefinity [CalendarHandler_2](/assets/downloads/CalendarHandler_2.zip)
 
-I’ve made a few changes since the last release to include some bug fixes.
+I've made a few changes since the last release to include some bug fixes.
 
 * Added Google and Outlook friendly fields in the feed file to describe the iCalendar file as well as the publisher.
 * Added code to the `Location` and `Description` fields to keep them at 75 characters or less to comply with the iCal specifications.
@@ -23,7 +23,7 @@ I’ve made a few changes since the last release to include some bug fixes.
 
 ### web.config changes
 
-First, you need to tell ASP.NET about your new handler. Open up the web config file and look for the `httpHandlers` section, it’s the parent is `system.web` and add the following:
+First, you need to tell ASP.NET about your new handler. Open up the web config file and look for the `httpHandlers` section, it's the parent is `system.web` and add the following:
 
 ```xml
 <add verb="GET" path="GetICSFile.ashx" type="SEVDNUG.Web.HttpHandlers.CalendarHandler, App_Code"/>

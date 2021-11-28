@@ -11,7 +11,7 @@ Our website address is https://www.josephguadagno.net.
 
 ### Comments
 
-When visitors leave comments on the site, we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+When visitors leave comments on the site, we collect the data shown in the comments form, and also the visitor's IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
 ### Media
 
@@ -53,7 +53,7 @@ Joseph Guadagno jguadagno@hotmail.com
 
 ### Contact Form
 
-**Data Used:** If [Akismet](https://akismet.com/) is enabled on the site, the contact form submission data — IP address, user agent, name, email address, website, and message — is submitted to the [Akismet](https://akismet.com/) service (also owned by [Automattic](https://automattic.com/)) for the sole purpose of spam checking. The actual submission data is stored in the database of the site on which it was submitted and is emailed directly to the owner of the form (i.e. the site author who published the page on which the contact form resides). This email will include the submitter’s IP address, timestamp, name, email address, website, and message. **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** Post and post meta data associated with a user’s contact form submission. If [Akismet](https://akismet.com/) is enabled on the site, the IP address and user agent originally submitted with the comment are synced, as well, as they are stored in post meta.
+**Data Used:** If [Akismet](https://akismet.com/) is enabled on the site, the contact form submission data — IP address, user agent, name, email address, website, and message — is submitted to the [Akismet](https://akismet.com/) service (also owned by [Automattic](https://automattic.com/)) for the sole purpose of spam checking. The actual submission data is stored in the database of the site on which it was submitted and is emailed directly to the owner of the form (i.e. the site author who published the page on which the contact form resides). This email will include the submitter's IP address, timestamp, name, email address, website, and message. **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** Post and post meta data associated with a user's contact form submission. If [Akismet](https://akismet.com/) is enabled on the site, the IP address and user agent originally submitted with the comment are synced, as well, as they are stored in post meta.
 
 * * *
 
@@ -65,31 +65,31 @@ Joseph Guadagno jguadagno@hotmail.com
 
 ### Gravatar Hovercards
 
-**Data Used:** This feature will send a hash of the user’s email address (if logged in to the site or WordPress.com — or if they submitted a comment on the site using their email address that is attached to an active Gravatar profile) to the [Gravatar](https://gravatar.com/) service (also owned by [Automattic](https://automattic.com/)) in order to retrieve their profile image.
+**Data Used:** This feature will send a hash of the user's email address (if logged in to the site or WordPress.com — or if they submitted a comment on the site using their email address that is attached to an active Gravatar profile) to the [Gravatar](https://gravatar.com/) service (also owned by [Automattic](https://automattic.com/)) in order to retrieve their profile image.
 
 * * *
 
 ### Jetpack Comments
 
-**Data Used:** Commenter’s name, email address, and site URL (if provided via the comment form), timestamp, and IP address. Additionally, a jetpack.wordpress.com IFrame receives the following data: WordPress.com blog ID attached to the site, ID of the post on which the comment is being submitted, commenter’s local user ID (if available), commenter’s local username (if available), commenter’s site URL (if available), MD5 hash of the commenter’s email address (if available), and the comment content. If [Akismet](https://akismet.com/) (also owned by [Automattic](https://automattic.com/)) is enabled on the site, the following information is sent to the service for the sole purpose of spam checking: commenter’s name, email address, site URL, IP address, and user agent. **Activity Tracked:** The comment author’s name, email address, and site URL (if provided during the comment submission) are stored in cookies. [Learn more about these cookies](https://jetpack.com/support/cookies/#comments). **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** All data and metadata (see above) associated with comments. This includes the status of the comment and, if [Akismet](https://akismet.com/) is enabled on the site, whether or not it was classified as spam by Akismet.
+**Data Used:** Commenter's name, email address, and site URL (if provided via the comment form), timestamp, and IP address. Additionally, a jetpack.wordpress.com IFrame receives the following data: WordPress.com blog ID attached to the site, ID of the post on which the comment is being submitted, commenter's local user ID (if available), commenter's local username (if available), commenter's site URL (if available), MD5 hash of the commenter's email address (if available), and the comment content. If [Akismet](https://akismet.com/) (also owned by [Automattic](https://automattic.com/)) is enabled on the site, the following information is sent to the service for the sole purpose of spam checking: commenter's name, email address, site URL, IP address, and user agent. **Activity Tracked:** The comment author's name, email address, and site URL (if provided during the comment submission) are stored in cookies. [Learn more about these cookies](https://jetpack.com/support/cookies/#comments). **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** All data and metadata (see above) associated with comments. This includes the status of the comment and, if [Akismet](https://akismet.com/) is enabled on the site, whether or not it was classified as spam by Akismet.
 
 * * *
 
 ### Mobile Theme
 
-**Data Used:** A visitor’s preference on viewing the mobile version of a site. **Activity Tracked:** A cookie (`akm_mobile`) is stored for 3.5 days to remember whether or not a visitor of the site wishes to view its mobile version. [Learn more about this cookie](https://jetpack.com/support/cookies/#mobile-theme).
+**Data Used:** A visitor's preference on viewing the mobile version of a site. **Activity Tracked:** A cookie (`akm_mobile`) is stored for 3.5 days to remember whether or not a visitor of the site wishes to view its mobile version. [Learn more about this cookie](https://jetpack.com/support/cookies/#mobile-theme).
 
 * * *
 
 ### Protect
 
-**Data Used:** In order to check login activity and potentially block fraudulent attempts, the following information is used: attempting user’s IP address, attempting user’s email address/username (i.e. according to the value they were attempting to use during the login process), and all IP-related HTTP headers attached to the attempting user. **Activity Tracked:** Failed login attempts (these include IP address and user agent). We also set a cookie (`jpp_math_pass`) for 1 day to remember if/when a user has successfully completed a math captcha to prove that they’re a real human. [Learn more about this cookie.](https://jetpack.com/support/cookies/#protect) **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** Failed login attempts, which contain the user’s IP address, attempted username or email address, and user agent information.
+**Data Used:** In order to check login activity and potentially block fraudulent attempts, the following information is used: attempting user's IP address, attempting user's email address/username (i.e. according to the value they were attempting to use during the login process), and all IP-related HTTP headers attached to the attempting user. **Activity Tracked:** Failed login attempts (these include IP address and user agent). We also set a cookie (`jpp_math_pass`) for 1 day to remember if/when a user has successfully completed a math captcha to prove that they're a real human. [Learn more about this cookie.](https://jetpack.com/support/cookies/#protect) **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** Failed login attempts, which contain the user's IP address, attempted username or email address, and user agent information.
 
 * * *
 
 ### Sharing
 
-**Data Used:** When sharing content via email (this option is only available if [Akismet](https://akismet.com/) is active on the site), the following information is used: sharing party’s name and email address (if the user is logged in, this information will be pulled directly from their account), IP address (for spam checking), user agent (for spam checking), and email body/content. This content will be sent to [Akismet](https://akismet.com/) (also owned by [Automattic](https://automattic.com/)) so that a spam check can be performed. Additionally, if [reCAPTCHA](http://www.google.com/recaptcha) (by Google) is enabled by the site owner, the sharing party’s IP address will be shared with that service. You can find Google’s privacy policy [here](https://www.google.com/policies/privacy/).
+**Data Used:** When sharing content via email (this option is only available if [Akismet](https://akismet.com/) is active on the site), the following information is used: sharing party's name and email address (if the user is logged in, this information will be pulled directly from their account), IP address (for spam checking), user agent (for spam checking), and email body/content. This content will be sent to [Akismet](https://akismet.com/) (also owned by [Automattic](https://automattic.com/)) so that a spam check can be performed. Additionally, if [reCAPTCHA](http://www.google.com/recaptcha) (by Google) is enabled by the site owner, the sharing party's IP address will be shared with that service. You can find Google's privacy policy [here](https://www.google.com/policies/privacy/).
 
 * * *
 

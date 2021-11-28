@@ -19,7 +19,7 @@ Visual Studio LightSwitch is the simplest way to build business applications for
 
 ## Visual Studio LightSwitch - Beyond the Basics (200-300)
 
-LightSwitch is a new product in the Visual Studio family aimed at developers who want to easily create business applications for the desktop and the cloud. In this session, we’ll go beyond the basics of creating simple screens over data and demonstrate how to create screens with more advanced capabilities. You’ll see how to extend LightSwitch applications with your own Silverlight custom controls and RIA services. We’ll also talk about the architecture and additional extensibility points that are available to professional developers looking to enhance the LightSwitch developer experience.
+LightSwitch is a new product in the Visual Studio family aimed at developers who want to easily create business applications for the desktop and the cloud. In this session, we'll go beyond the basics of creating simple screens over data and demonstrate how to create screens with more advanced capabilities. You'll see how to extend LightSwitch applications with your own Silverlight custom controls and RIA services. We'll also talk about the architecture and additional extensibility points that are available to professional developers looking to enhance the LightSwitch developer experience.
 
 ## LightSwitch Advanced Development and Customization Techniques (300+)
 

@@ -11,7 +11,7 @@ Are you going to [Mix10](http://live.visitmix.com "Mix10") in March? If so, you 
 
 ### Staying connected
 
-Don’t feel like checking out the site every day to see what is happening? Here are a few resources to help you.
+Don't feel like checking out the site every day to see what is happening? Here are a few resources to help you.
 
 |||
 |--- |--- |
@@ -32,7 +32,7 @@ You will be able to view all of the events that are happening, even filter by da
 
 ### Las Vegas
 
-In case you do not want to check out the events, I mean “It’s Vegas Baby”. Here are some other resources, also accessible from the site.
+In case you do not want to check out the events, I mean “It's Vegas Baby”. Here are some other resources, also accessible from the site.
 
 |||
 |--- |--- |

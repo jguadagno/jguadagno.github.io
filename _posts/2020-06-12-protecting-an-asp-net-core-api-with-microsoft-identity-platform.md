@@ -39,7 +39,7 @@ First, log into the Azure Portal.
 
 Enter an Organization name. The organization name is required and should be something that relates to your organization.
 
-Next, enter the initial domain name. This domain name is a subdomain of onmicrosoft.com. You can add a custom domain like josephguadagno.net later on in the process. We won’t be doing that as part of this post.
+Next, enter the initial domain name. This domain name is a subdomain of onmicrosoft.com. You can add a custom domain like josephguadagno.net later on in the process. We won't be doing that as part of this post.
 
 Select your country and click 'Create'. Once the directory is created, you will see a message similar to this.
 

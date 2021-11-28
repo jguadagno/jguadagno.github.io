@@ -15,7 +15,7 @@ Visual Studio has an attribute that you can add to a class to inform the debugge
 
 ## How to Implement
 
-Let’s say we have a simple class called `Person`, the Person class has 4 properties; `FirstName`, `MiddleName`, `LastName`, and `FullName`. Here is the definition:
+Let's say we have a simple class called `Person`, the Person class has 4 properties; `FirstName`, `MiddleName`, `LastName`, and `FullName`. Here is the definition:
 
 ```cs
 public class Person
@@ -36,7 +36,7 @@ public class Person
 }
 ```
 
-Next, let’s assume we want to display the first and last name of the person when debugging. We first need to add the DebuggerDisplay attribute to our class. The DebuggerDisplay attribute can be found in the [System.Diagnosis](http://msdn.microsoft.com/en-us/library/15t15zda.aspx?WT.mc_id=DOP-MVP-4024623) class of the .NET framework. The DebuggerDisplay works almost like the string.Format method, except you, replace the numbers with the property/method names you want to display. Example:
+Next, let's assume we want to display the first and last name of the person when debugging. We first need to add the DebuggerDisplay attribute to our class. The DebuggerDisplay attribute can be found in the [System.Diagnosis](http://msdn.microsoft.com/en-us/library/15t15zda.aspx?WT.mc_id=DOP-MVP-4024623) class of the .NET framework. The DebuggerDisplay works almost like the string.Format method, except you, replace the numbers with the property/method names you want to display. Example:
 
 ```cs
 [DebuggerDisplay("FirstName={FirstName} LastName={LastName}")]
@@ -67,7 +67,7 @@ This will display like so:
 
 [![image](/assets/images/posts/image_thumb_5.png "image")](/assets/images/posts/image_6.png)
 
-You’ll notice this makes it easier to see what you are looking at. It also works in the immediate window.
+You'll notice this makes it easier to see what you are looking at. It also works in the immediate window.
 
 [![image](/assets/images/posts/image_thumb_6.png "image")](/assets/images/posts/image_7.png)
 

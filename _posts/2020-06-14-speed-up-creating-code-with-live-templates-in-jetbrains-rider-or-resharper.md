@@ -9,7 +9,7 @@ tags:
   - Productivity
   - Unit Tests
 ---
-For the past few weekends, I’ve been working rebuilding a library I wrote to make it easier to use Azure Storage. I started this library about 4 or 5 years ago, and it did not have ‘true’ unit tests. I’m not going to talk about what makes a good unit test and what doesn’t. There are plenty of posts around that! I decided to rewrite all of the tests and move to [xUnit](https://xUnit.net). After creating about the 50th test or so, I noticed a pattern in the initial shell of the tests. Most of the tests looked like this.
+For the past few weekends, I've been working rebuilding a library I wrote to make it easier to use Azure Storage. I started this library about 4 or 5 years ago, and it did not have ‘true' unit tests. I'm not going to talk about what makes a good unit test and what doesn't. There are plenty of posts around that! I decided to rewrite all of the tests and move to [xUnit](https://xUnit.net). After creating about the 50th test or so, I noticed a pattern in the initial shell of the tests. Most of the tests looked like this.
 
 ```cs
 [Fact]
@@ -46,9 +46,9 @@ The 'Template Settings' displays the settings for the template. I know I'm being
 
 ## Creating a New Template
 
-To create a template, you will need to click on the ‘New Template’ icon in the upper right-hand corner, the one with a star on the table-like grid (follow the arrow in the image above). Make sure you are in the language of choice first. That’s right, and you can create a template for any language that Rider/ReSharper support. Oh, as a bonus, you can edit existing ones if you prefer. As another bonus, if you have Preference Sync turned on, the template changes will be available in all instances of your application on any device.
+To create a template, you will need to click on the ‘New Template' icon in the upper right-hand corner, the one with a star on the table-like grid (follow the arrow in the image above). Make sure you are in the language of choice first. That's right, and you can create a template for any language that Rider/ReSharper support. Oh, as a bonus, you can edit existing ones if you prefer. As another bonus, if you have Preference Sync turned on, the template changes will be available in all instances of your application on any device.
 
-After you click new, the ‘Template’ and ‘Template Settings’ will be set to the defaults. For my `fact` template, I added the following for the template.
+After you click new, the ‘Template' and ‘Template Settings' will be set to the defaults. For my `fact` template, I added the following for the template.
 
 ```cs
 [Fact]

@@ -15,7 +15,7 @@ tags:
   - .NET Framework
   - .NET
 ---
-.NET has been around for a while and has had many versions. We started the .NET Framework, moved into .NET Core, and now just .NET, kind of sort of :smile:. Keeping your application up with the latest version of .NET can be challenging. There are budgets to consider, time to learn the differences, and time to “fit in the migration.” Migrating or “upgrading” an ASP.NET MVC from .NET Framework to ASP.NET Core can be easy at times. Other times it can be just hard. There are no silver bullets to the migration as each project and solution is different. I’m going to walk you through one of the ways you can have a successful migration from ASP.NET MVC to ASP.NET Core MVC. At the end of the post, I’ll show you some gotchas that I have run across migrating applications.
+.NET has been around for a while and has had many versions. We started the .NET Framework, moved into .NET Core, and now just .NET, kind of sort of :smile:. Keeping your application up with the latest version of .NET can be challenging. There are budgets to consider, time to learn the differences, and time to “fit in the migration.” Migrating or “upgrading” an ASP.NET MVC from .NET Framework to ASP.NET Core can be easy at times. Other times it can be just hard. There are no silver bullets to the migration as each project and solution is different. I'm going to walk you through one of the ways you can have a successful migration from ASP.NET MVC to ASP.NET Core MVC. At the end of the post, I'll show you some gotchas that I have run across migrating applications.
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ Assuming you are using Entity Framework to access your database along with the *
 If your application uses the *EDMX-based* approach, follow the [Porting an EF6 EDMX-Based Model to EF Core](https://docs.microsoft.com/en-us/ef/efcore-and-ef6/porting/port-edmx) guide to update to *code-based* model approach.  Going forward with EntityFramework Core, the *EDMX-based* models are not being used.
 {: .notice--info}
 
-The first thing you’ll want to do is create a new class library targeting .NET Standard. Why .NET Standard and not just .NET? Having the shared libraries like the Domain or Data libraries in .NET Standard allows you greater portability between projects and platforms. This approach will also allow you to slowly migrate pieces of the main project while keeping it up.
+The first thing you'll want to do is create a new class library targeting .NET Standard. Why .NET Standard and not just .NET? Having the shared libraries like the Domain or Data libraries in .NET Standard allows you greater portability between projects and platforms. This approach will also allow you to slowly migrate pieces of the main project while keeping it up.
 Now move those model classes over to the new project. I would name it something like `Contacts.Domain`. I typically put all of the models in a `Models` folder.
 
 ![Contact Models](/assets/images/posts/migrate-to-core-contacts-model.png){: .align-center}
@@ -50,7 +50,7 @@ You'll want to add a reference to the new `Contacts.Domain` library to the exist
 
 ## Separate the data layer
 
-Now let’s work on getting data access methods out of the user interface (web app). First, we’ll want to create a new class library targeting .NET Standard and add a reference to EntityFrameworkCore. The next part can be challenging, depending on how you have your application set up.
+Now let's work on getting data access methods out of the user interface (web app). First, we'll want to create a new class library targeting .NET Standard and add a reference to EntityFrameworkCore. The next part can be challenging, depending on how you have your application set up.
 
 I am assuming that most of the data access for your application in the controller methods looks like this.
 
@@ -127,7 +127,7 @@ namespace Contacts.Data
 
 Once you moved all of the data access from the previous user interface to the new data project, you should be able to replace your database calls with Data.*method name*, like `Contacts.Data.GetContact(contactId)` using the above sample.
 
-This approach may seem a bit risky or scary since you keep replacing portions of your application. I’d be lying if I said it wasn’t risky and scary. The truth is, it is risky and scary. However, you can mitigate some of the risks and make it easier to make changes in the future. Have I piqued your interest yet? That is where unit tests come in. But before we can build our unit tests, we will need to do some work on our solution to enable the mocking of our data repository classes. No, not [mock](https://www.dictionary.com/browse/mocking) them, but [mock](https://www.telerik.com/products/mocking/unit-testing.aspx) them :smile:.  Mocking complements unit testing frameworks by isolating dependencies through creating replacement objects. In our example, we will be mocking or "faking" our database calls.
+This approach may seem a bit risky or scary since you keep replacing portions of your application. I'd be lying if I said it wasn't risky and scary. The truth is, it is risky and scary. However, you can mitigate some of the risks and make it easier to make changes in the future. Have I piqued your interest yet? That is where unit tests come in. But before we can build our unit tests, we will need to do some work on our solution to enable the mocking of our data repository classes. No, not [mock](https://www.dictionary.com/browse/mocking) them, but [mock](https://www.telerik.com/products/mocking/unit-testing.aspx) them :smile:.  Mocking complements unit testing frameworks by isolating dependencies through creating replacement objects. In our example, we will be mocking or "faking" our database calls.
 
 To mock our repository, we will need to create an interface for the repository so most mocking frameworks can build the objects for it.
 
@@ -151,7 +151,7 @@ namespace Contacts.Domain.Interfaces
 
 ## Building a Unit Test Suite
 
-I do not intend this section to be a thorough walk-through of unit tests. I will not cover every possible scenario that you should or should not cover. The amount of unit test and the complexity of them is more of an art than a science. When building unit tests, I try to cover the [happy path](https://searchsoftwarequality.techtarget.com/definition/happy-path-testing), the exception path, and the [unhappy path](https://cucumber.io/blog/test-automation/happy-unhappy-paths-why-you-need-to-test-both/). Does it work like it’s supposed to? Do I handle known and common exceptions? Do I handle none/common bad data entry? But again, your mileage may vary.
+I do not intend this section to be a thorough walk-through of unit tests. I will not cover every possible scenario that you should or should not cover. The amount of unit test and the complexity of them is more of an art than a science. When building unit tests, I try to cover the [happy path](https://searchsoftwarequality.techtarget.com/definition/happy-path-testing), the exception path, and the [unhappy path](https://cucumber.io/blog/test-automation/happy-unhappy-paths-why-you-need-to-test-both/). Does it work like it's supposed to? Do I handle known and common exceptions? Do I handle none/common bad data entry? But again, your mileage may vary.
 
 Here is a sample of the `GetContact` unit tests
 
@@ -369,7 +369,7 @@ Once you first run an ASP.NET MVC framework application with a library reference
 </customErrors>
 ```
 
-Turn the custom errors off by changing the `mode` attribute to `Off`. If you refresh the browser, you will see a message saying, “System.Object is not found”. It’s a weird message because of `System.Object` is part of the both ASP.NET Core and ASP.NET. However, the error results from use referencing a .NET Standard project and not having a reference to .NET Standard in the .NET Framework application. After you add the reference, rerun the solution. It will still fail. Another weird one, the reason for this failure is IIS does not know how to load that assembly. So let’s tell it how to load it. Look for the `compilation\assemblies` node in your *web.config* and add the assembly.
+Turn the custom errors off by changing the `mode` attribute to `Off`. If you refresh the browser, you will see a message saying, “System.Object is not found”. It's a weird message because of `System.Object` is part of the both ASP.NET Core and ASP.NET. However, the error results from use referencing a .NET Standard project and not having a reference to .NET Standard in the .NET Framework application. After you add the reference, rerun the solution. It will still fail. Another weird one, the reason for this failure is IIS does not know how to load that assembly. So let's tell it how to load it. Look for the `compilation\assemblies` node in your *web.config* and add the assembly.
 
 ```xml
 <add assembly="netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51"/>
@@ -395,7 +395,7 @@ ASP.NET Core does not have the concept of an *App_Data* folder used in earlier v
 
 The code for this workaround should go in the Startup.cs class.
 
-First, you create a token or string in the *appsetting.development.json* file that we will replace with the folder the application is running in. Here, you’ll see, I added the `%CONTENTROOTPATH%` token as part of the `AttachDbFilename` property. ***Note***: The name of the token can be anything you want.
+First, you create a token or string in the *appsetting.development.json* file that we will replace with the folder the application is running in. Here, you'll see, I added the `%CONTENTROOTPATH%` token as part of the `AttachDbFilename` property. ***Note***: The name of the token can be anything you want.
 
 ```json
 {
@@ -475,4 +475,4 @@ You can read more on it at [Migrate Authentication and Identity to ASP.NET Core]
 
 ## Wrap up
 
-That’s it! That’s a lot to take. While I can’t cover every possible scenario that you might hit, hopefully, you have enough to get you started and handle some of the surprises that I ran into while migrating applications.
+That's it! That's a lot to take. While I can't cover every possible scenario that you might hit, hopefully, you have enough to get you started and handle some of the surprises that I ran into while migrating applications.

@@ -11,7 +11,7 @@ Are you going to [Microsoft 2011 Global MVP Summit](http://2011mvpsummit.com) in
 
 ## Staying connected
 
-Don’t feel like checking out the site every day to see what is happening? Here are a few resources to help you.
+Don't feel like checking out the site every day to see what is happening? Here are a few resources to help you.
 
 |Site|Url|
 |--- |--- |

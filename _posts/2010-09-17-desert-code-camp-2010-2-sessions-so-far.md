@@ -7,7 +7,7 @@ categories:
 ---
 Here is the list of sessions that have been submitted and approved as of September 17th, 2010. It even includes 3 sessions for our Gangplank Jr. track for kids.
 
-Take a look, if you want to present, just add a session, sign in, go to the sessions’ detail page and choose, “_I can teach this_”.  
+Take a look, if you want to present, just add a session, sign in, go to the sessions' detail page and choose, “_I can teach this_”.  
 
 [http://nov2010.desertcodecamp.com](http://nov2010.desertcodecamp.com "Desert Code Camp")  
 

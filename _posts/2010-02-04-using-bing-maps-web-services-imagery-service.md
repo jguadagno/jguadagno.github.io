@@ -17,7 +17,7 @@ In my previous post, [Using the Bing Maps Web Services for Geocoding Addresses](
 Bing Maps Web Services is a set of Web services that allow you to add mapping and search functionality to your application, including location finding, map imagery, and routing capabilities. For example, you can: Use the [Imagery Service](http://msdn.microsoft.com/en-us/library/cc981090.aspx?WT.mc_id=DOP-MVP-4024623) to:
 
 * Return a link to a map with a pushpin at a specific location
-* Provide a road map or bird’s eye or aerial imagery to your application
+* Provide a road map or bird's eye or aerial imagery to your application
 
 Use the [Route Service](http://msdn.microsoft.com/en-us/library/cc966826.aspx?WT.mc_id=DOP-MVP-4024623) to:
 
@@ -98,4 +98,4 @@ imgMap.imageUrl = mapUri;
 
 ![image-right](/assets/images/posts/image_thumb.png "downtown Bellevue"){: .align-right}
 
-This call retrieves the Uri to use to display a 200x200 road map of the area at latitude 47.62 and longitude -122.2 with a zoom of 14, which is downtown Bellevue, WA. If you want to add pushpins or markers similar to the above image you will need to populate the array of [PushPin](http://msdn.microsoft.com/en-us/library/cc966869.aspx?WT.mc_id=DOP-MVP-4024623) objects. A PushPin object has an [IconStyle](http://msdn.microsoft.com/en-us/library/cc980903.aspx?WT.mc_id=DOP-MVP-4024623) which is the type of icon to use, a [Label](http://msdn.microsoft.com/en-us/library/cc981045.aspx?WT.mc_id=DOP-MVP-4024623) which an optional text to display on the pushpin (only works with certain pushpins) and the [Location](http://msdn.microsoft.com/en-us/library/cc966941.aspx?WT.mc_id=DOP-MVP-4024623) which contains the latitude and longitude that the pushpin should be located at. That’s it.  It seems like a lot of work for a one-line call.  With the attached [Imagery.cs](/assets/downloads/Imagery.cs_.zip) class, a lot of the overhead work was done for you.
+This call retrieves the Uri to use to display a 200x200 road map of the area at latitude 47.62 and longitude -122.2 with a zoom of 14, which is downtown Bellevue, WA. If you want to add pushpins or markers similar to the above image you will need to populate the array of [PushPin](http://msdn.microsoft.com/en-us/library/cc966869.aspx?WT.mc_id=DOP-MVP-4024623) objects. A PushPin object has an [IconStyle](http://msdn.microsoft.com/en-us/library/cc980903.aspx?WT.mc_id=DOP-MVP-4024623) which is the type of icon to use, a [Label](http://msdn.microsoft.com/en-us/library/cc981045.aspx?WT.mc_id=DOP-MVP-4024623) which an optional text to display on the pushpin (only works with certain pushpins) and the [Location](http://msdn.microsoft.com/en-us/library/cc966941.aspx?WT.mc_id=DOP-MVP-4024623) which contains the latitude and longitude that the pushpin should be located at. That's it.  It seems like a lot of work for a one-line call.  With the attached [Imagery.cs](/assets/downloads/Imagery.cs_.zip) class, a lot of the overhead work was done for you.

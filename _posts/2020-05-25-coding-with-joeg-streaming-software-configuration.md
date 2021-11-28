@@ -16,7 +16,7 @@ In a previous post, I covered the [hardware]({% post_url 2020-05-20-coding-with-
 
 ## Streamlabs OBS Configuration
 
-Streamlabs OBS is a free reliable streaming app with the fastest setup process on the market. We have developed an all-in-one application making streaming easy for everyone. Whether you’re a novice or experienced streamer, Streamlabs OBS will provide you the best streaming experience, with tools built to engage, grow, and monetize your channel.
+Streamlabs OBS is a free reliable streaming app with the fastest setup process on the market. We have developed an all-in-one application making streaming easy for everyone. Whether you're a novice or experienced streamer, Streamlabs OBS will provide you the best streaming experience, with tools built to engage, grow, and monetize your channel.
 
 [Download](https://streamlabs.com/streamlabs-obs){:target="_blank}
 

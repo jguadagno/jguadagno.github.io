@@ -82,7 +82,7 @@ log.LogInformation($"Value from Settings class='{_settings.MySetting}'");
 
 ## Wrap Up
 
-That’s it. Pretty easy. I’ve included links to the Azure Function documentation and a sample repository that I used it below.
+That's it. Pretty easy. I've included links to the Azure Function documentation and a sample repository that I used it below.
 
 ## References
 

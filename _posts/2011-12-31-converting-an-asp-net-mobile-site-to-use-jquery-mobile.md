@@ -156,15 +156,15 @@ I have my Master Page broken up into a header, menu, body, and footer. All I had
 
 To me this seems quite readable and clearly identifies what each section (`div`) is responsible for.
 
-Let’s break it down.
+Let's break it down.
 
-First, all the previous DIV’s in between the FORM tags where placed within a
+First, all the previous DIV's in between the FORM tags where placed within a
 
 ```html
 <div data-role="page"></div>
 ```
 
-tag. The next step was to convert each of the DIV’s that I had into a jQuery Mobile DIV. There is really no ‘jQuery Mobile DIV’ just an attribute that tells jQuery what “section” of the document this div is for. I added the `data-role=”header”` to the DIV with the ID of `mHead`, I added the `data-role=”content”` to the DIV with the ID of mBody and I added the `data-role=”footer”` to the DIV with the ID of `mFooter`.
+tag. The next step was to convert each of the DIV's that I had into a jQuery Mobile DIV. There is really no ‘jQuery Mobile DIV' just an attribute that tells jQuery what “section” of the document this div is for. I added the `data-role=”header”` to the DIV with the ID of `mHead`, I added the `data-role=”content”` to the DIV with the ID of mBody and I added the `data-role=”footer”` to the DIV with the ID of `mFooter`.
 
 “Ok, but what happened to the mMenu DIV,” you ask. Take a look at line 8 in the code sample above. I moved the “menu” to the footer of the new document and assigned it a `data-role` of the `navbar`. This is a jQuery Mobile widget that creates a simple menu of buttons out of all of the listitem elements of the unordered list. The data-icon attribute is an attribute that allows you to indicate one of the 18 built-in icons for any jQuery Mobile button.
 

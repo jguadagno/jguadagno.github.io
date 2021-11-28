@@ -44,7 +44,7 @@ Click on '+ Add a scope'
 
 ### Enable the New Scope in a Client App Registration
 
-If you followed along with the previous example, you should have an API application and 'PostMan Client' application registered. I recommend that you create a Client Registration as outlined in [Register a new client]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}) section. In general, it’s a good practice to keep separate 'client app registrations' for each client that accesses your API. And by each client, I mean each codebase. With the application I am building, [Contacts](https://www.github.com/jguadagno/Contacts), I have an application registered for the API, the PostMan tests, and not the Contacts MVC application. If I add other clients, like a Blazor application or React-Native application, they will get separate application ids.
+If you followed along with the previous example, you should have an API application and 'PostMan Client' application registered. I recommend that you create a Client Registration as outlined in [Register a new client]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}) section. In general, it's a good practice to keep separate 'client app registrations' for each client that accesses your API. And by each client, I mean each codebase. With the application I am building, [Contacts](https://www.github.com/jguadagno/Contacts), I have an application registered for the API, the PostMan tests, and not the Contacts MVC application. If I add other clients, like a Blazor application or React-Native application, they will get separate application ids.
 
 Now in that newly created application, go to 'API permissions.'
 
@@ -142,7 +142,7 @@ Then for each controller action you want authentication for, add the `AuthorizeF
 public async Task<IActionResult> Index()
 ```
 
-You don’t have to hard code the permission here. There is a parameter that allows you to read the scope from the application configuration. In this case, you will add the same `AuthorizeForScopes` attribute and use the `ScopeKeySection`.
+You don't have to hard code the permission here. There is a parameter that allows you to read the scope from the application configuration. In this case, you will add the same `AuthorizeForScopes` attribute and use the `ScopeKeySection`.
 
 ```cs
 // GET

@@ -139,7 +139,7 @@ You can add/remove widgets by clicking the **Add Widget** button.  Here are the 
 
 Having tried it yet, maybe an future update to this post will have something. According to the Windows 11 site.
 
-> With Windows 11, we’re excited to introduce Chat from Microsoft Teams integrated in the taskbar. Now you can instantly connect through text, chat, voice or video with all of your personal contacts, anywhere, no matter the platform or device they’re on, across Windows, Android or iOS. If the person you’re connecting to on the other end hasn’t downloaded the Teams app, you can still connect with them via two-way SMS.
+> With Windows 11, we're excited to introduce Chat from Microsoft Teams integrated in the taskbar. Now you can instantly connect through text, chat, voice or video with all of your personal contacts, anywhere, no matter the platform or device they're on, across Windows, Android or iOS. If the person you're connecting to on the other end hasn't downloaded the Teams app, you can still connect with them via two-way SMS.
 
 ### Android Applications
 

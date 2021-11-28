@@ -12,7 +12,7 @@ tags:
   - jQuery Mobile
   - Web
 ---
-The jQuery Mobile framework has a [list view widget](http://jquerymobile.com/demos/1.0/docs/lists/docs-lists.html) that displays unordered lists in several different ways. In the process of converting the [Microsoft Global MVP Summit mobile](http://mvpsummitevents.info/m/) site to use jQuery Mobile, I wanted to change the way I displayed the events. The idea was to have a header for each date that there was an event along with some of the details of the event. Clicking on the event would take you the to event details page. To accomplish this I used the [count bubble](http://jquerymobile.com/demos/1.0/docs/lists/lists-count.html), [list dividers](http://jquerymobile.com/demos/1.0/docs/lists/lists-divider.html), [content formatting](http://jquerymobile.com/demos/1.0/docs/lists/lists-formatting.html) and the [search filter bar](http://jquerymobile.com/demos/1.0/docs/lists/lists-search.html) features of jQuery Mobile. First let’s look at the HTML, for the sake of brevity I removed the ID fields from the HTML.
+The jQuery Mobile framework has a [list view widget](http://jquerymobile.com/demos/1.0/docs/lists/docs-lists.html) that displays unordered lists in several different ways. In the process of converting the [Microsoft Global MVP Summit mobile](http://mvpsummitevents.info/m/) site to use jQuery Mobile, I wanted to change the way I displayed the events. The idea was to have a header for each date that there was an event along with some of the details of the event. Clicking on the event would take you the to event details page. To accomplish this I used the [count bubble](http://jquerymobile.com/demos/1.0/docs/lists/lists-count.html), [list dividers](http://jquerymobile.com/demos/1.0/docs/lists/lists-divider.html), [content formatting](http://jquerymobile.com/demos/1.0/docs/lists/lists-formatting.html) and the [search filter bar](http://jquerymobile.com/demos/1.0/docs/lists/lists-search.html) features of jQuery Mobile. First let's look at the HTML, for the sake of brevity I removed the ID fields from the HTML.
 
 ```html
 <ul data-role="listview" data-inset="true" data-theme="d" data-filter="true">
@@ -54,11 +54,11 @@ The start of the unordered list, Line 1, has 4 attributes:
 <ul data-role="listview" data-inset="true" data-theme="b" data-filter="true">
 ```
 
-The `data-role` of `listview` tells the jQuery Mobile framework to use the jQuery Mobile [Listview](http://jquerymobile.com/demos/1.0/docs/lists/docs-lists.html) widget. Setting the `data-inset` attribute to `true` tells the jQuery Mobile framework to indent the list view and add the rounded edges. The `data-theme` attribute tells jQuery Mobile to use the `d_theme`. Setting the `data-filter` equal to `true` tells the jQuery Mobile framework to add the filter items text box up top. No additional work is needed to add the filter, it will search all of the ListItems that are part of this unordered list who’s `data-role` attribute is not set to `list-divider` for the text entered.
+The `data-role` of `listview` tells the jQuery Mobile framework to use the jQuery Mobile [Listview](http://jquerymobile.com/demos/1.0/docs/lists/docs-lists.html) widget. Setting the `data-inset` attribute to `true` tells the jQuery Mobile framework to indent the list view and add the rounded edges. The `data-theme` attribute tells jQuery Mobile to use the `d_theme`. Setting the `data-filter` equal to `true` tells the jQuery Mobile framework to add the filter items text box up top. No additional work is needed to add the filter, it will search all of the ListItems that are part of this unordered list who's `data-role` attribute is not set to `list-divider` for the text entered.
 
 ### The List Divider
 
-Adding the `data-role` of `list-divider` (Line 2 of the initial example) will make that list item appear as a divider. You can use this attribute to group items, in my case, I grouped by date. To establish the count bubble you will need to wrap the count of item around a span tag and give it the class of `ui-li-count`, as shown in Line 2. Here’s an annotated image with markup.
+Adding the `data-role` of `list-divider` (Line 2 of the initial example) will make that list item appear as a divider. You can use this attribute to group items, in my case, I grouped by date. To establish the count bubble you will need to wrap the count of item around a span tag and give it the class of `ui-li-count`, as shown in Line 2. Here's an annotated image with markup.
 
 [![image](/assets/images/posts/image_thumb_3.png "image")](/assets/images/posts/image_4.png)
 
@@ -66,7 +66,7 @@ The item in red is the individual list item which will be discussed in the next 
 
 ### The Items
 
-Each sub-item under the list divider needs to be it’s own Anchor element ( `A` ) wrapped in a ListItem (`LI`) tag as shown in lines 3-9 and 11-24 above.
+Each sub-item under the list divider needs to be it's own Anchor element ( `A` ) wrapped in a ListItem (`LI`) tag as shown in lines 3-9 and 11-24 above.
 
 ```html
 <li>
@@ -82,7 +82,7 @@ Each `LI` formatted above will generate a “row” as highlighted in the red bo
 
 ## Creating the jQuery ListView with an ASP.NET DataRepeater Control
 
-In order to accomplish this, I went with a DataRepeater within a DataRepeater. The first, or outside, DataRepeater (`DateRepeater`)will get a list of distinct dates from the data store in order to create the List Dividers. The second, or inner, DataRepeater (`EventRepeater`) will list all of the events for the day specified by the `DateRepeater`. Let’s take a look at the code:
+In order to accomplish this, I went with a DataRepeater within a DataRepeater. The first, or outside, DataRepeater (`DateRepeater`)will get a list of distinct dates from the data store in order to create the List Dividers. The second, or inner, DataRepeater (`EventRepeater`) will list all of the events for the day specified by the `DateRepeater`. Let's take a look at the code:
 
 ```xml
 <asp:Repeater runat="server" ID="DateRepeater" DataSourceID="EventDatesDataSource" OnItemDataBound="DateRepeaterOnItemDataBound">

@@ -33,7 +33,7 @@ All sessions are scheduled for 15 minutes. There will be 5 minutes in between fo
 
 #### Al Pascual
 
-This session will show how to display information using maps and how they can help visualize your data. You’ll see how to create and display a map
+This session will show how to display information using maps and how they can help visualize your data. You'll see how to create and display a map
 
 ### Create an OData Feed in 10 minutes
 
@@ -49,7 +49,7 @@ The Open Data Protocol (OData) http://www.odata.org/ is an open protocol for sha
 
 #### Gary Short
 
-Technical debt is the debt present in your code when you take architectural or software engineering short cuts, or when you don’t make savings against time when you can. At a later date you must return to the code and “pay off” this Technical Debt. Failure to do so can result in the debt accumulating to such an extent that it becomes greater than the “capital” in the code base and the project is then in danger of being cancelled. In this short presentation I’ll show you some anti patterns that lead to Technical Debt and the solutions to them, but more importantly, I’ll show you how to put a financial value on the debt in your code base so that you can better convince management to allow you to “pay off” the debt.
+Technical debt is the debt present in your code when you take architectural or software engineering short cuts, or when you don't make savings against time when you can. At a later date you must return to the code and “pay off” this Technical Debt. Failure to do so can result in the debt accumulating to such an extent that it becomes greater than the “capital” in the code base and the project is then in danger of being cancelled. In this short presentation I'll show you some anti patterns that lead to Technical Debt and the solutions to them, but more importantly, I'll show you how to put a financial value on the debt in your code base so that you can better convince management to allow you to “pay off” the debt.
 
 ### Evolving .NET
 
@@ -80,7 +80,7 @@ TDD means we write tests to validate the code we right. This is primarily execut
 
 #### Robert Vetter
 
-While most enterprise applications are object-oriented, the data upon which they depend is not. Often, binding these two platforms together can result in significant amounts of lost productivity and a less than optimal solution. Come see how to resolve this recurring theme with the upcoming "code-only" release of the ADO.NET Entity Framework. In this session, we’ll… • Dive into the enhancements that the code-only release delivers • Look closely at the new lightweight DbContext and DbSet objects • Demonstrate how to map domain classes to a data store, without explicitly creating a, Entity Data Mode • Examine a clearly defined set of “convention over configuration“ patterns that greatly reduce explicit mapping configuration You’ll walk-away with a clear understanding of how the Entity Framework 4.0 can greatly simplify your DAL and enable you to program against a set of domain entities, and not the data store itself.
+While most enterprise applications are object-oriented, the data upon which they depend is not. Often, binding these two platforms together can result in significant amounts of lost productivity and a less than optimal solution. Come see how to resolve this recurring theme with the upcoming "code-only" release of the ADO.NET Entity Framework. In this session, we'll… • Dive into the enhancements that the code-only release delivers • Look closely at the new lightweight DbContext and DbSet objects • Demonstrate how to map domain classes to a data store, without explicitly creating a, Entity Data Mode • Examine a clearly defined set of “convention over configuration“ patterns that greatly reduce explicit mapping configuration You'll walk-away with a clear understanding of how the Entity Framework 4.0 can greatly simplify your DAL and enable you to program against a set of domain entities, and not the data store itself.
 
 ### Testing Silverlight Applications with Silverlight Unit Test Framework
 

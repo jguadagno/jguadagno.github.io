@@ -9,7 +9,7 @@ categories:
 ---
 Back in November, I sat in on a session by [Scott Hanselman](http://www.hanselman.com/blog/) on creating a mobile site on ASP.NET using [jQuery Mobile](http://jquerymobile.com/).  While I was watching this session I could not stop thinking how easy is this, I can do this for the mobile version of the [Microsoft Global MVP Summit mobile](http://mvpsummitevents.info/m/) site. So like most of us, it took me a month to get to it.
 
-A few days ago while on vacation and everyone was asleep, I started to play around with jQuery mobile and in about an hour I had a sample site created.  Here’s how you can get started.
+A few days ago while on vacation and everyone was asleep, I started to play around with jQuery mobile and in about an hour I had a sample site created.  Here's how you can get started.
 
 ## Getting started with jQuery Mobile
 
@@ -72,7 +72,7 @@ And then finally in your HTML Body, you need to create a “page”. You do this
 
 The id is optional and can be used to have more than one page within a document.  For more on the page structure, check out the [Anatomy of a Page](http://jquerymobile.com/demos/1.0/docs/pages/page-anatomy.html) in the jQuery Mobile docs.
 
-That’s all you need for the bare minimal jQuery Mobile page.
+That's all you need for the bare minimal jQuery Mobile page.
 
 ## jQuery Mobile Page Parts
 
