@@ -2,6 +2,8 @@
 title: "What Was Added To C# 10"
 header:
     og_image: /assets/images/posts/header/what-was-added-to-csharp10.png
+redirect_from:
+  - /2021/12/02/what-was-added-to-c#-10
 date: 2021-12-02 21:30:00 -0700
 categories:
   - Articles
