@@ -7,7 +7,7 @@
     "eventEnd": "2021-12-01T11:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Uno Platform",
@@ -15,6 +15,26 @@
         "date": "2021-12-01T10:00:00",
         "room": "",
         "comments": "Time is Mountain Standard (MST)",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "THAT Conference - TX '22",
+    "eventUrl": "https://that.us/activities/tx/2022/",
+    "location": "Round Rock, TX",
+    "eventStart": "2022-01-161T00:00:00",
+    "eventEnd": "2022-01-20T00:00:00",
+    "comments": "In Person",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with JetBrains Rider",
+        "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
+        "date": "2022-01-18T09:30:00",
+        "room": "Salon D",
+        "comments": "MST Time",
         "isCanceled": false
       }
     ]
@@ -75,7 +95,7 @@
     "eventEnd": "2021-12-09T00:00:00",
     "comments": "Use code '<b>Guadagno</b>' for $50 off registration. In Person",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
