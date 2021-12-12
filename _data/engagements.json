@@ -52,17 +52,17 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2022-01-11T00:00:00",
-        "room": "",
-        "comments": "",
+        "date": "2022-01-11T16:00:00",
+        "room": "Salon E/D",
+        "comments": "EST Time",
         "isCanceled": false
       },
       {
         "name": "6 (or so) new features of .NET 6",
         "url": "/presentations/6-or-so-new-features-of-dotnet6",
-        "date": "2022-01-11T00:00:00",
-        "room": "",
-        "comments": "",
+        "date": "2022-01-13T13:00:00",
+        "room": "Salon A/H",
+        "comments": "EST Time",
         "isCanceled": false
       }
     ]
