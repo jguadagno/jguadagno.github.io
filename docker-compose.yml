@@ -1,15 +1,15 @@
 version: '3.7'
 
 services:
-  Jekyll: #https://github.com/envygeeks/jekyll-docker
-    image: jekyll/jekyll:latest
-    container_name: jekyll
+# based on: https://medium.com/windmill-engineering/how-i-built-a-simple-static-jekyll-site-without-installing-ruby-a-rant-b7e87fb123d0
+  jekyll: #https://github.com/envygeeks/jekyll-docker
+    build: .
+    container_name: website-jekyll
     restart: always
     environment: 
       JEKYLL_GITHUB_TOKEN: ${JEKYLL_GITHUB_TOKEN}
-    command: jekyll serve --watch --incremental --force_polling
+    command: bundle exec jekyll serve --incremental --drafts --watch --force-polling --host 0.0.0.0
     ports:
       - 4000:4000
     volumes:
-      # - /Users/JGuadagno/Projects/jguadagno.github.io:/srv/jekyll #Mac
-      - c:/Projects/jguadagno.github.io:/srv/jekyll #Windows
+      - .:/src

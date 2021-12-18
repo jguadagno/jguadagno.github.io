@@ -116,6 +116,8 @@ exclude:
   - install.md
   - docker-compose.yml 
   - runsiteindocker.ps1
+  - dockerfile
+  - runsiteindocker.ps1
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
