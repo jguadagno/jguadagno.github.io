@@ -162,6 +162,7 @@ bing_site_verificaton: "7EC9949296748CD8737FFF69FC74B369"
 google_analytics: UA-2998428-1
 head_scripts:
   - /assets/js/ai.js
+  - /assets/js/clarity.js
 
 # Social
 social:
