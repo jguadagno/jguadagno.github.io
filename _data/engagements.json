@@ -23,8 +23,8 @@
     "eventName": "THAT Conference - TX '22",
     "eventUrl": "https://that.us/activities/tx/2022/",
     "location": "Round Rock, TX",
-    "eventStart": "2022-01-161T00:00:00",
-    "eventEnd": "2022-01-20T00:00:00",
+    "eventStart": "2022-05-23T00:00:00",
+    "eventEnd": "2022-05-26T00:00:00",
     "comments": "In Person",
     "isCanceled": false,
     "isCurrent": true,
@@ -32,7 +32,7 @@
       {
         "name": "Debugging Tips and Tricks with JetBrains Rider",
         "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
-        "date": "2022-01-18T09:30:00",
+        "date": "2022-05-24T08:30:00",
         "room": "Salon D",
         "comments": "MST Time",
         "isCanceled": false
@@ -45,16 +45,16 @@
     "location": "Sandusky, OH",
     "eventStart": "2022-01-11T00:00:00",
     "eventEnd": "2022-01-14T00:00:00",
-    "comments": "In Person",
+    "comments": "In Person - I cancelled my presentation",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
         "date": "2022-01-11T16:00:00",
         "room": "Salon E/D",
-        "comments": "EST Time",
+        "comments": "EST Time - I cancelled my presentation",
         "isCanceled": false
       },
       {
@@ -62,7 +62,7 @@
         "url": "/presentations/6-or-so-new-features-of-dotnet6",
         "date": "2022-01-13T13:00:00",
         "room": "Salon A/H",
-        "comments": "EST Time",
+        "comments": "EST Time - I cancelled my presentation",
         "isCanceled": false
       }
     ]
