@@ -1,5 +1,25 @@
 [
   {
+    "eventName": ".NET Conference 2022",
+    "eventUrl": "https://www.c-sharpcorner.com/events/net-conference-2022",
+    "location": "Virtual",
+    "eventStart": "2022-01-24T00:00:00",
+    "eventEnd": "2022-01-26T00:00:00",
+    "comments": "In Person",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "6 (or so) new features of .NET 6",
+        "url": "/presentations/6-or-so-new-features-of-dotnet6",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
     "eventName": "RocketTech Developer Relations Stream",
     "eventUrl": "http://twitch.tv/rocketdevrel",
     "location": "Virtual",
