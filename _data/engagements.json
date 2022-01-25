@@ -45,9 +45,9 @@
     "location": "Round Rock, TX",
     "eventStart": "2022-05-23T00:00:00",
     "eventEnd": "2022-05-26T00:00:00",
-    "comments": "In Person",
-    "isCanceled": false,
-    "isCurrent": true,
+    "comments": "Postponed until May 2022-ish",
+    "isCanceled": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Debugging Tips and Tricks with JetBrains Rider",
