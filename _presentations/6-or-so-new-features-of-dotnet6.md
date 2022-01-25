@@ -3,7 +3,7 @@ title: 6 (or so) new features of .NET 6
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: 
+powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2181769&authkey=AKcuQ7uy6byfws0&em=2
 youTubeId: 
 youTubeCaption: 
 sessionizeUrl: 6_or_so_new_features_of_net_6/43461
