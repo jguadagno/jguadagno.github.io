@@ -1,5 +1,53 @@
 [
   {
+    "eventName": "THAT Conference - TX '22",
+    "eventUrl": "https://that.us/activities/tx/2022/",
+    "location": "Round Rock, TX",
+    "eventStart": "2022-05-23T00:00:00",
+    "eventEnd": "2022-05-26T00:00:00",
+    "comments": "In Person",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with JetBrains Rider",
+        "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
+        "date": "2022-05-24T08:30:00",
+        "room": "Salon D",
+        "comments": "MST Time",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
+    "eventName": "DEVintersection & AngleBrackets Fall 2021",
+    "eventUrl": "https://www.devintersection.com/",
+    "location": "Las Vegas, NV",
+    "eventStart": "2021-04-05T00:00:00",
+    "eventEnd": "2021-04-07T00:00:00",
+    "comments": "Use code '<b>Guadagno</b>' for $50 off registration. In Person",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "6 (or so) new features of .NET 6",
+        "url": "/presentations/6-or-so-new-features-of-dotnet6",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Build and Ship It!",
+        "url": "/presentations/build-and-ship-it",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ]
+  },
+  {
     "eventName": ".NET Conference 2022",
     "eventUrl": "https://www.c-sharpcorner.com/events/net-conference-2022",
     "location": "Virtual",
@@ -7,7 +55,7 @@
     "eventEnd": "2022-01-26T00:00:00",
     "comments": "Virtual",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "6 (or so) new features of .NET 6",
@@ -43,8 +91,8 @@
     "eventName": "THAT Conference - TX '22",
     "eventUrl": "https://that.us/activities/tx/2022/",
     "location": "Round Rock, TX",
-    "eventStart": "2022-05-23T00:00:00",
-    "eventEnd": "2022-05-26T00:00:00",
+    "eventStart": "2022-01-17T00:00:00",
+    "eventEnd": "2022-01-17T00:00:00",
     "comments": "Postponed until May 2022-ish",
     "isCanceled": true,
     "isCurrent": false,
@@ -52,7 +100,7 @@
       {
         "name": "Debugging Tips and Tricks with JetBrains Rider",
         "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
-        "date": "2022-05-24T08:30:00",
+        "date": "2022-01-17T08:30:00",
         "room": "Salon D",
         "comments": "MST Time",
         "isCanceled": false
@@ -108,7 +156,7 @@
     ]
   },
   {
-    "eventName": "Devintersection & AngleBrackets Fall 2021",
+    "eventName": "DEVintersection & AngleBrackets Fall 2021",
     "eventUrl": "https://www.devintersection.com/",
     "location": "Las Vegas, NV",
     "eventStart": "2021-12-07T00:00:00",
@@ -804,7 +852,7 @@
     ]
   },
   {
-    "eventName": "Devintersection, AngleBrackets, AngularMix Spring 2020",
+    "eventName": "DEVintersection, AngleBrackets, AngularMix Spring 2020",
     "eventUrl": "https://devintersection.com/#!/",
     "location": "Orlando, FL",
     "eventStart": "2020-04-06T00:00:00",
