@@ -1,6 +1,6 @@
 [
   {
-    "eventName": "THAT Conference - TX '22",
+    "eventName": "THAT Conference - TX \u002722",
     "eventUrl": "https://that.us/activities/tx/2022/",
     "location": "Round Rock, TX",
     "eventStart": "2022-05-23T00:00:00",
@@ -17,22 +17,24 @@
         "comments": "MST Time",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
-    "eventName": "DEVintersection & AngleBrackets Fall 2021",
+    "eventName": "DEVintersection \u0026 AngleBrackets Fall 2021",
     "eventUrl": "https://www.devintersection.com/",
     "location": "Las Vegas, NV",
     "eventStart": "2021-04-05T00:00:00",
     "eventEnd": "2021-04-07T00:00:00",
-    "comments": "Use code '<b>Guadagno</b>' for $50 off registration. In Person",
+    "comments": "Use code \u0027\u003Cb\u003EGuadagno\u003C/b\u003E\u0027 for $50 off registration. In Person",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
       {
         "name": "6 (or so) new features of .NET 6",
         "url": "/presentations/6-or-so-new-features-of-dotnet6",
-        "date": "",
+        "date": "2021-04-05T00:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false
@@ -40,12 +42,14 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "",
+        "date": "2021-04-05T00:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": ".NET Conference 2022",
@@ -60,12 +64,14 @@
       {
         "name": "6 (or so) new features of .NET 6",
         "url": "/presentations/6-or-so-new-features-of-dotnet6",
-        "date": "",
+        "date": "2022-01-24T12:50:00",
         "room": "",
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "RocketTech Developer Relations Stream",
@@ -85,10 +91,12 @@
         "comments": "Time is Mountain Standard (MST)",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
-    "eventName": "THAT Conference - TX '22",
+    "eventName": "THAT Conference - TX \u002722",
     "eventUrl": "https://that.us/activities/tx/2022/",
     "location": "Round Rock, TX",
     "eventStart": "2022-01-17T00:00:00",
@@ -105,7 +113,9 @@
         "comments": "MST Time",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "CodeMash",
@@ -133,7 +143,9 @@
         "comments": "EST Time - I cancelled my presentation",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Granite State Code Camp (2021)",
@@ -153,15 +165,17 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
-    "eventName": "DEVintersection & AngleBrackets Fall 2021",
+    "eventName": "DEVintersection \u0026 AngleBrackets Fall 2021",
     "eventUrl": "https://www.devintersection.com/",
     "location": "Las Vegas, NV",
     "eventStart": "2021-12-07T00:00:00",
     "eventEnd": "2021-12-09T00:00:00",
-    "comments": "Use code '<b>Guadagno</b>' for $50 off registration. In Person",
+    "comments": "Use code \u0027\u003Cb\u003EGuadagno\u003C/b\u003E\u0027 for $50 off registration. In Person",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -181,7 +195,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Cleveland C#/VB.Net User Group",
@@ -189,6 +205,7 @@
     "location": "Virtual",
     "eventStart": "2021-11-23T18:30:00",
     "eventEnd": "2021-11-23T19:30:00",
+    "comments": null,
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -200,7 +217,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "AzConfDev",
@@ -208,18 +227,21 @@
     "location": "Virtual",
     "eventStart": "2021-10-29T00:00:00",
     "eventEnd": "2021-10-31T00:00:00",
+    "comments": null,
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
       {
-        "name": "What's Happening in My App",
+        "name": "What\u0027s Happening in My App",
         "url": "/presentations/whats-happening-in-my-app",
         "date": "2021-10-29T11:30:00",
         "room": "",
         "comments": "India Standard Time (IST)",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Azure DevOps Podcast",
@@ -227,6 +249,7 @@
     "location": "Podcast",
     "eventStart": "2021-10-01T00:00:00",
     "eventEnd": "2021-10-01T00:00:00",
+    "comments": null,
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -238,7 +261,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Guidance Counselor 2.0",
@@ -246,18 +271,21 @@
     "location": "Podcast",
     "eventStart": "2021-09-29T00:00:00",
     "eventEnd": "2021-09-29T00:00:00",
+    "comments": null,
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
       {
         "name": "Guidance Counselor 2.0 w/Joe Guadagno on the Job Search and DevRel",
-        "url": "https://www.youtube.com/watch?v=gWJfXplqNbk&list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ&index=13",
+        "url": "https://www.youtube.com/watch?v=gWJfXplqNbk\u0026list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ\u0026index=13",
         "date": "2021-09-29T00:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "TechBash",
@@ -265,7 +293,7 @@
     "location": "Pocono Mountains, PA",
     "eventStart": "2021-10-19T00:00:00",
     "eventEnd": "2021-10-22T00:00:00",
-    "comments": "Register with code <b>DEVCOMMUNITY40</b> for $40 off registration and add my name to the <b>Referred By</b> field.",
+    "comments": "Register with code \u003Cb\u003EDEVCOMMUNITY40\u003C/b\u003E for $40 off registration and add my name to the \u003Cb\u003EReferred By\u003C/b\u003E field.",
     "isCanceled": true,
     "isCurrent": false,
     "presentation": [
@@ -278,14 +306,16 @@
         "isCanceled": true
       },
       {
-        "name": "What's Happening in My App",
+        "name": "What\u0027s Happening in My App",
         "url": "/presentations/whats-happening-in-my-app",
         "date": "2021-10-19T00:00:00",
         "room": "",
         "comments": "",
         "isCanceled": true
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Kansas City Developers Conference",
@@ -313,7 +343,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Cloud Summit 2021",
@@ -333,7 +365,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "DEVIntersection",
@@ -341,7 +375,7 @@
     "location": "Orlando, FL and Virtual",
     "eventStart": "2021-06-08T00:00:00",
     "eventEnd": "2021-06-08T00:00:00",
-    "comments": "Use code <b>GUADAGNO</b> for $50 off",
+    "comments": "Use code \u003Cb\u003EGUADAGNO\u003C/b\u003E for $50 off",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -350,7 +384,7 @@
         "url": "/presentations/build-and-ship-it",
         "date": "2021-06-08T00:00:00",
         "room": "",
-        "comments": "Use code <b>GUADAGNO</b> for $50 off",
+        "comments": "Use code \u003Cb\u003EGUADAGNO\u003C/b\u003E for $50 off",
         "isCanceled": false
       },
       {
@@ -358,7 +392,7 @@
         "url": "/presentations/migrate-it",
         "date": "2021-06-08T00:00:00",
         "room": "",
-        "comments": "Use code <b>GUADAGNO</b> for $50 off",
+        "comments": "Use code \u003Cb\u003EGUADAGNO\u003C/b\u003E for $50 off",
         "isCanceled": false
       },
       {
@@ -366,10 +400,12 @@
         "url": "/presentations/look-into-your-application-with-application-insights",
         "date": "2021-06-08T00:00:00",
         "room": "",
-        "comments": "Use code <b>GUADAGNO</b> for $50 off",
+        "comments": "Use code \u003Cb\u003EGUADAGNO\u003C/b\u003E for $50 off",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "JetBrains .NET Days Online 2021",
@@ -389,7 +425,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Minnesota Developers Conference 2021",
@@ -417,7 +455,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Triangle .NET User Group",
@@ -437,7 +477,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "SoCo Visual Studio and VS Code Meetup",
@@ -457,7 +499,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Memphis .NET User Group",
@@ -477,7 +521,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Growth Mindset Weekly Show",
@@ -497,7 +543,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": ".NET Vegas",
@@ -517,7 +565,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Hampton Roads .NET Users Group",
@@ -537,7 +587,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "philly.NET Code Camp 2021",
@@ -550,14 +602,16 @@
     "isCurrent": false,
     "presentation": [
       {
-        "name": "What's Happening in My App?",
+        "name": "What\u0027s Happening in My App?",
         "url": "/presentations/look-into-your-application-with-application-insights",
         "date": "2021-01-16T00:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Growth Mindset Weekly Show",
@@ -577,7 +631,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Granite State (NH) .NET",
@@ -597,7 +653,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "DEVIntersection",
@@ -605,7 +663,7 @@
     "location": "Las Vegas, NV",
     "eventStart": "2020-12-06T00:00:00",
     "eventEnd": "2020-12-06T00:00:00",
-    "comments": "In Person - <b>Canceled</b>",
+    "comments": "In Person - \u003Cb\u003ECanceled\u003C/b\u003E",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -614,7 +672,7 @@
         "url": "/presentations/build-and-ship-it",
         "date": "2020-12-06T00:00:00",
         "room": "",
-        "comments": "In Person - <b>Canceled</b>",
+        "comments": "In Person - \u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false
       },
       {
@@ -622,10 +680,12 @@
         "url": "/presentations/look-into-your-application-with-application-insights",
         "date": "2020-12-06T00:00:00",
         "room": "",
-        "comments": "In Person - <b>Canceled</b>",
+        "comments": "In Person - \u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": ".NET Virtual Conference",
@@ -645,7 +705,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Granite State Code Camp 2020",
@@ -665,7 +727,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Virtual Developers Conference in Mauritius",
@@ -693,7 +757,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "CodepoLOUsa",
@@ -713,7 +779,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": ".NET Vegas",
@@ -733,7 +801,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Azure Virtual Conference 2020",
@@ -753,7 +823,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "SciFiDevCon",
@@ -761,7 +833,7 @@
     "location": "Virtual",
     "eventStart": "2020-07-31T00:00:00",
     "eventEnd": "2020-07-31T00:00:00",
-    "comments": "<b>Canceled</b>",
+    "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -770,7 +842,7 @@
         "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
         "date": "2020-07-31T00:00:00",
         "room": "",
-        "comments": "<b>Canceled</b>",
+        "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false
       },
       {
@@ -778,7 +850,7 @@
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
         "date": "2020-07-30T00:00:00",
         "room": "",
-        "comments": "<b>Canceled</b>",
+        "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false
       },
       {
@@ -786,10 +858,12 @@
         "url": "/presentations/typescript-for-the-microsoft-developer",
         "date": "2020-07-31T00:00:00",
         "room": "",
-        "comments": "<b>Canceled</b>",
+        "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "European Cloud Conference",
@@ -797,7 +871,7 @@
     "location": "Nice, France",
     "eventStart": "2020-10-27T00:00:00",
     "eventEnd": "2020-10-27T00:00:00",
-    "comments": "<b>Canceled</b>",
+    "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -806,10 +880,12 @@
         "url": "/presentations/build-and-ship-it",
         "date": "2020-10-27T00:00:00",
         "room": "",
-        "comments": "<b>Canceled</b>",
+        "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Software Architecture Virtual Conference",
@@ -829,7 +905,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Public Speaking Virtual Conference",
@@ -849,7 +927,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "DEVintersection, AngleBrackets, AngularMix Spring 2020",
@@ -857,7 +937,7 @@
     "location": "Orlando, FL",
     "eventStart": "2020-04-06T00:00:00",
     "eventEnd": "2020-04-06T00:00:00",
-    "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration",
+    "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -866,10 +946,12 @@
         "url": "/presentations/migrate-it",
         "date": "2020-04-06T00:00:00",
         "room": "",
-        "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration",
+        "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Microsoft Azure \u002B AI Conference Spring 2020",
@@ -877,7 +959,7 @@
     "location": "Orlando, FL",
     "eventStart": "2020-04-06T00:00:00",
     "eventEnd": "2020-04-06T00:00:00",
-    "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration",
+    "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -886,7 +968,7 @@
         "url": "/presentations/look-into-your-application-with-application-insights",
         "date": "2020-04-06T00:00:00",
         "room": "",
-        "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration",
+        "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
         "isCanceled": false
       },
       {
@@ -894,10 +976,12 @@
         "url": "/presentations/build-and-ship-it",
         "date": "2020-04-06T00:00:00",
         "room": "",
-        "comments": "Use code <a href='https://devintersection.com/#!/register?utm_term=GUADAGNO'>**Guadagno**</a> for $50 off registration",
+        "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "C# Corner Conference 2020",
@@ -925,7 +1009,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "DEVIntersection",
@@ -933,7 +1019,7 @@
     "location": "Las Vegas, NV",
     "eventStart": "2019-11-18T00:00:00",
     "eventEnd": "2019-11-18T00:00:00",
-    "comments": "Use code '**Guadagno**' for $50 off registration",
+    "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -942,7 +1028,7 @@
         "url": "/presentations/migrate-it",
         "date": "2019-11-18T00:00:00",
         "room": "",
-        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false
       },
       {
@@ -950,10 +1036,12 @@
         "url": "/presentations/typescript-for-the-microsoft-developer",
         "date": "2019-11-18T00:00:00",
         "room": "",
-        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "TechBash",
@@ -981,7 +1069,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Southeast Valley .NET User Group",
@@ -1001,7 +1091,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Northwest Valley .NET User Group",
@@ -1021,7 +1113,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Music City Code",
@@ -1049,7 +1143,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "DevSum19",
@@ -1069,7 +1165,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "DEVIntersection",
@@ -1077,7 +1175,7 @@
     "location": "Orlando, FL",
     "eventStart": "2019-06-11T00:00:00",
     "eventEnd": "2019-06-11T00:00:00",
-    "comments": "Use code '**Guadagno**' for $50 off registration",
+    "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -1086,15 +1184,15 @@
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
         "date": "2019-06-11T00:00:00",
         "room": "",
-        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false
       },
       {
-        "name": "What's Happening in My App?, Application Insights",
+        "name": "What\u0027s Happening in My App?, Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
         "date": "2019-06-12T00:00:00",
         "room": "",
-        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false
       },
       {
@@ -1102,7 +1200,7 @@
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
         "date": "2018-12-03T00:00:00",
         "room": "",
-        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false
       },
       {
@@ -1110,10 +1208,12 @@
         "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
         "date": "2018-12-03T00:00:00",
         "room": "",
-        "comments": "Use code '**Guadagno**' for $50 off registration",
+        "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Devreach",
@@ -1141,7 +1241,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "TechBash",
@@ -1169,7 +1271,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "KCDC",
@@ -1197,7 +1301,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Music City Code",
@@ -1225,7 +1331,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "C# Corner Conference",
@@ -1261,7 +1369,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Tech Outbound",
@@ -1269,7 +1379,7 @@
     "location": "**Caribbean Cruise**",
     "eventStart": "2018-02-10T00:00:00",
     "eventEnd": "2018-02-10T00:00:00",
-    "comments": "See the blog post 'I'm Speaking on a Boat'",
+    "comments": "See the blog post \u0027I\u0027m Speaking on a Boat\u0027",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -1278,10 +1388,12 @@
         "url": "/2017/12/04/im-speaking-on-a-boat/",
         "date": "2018-02-10T00:00:00",
         "room": "",
-        "comments": "See the blog post 'I'm Speaking on a Boat'",
+        "comments": "See the blog post \u0027I\u0027m Speaking on a Boat\u0027",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "TechBash",
@@ -1309,7 +1421,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "DEVintersections",
@@ -1322,7 +1436,7 @@
     "isCurrent": false,
     "presentation": [
       {
-        "name": "Bootstrap 4.0. What's New?",
+        "name": "Bootstrap 4.0. What\u0027s New?",
         "url": "/presentations/bootstrap-4-0-whats-new",
         "date": "2017-05-21T00:00:00",
         "room": "",
@@ -1337,7 +1451,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Code Stock",
@@ -1350,7 +1466,7 @@
     "isCurrent": false,
     "presentation": [
       {
-        "name": "Bootstrap 4.0. What's New?",
+        "name": "Bootstrap 4.0. What\u0027s New?",
         "url": "/presentations/bootstrap-4-0-whats-new",
         "date": "2017-05-05T00:00:00",
         "room": "",
@@ -1365,7 +1481,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "C# Corner Conference",
@@ -1378,7 +1496,7 @@
     "isCurrent": false,
     "presentation": [
       {
-        "name": "Bootstrap 4.0. What's New?",
+        "name": "Bootstrap 4.0. What\u0027s New?",
         "url": "/presentations/bootstrap-4-0-whats-new",
         "date": "2017-04-09T00:00:00",
         "room": "",
@@ -1393,7 +1511,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "User Group",
@@ -1413,7 +1533,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Philly Code Camp 2017.1",
@@ -1441,7 +1563,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "MVP Mix",
@@ -1454,7 +1578,7 @@
     "isCurrent": false,
     "presentation": [
       {
-        "name": "Bootstrap 4.0 - What's New?",
+        "name": "Bootstrap 4.0 - What\u0027s New?",
         "url": "/presentations/bootstrap-4-0-whats-new",
         "date": "2017-03-09T00:00:00",
         "room": "",
@@ -1477,7 +1601,9 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   },
   {
     "eventName": "Tucson, AZ User Group",
@@ -1497,6 +1623,8 @@
         "comments": "",
         "isCanceled": false
       }
-    ]
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
   }
 ]
