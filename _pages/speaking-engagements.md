@@ -22,7 +22,7 @@ To see a list of presentations I speak on, please visit [Joseph Guadagno's Prese
 ### Event
 
 [{{ engagement.eventName }}]({{engagement.eventUrl}})
-: Taking place in {{ engagement.location}} - {{ engagement.eventStart | date: '%B %d, %Y' }} to {{ engagement.eventEnd | date: '%B %d, %Y' }}
+: Taking place in {{ engagement.location}} {% if engagement.timezone %}({{engagement.timezone }}){% endif %} - {{ engagement.eventStart | date: '%B %d, %Y' }} to {{ engagement.eventEnd | date: '%B %d, %Y' }} {% if engagement.inPerson %} and is **{{ engagement.inPerson }}**{% endif %}
 {% if engagement.isCanceled- %}
 This event has been canceled.
 {: .notice--danger}
@@ -34,7 +34,7 @@ This event has been canceled.
 {% for presentation in engagement.presentation -%}
 {% capture presentationTime %}{{ presentation.date | date: "%R" }}{% endcapture %}
 [{{presentation.name}}]({{presentation.url}})
-: Scheduled on {{ presentation.date | date: "%a, %F" }}{% if presentationTime !="00:00" %} at {{presentation.date | date: "%R" }}{% endif %} {% if presentation.room.size > 0 %} in room **{{presentation.room }}** {% endif %}
+: Scheduled on {{ presentation.date | date: "%a, %F" }}{% if presentationTime !="00:00" %} at {{presentation.date | date: "%R" }} ({{engagement.timezone}}){% endif %} {% if presentation.room.size > 0 %} in room **{{presentation.room }}** {% endif %}
 {% if presentation.comments.size > 0 -%}
 :  {{ presentation.comments}}
 {% endif %}
