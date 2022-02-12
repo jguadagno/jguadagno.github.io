@@ -50,6 +50,28 @@
     ],
     "timezone": "PDT",
     "inPerson": "In Person"
+  },  
+  {
+    "eventName": "Rockin' the Code World",
+    "eventUrl": "https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave",
+    "location": "Virtual",
+    "eventStart": "2022-02-12T10:00:00",
+    "eventEnd": "2022-02-12T10:00:00",
+    "comments": "Virtual",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Microsoft .NET 20th Anniversary Show",
+        "url": "https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave",
+        "date": "2022-02-12T10:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "PST",
+    "inPerson": "Virtual"
   },
   {
     "eventName": ".NET Conference 2022",
