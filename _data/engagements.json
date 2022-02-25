@@ -27,14 +27,14 @@
     "location": "Las Vegas, NV",
     "eventStart": "2021-04-05T00:00:00",
     "eventEnd": "2021-04-07T00:00:00",
-    "comments": "Use code \u0027\u003Cb\u003EGuadagno\u003C/b\u003E\u0027 for $50 off registration. In Person",
+    "comments": "Use code <b>Guadagno</b> for $50 off registration. In Person",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
       {
-        "name": "6 (or so) new features of .NET 6",
-        "url": "/presentations/6-or-so-new-features-of-dotnet6",
-        "date": "2021-04-05T00:00:00",
+        "name": "Application Architecture",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2021-04-06T16:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false
@@ -42,7 +42,7 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2021-04-05T00:00:00",
+        "date": "2021-04-07T10:45:00",
         "room": "",
         "comments": "",
         "isCanceled": false
@@ -50,7 +50,37 @@
     ],
     "timezone": "PDT",
     "inPerson": "In Person"
-  },  
+  },
+  {
+    "eventName": "philly.net Code Camp 2022",
+    "eventUrl": "https://philly-net-code-camp-2022.sessionize.com/",
+    "location": "Virtual",
+    "eventStart": "2022-03-04T09:00:00",
+    "eventEnd": "2022-03-04T17:00:00",
+    "comments": "Virtual",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "6 (or so) new features of .NET 6",
+        "url": "/presentations/6-or-so-new-features-of-dotnet6",
+        "date": "2022-03-04T12:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "What\u0027s Happening in My App",
+        "url": "/presentations/whats-happening-in-my-app",
+        "date": "2022-03-04T15:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "EST",
+    "inPerson": "Virtual"
+  },
   {
     "eventName": "Rockin' the Code World",
     "eventUrl": "https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave",
