@@ -22,6 +22,28 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "Stirtrek 2022",
+    "eventUrl": "https://stirtrek.com/",
+    "location": "Columbus, OH",
+    "eventStart": "2022-05-06T00:00:00",
+    "eventEnd": "2022-05-06T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "6 (or so) new features of .NET 6",
+        "url": "/presentations/6-or-so-new-features-of-dotnet6",
+        "date": "2022-05-06T09:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "DEVintersection \u0026 AngleBrackets Fall 2021",
     "eventUrl": "https://www.devintersection.com/",
     "location": "Las Vegas, NV",
