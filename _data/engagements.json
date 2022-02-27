@@ -22,7 +22,7 @@
     "inPerson": "In Person"
   },
   {
-    "eventName": "Stirtrek 2022",
+    "eventName": "Stir Trek 2022",
     "eventUrl": "https://stirtrek.com/",
     "location": "Columbus, OH",
     "eventStart": "2022-05-06T00:00:00",
@@ -47,8 +47,8 @@
     "eventName": "DEVintersection \u0026 AngleBrackets Fall 2021",
     "eventUrl": "https://www.devintersection.com/",
     "location": "Las Vegas, NV",
-    "eventStart": "2021-04-05T00:00:00",
-    "eventEnd": "2021-04-07T00:00:00",
+    "eventStart": "2022-04-05T00:00:00",
+    "eventEnd": "2022-04-07T00:00:00",
     "comments": "Use code <b>Guadagno</b> for $50 off registration. In Person",
     "isCanceled": false,
     "isCurrent": true,
@@ -56,7 +56,7 @@
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2021-04-06T16:00:00",
+        "date": "2022-04-06T16:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false
@@ -64,7 +64,7 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2021-04-07T10:45:00",
+        "date": "2022-04-07T10:45:00",
         "room": "",
         "comments": "",
         "isCanceled": false
