@@ -29,6 +29,7 @@ This event has been canceled.
 {% if engagement.comments -%}{{ engagement.comments }}{% endif %}
 {% else %}
 
+{% if engagement.presentation.size > 0 -%}
 #### Presentations
 
 {% for presentation in engagement.presentation -%}
@@ -43,6 +44,7 @@ This session has been canceled.
 {: .notice--danger}
 {% endif %}
 {% endfor %}
+{% endif %}
 {% if engagement.comments -%}{{ engagement.comments }}{% endif %}
 {% endif %}
 {% endfor %}
