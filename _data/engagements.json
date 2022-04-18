@@ -1,4 +1,19 @@
-[
+[  
+  {
+    "eventName": "C# Corner - India Tour",
+    "eventUrl": "https://www.csharpcorner.com",
+    "location": "India",
+    "eventStart": "2022-10-10T00:00:00",
+    "eventEnd": "2022-10-19T00:00:00",
+    "comments": "Event is taking place in 3 India states: Mumbai, Bangalore, and Delhi. Presentations will be announced in the future.",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+    
+    ],
+    "timezone": "IST",
+    "inPerson": "In Person"
+  },
   {
     "eventName": "THAT Conference - WI",
     "eventUrl": "https://that.us/activities/wi/2022/",
