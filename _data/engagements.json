@@ -45,7 +45,29 @@
     "inPerson": "In Person"
   },
   {
-    "eventName": "THAT Conference - TX \u002722",
+    "eventName": "Nebraska.Code()",
+    "eventUrl": "https://nebraskacode.amegala.com/",
+    "location": "Lincoln, NE",
+    "eventStart": "2022-07-13T00:00:00",
+    "eventEnd": "2022-07-15T00:00:00",
+    "comments": "Event is In Person",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Build and Ship It!",
+        "url": "/presentations/build-and-ship-it",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "CST",
+    "inPerson": "In Person"
+  },
+  {
+    "eventName": "THAT Conference - TX",
     "eventUrl": "https://that.us/activities/tx/2022/",
     "location": "Round Rock, TX",
     "eventStart": "2022-05-23T00:00:00",
