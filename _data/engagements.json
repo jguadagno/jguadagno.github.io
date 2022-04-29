@@ -15,6 +15,28 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "KCDC",
+    "eventUrl": "https://that.us/activities/tx/2022/",
+    "location": "Kansas City, KS",
+    "eventStart": "2022-08-08T00:00:00",
+    "eventEnd": "2022-08-09T00:00:00",
+    "comments": "In Person",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with JetBrains Rider",
+        "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "CST",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "THAT Conference - WI",
     "eventUrl": "https://that.us/activities/wi/2022/",
     "location": "Wisconsin Dells, WI",
