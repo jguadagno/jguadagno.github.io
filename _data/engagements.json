@@ -118,7 +118,7 @@
     "eventEnd": "2022-05-06T16:30:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "6 (or so) new features of .NET 6",
