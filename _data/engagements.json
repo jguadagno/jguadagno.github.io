@@ -77,10 +77,18 @@
     "isCurrent": true,
     "presentation": [
       {
-        "name": "Build and Ship It!",
-        "url": "/presentations/build-and-ship-it",
-        "date": "",
-        "room": "",
+        "name": "Debugging Tips and Tricks with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2022-07-14T14:30:00",
+        "room": "Olive Branch",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Application Architecture",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2022-07-15T13:15:00",
+        "room": "Grand Ballroom C",
         "comments": "",
         "isCanceled": false
       }
