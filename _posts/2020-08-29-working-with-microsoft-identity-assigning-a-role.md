@@ -88,7 +88,7 @@ You can view all of the roles assigned to a given resource in Azure.
 
 This will list all of the registered applications and/or users that have access to this application.
 
-![MSAL - Roles Assigned](/assets/images/posts/msal-roles-assignments.png){: .align-center}
+![MSAL - Roles Assigned](/assets/images/posts/msal-role-assignments.png){: .align-center}
 
 The number 1 on the image tells us how many roles we have assigned in our subscription, not for this resource.
 
