@@ -1,25 +1,56 @@
-[    {
-      "eventName": "European SharePoint Office 365 & Azure Conference",
-      "eventUrl": "https://www.sharepointeurope.com/",
-      "location": "Copenhagen, Denmark",
-      "eventStart": "2022-11-28T00:00:00",
-      "eventEnd": "2022-12-01T00:00:00",
-      "comments": "",
-      "isCanceled": false,
-      "isCurrent": true,
-      "presentation": [
-        {
-          "name": "Scaling Your .NET Application Using Azure",
-          "url": "/presentations/scaling-your-dotnet-application-using-azure",
-          "date": "2022-11-29T10:15:00",
-          "room": "",
-          "comments": "",
-          "isCanceled": false
-        }
-      ],
-      "timezone": "CET",
-      "inPerson": "In Person"
+[
+  {
+    "eventName": "TechBash",
+    "eventUrl": "https://techbash.com/",
+    "location": "Pocono Mountains, PA",
+    "eventStart": "2022-11-08T00:00:00",
+    "eventEnd": "2022-11-11T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Building and Deploying a New Cloud App from Scratch",
+        "url": "/presentations/sbuilding-and-deploying-a-new-cloud-app-from-scratch",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
       },
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
+  },
+  {
+    "eventName": "European SharePoint Office 365 & Azure Conference",
+    "eventUrl": "https://www.sharepointeurope.com/",
+    "location": "Copenhagen, Denmark",
+    "eventStart": "2022-11-28T00:00:00",
+    "eventEnd": "2022-12-01T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Scaling Your .NET Application Using Azure",
+        "url": "/presentations/scaling-your-dotnet-application-using-azure",
+        "date": "2022-11-29T10:15:00",
+        "room": "T4",
+        "comments": "",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "CET",
+    "inPerson": "In Person"
+  },
   {
     "eventName": "C# Corner - India Tour",
     "eventUrl": "https://www.csharpcorner.com",
