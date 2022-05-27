@@ -33,3 +33,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # Overide packages because a vunerabilities
 #gem 'faraday', '~> 0.17'  # lock major version
 gem "activesupport", ">= 4.1.11"
+# git issue https://github.com/jguadagno/jguadagno.github.io/security/dependabot/2
+gem "commonmarker", ">= 0.23.4"
