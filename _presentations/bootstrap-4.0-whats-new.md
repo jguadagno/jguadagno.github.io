@@ -1,7 +1,7 @@
 ---
 title: Bootstrap 4.0 – What's new
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2169856&amp;authkey=ALBmuaUI021KE7o&amp;em=2
 sessionizeUrl: bootstrap_40_-_whats_new/17926

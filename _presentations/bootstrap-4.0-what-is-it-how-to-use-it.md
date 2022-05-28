@@ -1,7 +1,7 @@
 ---
 title: Bootstrap 4.0 - What is it? How to use it
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl: 
 powerPointUrl: 
 level: 100
