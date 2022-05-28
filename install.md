@@ -16,7 +16,7 @@ Execute the following command to build the site for local development
 
 ```bash
 docker build -f dockerfile -t jekyll . --no-cache
-docker-compose -f docker-compose.yml -p 'Website-Local' up
+docker-compose -f docker-compose.yml up
 ```
 
 ## Running the site
