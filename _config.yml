@@ -26,7 +26,7 @@ breadcrumbs: true
 collections:
   presentations:
     output: true
-    permalink: /presentations/:name
+    permalink: /:collection/:name
 atom_feed:
   path: "http://feeds.feedburner.com/JosephGuadagno"
 feed:
@@ -174,13 +174,13 @@ social:
     - "https://facebook.com/JosephGuadagnoNet"
     - "https://www.linkedin.com/in/JosephGuadagno"
 
-twitter     : 
-  username    : "jguadagno"
-  card        : "summary"
-facebook    :
-  app_id      : 266442613419593
-  publisher   : 1580735823
-  admins      : "Joseph.J.Guadagno"
+twitter: 
+  username: "jguadagno"
+  card: "summary"
+facebook:
+  app_id: 266442613419593
+  publisher: 1580735823
+  admins: "Joseph.J.Guadagno"
 
 # Analytics
 analytics:
