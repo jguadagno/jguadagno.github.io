@@ -46,6 +46,7 @@ In this workshop we are going to build and deploy a modern cloud application fro
 This workshop is geared toward individuals just getting started with Microsoft .NET and/or looking to design applications that can easily be changed and/or deployed to Azure. Attendees should have experience in at least one programming language and an understanding of basic web programming paradigms.
 
 Requirements:
+
 - Visual Studio or JetBrains Rider
 - SQL Server (Developer Edition or LocalDB)
 - Azure Account
