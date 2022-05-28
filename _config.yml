@@ -117,6 +117,7 @@ exclude:
   - docker-compose.yml 
   - runsiteindocker.ps1
   - dockerfile
+  - .idea/
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
@@ -154,11 +155,11 @@ defaults:
       classes : wide
       author_profile: true
 
-paginate: 10 # amount of posts to show
+paginate: 10 # number of posts to show
 paginate_path: /page:num/
 
 logo: "/assets/icons/android-chrome-96x96.png"
-bing_site_verificaton: "7EC9949296748CD8737FFF69FC74B369"
+bing_site_verification: "7EC9949296748CD8737FFF69FC74B369"
 google_analytics: UA-2998428-1
 head_scripts:
   - /assets/js/ai.js
