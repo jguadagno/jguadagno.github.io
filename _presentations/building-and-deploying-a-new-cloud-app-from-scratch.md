@@ -1,7 +1,7 @@
-﻿---
+---
 title: Building and Deploying a New Cloud App from Scratch
 isKeynote: false
-isRetired: true
+isRetired: false
 sourceUrl:
 powerPointUrl:  
 youTubeId:
