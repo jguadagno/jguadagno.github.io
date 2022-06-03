@@ -6,6 +6,9 @@ tags:
   - Azure
   - Identity
   - WebAPI
+  - MSAL
+  - Managed Identity
+  - Entra
 ---
 [Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web) is a library which contains a set of reusable classes used in conjunction with ASP.NET Core for integrating with the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/) (formerly *Azure AD v2.0 endpoint*) and [AAD B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/).
 

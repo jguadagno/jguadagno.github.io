@@ -8,6 +8,9 @@ tags:
   - WebAPI
   - Api
   - OAuth
+  - MSAL
+  - Managed Identity
+  - Entra
 ---
 Hello, [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/)!
 
