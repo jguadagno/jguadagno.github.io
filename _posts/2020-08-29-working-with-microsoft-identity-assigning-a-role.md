@@ -9,8 +9,9 @@ tags:
   - Identity
   - MSAL
   - Managed Identity
+  - Entra
 ---
-Securing our applications and data is critical in this day and age.  I've been working a lot with the new [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/){:target="_blank"}  (MSAL) library, so I decided to create a series of blog posts around working with it.
+Securing our applications and data is critical in this day and age.  I've been working a lot with the new [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}  (MSAL) library, so I decided to create a series of blog posts around working with it.
 
 * [Register an application]({% link _posts/2020-08-29-working-with-microsoft-identity-registering-an-application.md %}).
 * [Configure Local Development]({% link _posts/2020-08-29-working-with-microsoft-identity-configure-local-development.md  %})
@@ -18,16 +19,16 @@ Securing our applications and data is critical in this day and age.  I've been w
 
 ## Role-Based Access Control
 
-Before we assign a role, we should take a look out what [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview){:target="_blank"} is. Azure RBAC, or Azure Role-Based Access Control, is an authorization system built on Azure Resource Manager that provides fine-grained access management of Azure resources.  It allows you to create roles or use predefined roles for your applications.
+Before we assign a role, we should take a look out what [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is. Azure RBAC, or Azure Role-Based Access Control, is an authorization system built on Azure Resource Manager that provides fine-grained access management of Azure resources.  It allows you to create roles or use predefined roles for your applications.
 
-Azure RBAC includes several [built-in roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles){:target="_blank"} that you can use. The following lists four built-in roles. The first three apply to all resource types.
+Azure RBAC includes several [built-in roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles?WT.mc_id=AZ-MVP-4024623){:target="_blank"} that you can use. The following lists four built-in roles. The first three apply to all resource types.
 
 * **Owner** - Has full access to all resources including the right to delegate access to others.
 * **Contributor** - Can create and manage all types of Azure resources but can't grant access to others.
 * **Reader** - Can view existing Azure resources.
 * **User Access Administrator** - Lets you manage user access to Azure resources.
 
-If you don't find a role that fits your needs, you can create [custom roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles){:target="_blank"}. From what I have found, the default roles are adequate for my use.
+If you don't find a role that fits your needs, you can create [custom roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles?WT.mc_id=AZ-MVP-4024623){:target="_blank"}. From what I have found, the default roles are adequate for my use.
 
 ## Assigning a Role
 
@@ -98,5 +99,5 @@ The number 3 on this image, lists all of the applications/users that match the f
 
 ## Resources
 
-* [Add/Remove Azure role assignments using the Azure portal](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal){:target="_blank"}
-* [Add or remove Azure role assignments using Azure CLI](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-cli){:target="_blank"}
+* [Add/Remove Azure role assignments using the Azure portal](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [Add or remove Azure role assignments using Azure CLI](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-cli?WT.mc_id=AZ-MVP-4024623){:target="_blank"}

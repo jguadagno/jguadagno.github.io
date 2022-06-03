@@ -9,20 +9,21 @@ tags:
   - Identity
   - MSAL
   - Managed Identity
+  - Entra
 ---
-Securing our applications and data is critical in this day and age.  I've been working a lot with the new [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/){:target="_blank"}  (MSAL) library, so I decided to create a series of blog posts around working with it.
+Securing our applications and data is critical in this day and age.  I've been working a lot with the new [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}  (MSAL) library, so I decided to create a series of blog posts around working with it.
 
 * Register an application (this post)
 * [Configure Local Development]({% link _posts/2020-08-29-working-with-microsoft-identity-configure-local-development.md  %})
 * [Assigning a Role]({% link _posts/2020-08-29-working-with-microsoft-identity-assigning-a-role.md %})
 
-I've been following the pattern of creating a dedicated *test* application to validate that everything works locally. By *Application*, I don't mean an executable or javascript application, I mean [registering an application with the Microsoft Identity Platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app){:target="_blank"}.
+I've been following the pattern of creating a dedicated *test* application to validate that everything works locally. By *Application*, I don't mean an executable or javascript application, I mean [registering an application with the Microsoft Identity Platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
 
 There are two ways in which you to do this, the Azure Command Line Interface (CLI) or the Azure Portal.  I'll demonstrate both.
 
 ## Azure CLI
 
-If you don't have the CLI installed and prefer the command-line, check out the [installation instructions](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows){:target="_blank"}.
+If you don't have the CLI installed and prefer the command-line, check out the [installation instructions](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
 
 To register your application with Azure using the Azure CLI, open up Terminal, Bash, Command Prompt, ITerm, or whatever your preferred command prompt is.
 
@@ -32,7 +33,7 @@ First, you need to log in with the command line.
 az login
 ```
 
-Once logged in, the next step would be to create the Azure Active Directory service principal.  Creating the service principal *registers* the application.  You can use the [ad sp](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest){:target="_blank"} command, which stands for 'Active Directory' 'Service Principal'. We are going to use `create-for-rbac` sub-command. [Documentation](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az-ad-sp-create-for-rbac){:target="_blank"}
+Once logged in, the next step would be to create the Azure Active Directory service principal.  Creating the service principal *registers* the application.  You can use the [ad sp](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest&WT.mc_id=AZ-MVP-4024623){:target="_blank"} command, which stands for 'Active Directory' 'Service Principal'. We are going to use `create-for-rbac` sub-command. [Documentation](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az-ad-sp-create-for-rbac?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
 
 The command looks similar to this.
 
@@ -75,7 +76,7 @@ Assuming you have the authorization and syntax-correct, the call will return a J
 
 At this point, you'll want to save values of the `appId`, `password`, and `tenant`.  Once you close your terminal you will now be able to retrieve the password again.
 
-You can find more about this approach on [Azure Documentation site](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-rbac-cli?toc=/azure/storage/blobs/toc.json){:target="_blank"}
+You can find more about this approach on [Azure Documentation site](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-rbac-cli?toc=/azure/storage/blobs/toc.json&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
 
 ## Azure Portal
 

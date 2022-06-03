@@ -10,6 +10,7 @@ tags:
   - MSAL
   - Managed Identity
   - React Native
+  - Entra
 ---
 
 In this post, I'm going to walk through how you authenticate and use an API that is secured with Azure Active Directory using React Native and the Microsoft Identity library.
