@@ -7,7 +7,7 @@ tags:
   - Key Vault
   - Functions
 ---
-In this post, we'll walk through how you can use [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview?WT.mc_id=AZ-MVP-4024623) to secure sensitive settings in [Azure Functions](https://azure.microsoft.com/en-us/services/functions/?WT.mc_id=AZ-MVP-4024623). If you don't have a Key Vault setup, I covered setting one up in the post titled '[Setup Code Signing Certificates in Azure Key Value]({% post_url 2020-04-04-setup-code-signing-certificates-in-azure-key-vault %})'
+In this post, we'll walk through how you can use [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview?WT.mc_id=AZ-MVP-4024623){:target="_blank"} to secure sensitive settings in [Azure Functions](https://azure.microsoft.com/en-us/services/functions/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}. If you don't have a Key Vault setup, I covered setting one up in the post titled '[Setup Code Signing Certificates in Azure Key Value]({% post_url 2020-04-04-setup-code-signing-certificates-in-azure-key-vault %})'
 
 ## Azure Key Vault
 

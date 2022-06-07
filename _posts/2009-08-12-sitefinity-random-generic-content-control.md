@@ -13,7 +13,7 @@ tags:
 Download [RandomGCContent](/assets/downloads/RandomGCContent.zip)
 
 ![image-right](/assets/images/posts/sponsor_thumb.png "Sponsor Image"){: .align-right}
-One of the many features of [Sitefinity](http://www.sitefinity.com "Sitefinity") is the ability to create custom controls to customize the look and feel of your website. The website for the [Southeast Valley .NET User Group](http://www.sevdnug.org "Southeast Valley .NET User Group") contains several custom controls. In the next few weeks, I will post all of the controls here. On to the Random Generic Content Control. The purpose of the control randomly displays items that are based on a Generic  Content provider. I use this control to randomly pick sponsors of the Southeast Valley .NET User Group to display on the home page. Here is a snapshot of the control in use.
+One of the many features of [Sitefinity](http://www.sitefinity.com "Sitefinity"){:target="_blank"} is the ability to create custom controls to customize the look and feel of your website. The website for the [Southeast Valley .NET User Group](http://www.sevdnug.org "Southeast Valley .NET User Group"){:target="_blank"} contains several custom controls. In the next few weeks, I will post all of the controls here. On to the Random Generic Content Control. The purpose of the control randomly displays items that are based on a Generic  Content provider. I use this control to randomly pick sponsors of the Southeast Valley .NET User Group to display on the home page. Here is a snapshot of the control in use.
 
 ### Installing the Control
 

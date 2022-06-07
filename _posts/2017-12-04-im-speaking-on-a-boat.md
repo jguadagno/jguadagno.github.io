@@ -12,9 +12,9 @@ tags:
   - Azure
   - Visual Studio
 ---
-Well, it's more than a boat is a cruise ship, the [Norweigan Cruise Lines](https://ncl.com) [Escape](https://www.ncl.com/cruise-ship/escape). We will be departing from Miami with port stops in Falmouth (Jamaica); George Town (Grand Cayman); Great Stirrup Cay (Bahamas); Nassau (Bahamas); and come back to Miami.
+Well, it's more than a boat is a cruise ship, the [Norwegian Cruise Lines](https://ncl.com){:target="_blank"} [Escape](https://www.ncl.com/cruise-ship/escape){:target="_blank"}. We will be departing from Miami with port stops in Falmouth (Jamaica); George Town (Grand Cayman); Great Stirrup Cay (Bahamas); Nassau (Bahamas); and come back to Miami.
 
-[Chris Woodruff](http://www.chriswoodruff.com/blog) and I will be providing 2 and half days of instruction on .NET Core at [TechOutbound](http://www.techoutbound.com/index.html). It'll be a combination of instruction and hands on workshops. Here's the topics we will be covering.
+[Chris Woodruff](http://www.chriswoodruff.com/blog){:target="_blank"} and I will be providing 2 and half days of instruction on .NET Core at [TechOutbound](http://www.techoutbound.com/index.html){:target="_blank"}. It'll be a combination of instruction and hands on workshops. Here's the topics we will be covering.
 
 * C# 7
 * Entity Framework Core 2.0

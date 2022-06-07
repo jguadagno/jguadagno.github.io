@@ -125,7 +125,7 @@ While not required, it is strongly recommended depending on your network configu
 
 ## Wrapping up
 
-Your needs may vary.  This equipment list is what I purchased to deliver an inexpensive quality stream.  Depending on your hardware, you might not need anything from this list. I curated a list of the equipment for the Coding with JoeG Stream at this [list](https://amzn.to/2ToLEvF) on Amazon.  [Jeffrey Fritz](https://www.twitch.tv/csharpfritz){:target="_blank"}, part of the [LiveCoders](https://www.twitch.tv/team/livecoders){:target="_blank"} team, also blogged about his configuration, in the [Live Streaming Setup - 2019 Edition](https://jeffreyfritz.com/2019/01/live-streaming-setup-2019-edition/){:target="_blank"}
+Your needs may vary.  This equipment list is what I purchased to deliver an inexpensive quality stream.  Depending on your hardware, you might not need anything from this list. I curated a list of the equipment for the Coding with JoeG Stream at this [list](https://amzn.to/2ToLEvF){:target="_blank"} on Amazon.  [Jeffrey Fritz](https://www.twitch.tv/csharpfritz){:target="_blank"}, part of the [LiveCoders](https://www.twitch.tv/team/livecoders){:target="_blank"} team, also blogged about his configuration, in the [Live Streaming Setup - 2019 Edition](https://jeffreyfritz.com/2019/01/live-streaming-setup-2019-edition/){:target="_blank"}
 
 **Note** If you click on an Amazon link and purchase a product, I may get a commission from Amazon. The purpose of the links is to avoid much searching and not to make money on the blog post.
 {: .notice}

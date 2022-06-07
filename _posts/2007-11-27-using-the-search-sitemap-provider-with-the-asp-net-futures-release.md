@@ -8,19 +8,19 @@ categories:
 ---
 ## Sitemaps
 
-First off a quick introduction to what a Sitemap is, according to [http://www.sitemaps.org](http://www.sitemaps.org).
+First off a quick introduction to what a Sitemap is, according to [http://www.sitemaps.org](http://www.sitemaps.org){:target="_blank"}.
 
 Sitemaps are an easy way for webmasters to inform search engines about pages on their sites that are available for crawling. In its simplest form, a Sitemap is an XML file that lists URLs for a site along with additional metadata about each URL (when it was last updated, how often it usually changes, and how important it is, relative to other URLs in the site) so that search engines can more intelligently crawl the site.
 
 ## ASP.NET Futures Release
 
-The ASP.NET futures release can be found at [http://www.asp.net/downloads/futures/](http://www.asp.net/downloads/futures/ "http://www.asp.net/downloads/futures/"). Just a note, as you will see on the futures site, the content in the futures release might not make it to the official ASP.NET Ajax release. The futures release contains functionality that the team is thinking about incorporating into the main ASP.NET release. So this means that you could play with the code and hope that the team incorporates it into ASP.NET Ajax.  Enough with the disclaimer.
+The ASP.NET futures release can be found at [http://www.asp.net/downloads/futures/](http://www.asp.net/downloads/futures/ "http://www.asp.net/downloads/futures/"){:target="_blank"}. Just a note, as you will see on the futures site, the content in the futures release might not make it to the official ASP.NET Ajax release. The futures release contains functionality that the team is thinking about incorporating into the main ASP.NET release. So this means that you could play with the code and hope that the team incorporates it into ASP.NET Ajax.  Enough with the disclaimer.
 
-[**Download the ASP.NET Futures**  (July 2007) Release](http://go.microsoft.com/fwlink/?LinkID=89147&clcid=0x409)
+[**Download the ASP.NET Futures**  (July 2007) Release](http://go.microsoft.com/fwlink/?LinkID=89147&clcid=0x409){:target="_blank"}
 
 ## Getting Started Search Sitemap Provider
 
-The ASP.NET team created the [SearchSitemapProvider](http://quickstarts.asp.net/Futures/services/doc/searchsitemaps.aspx) as part of the ASP.NET Futures (July 2007) release. The release contains an HttpHandler to process the calls, SearchSiteMaps.axd, which serves up the Sitemap and two providers, AspNetSiteMapSearchSiteMapProvider and DynamicDataSearchSiteMapProvider. The AspNetSiteMapSearchSiteMapProvider will generate a static Sitemap based on the ASP.NET sitemap. The DynamicDataSearchSiteMap provider provides a way to dynamically generate the Sitemap.
+The ASP.NET team created the [SearchSitemapProvider](http://quickstarts.asp.net/Futures/services/doc/searchsitemaps.aspx){:target="_blank"} as part of the ASP.NET Futures (July 2007) release. The release contains an HttpHandler to process the calls, SearchSiteMaps.axd, which serves up the Sitemap and two providers, AspNetSiteMapSearchSiteMapProvider and DynamicDataSearchSiteMapProvider. The AspNetSiteMapSearchSiteMapProvider will generate a static Sitemap based on the ASP.NET sitemap. The DynamicDataSearchSiteMap provider provides a way to dynamically generate the Sitemap.
 
 To enable Search Sitemaps in your ASP.NET you need to do the following.
 
@@ -112,7 +112,7 @@ This provider is the easiest to use and only requires a valid Asp.Net sitemap fi
 
 ### DynamicDataSearchSiteMapProvider
 
-The DynamicDataSearchSiteMapProvider is used when you have dynamic content that you want to submit to the search engines.  Dynamic content is content that is generated on the fly or does not have a fixed URL. As you see in lines 5 - 19 of my searchSiteMap provider's section, I use three different custom providers, Articles, Books and News.  These providers inherit from the DynamicDataSearchSiteMapProvider class which requires that you implement the DataQuery method which returns an IEnumerable interface. I choose to return a List<SiteEntry> objects.
+The DynamicDataSearchSiteMapProvider is used when you have dynamic content that you want to submit to the search engines.  Dynamic content is content that is generated on the fly or does not have a fixed URL. As you see in lines 5 - 19 of my searchSiteMap provider's section, I use three different custom providers, Articles, Books and News.  These providers inherit from the DynamicDataSearchSiteMapProvider class which requires that you implement the DataQuery method which returns an IEnumerable interface. I choose to return a List&lt;SiteEntry&gt; objects.
 
 The SiteEntry class supports the following properties (taken straight from the Asp.Net futures site):
 
@@ -190,18 +190,18 @@ In my site, I generate the Url in code so that it will be consistent between dif
 
 Properties: `targetUrl ="BookReviews"`, `targetUrlSeparator="/"`, `queryStringDataFormatString="{0}/{1}.aspx"`` and queryStringDataFields="Id, Title"` which would generate a url similar to this.
 
-http://www.yourdomain.com/1/title.aspx
+`http://www.yourdomain.com/1/title.aspx`
 
 Notice that I had two field in the `queryStringDataFields` property.  You can list as many as you want, they just need to be comma separated. This means that the SiteEntry object needs to have at least the two properties of `Id` and `Title`.
 
 ## For more information
 
-That's about it.  I was a lot to read and digest but hopefully useful. If you have any questions, please feel free to contact me or leave a comment or you can discuss the Sitemap provider in the ASP.net [forums](http://forums.asp.net/1127/ShowForum.aspx).
+That's about it.  I was a lot to read and digest but hopefully useful. If you have any questions, please feel free to contact me or leave a comment or you can discuss the Sitemap provider in the ASP.net [forums](http://forums.asp.net/1127/ShowForum.aspx){:target="_blank"}.
 
 ## Search Engines were you can submit a feed
 
 Here some search engine urls where you can submit you site maps.
 
-Google: [https://www.google.com/webmasters/tools/siteoverview](https://www.google.com/webmasters/tools/siteoverview "https://www.google.com/webmasters/tools/siteoverview")
+Google: [https://www.google.com/webmasters/tools/siteoverview](https://www.google.com/webmasters/tools/siteoverview "https://www.google.com/webmasters/tools/siteoverview"){:target="_blank"}
 
-Yahoo: [https://siteexplorer.search.yahoo.com](https://siteexplorer.search.yahoo.com "https://siteexplorer.search.yahoo.com")
+Yahoo: [https://siteexplorer.search.yahoo.com](https://siteexplorer.search.yahoo.com "https://siteexplorer.search.yahoo.com"){:target="_blank"}

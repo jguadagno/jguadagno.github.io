@@ -23,11 +23,11 @@ For this post, I will assume that we are working on an ASP.NET MVC (.NET Framewo
 
 ![Sample Solution Explorer](/assets/images/posts/migrate-to-core-solution-explorer.png){: .align-center}
 
-This single project is an ASP.NET MVC application written with .NET Framework 4.5.2-4.8. There is a SQL Server data dependency where the database is present in the *App_Data* folder. The data access is handled through EntityFramework. You can find a completed project [repository](https://github.com/jguadagno/sample-app) as well as the database [setup](https://github.com/jguadagno/sample-app/blob/master/sql/readme.md) instructions on GitHub.
+This single project is an ASP.NET MVC application written with .NET Framework 4.5.2-4.8. There is a SQL Server data dependency where the database is present in the *App_Data* folder. The data access is handled through EntityFramework. You can find a completed project [repository](https://github.com/jguadagno/sample-app){:target="_blank"} as well as the database [setup](https://github.com/jguadagno/sample-app/blob/master/sql/readme.md){:target="_blank"} instructions on GitHub.
 
 Microsoft has made it easy to build a self-contained application and combine the user interface with the database and any business logic you need. However, with the application tightly coupled, this style makes it challenging to migrate or upgrade or even test your application. Our approach will be to break up the application into different layers or responsibilities, like the user interface, data layer/repository, and business/service layer.
 
-While there is the [.NET Upgrade Assistant](https://dotnet.microsoft.com/platform/upgrade-assistant) to help you, its still in preview and only does some of the leg work for you.  Dave Brock put together a nice [post](https://www.daveabrock.com/2021/04/18/meet-dotnet-upgrade-assistant-your-dotnet-5-moving-company/) on working with it. I'll walk you through some of the steps to redesign your application to make it a bit easier for this update and any more updates. Hopefully, that does not happen. :smile
+While there is the [.NET Upgrade Assistant](https://dotnet.microsoft.com/platform/upgrade-assistant){:target="_blank"} to help you, its still in preview and only does some of the leg work for you.  Dave Brock put together a nice [post](https://www.daveabrock.com/2021/04/18/meet-dotnet-upgrade-assistant-your-dotnet-5-moving-company/){:target="_blank"} on working with it. I'll walk you through some of the steps to redesign your application to make it a bit easier for this update and any more updates. Hopefully, that does not happen. :smile
 
 ## Separate the models
 
@@ -35,7 +35,7 @@ Putting your domain or data transfer objects into a separate project is the firs
 
 Assuming you are using Entity Framework to access your database along with the *code-based* model development and not the *EDMX-based*.
 
-If your application uses the *EDMX-based* approach, follow the [Porting an EF6 EDMX-Based Model to EF Core](https://docs.microsoft.com/en-us/ef/efcore-and-ef6/porting/port-edmx?WT.mc_id=AZ-MVP-4024623) guide to update to *code-based* model approach.  Going forward with EntityFramework Core, the *EDMX-based* models are not being used.
+If your application uses the *EDMX-based* approach, follow the [Porting an EF6 EDMX-Based Model to EF Core](https://docs.microsoft.com/en-us/ef/efcore-and-ef6/porting/port-edmx?WT.mc_id=AZ-MVP-4024623){:target="_blank"} guide to update to *code-based* model approach.  Going forward with EntityFramework Core, the *EDMX-based* models are not being used.
 {: .notice--info}
 
 The first thing you'll want to do is create a new class library targeting .NET Standard. Why .NET Standard and not just .NET? Having the shared libraries like the Domain or Data libraries in .NET Standard allows you greater portability between projects and platforms. This approach will also allow you to slowly migrate pieces of the main project while keeping it up.
@@ -45,7 +45,7 @@ Now move those model classes over to the new project. I would name it something 
 
 You'll want to add a reference to the new `Contacts.Domain` library to the existing Contacts application.  Don't forget to update the using statements!
 
-***Note***: When moving classes/files in between folders, namespaces, or projects, use the *Move Instance Method* refactoring ([Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/reference/move-type-to-namespace?view=vs-2019&WT.mc_id=AZ-MVP-4024623) or [JetBrains Rider/Resharper](https://www.jetbrains.com/help/resharper/Refactorings__Move__Instance_Method_to_Another_Type.html))
+***Note***: When moving classes/files in between folders, namespaces, or projects, use the *Move Instance Method* refactoring ([Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/reference/move-type-to-namespace?view=vs-2019&WT.mc_id=AZ-MVP-4024623){:target="_blank"} or [JetBrains Rider/Resharper](https://www.jetbrains.com/help/resharper/Refactorings__Move__Instance_Method_to_Another_Type.html){:target="_blank"})
 {: .notice--info}
 
 ## Separate the data layer
@@ -80,7 +80,7 @@ public ActionResults Index() {
 
 Now how you build up the data layer is up to you. I typically follow the manager or repository pattern. There are a lot of design patterns that you can follow. The choice is yours and not the intent of this blog post. The goal is to have one or more classes responsible for handling the saving, updating, deleting, and querying the data for the user interface.
 
-Create the EntityFramework [database context](https://docs.microsoft.com/en-us/ef/ef6/fundamentals/working-with-dbcontext?WT.mc_id=AZ-MVP-4024623)
+Create the EntityFramework [database context](https://docs.microsoft.com/en-us/ef/ef6/fundamentals/working-with-dbcontext?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
 
 ```cs
 namespace Contacts.Data
@@ -127,11 +127,11 @@ namespace Contacts.Data
 
 Once you moved all of the data access from the previous user interface to the new data project, you should be able to replace your database calls with Data.*method name*, like `Contacts.Data.GetContact(contactId)` using the above sample.
 
-This approach may seem a bit risky or scary since you keep replacing portions of your application. I'd be lying if I said it wasn't risky and scary. The truth is, it is risky and scary. However, you can mitigate some of the risks and make it easier to make changes in the future. Have I piqued your interest yet? That is where unit tests come in. But before we can build our unit tests, we will need to do some work on our solution to enable the mocking of our data repository classes. No, not [mock](https://www.dictionary.com/browse/mocking) them, but [mock](https://www.telerik.com/products/mocking/unit-testing.aspx) them :smile:.  Mocking complements unit testing frameworks by isolating dependencies through creating replacement objects. In our example, we will be mocking or "faking" our database calls.
+This approach may seem a bit risky or scary since you keep replacing portions of your application. I'd be lying if I said it wasn't risky and scary. The truth is, it is risky and scary. However, you can mitigate some of the risks and make it easier to make changes in the future. Have I piqued your interest yet? That is where unit tests come in. But before we can build our unit tests, we will need to do some work on our solution to enable the mocking of our data repository classes. No, not [mock](https://www.dictionary.com/browse/mocking){:target="_blank"} them, but [mock](https://www.telerik.com/products/mocking/unit-testing.aspx){:target="_blank"} them :smile:.  Mocking complements unit testing frameworks by isolating dependencies through creating replacement objects. In our example, we will be mocking or "faking" our database calls.
 
 To mock our repository, we will need to create an interface for the repository so most mocking frameworks can build the objects for it.
 
-***Note***: If you are using a commercial testing/mocking framework like [Telerik JustMock](https://www.telerik.com/products/mocking.aspx), you do not need to create the interface.  It just works.  They even have support for [mocking EntityFramework classes](https://www.telerik.com/products/mocking/mock-entity-framework.aspx).
+***Note***: If you are using a commercial testing/mocking framework like [Telerik JustMock](https://www.telerik.com/products/mocking.aspx){:target="_blank"}, you do not need to create the interface.  It just works.  They even have support for [mocking EntityFramework classes](https://www.telerik.com/products/mocking/mock-entity-framework.aspx){:target="_blank"}.
 {: .notice--info}
 
 Creating the Interface for the newly created Data library can be done in two ways, manually or automatically.  I recommend the automatic way which involves selecting the class name, clicking and choosing 'Refactor' \| 'Extract Interface'. Be sure to put the interfaces in the same class library as the models.
@@ -151,7 +151,7 @@ namespace Contacts.Domain.Interfaces
 
 ## Building a Unit Test Suite
 
-I do not intend this section to be a thorough walk-through of unit tests. I will not cover every possible scenario that you should or should not cover. The amount of unit test and the complexity of them is more of an art than a science. When building unit tests, I try to cover the [happy path](https://searchsoftwarequality.techtarget.com/definition/happy-path-testing), the exception path, and the [unhappy path](https://cucumber.io/blog/test-automation/happy-unhappy-paths-why-you-need-to-test-both/). Does it work like it's supposed to? Do I handle known and common exceptions? Do I handle none/common bad data entry? But again, your mileage may vary.
+I do not intend this section to be a thorough walk-through of unit tests. I will not cover every possible scenario that you should or should not cover. The amount of unit test and the complexity of them is more of an art than a science. When building unit tests, I try to cover the [happy path](https://searchsoftwarequality.techtarget.com/definition/happy-path-testing){:target="_blank"}, the exception path, and the [unhappy path](https://cucumber.io/blog/test-automation/happy-unhappy-paths-why-you-need-to-test-both/){:target="_blank"}. Does it work like it's supposed to? Do I handle known and common exceptions? Do I handle none/common bad data entry? But again, your mileage may vary.
 
 Here is a sample of the `GetContact` unit tests
 
@@ -203,7 +203,7 @@ public void GetContact_WithAValidId_ShouldReturnContact()
 
 Yes, I said it, create a new Web Application. However, it's not going to be as hard as it may seem. We will create the new project using the template so that most of the new "plumbing code" gets creating for us. I'll walk through the parts that are different. Since we are assuming your application was written using ASP.NET MVC, be sure to create a new Project and chose ASP.NET Core Web Application along with the "Model View Controller" type.
 
-***Tip***, while you are creating a new Web Application, you can use the application templates that are part of the [Telerik UI for ASP Core Component Suite](https://bit.ly/3yjZ9zo) of components and controls to make your development a lot easier and faster.
+***Tip***, while you are creating a new Web Application, you can use the application templates that are part of the [Telerik UI for ASP Core Component Suite](https://bit.ly/3yjZ9zo){:target="_blank"} of components and controls to make your development a lot easier and faster.
 
 ### New Web Application - Rider
 
@@ -221,7 +221,7 @@ Let's look at the folder structure and new files.
 
 #### Folders
 
-The first couple of folders for this sample are the same: Dependencies, Properties, Models, Services, and Views. I've copied the models, views, and services from my previous project.  You'll notice that one folder is missing *Content*.  That's because the files in *Content*, more so the static files, have been moved to the new *wwwroot* folder.  Here you find folders for *css*, *js*, *lib*, and *favicon.ico*.  The idea is stuff that doesn't change and is not part of the ASP.NET generated pages or logic gets placed in the *wwwroot* folder. The content in the *wwwroot* folder is served up with respect to the root of the application.  So if my application was [https://www.josephguadagno.net](https:www.josephguadagno.net), anything in the `wwwroot` would be served from [https://www.josephguadagno.net](https://www.josephguadagno.net). The `favicon.ico` would be served at [https://www.josephguadagno.net/favicon.ico](https://www.josephguadagno.net/favicon.ico). So you can move your images in this folder.  Just remember if you move your images to create some rewriting rules or mirror the path you originally had them in.
+The first couple of folders for this sample are the same: Dependencies, Properties, Models, Services, and Views. I've copied the models, views, and services from my previous project.  You'll notice that one folder is missing *Content*.  That's because the files in *Content*, more so the static files, have been moved to the new *wwwroot* folder.  Here you find folders for *css*, *js*, *lib*, and *favicon.ico*.  The idea is stuff that doesn't change and is not part of the ASP.NET generated pages or logic gets placed in the *wwwroot* folder. The content in the *wwwroot* folder is served up with respect to the root of the application.  So if my application was [https://www.josephguadagno.net](https:www.josephguadagno.net){:target="_blank"}, anything in the `wwwroot` would be served from [https://www.josephguadagno.net](https://www.josephguadagno.net){:target="_blank"}. The `favicon.ico` would be served at [https://www.josephguadagno.net/favicon.ico](https://www.josephguadagno.net/favicon.ico){:target="_blank"}. So you can move your images in this folder.  Just remember if you move your images to create some rewriting rules or mirror the path you originally had them in.
 
 #### Files
 
@@ -261,7 +261,7 @@ You'll notice that, by default, there is an *appsettings.json* and an *appsettin
 }
 ```
 
-For more on the configuration in ASP.NET Core on the [documentation](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0&WT.mc_id=DOP-MVP-4024623) page.
+For more on the configuration in ASP.NET Core on the [documentation](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0&WT.mc_id=DOP-MVP-4024623){:target="_blank"} page.
 
 ##### Program.cs
 
@@ -471,7 +471,7 @@ public void ConfigureServices(IServiceCollection services)
 }
 ```
 
-You can read more on it at [Migrate Authentication and Identity to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/migration/identity?view=aspnetcore-3.0&WT.mc_id=DOP-MVP-4024623) or [ASP.NET Core Identity 3.0 : Modifying the Identity Database](https://medium.com/@nativoplus/asp-net-core-identity-3-0-6018fc151b4)
+You can read more on it at [Migrate Authentication and Identity to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/migration/identity?view=aspnetcore-3.0&WT.mc_id=DOP-MVP-4024623){:target="_blank"} or [ASP.NET Core Identity 3.0 : Modifying the Identity Database](https://medium.com/@nativoplus/asp-net-core-identity-3-0-6018fc151b4){:target="_blank"}
 
 ## Wrap up
 

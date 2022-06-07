@@ -30,4 +30,4 @@ Overall, the other covers a lot of topics but scratches the surface with some of
 
 On a side note, I like the Questions and Further Readings section that this book has.  It's an excellent way to test if you picked up what the author wrote in the chapter. So add that with the Further Readings section to help the author drive home the point and provide the reader with additional reference materials.
 
-Purchase [Software Architecture with C# 9 and .NET 5](https://amzn.to/3eoixmu) on Amazon.
+Purchase [Software Architecture with C# 9 and .NET 5](https://amzn.to/3eoixmu){:target="_blank"} on Amazon.

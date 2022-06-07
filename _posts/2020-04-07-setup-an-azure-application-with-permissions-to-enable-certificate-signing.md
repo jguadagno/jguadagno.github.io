@@ -13,7 +13,7 @@ tags:
   - Certificate
 ---
 
-In a previous [post]({% post_url 2020-04-04-setup-code-signing-certificates-in-azure-key-vault %}), I walked through how to upload a code signing certificate to Azure Key Vault.  This post will walk you through setting up the Azure "application" so that our Azure Pipeline (future post) will be able to sign our NuGet package without having to download the package.  Thanks to [Claire](https://twitter.com/clairernovotny/status/1246876013050712064) for the advice.
+In a previous [post]({% post_url 2020-04-04-setup-code-signing-certificates-in-azure-key-vault %}), I walked through how to upload a code signing certificate to Azure Key Vault.  This post will walk you through setting up the Azure "application" so that our Azure Pipeline (future post) will be able to sign our NuGet package without having to download the package.  Thanks to [Claire](https://twitter.com/clairernovotny/status/1246876013050712064){:target="_blank"} for the advice.
 
 ## Create the Application
 
@@ -43,7 +43,7 @@ In a previous [post]({% post_url 2020-04-04-setup-code-signing-certificates-in-a
 * For 'Platform configuration, let's chose `Background process and Automation (Daemon) Application`
 * Click 'Register'
 
-Once the creation is complete, you will have to select how this application is going to identify themselves to the authenticate service. Since the tool we are going to use [NuGetKeyVaultSignTool](https://github.com/novotnyllc/NuGetKeyVaultSignTool) expects a ClientId and Secret, let's create one.
+Once the creation is complete, you will have to select how this application is going to identify themselves to the authenticate service. Since the tool we are going to use [NuGetKeyVaultSignTool](https://github.com/novotnyllc/NuGetKeyVaultSignTool){:target="_blank"} expects a ClientId and Secret, let's create one.
 
 * Select '+ New client secret'.
 

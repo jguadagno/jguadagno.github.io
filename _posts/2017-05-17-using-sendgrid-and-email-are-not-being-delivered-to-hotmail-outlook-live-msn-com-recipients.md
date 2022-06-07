@@ -15,7 +15,7 @@ tags:
   - yahoo.com
   - Web
 ---
-> _Me too, or at least I was_... While the problem I was having might not be related to SendGrid exclusively, I am going to talk about the solution.
+> *Me too, or at least I was*... While the problem I was having might not be related to SendGrid exclusively, I am going to talk about the solution.
 
 ## The Problem
 
@@ -23,19 +23,19 @@ Before I go into the solution, let's talk about the problem first. Many of you k
 
 And here lies the first problem.
 
-When an announcement email goes out to our attendees or users of the site, we need to send out about 6000 emails. I used to do this by sending the email from a web page through code using `System.Net.SMTP` via `localhost.` At first, it wasn't an issue. After a while, as Desert Code Camp grew, this became more and more of a problem. Typically the page would time out, or IIS would die or something. So I needed to find a solution. Sometime last year, probably around this time, I offloaded the processing of emails to [Azure Queue Storage](https://azure.microsoft.com/en-us/services/storage/queues/?WT.mc_id=AZ-MVP-4024623) and used [Azure WebJobs](https://docs.microsoft.com/en-us/azure/app-service-web/websites-webjobs-resources?WT.mc_id=AZ-MVP-4024623) to handle the "logic." But wait, Azure does not support sending stuff via `localhost.` And that is true! This is where [SendGrid](https://www.sendgrid.com/) comes into play. Azure provides, as of the creation of this post, a free 25,000 email per month subscription to SendGrid. For more on that, check out this [post](https://docs.microsoft.com/en-us/azure/app-service-web/sendgrid-dotnet-how-to-send-email?WT.mc_id=AZ-MVP-4024623).
+When an announcement email goes out to our attendees or users of the site, we need to send out about 6000 emails. I used to do this by sending the email from a web page through code using `System.Net.SMTP` via `localhost.` At first, it wasn't an issue. After a while, as Desert Code Camp grew, this became more and more of a problem. Typically the page would time out, or IIS would die or something. So I needed to find a solution. Sometime last year, probably around this time, I offloaded the processing of emails to [Azure Queue Storage](https://azure.microsoft.com/en-us/services/storage/queues/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} and used [Azure WebJobs](https://docs.microsoft.com/en-us/azure/app-service-web/websites-webjobs-resources?WT.mc_id=AZ-MVP-4024623){:target="_blank"} to handle the "logic." But wait, Azure does not support sending stuff via `localhost.` And that is true! This is where [SendGrid](https://www.sendgrid.com/){:target="_blank"} comes into play. Azure provides, as of the creation of this post, a free 25,000 email per month subscription to SendGrid. For more on that, check out this [post](https://docs.microsoft.com/en-us/azure/app-service-web/sendgrid-dotnet-how-to-send-email?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
 
 Now that I implemented the new Azure/SendGrid combination everything was great.
 
-Fast forward a year, to this past weekend; I announced that the next [Desert Code Camp](https://oct2017.desertcodecamp.com) was happening on Twitter and some people started submitting sessions. This is great! But I noticed that I was wasn't getting my emails about the submissions. At first, I thought, "Oh Joe, you forgot something when you 'created' the new event." It happens every time :smile:. However, this was not the case this time. Microsoft decided to [embrace](https://sendgrid.com/docs/Classroom/Deliver/Sender_Authentication/microsoft_dmarc_changes.html) something called [DMARC](http://sendgrid.com/blog/dmarc-domain-based-message-authentication-reporting-conformance/), Domain-based Message Authentication, Reporting & Conformance. In a nutshell, it checks to see if you are sending emails from the domain you claim you are sending them from, which for me was bad. Not because I was trying to be deceitful, but because I was sending emails saying they were from '_@hotmail.com_' and sending them via '_SendGrid_' because I wanted people to reply to my Hotmail address. Well, when Microsoft implemented the DMARC...
+Fast forward a year, to this past weekend; I announced that the next [Desert Code Camp](https://oct2017.desertcodecamp.com){:target="_blank"} was happening on Twitter and some people started submitting sessions. This is great! But I noticed that I was wasn't getting my emails about the submissions. At first, I thought, "Oh Joe, you forgot something when you 'created' the new event." It happens every time :smile:. However, this was not the case this time. Microsoft decided to [embrace](https://sendgrid.com/docs/Classroom/Deliver/Sender_Authentication/microsoft_dmarc_changes.html){:target="_blank"} something called [DMARC](http://sendgrid.com/blog/dmarc-domain-based-message-authentication-reporting-conformance/){:target="_blank"}, Domain-based Message Authentication, Reporting & Conformance. In a nutshell, it checks to see if you are sending emails from the domain you claim you are sending them from, which for me was bad. Not because I was trying to be deceitful, but because I was sending emails saying they were from '*@hotmail.com*' and sending them via '*SendGrid*' because I wanted people to reply to my Hotmail address. Well, when Microsoft implemented the DMARC...
 
 **What this means:** As of June 2016, you can no longer send with the From address being anything from a Microsoft address when sending to a domain that checks DMARC before accepting mail.
 
-... it saw my email as not being '_legitimate_' and did not deliver it to my inbox and probably others. 
+... it saw my email as not being '*legitimate*' and did not deliver it to my inbox and probably others.
 
 ## The Solution
 
-The answer is '[Whitelist](http://sendgrid.com/blog/dmarc-domain-based-message-authentication-reporting-conformance/)' your domains while using SendGrid. There are more detailed instructions on how to whitelist a domain using SendGrid [here](https://sendgrid.com/docs/Classroom/Basics/Whitelabel/index.html).
+The answer is '[Whitelist](http://sendgrid.com/blog/dmarc-domain-based-message-authentication-reporting-conformance/){:target="_blank"}' your domains while using SendGrid. There are more detailed instructions on how to whitelist a domain using SendGrid [here](https://sendgrid.com/docs/Classroom/Basics/Whitelabel/index.html){:target="_blank"}.
 
 ### What is Whitelabeling?
 
@@ -43,7 +43,7 @@ Whitelabeling allows you to send through your own custom domain instead of SendG
 
 ![Send Grid - Non-Whitelabeled vs. Whitelabeled](/assets/images/posts/sendgrid-whitelabeling.png){: .align-center}
 
-Example Luckily, SendGrid makes it easy to whitelist your domain(s). Here is how you do it. **Please note:** _You will need access to your domain records, you will be making changes to your TXT or CNAME entries to prove you have rights to the domain_.
+Example Luckily, SendGrid makes it easy to whitelist your domain(s). Here is how you do it. **Please note:** *You will need access to your domain records, you will be making changes to your TXT or CNAME entries to prove you have rights to the domain*.
 
 * First, log-in to your SendGrid Account
 * Click `Settings` (on the left)
@@ -53,7 +53,7 @@ Example Luckily, SendGrid makes it easy to whitelist your domain(s). Here is how
 
 ### But what about the replies to @Hotmail.com
 
-I'm glad you are still with me :smile:. This part is the easy part. Essentially, I added '_noreply@desertcodecamp.com_' as the ToAddress and added '_jguadagno@hotmail.com_' as the ReplyTo. As shown here.
+I'm glad you are still with me :smile:. This part is the easy part. Essentially, I added '*noreply@desertcodecamp.com*' as the ToAddress and added '*jguadagno@hotmail.com*' as the ReplyTo. As shown here.
 
 ```cs
 string apiKey = ConfigurationManager.AppSettings["SendGrid.ApiKey"];

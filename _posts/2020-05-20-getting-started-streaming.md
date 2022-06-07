@@ -52,7 +52,7 @@ So lesson learned, keep the running software to a minimum to avoid excess noise 
 
 ## Ready
 
-Now you are ready to stream, go for it.  Here is a quick [checklist](https://ardalis.com/streaming-checklist) of things to do just before you start your session or recording. Thanks to Steve, aka [Ardalis](https://ardalis.com/author/ssmith), for the helpful lists.
+Now you are ready to stream, go for it.  Here is a quick [checklist](https://ardalis.com/streaming-checklist){:target="_blank"} of things to do just before you start your session or recording. Thanks to Steve, aka [Ardalis](https://ardalis.com/author/ssmith){:target="_blank"}, for the helpful lists.
 
 ## Up Next
 

@@ -11,7 +11,7 @@ tags:
   - Init
 ---
 
-**Note:** This post was originally posted on the Telerik [blog](https://www.telerik.com/blogs/what-i-like-about-csharp-9).
+**Note:** This post was originally posted on the Telerik [blog](https://www.telerik.com/blogs/what-i-like-about-csharp-9){:target="_blank"}.
 {: .notice--info}
 
 I've been a software engineer for 20+ years, and as the adage goes, *You can't teach an old dog new tricks*. However, if there is one thing I learned in the 20+ years is that I am ***ALWAYS learning***. There are always new technologies coming out, new languages, and new products to solve complex problems. .NET 5 introduced C# 9, which had many new language features. So it was time for me to learn some new tricks and I dove into .NET 5's C# 9 language additions.
@@ -24,7 +24,7 @@ Let's take a look at some of the new language features.
 
 The new `record` keyword defines a reference type that provides some built-in functionality for representing data. You might be thinking that this sounds a lot like a `class`, and you would be correct. It does. However, the intent is to provide smaller and more concise types to represent immutable data. I like to think of them as a type used primarily to transfer data and not have a lot of methods or data manipulation.
 
-More on C# 9 [records](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#record-types?WT.mc_id=AZ-MVP-4024623).
+More on C# 9 [records](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#record-types?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
 
 ### Defining a Record
 
@@ -305,7 +305,7 @@ This code now clearly states what the intent of the `program.cs` is without the 
 
 ## New Pattern Matching
 
-While [pattern matching](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns?WT.mc_id=AZ-MVP-4024623) is not new to C# 9, C# 9 did add a few more patterns.
+While [pattern matching](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is not new to C# 9, C# 9 did add a few more patterns.
 
 Logical patterns:
 
@@ -371,7 +371,7 @@ This syntax does take some getting used to. I think in the long it leads to code
 
 ## Wrap Up
 
-Wow, that was a lot. C#9 added [Record Types](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#record-types?WT.mc_id=AZ-MVP-4024623), [Init Only](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#init-only-setters?WT.mc_id=AZ-MVP-4024623) setters, [Top-Level](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#top-level-statements?WT.mc_id=AZ-MVP-4024623) programs, enhancements to [pattern matching](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#pattern-matching-enhancements?WT.mc_id=AZ-MVP-4024623), and [more](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9?WT.mc_id=AZ-MVP-4024623).  
+Wow, that was a lot. C#9 added [Record Types](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#record-types?WT.mc_id=AZ-MVP-4024623){:target="_blank"}, [Init Only](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#init-only-setters?WT.mc_id=AZ-MVP-4024623){:target="_blank"} setters, [Top-Level](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#top-level-statements?WT.mc_id=AZ-MVP-4024623){:target="_blank"} programs, enhancements to [pattern matching](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#pattern-matching-enhancements?WT.mc_id=AZ-MVP-4024623){:target="_blank"}, and [more](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.  
 
 I hope you take some time and play around with these new language features.  Doing so will reduce your keystrokes and help your code to be readable in the long run.
 

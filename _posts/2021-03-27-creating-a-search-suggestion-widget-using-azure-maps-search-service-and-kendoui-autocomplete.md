@@ -20,20 +20,20 @@ When using Google or Bing Maps to lookup an address or point of interest, both d
 
 ![Bing Autocomplete Suggestions](/assets/images/posts/kendo-autocomplete-bing-search.png){: .align-center}
 
-In this post, I'll walk you through how you can implement the same functionality using HTML, JavaScript, [Azure Map Search](https://docs.microsoft.com/en-us/rest/api/maps/search?WT.mc_id=AZ-MVP-4024623) service, and [Telerik Kendo UI](https://demos.telerik.com/kendo-ui/) [Autocomplete](https://demos.telerik.com/kendo-ui/autocomplete/index) control.  You'll be able to download the completed code at the end of the post.
+In this post, I'll walk you through how you can implement the same functionality using HTML, JavaScript, [Azure Map Search](https://docs.microsoft.com/en-us/rest/api/maps/search?WT.mc_id=AZ-MVP-4024623){:target="_blank"} service, and [Telerik Kendo UI](https://demos.telerik.com/kendo-ui/){:target="_blank"} [Autocomplete](https://demos.telerik.com/kendo-ui/autocomplete/index){:target="_blank"} control.  You'll be able to download the completed code at the end of the post.
 
-If you want to watch me do this "live" instead, check out the [video](https://youtu.be/cmpzZQa76rs).
+If you want to watch me do this "live" instead, check out the [video](https://youtu.be/cmpzZQa76rs){:target="_blank"}.
 
 ## Software Versions
 
 This post was written for the following software and versions listed below.
 
-* [Kendo UI](https://www.telerik.com/kendo-ui) - version 2021.1.224
-* [Azure Map Search](https://docs.microsoft.com/en-us/rest/api/maps/search?WT.mc_id=AZ-MVP-4024623) service - version 1.0
+* [Kendo UI](https://www.telerik.com/kendo-ui){:target="_blank"} - version 2021.1.224
+* [Azure Map Search](https://docs.microsoft.com/en-us/rest/api/maps/search?WT.mc_id=AZ-MVP-4024623){:target="_blank"} service - version 1.0
 
 ## Getting Started
 
-The post assumes you already have an Azure Maps account with a corresponding Primary Key and/or Client Id. If you don't have a key, you can obtain one [here](https://docs.microsoft.com/en-us/azure/azure-maps/quick-demo-map-app#get-the-primary-key-for-your-account?WT.mc_id=AZ-MVP-4024623). In addition to an Azure Maps account, you need to have a licensed copy of the [Telerik Kendo UI](https://www.telerik.com/purchase/kendo-ui) suite.
+The post assumes you already have an Azure Maps account with a corresponding Primary Key and/or Client Id. If you don't have a key, you can obtain one [here](https://docs.microsoft.com/en-us/azure/azure-maps/quick-demo-map-app#get-the-primary-key-for-your-account?WT.mc_id=AZ-MVP-4024623){:target="_blank"}. In addition to an Azure Maps account, you need to have a licensed copy of the [Telerik Kendo UI](https://www.telerik.com/purchase/kendo-ui){:target="_blank"} suite.
 
 If you are ready, open up your IDE of choice, Visual Studio, Visual Studio Code, JetBrains Rider, or just plan Notepad/TextEdit to get started.
 
@@ -127,8 +127,8 @@ const defaultZoom = 15;
 | Variable Name | Type |  Purpose |
 | --- | --- | --- |
 | `map` | The Azure Map map | Display the map control |
-| `azureSearchDataSource` | [Kendo UI DataSource](https://docs.telerik.com/kendo-ui/framework/datasource/overview) | Used to call the Azure Map Search service from the Kendo UI Autocomplete control |
-| `azureMapDataSource` | [Azure Maps DataSource](https://docs.microsoft.com/en-us/azure/azure-maps/create-data-source-web-sdk?WT.mc_id=AZ-MVP-4024623) | Used to draw the pushpins on the layers of the map |
+| `azureSearchDataSource` | [Kendo UI DataSource](https://docs.telerik.com/kendo-ui/framework/datasource/overview){:target="_blank"} | Used to call the Azure Map Search service from the Kendo UI Autocomplete control |
+| `azureMapDataSource` | [Azure Maps DataSource](https://docs.microsoft.com/en-us/azure/azure-maps/create-data-source-web-sdk?WT.mc_id=AZ-MVP-4024623){:target="_blank"} | Used to draw the pushpins on the layers of the map |
 | `mapCenter` | Array of numbers | Used to center the map and provide hints of where to search. The first number is the longitude and the second is the latitude. In this example, -73.985130, 40.758896 is Time Square, Manhattan, NY |
 | `defaultZoom` | A number or string | Used to tell the map control at what level do we want the map control to zoom in |
 
@@ -160,11 +160,11 @@ Line 2 is the name of the `div` you want the map to be rendered in.  You'll noti
 
 Line 3 and 4 use the variables we created in the previous step to center the map and set the zoom level.
 
-Lines 5 - 7, we create the map authentication. For more details on the map's customization, check out the Azure Map documentation on [creating a map](https://docs.microsoft.com/en-us/azure/azure-maps/map-create?WT.mc_id=AZ-MVP-4024623).
+Lines 5 - 7, we create the map authentication. For more details on the map's customization, check out the Azure Map documentation on [creating a map](https://docs.microsoft.com/en-us/azure/azure-maps/map-create?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
 
 In lines 11 - 16, we attach a `ready` event to map control, which instructs the Azure Maps controls to execute the code when the map is ready, meaning displayed.
 
-Lines 12 - 15, we add a data source to the map, which has a [Symbol Layer](https://docs.microsoft.com/en-us/azure/azure-maps/map-add-pin?WT.mc_id=AZ-MVP-4024623) in it. This is done so we can draw a pushpin on the center of the map.
+Lines 12 - 15, we add a data source to the map, which has a [Symbol Layer](https://docs.microsoft.com/en-us/azure/azure-maps/map-add-pin?WT.mc_id=AZ-MVP-4024623){:target="_blank"} in it. This is done so we can draw a pushpin on the center of the map.
 
 We're almost there!
 
@@ -213,11 +213,11 @@ Sample search query
 
 `https://atlas.microsoft.com/search/poi/json?typeahead=true&api-version=1&view=Auto&language=en-US&countrySet=US&subscription-key=replace-me&lon=-73.985130&lat=40.758896&query=macy`
 
-For more details on the search parameters available, please look at the [Get Search POI](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi?WT.mc_id=AZ-MVP-4024623) documentation.
+For more details on the search parameters available, please look at the [Get Search POI](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi?WT.mc_id=AZ-MVP-4024623){:target="_blank"} documentation.
 
 ### The Azure Maps Search service response
 
-Assuming the request is correct, the service responds with JSON data. The response has two properties `summary` and `results`. The `summary` section is just that, a summary of the requests and the results defined as a [SearchPoiSummary](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi#searchpoisummary).  The `results` is an array of [SearchPoiResult](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi#searchpoiresult?WT.mc_id=AZ-MVP-4024623) items.
+Assuming the request is correct, the service responds with JSON data. The response has two properties `summary` and `results`. The `summary` section is just that, a summary of the requests and the results defined as a [SearchPoiSummary](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi#searchpoisummary){:target="_blank"}.  The `results` is an array of [SearchPoiResult](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi#searchpoiresult?WT.mc_id=AZ-MVP-4024623){:target="_blank"} items.
 
 ```json
 {
@@ -341,11 +341,11 @@ Line 4 is the field to use as the value for *selected*. The value is helpful for
 
 Line 5 is the text field to display in the control once an item is selected.
 
-For additional configuration items for the Autocomplete widget, check out the [documentation](https://docs.telerik.com/kendo-ui/api/javascript/ui/autocomplete).
+For additional configuration items for the Autocomplete widget, check out the [documentation](https://docs.telerik.com/kendo-ui/api/javascript/ui/autocomplete){:target="_blank"}.
 
 ### DataSource
 
-Now that widget is created, we need to create a data source to connect the Autocomplete widget with the Azure Maps Search service.  This is where the shared utility of the [DataSource](https://docs.telerik.com/kendo-ui/framework/datasource/overview) comes in.  I'm not going to go into great detail of the utility because their documentation is great.
+Now that widget is created, we need to create a data source to connect the Autocomplete widget with the Azure Maps Search service.  This is where the shared utility of the [DataSource](https://docs.telerik.com/kendo-ui/framework/datasource/overview){:target="_blank"} comes in.  I'm not going to go into great detail of the utility because their documentation is great.
 
 Let's go and create the DataSource.  Just before the `$('#queryText').kendoAutoComplete({` code we are going to create and config the DataSource utility.
 
@@ -357,7 +357,7 @@ This initializes the DataSource utility.  Now, let's config it.
 
 In between the curly braces `{}`, we are going to add the `serverFiltering` property and set it to `true`.  This is ***very*** important. Setting the `serverFiltering` to `true` instructs the DataSource that it needs to get the data from the server by making another call any time the search (or input changes). Otherwise, the control will filter with a locally cache version of the data set. In this case, we don't want to use a locally cache copy because the data will most likely not match.
 
-Next, we have to set the `transport` property.  The [transport](https://docs.telerik.com/kendo-ui/api/javascript/data/datasource/configuration/transport) is used to interact with the data source, in our case, the Azure Maps Search service.  We are going to want to configure the `read` property of the `transport` object.  Since the DataSource utility supports CRUD operations, the `transport` object supports read, write, update, and delete.
+Next, we have to set the `transport` property.  The [transport](https://docs.telerik.com/kendo-ui/api/javascript/data/datasource/configuration/transport){:target="_blank"} is used to interact with the data source, in our case, the Azure Maps Search service.  We are going to want to configure the `read` property of the `transport` object.  Since the DataSource utility supports CRUD operations, the `transport` object supports read, write, update, and delete.
 
 Our transport section looks like this.
 
@@ -416,7 +416,7 @@ Now, you can go back to the initialization of the AutoComplete widget and assign
 
 ### Template
 
-Now that we know the data structure returned let's display some additional data in the search suggestion.  For this example, I would like to display the name of the suggestion, the `poi.name`, and the address `address.freeformAddress`. Fortunately, the Autocomplete widget, and many other widgets in the suite, provide a templating engine to help change the look.  We are going to use the [template](https://docs.telerik.com/kendo-ui/api/javascript/ui/autocomplete/configuration/template) property.
+Now that we know the data structure returned let's display some additional data in the search suggestion.  For this example, I would like to display the name of the suggestion, the `poi.name`, and the address `address.freeformAddress`. Fortunately, the Autocomplete widget, and many other widgets in the suite, provide a templating engine to help change the look.  We are going to use the [template](https://docs.telerik.com/kendo-ui/api/javascript/ui/autocomplete/configuration/template){:target="_blank"} property.
 
 Explaining everything possible is well beyond this blog post, so I'll cover some of our use.  Somewhere in the body of the `autocomplete.html` page, create a template like this.
 
@@ -494,16 +494,16 @@ In about 100 lines of *our* code, we were able to use the Kendo UI Autocomplete 
 
 ## Completed Code
 
-The completed code for this post, less the `azurekey.js` file, can be found at [https://github.com/jguadagno/kendo-autocomplete-azure-maps-search](https://github.com/jguadagno/kendo-autocomplete-azure-maps-search)
+The completed code for this post, less the `azurekey.js` file, can be found at [https://github.com/jguadagno/kendo-autocomplete-azure-maps-search](https://github.com/jguadagno/kendo-autocomplete-azure-maps-search){:target="_blank"}
 
 ## Video
 
-You can watch one of the sessions of `[Coding with JoeG](https://twitch.tv/jguadagno)' where I demonstrated this.
+You can watch one of the sessions of `[Coding with JoeG](https://twitch.tv/jguadagno){:target="_blank"}' where I demonstrated this.
 
 {% include video id="cmpzZQa76rs" provider="youtube" %}
 
 ## References
 
-* [Search for a location using Azure Maps Search service](https://docs.microsoft.com/en-us/azure/azure-maps/how-to-search-for-address?WT.mc_id=AZ-MVP-4024623)
-* [Kendo UI](https://www.telerik.com/kendo-ui)
-* [Kendo UI Autocomplete Widget](https://demos.telerik.com/kendo-ui/autocomplete/index)
+* [Search for a location using Azure Maps Search service](https://docs.microsoft.com/en-us/azure/azure-maps/how-to-search-for-address?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [Kendo UI](https://www.telerik.com/kendo-ui){:target="_blank"}
+* [Kendo UI Autocomplete Widget](https://demos.telerik.com/kendo-ui/autocomplete/index){:target="_blank"}

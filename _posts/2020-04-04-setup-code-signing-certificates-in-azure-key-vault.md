@@ -20,22 +20,22 @@ In this post, we'll take a look at how to store Code Signing Certificates in an 
 
 ### Code Signing Certificate
 
-What is a code signing certificate you ask? I'm glad you asked! According to [DigiCert](https://digicert.com/code-signing/), code signing certificates are used by software developers to digitally sign apps, drivers, and software programs as a way for end-users to verify that the code they receive has not been altered or compromised by a third party. They include your signature, your company's name, and if desired, a timestamp.
+What is a code signing certificate you ask? I'm glad you asked! According to {:target="_blank"} code signing certificates are used by software developers to digitally sign apps, drivers, and software programs as a way for end-users to verify that the code they receive has not been altered or compromised by a third party. They include your signature, your company's name, and if desired, a timestamp.
 
 Essentially, they are a way to validate that source code, packages, executables, etc., comes from who it says it's from, similarly to how certificates on a web site authenticate the web site when you go to HTTPS enabled web site.
 
-You can purchase a code signing certificate from a few different sources like [DigiCert](https://digicert.com/code-signing/), who I have my code certificate from.  I am not going to cover how to purchase one.  If you do not have one, you can purchase one with DigiCert, GoDaddy, or several other companies.  Please note, they can be expensive for an individual.
+You can purchase a code signing certificate from a few different sources like [DigiCert](https://digicert.com/code-signing/){:target="_blank"}, who I have my code certificate from.  I am not going to cover how to purchase one.  If you do not have one, you can purchase one with DigiCert, GoDaddy, or several other companies.  Please note, they can be expensive for an individual.
 
 ### Azure Key Vault
 
-[Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview?WT.mc_id=AZ-MVP-4024623) helps solve the following problems:
+[Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview?WT.mc_id=AZ-MVP-4024623){:target="_blank"} helps solve the following problems:
 
 * **Secrets Management** - Azure Key Vault can be used to Securely store and tightly control access to tokens, passwords, certificates, API keys, and other secrets
 * **Key Management** - Azure Key Vault can also be used as a Key Management solution. Azure Key Vault makes it easy to create and control the encryption keys used to encrypt your data.
 * **Certificate Management** - Azure Key Vault is also a service that lets you easily provision, manage, and deploy public and private Transport Layer Security/Secure Sockets Layer (TLS/SSL) certificates for use with Azure and your internal connected resources.
 * **Store secrets backed by Hardware Security Modules** - The secrets and keys can be protected either by software or FIPS 140-2 Level 2 validated HSMs
 
-Like most services on Azure, there is a cost.  Check out the [pricing](https://azure.microsoft.com/en-us/pricing/details/key-vault/?WT.mc_id=AZ-MVP-4024623) for Azure Key Vault.
+Like most services on Azure, there is a cost.  Check out the [pricing](https://azure.microsoft.com/en-us/pricing/details/key-vault/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} for Azure Key Vault.
 
 ## Getting Started
 
@@ -80,9 +80,9 @@ Click on 'Go to resource'
 
 ## Upload Certificate
 
-There are a few ways to get a certificate into Azure Key Vault as outlined by the page [Certificate creation methods](https://docs.microsoft.com/en-us/azure/key-vault/create-certificate).  The easiest would probably be the 'Partnered CA Providers' method.  But who likes easy?
+There are a few ways to get a certificate into Azure Key Vault as outlined by the page [Certificate creation methods](https://docs.microsoft.com/en-us/azure/key-vault/create-certificate){:target="_blank"}.  The easiest would probably be the 'Partnered CA Providers' method.  But who likes easy?
 
-I chose to import my certificate into Azure Key Vault. This requires importing the certificate into the certificate store on my local computer first, then exporting the certificate to upload/import it into the Azure Key Vault. Since I purchased my certificate from DigiCert, I could use their [DigiCert Certificate Utility](https://www.digicert.com/kb/code-signing/import-export-authenticode-code-signing-certificates.htm). The steps below assume that you have a '*pfx*' file with your private secret, aka password for the certificate.
+I chose to import my certificate into Azure Key Vault. This requires importing the certificate into the certificate store on my local computer first, then exporting the certificate to upload/import it into the Azure Key Vault. Since I purchased my certificate from DigiCert, I could use their [DigiCert Certificate Utility](https://www.digicert.com/kb/code-signing/import-export-authenticode-code-signing-certificates.htm){:target="_blank"}. The steps below assume that you have a '*pfx*' file with your private secret, aka password for the certificate.
 
 Back to the Azure Key Vault page do the following:
 

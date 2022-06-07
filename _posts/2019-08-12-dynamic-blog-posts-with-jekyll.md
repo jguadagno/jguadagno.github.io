@@ -7,11 +7,11 @@ tags:
   - Jekyll
 ---
 
-Well "dynamic-ish". The [Speaking Engagements]({% link _pages/speaking-engagements.md %}) page on this site uses [data files](https://jekyllrb.com/docs/datafiles/) to generate the list of upcoming and previous speaking engagements. Which generates the content shown here.
+Well "dynamic-ish". The [Speaking Engagements]({% link _pages/speaking-engagements.md %}) page on this site uses [data files](https://jekyllrb.com/docs/datafiles/){:target="_blank"} to generate the list of upcoming and previous speaking engagements. Which generates the content shown here.
 
 ![image-center](/assets/images/posts/data-files-speaking-engagements.png "Speaking Engagements"){: .align-center}
 
-Setting up the data files and corresponding markdown files are pretty easy.  First, let's get started with the data file. Jekyll supports loading data from [YAML](https://yaml.org), [JSON](https://www.json.org), [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), and [TSV](https://en.wikipedia.org/wiki/Tab-separated_values) files located in the `_data` directory. **Note**, if you use a CSV or TSV files, there must be a header row in the file.  I used a Json file for this examples and named it `engagements.json`. You can view the full [engagements.json](https://github.com/jguadagno/jguadagno.github.io/blob/master/_data/engagements.json) on Github. Below is a excerpt of the file for sake a brevity.
+Setting up the data files and corresponding markdown files are pretty easy.  First, let's get started with the data file. Jekyll supports loading data from [YAML](https://yaml.org){:target="_blank"}, [JSON](https://www.json.org){:target="_blank"}, [CSV](https://en.wikipedia.org/wiki/Comma-separated_values){:target="_blank"}, and [TSV](https://en.wikipedia.org/wiki/Tab-separated_values){:target="_blank"} files located in the `_data` directory. **Note**, if you use a CSV or TSV files, there must be a header row in the file.  I used a Json file for this examples and named it `engagements.json`. You can view the full [engagements.json](https://github.com/jguadagno/jguadagno.github.io/blob/master/_data/engagements.json){:target="_blank"} on Github. Below is a excerpt of the file for sake a brevity.
 
 ### Engagements.json
 
@@ -62,7 +62,7 @@ Since I wanted to manipulate the lists of engagements, separate current engageme
 {% endraw %}
 ```
 
-The next step is to iterate/loop through all of the engagements in the `sortedCurrentEngagements`.  This is where the flexibility of Jekyll and the [Liquid](https://shopify.github.io/liquid/) template engine come to play. We'll use the [Iteration](https://shopify.github.io/liquid/tags/iteration/) tag within the Liquid templates to iterate through the engagements.
+The next step is to iterate/loop through all of the engagements in the `sortedCurrentEngagements`.  This is where the flexibility of Jekyll and the [Liquid](https://shopify.github.io/liquid/){:target="_blank"} template engine come to play. We'll use the [Iteration](https://shopify.github.io/liquid/tags/iteration/){:target="_blank"} tag within the Liquid templates to iterate through the engagements.
 
 ```markdown
 {% raw %}
@@ -82,6 +82,6 @@ For the previous engagements, we just create another variable, similar to `sorte
 {% endraw %}
 ```
 
-You can see the entire [speaking-engagements.md](https://github.com/jguadagno/jguadagno.github.io/blob/master/_pages/speaking-engagements.md) file on Github.
+You can see the entire [speaking-engagements.md](https://github.com/jguadagno/jguadagno.github.io/blob/master/_pages/speaking-engagements.md){:target="_blank"} file on Github.
 
-For more info on this, check out the [data files](https://jekyllrb.com/docs/datafiles/) documentation on the [Jekyll](https://jekyllrb.com/) [docs](https://jekyllrb.com/docs/) site.
+For more info on this, check out the [data files](https://jekyllrb.com/docs/datafiles/){:target="_blank"} documentation on the [Jekyll](https://jekyllrb.com/){:target="_blank"} [docs](https://jekyllrb.com/docs/){:target="_blank"} site.

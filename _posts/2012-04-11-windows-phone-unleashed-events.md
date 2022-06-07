@@ -9,8 +9,8 @@ categories:
 ---
 There are two events Windows Phone Unleashed events coming to the Phoenix metropolitan area in May. Please register soon before the events sell out. Registration and prerequisites can be found next to each of the events.
 
-* [Game Development](#game-developers) by [Dan Wahlin](http://weblogs.asp.net/dwahlin/) May 5th, Tempe, AZ. [Register](http://www.winphoneunleashed.com/register?ticketType=49ec85c5-afc2-4c92-91c4-cd73af3a9453)
-* [Business Application](#business-applications-developers) Development by Joseph Guadagno, May 12th, Chandler, AZ. [Register](http://www.winphoneunleashed.com/register?ticketType=0dd86188-b195-4c30-9285-969d81a89e18)
+* [Game Development](#game-developers) by [Dan Wahlin](http://weblogs.asp.net/dwahlin/){:target="_blank"} May 5th, Tempe, AZ. [Register](http://www.winphoneunleashed.com/register?ticketType=49ec85c5-afc2-4c92-91c4-cd73af3a9453){:target="_blank"}
+* [Business Application](#business-applications-developers){:target="_blank"} Development by Joseph Guadagno, May 12th, Chandler, AZ. [Register](http://www.winphoneunleashed.com/register?ticketType=0dd86188-b195-4c30-9285-969d81a89e18){:target="_blank"}
 
 ## Game Developers
 

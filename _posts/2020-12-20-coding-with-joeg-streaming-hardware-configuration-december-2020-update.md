@@ -14,13 +14,13 @@ I've listed out all of the equipment that I use to stream 'Coding with JoeG' on 
 
 ## Computer Equipment
 
-I've learned a little bit and upgraded my hardware setup.  Now I use a more powerful laptop with more memory and a better video card.  I now have a [Dell Precision 5540](https://www.dell.com/en-us/work/shop/cty/pdp/spd/precision-15-5540-laptop/xctop554015us?gacd=9646510-1069-5763017-266828445-0&dgc=st&gclid=bd6cc4f26da8178727499b2d04620654&gclsrc=3p.ds&ds_rl=1282789&msclkid=bd6cc4f26da8178727499b2d04620654) laptop.  The extra memory is key when you are using one pc. At minimum when I stream, I am running JetBrains Rider, StreamLabs OBS, and Microsoft Edge. Having the extra members keeps the operating system from swapping applications to the hard drive.
+I've learned a little bit and upgraded my hardware setup.  Now I use a more powerful laptop with more memory and a better video card.  I now have a [Dell Precision 5540](https://www.dell.com/en-us/work/shop/cty/pdp/spd/precision-15-5540-laptop/xctop554015us?gacd=9646510-1069-5763017-266828445-0&dgc=st&gclid=bd6cc4f26da8178727499b2d04620654&gclsrc=3p.ds&ds_rl=1282789&msclkid=bd6cc4f26da8178727499b2d04620654){:target="_blank"} laptop.  The extra memory is key when you are using one pc. At minimum when I stream, I am running JetBrains Rider, StreamLabs OBS, and Microsoft Edge. Having the extra members keeps the operating system from swapping applications to the hard drive.
 
 The next big change is the video card. This laptop has a higher-end (for laptops) video card, the NVIDIA Quadro T2000.
 
 ### Streaming PC
 
-A [Dell Precision 5540](https://www.dell.com/en-us/work/shop/cty/pdp/spd/precision-15-5540-laptop/xctop554015us?gacd=9646510-1069-5763017-266828445-0&dgc=st&gclid=bd6cc4f26da8178727499b2d04620654&gclsrc=3p.ds&ds_rl=1282789&msclkid=bd6cc4f26da8178727499b2d04620654) with the specs of:
+A [Dell Precision 5540](https://www.dell.com/en-us/work/shop/cty/pdp/spd/precision-15-5540-laptop/xctop554015us?gacd=9646510-1069-5763017-266828445-0&dgc=st&gclid=bd6cc4f26da8178727499b2d04620654&gclsrc=3p.ds&ds_rl=1282789&msclkid=bd6cc4f26da8178727499b2d04620654){:target="_blank"} with the specs of:
 
 * Intel i9-9880H (2.30Ghz) - 8 Cores
 * 32 Gb of memory
@@ -56,7 +56,7 @@ A microphone is probably the one piece of hardware that I recommend you buy, not
 ***NOTE*** This is no longer used since I only use one PC.
 {: .notice--info}
 
-View on [Manufacturer Site](https://www.elgato.com/en/gaming/game-capture-hd60-s-plus){:target="_blank"}
+View on [Manufacturer Site](https://www.elgato.com/en/gaming/game-capture-hd60-s-plus){:target="_blank"}{:target="_blank"}
 View on [Amazon](https://amzn.to/2WOiVTi){:target="_blank"}
 
 ![Elgato Game Capture HD60 S+](/assets/images/posts/streaming-equipment-hd60.jpg){: .align-center}

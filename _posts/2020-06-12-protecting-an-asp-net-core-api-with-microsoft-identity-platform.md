@@ -10,21 +10,21 @@ tags:
   - Managed Identity
   - Entra
 ---
-[Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web) is a library which contains a set of reusable classes used in conjunction with ASP.NET Core for integrating with the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623) (formerly *Azure AD v2.0 endpoint*) and [AAD B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/?WT.mc_id=AZ-MVP-4024623).
+[Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web){:target="_blank"} is a library which contains a set of reusable classes used in conjunction with ASP.NET Core for integrating with the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} (formerly *Azure AD v2.0 endpoint*) and [AAD B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
 
 This library is for specific usage with:
 
-- [Web applications](https://github.com/AzureAD/microsoft-identity-web/wiki/web-apps), which sign in users and, optionally, call web APIs
-- [Protected web APIs](https://github.com/AzureAD/microsoft-identity-web/wiki/web-apis), which optionally call protected downstream web APIs
+- [Web applications](https://github.com/AzureAD/microsoft-identity-web/wiki/web-apps){:target="_blank"}, which sign in users and, optionally, call web APIs
+- [Protected web APIs](https://github.com/AzureAD/microsoft-identity-web/wiki/web-apis){:target="_blank"}, which optionally call protected downstream web APIs
 
-**Note!** This post was written based on a preview version of the [Microsoft Identity Web](https://github.com/AzureAD/microsoft-identity-web) library, version [0.1.4-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.1.4-preview). It has been updated to version [0.2.0-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.2.0-preview). Your experience may vary!
+**Note!** This post was written based on a preview version of the [Microsoft Identity Web](https://github.com/AzureAD/microsoft-identity-web){:target="_blank"} library, version [0.1.4-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.1.4-preview){:target="_blank"}. It has been updated to version [0.2.0-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.2.0-preview){:target="_blank"}. Your experience may vary!
 {: .notice--warning}
 
 ## Prerequisites
 
-- An Azure account with an active subscription. [Create an account for free](https://azure.microsoft.com/free/?ref=microsoft.com&utm_source=microsoft.com&utm_medium=docs&utm_campaign=visualstudio&WT.mc_id=AZ-MVP-4024623).
-- An [Azure AD tenant](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant?WT.mc_id=AZ-MVP-4024623).
-- An ASP.NET Core Web Api.  If you need one, you can start with the [Contacts](https://www.github.com/jguadagno/contacts) application at this [commit](https://github.com/jguadagno/Contacts/commit/e34ff477146c336a47eae141de31cede197650cf).
+- An Azure account with an active subscription. [Create an account for free](https://azure.microsoft.com/free/?ref=microsoft.com&utm_source=microsoft.com&utm_medium=docs&utm_campaign=visualstudio&WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+- An [Azure AD tenant](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+- An ASP.NET Core Web Api.  If you need one, you can start with the [Contacts](https://www.github.com/jguadagno/contacts){:target="_blank"} application at this [commit](https://github.com/jguadagno/Contacts/commit/e34ff477146c336a47eae141de31cede197650cf){:target="_blank"}.
 
 ## Getting Started with Microsoft Identity Platform
 
@@ -74,7 +74,7 @@ Go back to your tenant. You should be able to click on the name of the tenant to
 | --- | --- | --- |
 | Name | Value | Description |
 | Name | `Postman Client` | This is the name of this client.  It should be something that is clear for you. You may be adding more than one |
-| Supported account types | Accounts in any organizational directory (Any Azure AD directory - Multitenant) and personal Microsoft accounts (e.g. Skype, Xbox) | For more details on account types please visit [Register a new application using the Azure portal](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app#register-a-new-application-using-the-azure-portal) |
+| Supported account types | Accounts in any organizational directory (Any Azure AD directory - Multitenant) and personal Microsoft accounts (e.g. Skype, Xbox) | For more details on account types please visit [Register a new application using the Azure portal](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app#register-a-new-application-using-the-azure-portal){:target="_blank"} |
 | Platform configuration | `Client Application (Web, iOS, Android, Desktop+Devices)` ||
 
 - Click 'Register'
@@ -83,7 +83,7 @@ Because we chose, *Client Application*, for the platform configuration, we are d
 
 - Click '+ Add a platform'
 
-For this post, we are going to be using [Postman](https://www.getpostman.com) for validating our Api authentication so I am choosing 'Web'.
+For this post, we are going to be using [Postman](https://www.getpostman.com){:target="_blank"} for validating our Api authentication so I am choosing 'Web'.
 
 - Click 'Web'
 
@@ -179,7 +179,7 @@ That should be it for the portal.  On to the application.
 
 ### ASP.NET Core Web API application
 
-You'll need to make 5 changes to your ASP.NET Core Web API. First step is to install the [Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web) package in your API package.  
+You'll need to make 5 changes to your ASP.NET Core Web API. First step is to install the [Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web){:target="_blank"}package in your API package.  
 
 ```bash
 Install-Package Microsoft.Identity.Web -Version 0.2.0-preview
@@ -254,7 +254,7 @@ Note, if you do not provide other scopes or don't add this scope to any other me
 
 ### Configure Postman
 
-If you don't have Postman, you get download it [here](https://www.postman.com). We are using Postman to validate the authentication and authorization of the application.
+If you don't have Postman, you get download it [here](https://www.postman.com){:target="_blank"}. We are using Postman to validate the authentication and authorization of the application.
 
 Add a new request in Postman to get the contacts which will call the `\Contacts` end point.
 
@@ -286,7 +286,7 @@ After authenticating with your Microsoft or Domain account, you will be presente
 
 ![Protect an Api - Postman - Permission Concent](/assets/images/posts/protect-api-login-permissions.png){: .align-center}
 
-After you click 'Yes' you will be presented with the 'Manage Access Tokens' screen in Postman. Click 'Use Token'.  If you are curious what is in that token, visit [jwt.ms](https://jwt.ms) and paste the contents of that token into the textbox.
+After you click 'Yes' you will be presented with the 'Manage Access Tokens' screen in Postman. Click 'Use Token'.  If you are curious what is in that token, visit [jwt.ms](https://jwt.ms){:target="_blank"} and paste the contents of that token into the textbox.
 
 At this point you should be able to click on 'Send'.
 

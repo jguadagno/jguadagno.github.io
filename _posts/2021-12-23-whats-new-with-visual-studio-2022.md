@@ -11,7 +11,7 @@ tags:
   - Visual Studio 2022
   - dotnet
 ---
-**Note:** This post was originally posted on the Telerik [blog](https://www.telerik.com/blogs/whats-new-visual-studio-2022).
+**Note:** This post was originally posted on the Telerik [blog](https://www.telerik.com/blogs/whats-new-visual-studio-2022){:target="_blank"}.
 {: .notice--info}
 
 Visual Studio has had its first major release in about 18 months (depending on how you look at it) :smile:. This release adds a ton of new features and capabilities to the IDE. Now, is a great time to start learning about them.
@@ -20,8 +20,8 @@ Visual Studio has had its first major release in about 18 months (depending on h
 
 The user experience of the IDE has been updated to be more consistent and more user friendly. This includes new icons, new fonts, new personalization, and more.
 
-- [Cascadia Code](https://github.com/microsoft/cascadia-code#welcome) font is now the default font for the editor.
-- Visual Studio now integrates with [Accessibility Insights](https://accessibilityinsights.io/) to help you find accessibility issues in your code.
+- [Cascadia Code](https://github.com/microsoft/cascadia-code#welcome){:target="_blank"} font is now the default font for the editor.
+- Visual Studio now integrates with [Accessibility Insights](https://accessibilityinsights.io/){:target="_blank"} to help you find accessibility issues in your code.
 
 ### New Icons
 
@@ -35,7 +35,7 @@ You've probably noticed in the image above that there are icons for a light and 
 
 The dark theme has been updated also to better align with the Microsoft design guidelines and improve accessibility.
 
-Visual Studio now includes a [Theme Converter](https://github.com/microsoft/theme-converter-for-vs) which converts Visual Studio Code themes to Visual Studio themes.
+Visual Studio now includes a [Theme Converter](https://github.com/microsoft/theme-converter-for-vs){:target="_blank"} which converts Visual Studio Code themes to Visual Studio themes.
 
 ### Inlay Hints
 
@@ -55,7 +55,7 @@ You might be saying that all these user interfaces are nice but Visual Studio is
 
 Solution loading and file searching is now faster as well. Visual Studio now stores additional information about the solution in the .sln file. This information is used to speed up the loading of the solution. This information is also used to speed up the file searching.
 
-To continue on the speeding up Visual Studio theme, Microsoft also improved the *[Fast up to date](https://github.com/dotnet/project-system/blob/main/docs/up-to-date-check.md)* feature to better check to see if a project or it's dependencies are up to date or need to be rebuilt.
+To continue on the speeding up Visual Studio theme, Microsoft also improved the *[Fast up to date](https://github.com/dotnet/project-system/blob/main/docs/up-to-date-check.md){:target="_blank"}* feature to better check to see if a project or it's dependencies are up to date or need to be rebuilt.
 
 ## New Debugging Features
 
@@ -67,9 +67,9 @@ Let's talk about breakpoints first. There are two new breakpoints that you can s
 
 ![Visual Studio 2022 - Debug Breakpoint Menu](/assets/images/posts/vs2022-debug-menu.png){: .align-center}
 
-The [Temporary breakpoint](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022#BKMK_set_a_temporary_breakpoint?WT.mc_id=AZ-MVP-4024623) is used to set a breakpoint that will only break once.  Once Visual Studio hits that breakpoint, it deletes it. This is helpful if you want to set a breakpoint only to validate that something is working, and you aren't debugging the code.
+The [Temporary breakpoint](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022#BKMK_set_a_temporary_breakpoint?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is used to set a breakpoint that will only break once.  Once Visual Studio hits that breakpoint, it deletes it. This is helpful if you want to set a breakpoint only to validate that something is working, and you aren't debugging the code.
 
-The [Dependent breakpoint](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022#BKMK_set_a_dependent_breakpoint?WT.mc_id=AZ-MVP-4024623) is used to set a breakpoint that will only break when another breakpoint is hit.
+The [Dependent breakpoint](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022#BKMK_set_a_dependent_breakpoint?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is used to set a breakpoint that will only break when another breakpoint is hit.
 
 ### Force Run To Cursor
 
@@ -105,15 +105,15 @@ The Git integration with Visual Studio has been improved and include support for
 
 ## Hot Reload
 
-[Hot Reload](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/?WT.mc_id=AZ-MVP-4024623) is a feature of Visual Studio that allows you to modify your applications managed code while that application is running without the need to hit a breakpoint or pause the application. This is a cool feature that will save you a lot of time without pausing or stopping your application to see how the source code changes you made changed your application. However, the support for this feature is still in progress.  There are some scenarios and products that are not yet supported.
+[Hot Reload](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is a feature of Visual Studio that allows you to modify your applications managed code while that application is running without the need to hit a breakpoint or pause the application. This is a cool feature that will save you a lot of time without pausing or stopping your application to see how the source code changes you made changed your application. However, the support for this feature is still in progress.  There are some scenarios and products that are not yet supported.
 
 ## Coming soon to the Mac
 
-Visual Studio 2022 for Mac is coming. The Visual Studio team wants to make a modern .NET IDE tailored for the Mac that will look familiar to those using Visual Studio for Windows while using native macOS UI. For more on the Visual Studio 2022 for Mac and/or to join the private beta, please visit [here](https://devblogs.microsoft.com/visualstudio/join-the-visual-studio-2022-for-mac-private-preview).
+Visual Studio 2022 for Mac is coming. The Visual Studio team wants to make a modern .NET IDE tailored for the Mac that will look familiar to those using Visual Studio for Windows while using native macOS UI. For more on the Visual Studio 2022 for Mac and/or to join the private beta, please visit [here](https://devblogs.microsoft.com/visualstudio/join-the-visual-studio-2022-for-mac-private-preview){:target="_blank"}.
 
 ## Bye Bye .NET 5
 
-While technically not released with Visual Studio 2022, Microsoft released .NET 6 at the same time and includes the .NET 6 SDK in the Visual Studio installation. So now is the time to start migrating your .NET 5, and earlier, projects to .NET 6. As Barry Dorrans [@blowdart](https://twitter.com/blowdart) points [out](https://twitter.com/blowdart/status/1457819844858945537), .NET 5 moves to end of life in May of 2022.
+While technically not released with Visual Studio 2022, Microsoft released .NET 6 at the same time and includes the .NET 6 SDK in the Visual Studio installation. So now is the time to start migrating your .NET 5, and earlier, projects to .NET 6. As Barry Dorrans [@blowdart](https://twitter.com/blowdart){:target="_blank"} points [out](https://twitter.com/blowdart/status/1457819844858945537){:target="_blank"}, .NET 5 moves to end of life in May of 2022.
 
 Some more details on the support policy for .NET.
 
@@ -125,7 +125,7 @@ Some more details on the support policy for .NET.
 | .NET 5 | November 10, 2020 | 5.0.12 | November 08, 2021 | Current | May 08, 2022 |
 | .NET Core 3.1 | December 3, 2019 | 3.1.21 | November 08, 2021 | LTS | December 3, 2022 |
 
-*Source:* [.NET Support Policy](https://dotnet.microsoft.com/platform/support/policy/dotnet-core)
+*Source:* [.NET Support Policy](https://dotnet.microsoft.com/platform/support/policy/dotnet-core){:target="_blank"}
 
 ## Wrap Up
 

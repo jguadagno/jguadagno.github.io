@@ -6,13 +6,13 @@ categories:
   - Arizona Technology News
   - Articles
 ---
-Hats off to [Rachel Reese](http://rachelreese.us/) for successfully organizing the first Laid Off Camp Phoenix. The event went smooth as could be.  I think the highlight of the event was watching all of the networking that went on during the event and after the event at Liberty Market.
+Hats off to [Rachel Reese](http://rachelreese.us/){:target="_blank"} for successfully organizing the first Laid Off Camp Phoenix. The event went smooth as could be.  I think the highlight of the event was watching all of the networking that went on during the event and after the event at Liberty Market.
 
 Thanks to the sponsors below and all of the volunteers for contributing to the success of the event.
 
 Below is a list of resources that were available in the program.
 
-[Curtis Miller](http://millarian.com/) took some picture of the event and posted them on [Flickr](http://is.gd/28RA7).
+[Curtis Miller](http://millarian.com/){:target="_blank"} took some picture of the event and posted them on [Flickr](http://is.gd/28RA7){:target="_blank"}.
 
 ## Sponsors
 

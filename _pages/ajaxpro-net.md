@@ -5,7 +5,7 @@ dsq_thread_id:
   - "75176961"
 permalink: /ajaxpro-net/
 ---
-**Please Note: **The creator of this library has stopped development on this project. I recommend that you look at the [Ajax Toolkit](http://www.asp.net/ajax) for future Ajax development.
+**Please Note:** The creator of this library has stopped development on this project. I recommend that you look at the [Ajax Toolkit](http://www.asp.net/ajax){:target="_blank"} for future Ajax development.
 {: .notice--info}
 
 ## Modifications

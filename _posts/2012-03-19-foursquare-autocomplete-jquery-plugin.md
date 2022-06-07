@@ -14,29 +14,29 @@ tags:
   - Web
 ---
 
-_This post will go over implementing the foursquare Autocomplete jQuery plugin. In the upcoming days (weeks) I will have a few blog posts on using the foursquare API with C#._ A few months ago I was making updates for the [MVP Summit Events](http://www.mvpsummitevents.info "MVP Summit Events") site, one of the features I wanted to add was [foursquare](http://www.foursquare.com) integration to the site. I was thinking that it would be cool for each of the parties listed on the site, to show how many people have checked in to that event (venue) on foursquare. This way you could see what parties to attend and which ones to avoid :smile:. In order to determine who was checked in at one of the events, I needed to add the foursquare venue id to all of my venues. For the existing venues, I manually added the foursquare venue id but for new venues I was thinking of making the user experience as easy as possible, a user should enter a few characters and get venues in the area with those characters. The first thing that popped into my head was to use an auto complete control and use foursquare as the data source. So after “Googling it with Bing” I found that there was one control that did this but no longer worked. So what does every good developer do, re-invent the wheel :smile:.
+_This post will go over implementing the foursquare Autocomplete jQuery plugin. In the upcoming days (weeks) I will have a few blog posts on using the foursquare API with C#._ A few months ago I was making updates for the [MVP Summit Events](http://www.mvpsummitevents.info "MVP Summit Events"){:target="_blank"} site, one of the features I wanted to add was [foursquare](http://www.foursquare.com){:target="_blank"} integration to the site. I was thinking that it would be cool for each of the parties listed on the site, to show how many people have checked in to that event (venue) on foursquare. This way you could see what parties to attend and which ones to avoid :smile:. In order to determine who was checked in at one of the events, I needed to add the foursquare venue id to all of my venues. For the existing venues, I manually added the foursquare venue id but for new venues I was thinking of making the user experience as easy as possible, a user should enter a few characters and get venues in the area with those characters. The first thing that popped into my head was to use an auto complete control and use foursquare as the data source. So after “Googling it with Bing” I found that there was one control that did this but no longer worked. So what does every good developer do, re-invent the wheel :smile:.
 
 ## Getting Started with the foursquare API
 
-Just like most social media sites now, foursquare has a REST based API. Foursquare provides a [quick start](https://developer.foursquare.com/overview/) guide to get you started using their API. In order to get started with the foursquare API you will need the following:
+Just like most social media sites now, foursquare has a REST based API. Foursquare provides a [quick start](https://developer.foursquare.com/overview/){:target="_blank"} guide to get you started using their API. In order to get started with the foursquare API you will need the following:
 
 * A foursquare account (_The site does recommend you create a separate foursquare account for your applications._)
-* An [access token](https://developer.foursquare.com/overview/auth) for the API
-* [Register your application](https://foursquare.com/oauth).
+* An [access token](https://developer.foursquare.com/overview/auth){:target="_blank"} for the API
+* [Register your application](https://foursquare.com/oauth){:target="_blank"}.
 
-foursquare does have many API [end points](https://developer.foursquare.com/docs/) for accessing their data. After checking out several of them I decided to go with the [Suggest Completion Venues](https://developer.foursquare.com/docs/venues/suggestcompletion) end point even though (at the time of this writing it was an experimental feature).
+foursquare does have many API [end points](https://developer.foursquare.com/docs/){:target="_blank"} for accessing their data. After checking out several of them I decided to go with the [Suggest Completion Venues](https://developer.foursquare.com/docs/venues/suggestcompletion){:target="_blank"} end point even though (at the time of this writing it was an experimental feature).
 
 ### Suggest Completion End Point
 
-According to the API end point [documentation](https://developer.foursquare.com/docs/venues/suggestcompletion) for the Suggest Completion end point, the end point provides a list of mini-venues partially matching the search term, near the location. The method uses the HTTP GET verb and has two required parameters; **ll** and **query**. The **ll** parameter which is the latitude and longitude of the users location (or search area) . And the **query** parameter is the string you want to search for. The results that get returned is an array of mini venues (essentially an arrays without a lot of extra properties, just the minimum set required for a suggestion. This was perfect for my needs.
+According to the API end point [documentation](https://developer.foursquare.com/docs/venues/suggestcompletion){:target="_blank"} for the Suggest Completion end point, the end point provides a list of mini-venues partially matching the search term, near the location. The method uses the HTTP GET verb and has two required parameters; **ll** and **query**. The **ll** parameter which is the latitude and longitude of the users location (or search area) . And the **query** parameter is the string you want to search for. The results that get returned is an array of mini venues (essentially an arrays without a lot of extra properties, just the minimum set required for a suggestion. This was perfect for my needs.
 
 ## Creating the plugin
 
-I decided to go with using the [auto complete](http://jqueryui.com/demos/autocomplete/) widget from the [jQuery UI](http://jqueryui.com/), use the suggest completion end point from foursquare and turn it into a jQuery plugin. Unfortunately I have never created a jQuery plugin before, however, I was lucky enough to run across a post from a buddy of mine [Elijah Manor](http://elijahmanor.com/) on [How to Create Your Own jQuery Plugin](http://msdn.microsoft.com/en-us/scriptjunkie/ff608209?WT.mc_id=DOP-MVP-4024623). After a few hours of fiddling around with the cost from the blog post above I eventually figured it out and got it to work. The resulting control looks like this:
+I decided to go with using the [auto complete](http://jqueryui.com/demos/autocomplete/){:target="_blank"} widget from the [jQuery UI](http://jqueryui.com/){:target="_blank"}, use the suggest completion end point from foursquare and turn it into a jQuery plugin. Unfortunately I have never created a jQuery plugin before, however, I was lucky enough to run across a post from a buddy of mine [Elijah Manor](http://elijahmanor.com/){:target="_blank"} on [How to Create Your Own jQuery Plugin](http://msdn.microsoft.com/en-us/scriptjunkie/ff608209?WT.mc_id=DOP-MVP-4024623){:target="_blank"}. After a few hours of fiddling around with the cost from the blog post above I eventually figured it out and got it to work. The resulting control looks like this:
 
 [![image](/assets/images/posts/image_thumb_7.png "image")](/assets/images/posts/image_8.png)
 
-In order to use the foursquare jQuery auto complete plugin you will need to include on your page, [jQuery](http://docs.jquery.com/Downloading_jQuery), [jQuery UI](http://jqueryui.com/download), one of the jQuery UI [themes](http://jqueryui.com/themeroller/) and this plugin, [4sqacplugin](/assets/downloads/4sqacplugin.js)
+In order to use the foursquare jQuery auto complete plugin you will need to include on your page, [jQuery](http://docs.jquery.com/Downloading_jQuery){:target="_blank"}, [jQuery UI](http://jqueryui.com/download){:target="_blank"}, one of the jQuery UI [themes](http://jqueryui.com/themeroller/){:target="_blank"} and this plugin, [4sqacplugin](/assets/downloads/4sqacplugin.js)
 
 I've also included a sample page to get you started. It has a bunch of styles to make the use of the plugin a little cleaner. [4sqautocomplete](/assets/downloads/4sqautocomplete.html) Once you have the required files referenced on your page, you can “foursquare auto complete” a textbox by calling the `foursquareAutocomplete` method as shown here:
 
@@ -91,7 +91,7 @@ The item that is returned is a custom object that provides the basic address pro
 |address|The address line (formatted like a US address) address1, address2|
 |cityLine|The city line (formatted like a US address). Chandler, AZ 85286|
 |photo|The 32-pixel image that foursquare uses for the venue.|
-|full|The entire [mini-venue](https://developer.foursquare.com/docs/venues/suggestcompletion) response returned from foursquare.|
+|full|The entire [mini-venue](https://developer.foursquare.com/docs/venues/suggestcompletion){:target="_blank"} response returned from foursquare.|
 
 ## Conclusion
 

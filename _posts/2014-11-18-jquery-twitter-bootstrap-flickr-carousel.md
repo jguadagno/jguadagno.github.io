@@ -16,12 +16,12 @@ tags:
   - Twitter Bootstrap
   - Web
 ---
-A few months ago I built a jQuery plugin that uses the Twitter [Bootstrap](http://www.getbootstrap.com) [Carousel](http://getbootstrap.com/javascript/#carousel) to cycle through images on [Flickr](http://www.flickr.com). In order to use this plugin you need to get an [Api](https://www.flickr.com/services/api/misc.api_keys.html) Key from Flickr and have the following software:
+A few months ago I built a jQuery plugin that uses the Twitter [Bootstrap](http://www.getbootstrap.com){:target="_blank"} [Carousel](http://getbootstrap.com/javascript/#carousel){:target="_blank"} to cycle through images on [Flickr](http://www.flickr.com){:target="_blank"}. In order to use this plugin you need to get an [Api](https://www.flickr.com/services/api/misc.api_keys.html){:target="_blank"} Key from Flickr and have the following software:
 
 * jQuery (v1.8 or higher)
 * Twitter Bootstrap (v3.0 or higher)
 * Twitter Bootstrap components (v3.0 or higher)
-* [twbsPagination](https://github.com/esimakin/twbs-pagination) (optional)
+* [twbsPagination](https://github.com/esimakin/twbs-pagination){:target="_blank"} (optional)
 
 ## Sample Usage
 
@@ -35,6 +35,6 @@ $('#flickr-carousel').twbsFlickrCarousel(
 );
 ```
 
-Download the plugin from GitHub at: [https://github.com/jguadagno/twbs-flickrCarousel](https://github.com/jguadagno/twbs-flickrCarousel "https://github.com/jguadagno/twbs-flickrCarousel")
+Download the plugin from GitHub at: [https://github.com/jguadagno/twbs-flickrCarousel](https://github.com/jguadagno/twbs-flickrCarousel "https://github.com/jguadagno/twbs-flickrCarousel"){:target="_blank"}
 
-See an example of usage at: [http://mvp2014.mvpsummitevents.info/flickr](http://mvp2014.mvpsummitevents.info/flickr)
+See an example of usage at: [http://mvp2014.mvpsummitevents.info/flickr](http://mvp2014.mvpsummitevents.info/flickr){:target="_blank"}

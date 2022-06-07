@@ -6,4 +6,4 @@ categories:
   - Books
   - Book Reviews
 ---
-A pretty good introduction to the Ajax framework provided by Microsoft [http://www.asp.net/ajax](http://www.asp.net/ajax). Unfortunately, that most of the content now you can find on the ASP.NET site.
+A pretty good introduction to the Ajax framework provided by Microsoft [http://www.asp.net/ajax](http://www.asp.net/ajax){:target="_blank"}. Unfortunately, that most of the content now you can find on the ASP.NET site.

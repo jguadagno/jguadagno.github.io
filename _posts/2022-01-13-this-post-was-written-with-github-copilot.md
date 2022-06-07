@@ -16,9 +16,9 @@ This post is based on the following products:
 
 | Product | Version | Download Link |
 | ------- | ------- | ------------- |
-| Visual Studio Code | 1.67.0 | [Download](https://code.visualstudio.com/Download) |
-| GitHub Copilot | 1.7.4421 | [Sign up](https://copilot.github.com/) |
-| GitHub Copilot Extension | 1.7.4421 | [Install](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) |
+| Visual Studio Code | 1.67.0 | [Download](https://code.visualstudio.com/Download){:target="_blank"} |
+| GitHub Copilot | 1.7.4421 | [Sign up](https://copilot.github.com/){:target="_blank"} |
+| GitHub Copilot Extension | 1.7.4421 | [Install](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot){:target="_blank"} |
 
 Note: Github Copilot is in Technical Preview when this post was written and is subject to change.
 {: .notice--info}
@@ -46,7 +46,7 @@ tags:
 ---
 ```
 
-I recorded a [video](https://www.youtube.com/watch?v=-xK215uA6QI) while I was writing this post so you can see, if you wish, how I use GitHub CoPilot to write this posts. If you watch the video, you will see my typing errors but more so how GitHub Copilot suggests the text for this post.
+I recorded a [video](https://www.youtube.com/watch?v=-xK215uA6QI){:target="_blank"} while I was writing this post so you can see, if you wish, how I use GitHub CoPilot to write this posts. If you watch the video, you will see my typing errors but more so how GitHub Copilot suggests the text for this post.
 
 Now let's look at some of the suggestions that GitHub Copilot has made.
 

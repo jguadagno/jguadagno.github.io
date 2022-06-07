@@ -17,10 +17,10 @@ Windows 11 or I am calling it right now, the *Who Moved My Cheese Edition*, was 
 
 I was curious as to what the new Windows 11 was going to be like. So I wanted to get it installed.  
 
-At the writing of this posts, Windows 11 is only available to [Windows Insiders](https://insider.windows.com/) in the **Dev** channel.  
+At the writing of this posts, Windows 11 is only available to [Windows Insiders](https://insider.windows.com/){:target="_blank"} in the **Dev** channel.  
 {: .notice--info}
 
-I'm a Windows insider but in the *Beta*. So on Thursday, I switched to the **Dev** channel and Windows 11 almost immediately started downloading after I verified the laptop I was planning to install Windows 11 on meet the [minimum hardware requirements](https://www.microsoft.com/en-us/windows/windows-11-specifications).
+I'm a Windows insider but in the *Beta*. So on Thursday, I switched to the **Dev** channel and Windows 11 almost immediately started downloading after I verified the laptop I was planning to install Windows 11 on meet the [minimum hardware requirements](https://www.microsoft.com/en-us/windows/windows-11-specifications){:target="_blank"}.
 
 ![Windows 11 Downloading](/assets/images/posts/windows11-devchannel-restart.png){: .align-center}
 

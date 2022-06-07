@@ -7,7 +7,7 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-A [blog post](http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx) from [Chris Bowen](http://blogs.msdn.com/cbowen/default.aspx) has been making the rounds.  It contains quite a few technology posters available.  Here is a short sampling...
+A [blog post](http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx){:target="_blank"} from [Chris Bowen](http://blogs.msdn.com/cbowen/default.aspx){:target="_blank"} has been making the rounds.  It contains quite a few technology posters available.  Here is a short sampling...
 
 * .NET 3.5 Namespace
 * Exchange Component Architecture
@@ -16,4 +16,4 @@ A [blog post](http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.a
 * Visual C# Keybinding Poster
 * And many more...
 
-Check it out at [http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx](http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx "http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx")
+Check it out at [http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx](http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx "http://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx"){:target="_blank"}

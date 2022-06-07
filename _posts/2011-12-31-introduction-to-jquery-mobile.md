@@ -7,17 +7,17 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-Back in November, I sat in on a session by [Scott Hanselman](http://www.hanselman.com/blog/) on creating a mobile site on ASP.NET using [jQuery Mobile](http://jquerymobile.com/).  While I was watching this session I could not stop thinking how easy is this, I can do this for the mobile version of the [Microsoft Global MVP Summit mobile](http://mvpsummitevents.info/m/) site. So like most of us, it took me a month to get to it.
+Back in November, I sat in on a session by [Scott Hanselman](http://www.hanselman.com/blog/){:target="_blank"} on creating a mobile site on ASP.NET using [jQuery Mobile](http://jquerymobile.com/){:target="_blank"}.  While I was watching this session I could not stop thinking how easy is this, I can do this for the mobile version of the [Microsoft Global MVP Summit mobile](http://mvpsummitevents.info/m/){:target="_blank"} site. So like most of us, it took me a month to get to it.
 
 A few days ago while on vacation and everyone was asleep, I started to play around with jQuery mobile and in about an hour I had a sample site created.  Here's how you can get started.
 
 ## Getting started with jQuery Mobile
 
-According the [jQuery Mobile](http://http://jquerymobile.com/) website, jQuery Mobile is…
+According the [jQuery Mobile](http://http://jquerymobile.com/){:target="_blank"} website, jQuery Mobile is…
 
 > A unified, HTML5-based user interface system for all popular mobile device platforms, built on the rock-solid jQuery and jQuery UI foundation. Its lightweight code is built with progressive enhancement and has a flexible, easily themeable design
 
-To get started with jQuery Mobile you can head over to their [Quick Start Guide](http://jquerymobile.com/demos/1.0/docs/about/getting-started.html).  Here is the minimum HTML document that you need for jQuery Mobile.
+To get started with jQuery Mobile you can head over to their [Quick Start Guide](http://jquerymobile.com/demos/1.0/docs/about/getting-started.html){:target="_blank"}.  Here is the minimum HTML document that you need for jQuery Mobile.
 
 ```html
 <!DOCTYPE html>
@@ -70,7 +70,7 @@ And then finally in your HTML Body, you need to create a “page”. You do this
 </div>
 ```
 
-The id is optional and can be used to have more than one page within a document.  For more on the page structure, check out the [Anatomy of a Page](http://jquerymobile.com/demos/1.0/docs/pages/page-anatomy.html) in the jQuery Mobile docs.
+The id is optional and can be used to have more than one page within a document.  For more on the page structure, check out the [Anatomy of a Page](http://jquerymobile.com/demos/1.0/docs/pages/page-anatomy.html){:target="_blank"} in the jQuery Mobile docs.
 
 That's all you need for the bare minimal jQuery Mobile page.
 
@@ -116,4 +116,4 @@ Is defined by the following markup.
 
 The footer part of the document is where you place the footer content. This is typically navigation, copyright information, etc.
 
-Hopefully, I armed you with enough information to get started with jQuery Mobile. In the next few posts, I will talk about how I converted the [Microsoft Global MVP Summit](http://www.mvpsummitevents.info) mobile site to use jQuery Mobile.
+Hopefully, I armed you with enough information to get started with jQuery Mobile. In the next few posts, I will talk about how I converted the [Microsoft Global MVP Summit](http://www.mvpsummitevents.info){:target="_blank"} mobile site to use jQuery Mobile.

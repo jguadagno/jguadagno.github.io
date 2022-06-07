@@ -11,15 +11,15 @@ tags:
   - WebAPI
   - ASP.NET Core
 ---
-For the last week or so I've been working on modernizing the [Desert Code Camp](https://www.desertcodecamp.com) site which meant that I am basically rewriting it. :smile:  Part of the rewrite is to make all of the user facing functionality, adding/viewing sessions, viewing the schedule, etc., available from an API and not code behind.  I spent the last week or so designing and implementing the API in ASP.NET Core 6.  The technology used in building the API does not matter for this post but the example repository is in ASP.NET Core. While testing the application, I started to heavily use the **HTTP Client** feature of [JetBrains Rider](https://www.jetbrains.com/rider/).  The **HTTP Client** is a bundled plugin, which is enabled by default, which allows you to emulate calls to a web service or web API.  It works very much like Postman, but in the IDE and included.
+For the last week or so I've been working on modernizing the [Desert Code Camp](https://www.desertcodecamp.com){:target="_blank"} site which meant that I am basically rewriting it. :smile:  Part of the rewrite is to make all of the user facing functionality, adding/viewing sessions, viewing the schedule, etc., available from an API and not code behind.  I spent the last week or so designing and implementing the API in ASP.NET Core 6.  The technology used in building the API does not matter for this post but the example repository is in ASP.NET Core. While testing the application, I started to heavily use the **HTTP Client** feature of [JetBrains Rider](https://www.jetbrains.com/rider/){:target="_blank"}.  The **HTTP Client** is a bundled plugin, which is enabled by default, which allows you to emulate calls to a web service or web API.  It works very much like Postman, but in the IDE and included.
 
-The **HTTP Client** supports GET, POST, and most HTTP verbs. It even has support for converting [cURL](https://www.jetbrains.com/help/rider/Http_client_in__product__code_editor.html#converting-curl-requests) commands.
+The **HTTP Client** supports GET, POST, and most HTTP verbs. It even has support for converting [cURL](https://www.jetbrains.com/help/rider/Http_client_in__product__code_editor.html#converting-curl-requests){:target="_blank"} commands.
 
 ## Getting Started
 
-I'll be using the API that can be found GitHub at [https://github.com/jguadagno/Contacts](https://github.com/jguadagno/Contacts) for the examples.
+I'll be using the API that can be found GitHub at [https://github.com/jguadagno/Contacts](https://github.com/jguadagno/Contacts){:target="_blank"} for the examples.
 
-If you don't have the plugin enabled, enable it. :smile: You can enable it by going into the *Settings* or *Preferences* in Rider and selecting `Plugins`.  You can also get there from *Navigate* then *Search Everything...* or `CTRL+T` and type *Plugins*. Once the plugin is enabled you can add an HTTP request file to your solution or as a [scratch](https://www.jetbrains.com/help/rider/Scratches.html) file.  I tend to add them as part of the solution so any one working on the solution can use them.  Scratch files, for me, are more of a temporary file that I use for 'one off' requests.
+If you don't have the plugin enabled, enable it. :smile: You can enable it by going into the *Settings* or *Preferences* in Rider and selecting `Plugins`.  You can also get there from *Navigate* then *Search Everything...* or `CTRL+T` and type *Plugins*. Once the plugin is enabled you can add an HTTP request file to your solution or as a [scratch](https://www.jetbrains.com/help/rider/Scratches.html){:target="_blank"} file.  I tend to add them as part of the solution so any one working on the solution can use them.  Scratch files, for me, are more of a temporary file that I use for 'one off' requests.
 
 In the Solution Explorer for Rider in one of the projects, you can right click and choose *Add...* then *HTTP Request*.
 
@@ -95,7 +95,7 @@ Content-Type: application/json
 
 ## Running HTTP Requests
 
-If the HTTP Request file has focus in the IDE, you can click on *Run all requests in file*, or the 'play' icon next to the verb.  If you are going to execute the requests multiple times, as I do when building APIs, you should [create a *Run Configuration*](https://www.jetbrains.com/help/rider/Http_client_in__product__code_editor.html#http-request-run-debug-configurations) for them.  Just be sure that your API is up and running before you make the HTTP request against it.  You can create a *[Compound Run Configuration](https://www.jetbrains.com/help/rider/Run_Debug_Configuration.html#create-compound-config)* to start your API project and then run the HTTP requests.  Just note, at the time I wrote this post, only **Run** is supported and not **Debug**.
+If the HTTP Request file has focus in the IDE, you can click on *Run all requests in file*, or the 'play' icon next to the verb.  If you are going to execute the requests multiple times, as I do when building APIs, you should [create a *Run Configuration*](https://www.jetbrains.com/help/rider/Http_client_in__product__code_editor.html#http-request-run-debug-configurations){:target="_blank"} for them.  Just be sure that your API is up and running before you make the HTTP request against it.  You can create a *[Compound Run Configuration](https://www.jetbrains.com/help/rider/Run_Debug_Configuration.html#create-compound-config){:target="_blank"}* to start your API project and then run the HTTP requests.  Just note, at the time I wrote this post, only **Run** is supported and not **Debug**.
 
 ### Environment Files
 
@@ -149,11 +149,11 @@ Choosing a **Regular** file will create the `http-client.env.json` file. This fi
 
 Choosing **Private** will create the `http-client.private.env.json` file. This file might include passwords, tokens, certificates, and other sensitive information. It is added to the list of source code system ignored files by default. ***NOTE***: The values of variables that are specified in the `http-client.private.env.json` file override the values in the regular environment file.
 
-There is a lot more to environment files and variables.  You can read more [here](https://www.jetbrains.com/help/rider/Exploring_HTTP_Syntax.html#using_request_vars).
+There is a lot more to environment files and variables.  You can read more [here](https://www.jetbrains.com/help/rider/Exploring_HTTP_Syntax.html#using_request_vars){:target="_blank"}.
 
 ### More Samples
 
-You can find more samples in the [Contacts-Sample-Requests.http](https://github.com/jguadagno/Contacts/blob/main/src/Contacts-Sample-Requests.http) sample HTTP request file that I used for the [Contacts](https://github.com/jguadagno/Contacts) sample application and API.
+You can find more samples in the [Contacts-Sample-Requests.http](https://github.com/jguadagno/Contacts/blob/main/src/Contacts-Sample-Requests.http){:target="_blank"} sample HTTP request file that I used for the [Contacts](https://github.com/jguadagno/Contacts){:target="_blank"} sample application and API.
 
 ## Wrap Up
 
@@ -161,7 +161,7 @@ This was a quick introduction to using the **HTTP Client** in JetBrains Rider to
 
 ## References
 
-- [Test RESTful Web services](https://www.jetbrains.com/help/rider/Testing_RESTful_Web_Services.html)
-- [HTTP client in JetBrains Rider code editor](https://www.jetbrains.com/help/rider/Http_client_in__product__code_editor.html)
-- [Exploring the HTTP request in the Editor syntax](https://www.jetbrains.com/help/rider/Exploring_HTTP_Syntax.html)
-- [HTTP Response handling API reference](https://www.jetbrains.com/help/rider/HTTP_Response_handling_API_reference.html)
+- [Test RESTful Web services](https://www.jetbrains.com/help/rider/Testing_RESTful_Web_Services.html){:target="_blank"}
+- [HTTP client in JetBrains Rider code editor](https://www.jetbrains.com/help/rider/Http_client_in__product__code_editor.html){:target="_blank"}
+- [Exploring the HTTP request in the Editor syntax](https://www.jetbrains.com/help/rider/Exploring_HTTP_Syntax.html){:target="_blank"}
+- [HTTP Response handling API reference](https://www.jetbrains.com/help/rider/HTTP_Response_handling_API_reference.html){:target="_blank"}

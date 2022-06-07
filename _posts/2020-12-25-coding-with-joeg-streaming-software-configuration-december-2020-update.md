@@ -56,7 +56,7 @@ For this tab, I have a few things tweaked based on my hardware and conditions.  
 | GPU | `0` | |
 | Max B-frames | `2` |  |
 
-For a more in-depth look at bitrates, and keyframes, check out [What is Video Bitrate](https://castr.io/blog/what-is-video-bitrate/).
+For a more in-depth look at bitrates, and keyframes, check out [What is Video Bitrate](https://castr.io/blog/what-is-video-bitrate/){:target="_blank"}.
 
 ##### Output - Recording
 

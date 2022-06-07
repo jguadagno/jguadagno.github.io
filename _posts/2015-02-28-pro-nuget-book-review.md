@@ -20,7 +20,7 @@ The third chapter is a doozy, the authors explain in great detail how to author 
 
 The next chapter covers publishing NuGet package in three different ways; on NuGet.org, through the command line, and NuGet Package Explorer. The authors continue the chapter by explaining how to publish the symbol files for you NuGet packages.
 
-The authors then show you how you can host your own NuGet repository on your servers or use a service like [MyGet.org](https://www.myget.org) to host your packages privately.
+The authors then show you how you can host your own NuGet repository on your servers or use a service like [MyGet.org](https://www.myget.org){:target="_blank"} to host your packages privately.
 
 The next three chapters talk about integrating NuGet into you release management process for both continuous and automated delivery as well as integration with your build services (TFS and Team City)
 

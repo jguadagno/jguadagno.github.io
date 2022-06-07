@@ -7,7 +7,7 @@ categories:
 ---
 Phoenix Geek Tag was a minor success so I decided to put together another Geek outing in October. Most likely October 20th starting around 6pm. I have narrowed it down to two places.
 
-**Option 1**: Bowling in Gilbert at [Brunswick Lanes](http://www.bowlbrunswick.com/home/home-center?op=setScratch;scratchName=centerNum;scratchValue=1090)
+**Option 1**: Bowling in Gilbert at [Brunswick Lanes](http://www.bowlbrunswick.com/home/home-center?op=setScratch;scratchName=centerNum;scratchValue=1090){:target="_blank"}
 
 What's included…
 
@@ -15,7 +15,7 @@ What's included…
 * Drinks (alcoholic and non) are **not included**.
 * Food is **not included**.
 
-**Option 2**: [GameWorks](http://www.gameworks.com/?tId=1&sId=14) in Tempe
+**Option 2**: [GameWorks](http://www.gameworks.com/?tId=1&sId=14){:target="_blank"} in Tempe
 
 What's included…
 

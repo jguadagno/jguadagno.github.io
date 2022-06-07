@@ -111,6 +111,6 @@ You can see a more 'complex' sample by checking out [Typescript for the Microsof
 
 ## Want More
 
-You can check out all of the 'source code' for the site on the GitHub [repo](https://github.com/jguadagno/jguadagno.github.io).
+You can check out all of the 'source code' for the site on the GitHub [repo](https://github.com/jguadagno/jguadagno.github.io){:target="_blank"}.
 
 If you want to see how I 'dynamically' generate the [presentations]({% link _pages/presentations.md %}) page, checkout [_pages/presentations.md](https://github.com/jguadagno/jguadagno.github.io/blob/master/_pages/presentations.md)

@@ -17,10 +17,10 @@ There are a lot of components to starting a user group.  The biggest are locatio
 
 **The theme should be consistent also**.  Are you going to be focused around Azure, C#, General .NET, Cloud, etc. See if there are other user groups in the area with the same interest.
 
-**Another thing to keep in mind is communication**. Try to get a [domain](http://affiliate.godaddy.com/redirect/CEB1BDB5383B2F58B38C9B23E12CC77BC6777623A11FCFCF15DA2401474B5B8B), [Twitter](http://www.twitter.com), [Facebook](http://www.facebook.com) account all with the same name like [SEVDNUG](http://sevdnug.org/home.aspx) (my user group) so that people can remember it.  In the beginning, you will need to send out a lot to build up the group.
+**Another thing to keep in mind is communication**. Try to get a {:target="_blank"}(my user group) so that people can remember it.  In the beginning, you will need to send out a lot to build up the group.
 
 **Try to solicit help**. Starting and maintaining a user group is difficult to do especially for one person. Try to get other people to help you.
 
-**Sponsors** Getting sponsorship is hard, especially in beginning, until you have the contacts. Most local recruiting companies are willing to help sponsor pizza and such for a meeting.  Most third-party vendors have contacts in their marketing department on their sites.  They are always willing to provide SWAG.  You can also check out the offers page on the [INETA](http://ineta.org/offers/) site.  
+**Sponsors** Getting sponsorship is hard, especially in beginning, until you have the contacts. Most local recruiting companies are willing to help sponsor pizza and such for a meeting.  Most third-party vendors have contacts in their marketing department on their sites.  They are always willing to provide SWAG.  You can also check out the offers page on the [INETA](http://ineta.org/offers/){:target="_blank"} site.  
 
-**Additional Help** Check with your local Microsoft developer [evangelist](http://msdn.microsoft.com/en-us/bb905078.aspx?WT.mc_id=DOP-MVP-4024623) they should be able to provide some help to get you started. Also look at the INETA [Membership](http://ineta.org/MembershipTeam.aspx) mentors to help get you started.
+**Additional Help** Check with your local Microsoft developer [evangelist](http://msdn.microsoft.com/en-us/bb905078.aspx?WT.mc_id=DOP-MVP-4024623){:target="_blank"} they should be able to provide some help to get you started. Also look at the INETA [Membership](http://ineta.org/MembershipTeam.aspx){:target="_blank"} mentors to help get you started.

@@ -24,13 +24,13 @@ Text enclosed in `<>` brackets should be replaced by the type of text listed. So
 - [Contents](#contents)
 - [First Steps](#first-steps)
 - [Modify the Code](#modify-the-code)
-	- [`<CompanyName>.<ModuleName> Project`](#companynamemodulename-project)
-	- [`<CompanyName>.<ModuleName>.Data Project`](#companynamemodulenamedata-project)
-	- [`<CompanyName>.<ModuleName>.Web Project`](#companynamemodulenameweb-project)
+  - [`<CompanyName>.<ModuleName> Project`](#companynamemodulename-project)
+  - [`<CompanyName>.<ModuleName>.Data Project`](#companynamemodulenamedata-project)
+  - [`<CompanyName>.<ModuleName>.Web Project`](#companynamemodulenameweb-project)
 - [Sample Solution Structure](#sample-solution-structure)
-	- [`<CompanyName>.<ModuleName>`](#companynamemodulename)
-	- [`<CompanyName>.<ModuleName>.Data`](#companynamemodulenamedata)
-	- [`<CompanyName>.<ModuleName>.Website`](#companynamemodulenamewebsite)
+  - [`<CompanyName>.<ModuleName>`](#companynamemodulename)
+  - [`<CompanyName>.<ModuleName>.Data`](#companynamemodulenamedata)
+  - [`<CompanyName>.<ModuleName>.Website`](#companynamemodulenamewebsite)
 - [Footnotes](#footnotes)
 
 ## First Steps
@@ -186,7 +186,7 @@ dbclass ModuleName [TableName="SEVDNUG_ModuleName"]{
     created date CreatedOn;
 ```
 
-For more info on modifying the dbclass library or how to modify this file, check the Nolics [documentation](http://www.nolics.net/Docs4_2/Ref_dbclass.html).
+For more info on modifying the dbclass library or how to modify this file, check the Nolics [documentation](http://www.nolics.net/Docs4_2/Ref_dbclass.html){:target="_blank"}.
 
 Where is the tutorial that tells you how to make tables?
 
@@ -196,7 +196,7 @@ This class will allow you to add additional properties and methods to the Nolics
 
 #### `<ModuleName>s.cs` <!-- omit in toc -->
 
-This class creates a dynamic query around the module table. Dynamic queries are typically used when there are custom table joins that you want to be available to any calling class. For more information on creating or using dynamic queries with Nolics please check out the Nolics [documentation](http://www.nolics.com/Material2005/WT10_Queries.doc).
+This class creates a dynamic query around the module table. Dynamic queries are typically used when there are custom table joins that you want to be available to any calling class. For more information on creating or using dynamic queries with Nolics please check out the Nolics [documentation](http://www.nolics.com/Material2005/WT10_Queries.doc){:target="_blank"}.
 
 ```cs
 public class ModuleNames: Query<ModuleName>

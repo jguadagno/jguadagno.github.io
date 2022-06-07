@@ -11,7 +11,7 @@ tags:
 ---
 ## The Google AJAX Search API
 
-The [Google AJAX Search API](http://code.google.com/apis/ajaxsearch/) is a Javascript library that allows you to embed Google Search in your web pages and other web applications. To use the API, you will first need to sign up for an [API key](http://code.google.com/apis/ajaxsearch/signup.html). The Google AJAX Search API provides simple web objects that perform inline searches over a number of Google services (Web Search, Local Search, Video Search, Blog Search, News Search, Book Search, and Image Search). If your web page is designed to help users create content (e.g. message boards, blogs, etc.), the API is designed to support these activities by allowing them to copy search results directly into their messages.
+The [Google AJAX Search API](http://code.google.com/apis/ajaxsearch/){:target="_blank"} is a Javascript library that allows you to embed Google Search in your web pages and other web applications. To use the API, you will first need to sign up for an [API key](http://code.google.com/apis/ajaxsearch/signup.html){:target="_blank"}. The Google AJAX Search API provides simple web objects that perform inline searches over a number of Google services (Web Search, Local Search, Video Search, Blog Search, News Search, Book Search, and Image Search). If your web page is designed to help users create content (e.g. message boards, blogs, etc.), the API is designed to support these activities by allowing them to copy search results directly into their messages.
 
 ## If so, then why wrap it?
 
@@ -64,7 +64,6 @@ Initializes the all of the properties and google.search object.
 |mainDiv|DOM object (DIV)|This is the DIV that contains you main content. This DIV will be hidden while searching if the HideMainContent property is set to _true_. This parameter will update the Divs.MainContent property.|
 |startSearchingDiv|DOM object (DIV)|This DIV will be displayed while the Google API is executing the search. It will be hidden when the search is complete. This parameter will update the Divs.StartSearching property.|
 |closeDiv|DOM object (DIV)|This DIV will be displayed after the Google API has completed the search. This DIV allows you to provide a mechanism to close the search results, which can be done by calling the _ClearResults_ methods. This parameter will update the Divs.SearchClose property.|
-
 
 #### ClearResults
 
@@ -130,7 +129,7 @@ This mimics the Ajax ASP.NET watermark extender control by changing the CSS clas
 
 ## Using the MyGSearch object
 
-There are two easy steps to using the MyGSearch objects. This, of course, assumes that you have obtained a Google API key from [http://code.google.com/apis/ajaxsearch/signup.html](http://code.google.com/apis/ajaxsearch/signup.html).
+There are two easy steps to using the MyGSearch objects. This, of course, assumes that you have obtained a Google API key from [http://code.google.com/apis/ajaxsearch/signup.html](http://code.google.com/apis/ajaxsearch/signup.html){:target="_blank"}.
 
 ### Step 1: Create the HTML content
 

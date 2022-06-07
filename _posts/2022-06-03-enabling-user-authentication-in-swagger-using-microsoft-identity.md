@@ -13,16 +13,16 @@ tags:
   - Entra
 ---
 
-I've been working on a personal project of mine called "[JosephGuadagno.NET Broadcasting](https://github.com/jguadagno/jjgnet-broadcast){:target="_blank"}". I know a terrible name, but I'll work on a better name when it's ready to be launched. :smile: This application is a web application that allows users to broadcast their content to their followers. One of the components of the application is an API that allows users to create and schedule their content in the application. The application is built using ASP.NET Core, Azure, Swagger, and other [components](https://github.com/jguadagno/jjgnet-broadcast/blob/main/infrastructure-needs.md). I recently secured the application using Microsoft's [MSAL](https://docs.microsoft.com/en-us/azure/active-directory-b2c/msal-overview?WT.mc_id=AZ-MVP-4024623) library. Now, I'm going to show you how to enable user authentication in Swagger using Microsoft Identity.
+I've been working on a personal project of mine called "[JosephGuadagno.NET Broadcasting](https://github.com/jguadagno/jjgnet-broadcast){:target="_blank"}". I know a terrible name, but I'll work on a better name when it's ready to be launched. :smile: This application is a web application that allows users to broadcast their content to their followers. One of the components of the application is an API that allows users to create and schedule their content in the application. The application is built using ASP.NET Core, Azure, Swagger, and other [components](https://github.com/jguadagno/jjgnet-broadcast/blob/main/infrastructure-needs.md){:target="_blank"}. I recently secured the application using Microsoft's [MSAL](https://docs.microsoft.com/en-us/azure/active-directory-b2c/msal-overview?WT.mc_id=AZ-MVP-4024623){:target="_blank"} library. Now, I'm going to show you how to enable user authentication in Swagger using Microsoft Identity.
 
-***Note***: When I started creating this post, Microsoft is/was in the process of renaming Microsoft Identity to [Microsoft Entra](https://www.microsoft.com/en-us/security/business/microsoft-entra). As a result, some of the links in this post might change in the future. :slightly_frowning_face:
+***Note***: When I started creating this post, Microsoft is/was in the process of renaming Microsoft Identity to [Microsoft Entra](https://www.microsoft.com/en-us/security/business/microsoft-entra){:target="_blank"}. As a result, some of the links in this post might change in the future. :slightly_frowning_face:
 {: .notice--info }
 
 ## Assumptions
 
 I'm going to assume that you already have an API secured with Microsoft Identity, if not, you can check out a series I put together previously called [Protecting an ASP.NET Core API with Microsoft Identity Platform]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}).
 
-I'm also going to assume that you already have swagger configured. If not, check out [this](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-6.0&WT.mc_id=AZ-MVP-4024623)
+I'm also going to assume that you already have swagger configured. If not, check out [this](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-6.0&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
 
 ## Configure Swagger to use Microsoft Identity
 
@@ -63,7 +63,7 @@ c.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
 });
 ```
 
-You can also view the code [here](https://github.com/jguadagno/jjgnet-broadcast/blob/d9648a049b172cd600dcfb8a5847ff6e852ddbc9/src/JosephGuadagno.Broadcasting.Api/Program.cs#L62-L92).
+You can also view the code [here](https://github.com/jguadagno/jjgnet-broadcast/blob/d9648a049b172cd600dcfb8a5847ff6e852ddbc9/src/JosephGuadagno.Broadcasting.Api/Program.cs#L62-L92){:target="_blank"}.
 
 Most of this code does not need to change except the `scopes` variable (lines 1 and 2) and the `AuthorizationUrl` and `TokenUrl` (lines 25 and 26).
 
@@ -72,7 +72,7 @@ The `scopes` variable is a dictionary that maps the scope name to the scope desc
 ***BTW***, this should only been done in a development and/or testing environment.  In most cases, you will not want to enable the Swagger UI in production.
 {: .notice--info }
 
-The `AuthorizationUrl` and `TokenUrl` may change depending on the tenant and/or organization type you selected when you created your application.  You can find the correct values on the [Register an Application](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app#register-an-application?WT.mc_id=AZ-MVP-4024623) page.
+The `AuthorizationUrl` and `TokenUrl` may change depending on the tenant and/or organization type you selected when you created your application.  You can find the correct values on the [Register an Application](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app#register-an-application?WT.mc_id=AZ-MVP-4024623){:target="_blank"} page.
 
 ## Get a Client Secret for Swagger UI
 

@@ -15,11 +15,11 @@ tags:
 
 In this post, I'm going to walk through how you authenticate and use an API that is secured with Azure Active Directory using React Native and the Microsoft Identity library.
 
-> This blog post demonstrates connecting to the Contact API that I have been building on my stream  [Coding with JoeG](https://jjg.me/stream). The API project can be found in the [Contacts](https://github.com/jguadagno/contacts) Repository. While the code will build, it will not run because you will need the client application registered in Azure with the correct permissions.
+> This blog post demonstrates connecting to the Contact API that I have been building on my stream  [Coding with JoeG](https://jjg.me/stream){:target="_blank"}. The API project can be found in the [Contacts](https://github.com/jguadagno/contacts){:target="_blank"} Repository. While the code will build, it will not run because you will need the client application registered in Azure with the correct permissions.
 
-You can view the following [Introduction to React Native](https://youtu.be/IScDA7cKsSM) video recording from my stream.  You can also watch me code this live on [Building the API Client and Authentication](https://youtu.be/9Wot8p9bWf4).
+You can view the following [Introduction to React Native](https://youtu.be/IScDA7cKsSM){:target="_blank"} video recording from my stream.  You can also watch me code this live on [Building the API Client and Authentication](https://youtu.be/9Wot8p9bWf4){:target="_blank"}.
 
-Completed code repository at [https://github.com/jguadagno/contacts-react-native-client](https://github.com/jguadagno/contacts-react-native-client)
+Completed code repository at [https://github.com/jguadagno/contacts-react-native-client](https://github.com/jguadagno/contacts-react-native-client){:target="_blank"}
 
 ## Prerequisites
 
@@ -67,7 +67,7 @@ yarn add @react-navigation/native @react-navigation/stack
 
 ### Setup OpenAPI Generator
 
-The [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator){:target="_blank"} is used to generate an API client for the React Native application to use.  You can pick from a few different [generators](https://openapi-generator.tech/docs/generators) but for this example, I am using the [Axios](https://github.com/axios/axios){:target="_blank"} template named '[typescript-axios](https://openapi-generator.tech/docs/generators/typescript-axios){:target="_blank"}'.
+The [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator){:target="_blank"} is used to generate an API client for the React Native application to use.  You can pick from a few different [generators](https://openapi-generator.tech/docs/generators){:target="_blank"} but for this example, I am using the [Axios](https://github.com/axios/axios){:target="_blank"} template named '[typescript-axios](https://openapi-generator.tech/docs/generators/typescript-axios){:target="_blank"}'.
 
 Using Yarn, we can create a command that will generate our API client fairly easily. Open up a command prompt or terminal in the directory of the project and execute the following commands. ***Note***: change `my-app` to the application name of your React Native project.
 
@@ -607,12 +607,13 @@ Wow, that was a lot.  As you can see, the initial setup is a little challenging 
 
 ## References
 
-* [React Native](https://reactnative.dev)
-* OpenAPI Tools [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator)
+* [React Native](https://reactnative.dev){:target="_blank"}
+* OpenAPI Tools [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator){:target="_blank"}
 * [How to automate API code generation (OpenAPI/Swagger) and boost productivity](https://medium.com/tribalscale/how-to-automate-api-code-generation-openapi-swagger-and-boost-productivity-1176a0056d8a)
-* [Using Axios with React to Make API Requests](https://upmostly.com/tutorials/using-axios-with-react-api-requests)
-* [React Native Dev Tools](https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil)
-* JP Dandison's, aka [@AzureAndChill](https://www.twitter.com/AzureAndChill) [Axios Intercept](https://github.com/jpda/msaljs-axios-intercept) with Microsoft Identity Library for JavaScript [MSAL.js](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-* Video: [Introduction to React Native](https://youtu.be/IScDA7cKsSM)
-* Video: [Building the API Client and Authentication](https://youtu.be/9Wot8p9bWf4)
-* Completed code repository at [https://github.com/jguadagno/contacts-react-native-client](https://github.com/jguadagno/contacts-react-native-client)
+* [Using Axios with React to Make API Requests](https://upmostly.com/tutorials/using-axios-with-react-api-requests){:target="_blank"}
+* [React Native Dev Tools](https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil){:target="_blank"}
+* JP Dandison's, aka [@AzureAndChill](https://www.twitter.com/AzureAndChill){:target="_blank"} [Axios Intercept](https://github.com/jpda/msaljs-axios-intercept){:target="_blank"} with Microsoft Identity Library for JavaScript [MSAL.js](https://github.com/AzureAD/microsoft-authentication-library-for-js){:target="_blank"}
+* Video: [Introduction to React Native](https://youtu.be/IScDA7cKsSM){:target="_blank"}
+* Video: [Building the API Client and Authentication](https://youtu.be/9Wot8p9bWf4){:target="_blank"}
+* Completed code repository at [https://github.com/jguadagno/contacts-react-native-client](https://github.com/jguadagno/contacts-react-native-client){:target="_blank"}
+* 

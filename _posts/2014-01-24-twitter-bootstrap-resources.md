@@ -12,7 +12,7 @@ tags:
   - Bootstrap
   - Twitter Bootstrap
 ---
-This does Over the past few months, I have built quite a few sites using Twitter [Bootstrap](http://www.getbootstrap.com). I think it is an awesome framework for styling websites and abstracts away a lot of the differences in CSS between modern browsers.  I say Twitter Bootstrap did for CSS what [jquery](http://www.jquery.com) did for JavaScript. I typically say that if you use both frameworks in the same site, your site will work pretty consistent against all modern browsers. Anyway, the purpose of this post was to list all of the Twitter Bootstrap resources that use or find helpful.
+This does Over the past few months, I have built quite a few sites using Twitter [Bootstrap](http://www.getbootstrap.com){:target="_blank"}. I think it is an awesome framework for styling websites and abstracts away a lot of the differences in CSS between modern browsers.  I say Twitter Bootstrap did for CSS what [jquery](http://www.jquery.com){:target="_blank"} did for JavaScript. I typically say that if you use both frameworks in the same site, your site will work pretty consistent against all modern browsers. Anyway, the purpose of this post was to list all of the Twitter Bootstrap resources that use or find helpful.
 
 - [Content Delivery Networks (CDN)](#content-delivery-networks-cdn)
 - [Resource Guides](#resource-guides)
@@ -30,50 +30,50 @@ This does Over the past few months, I have built quite a few sites using Twitter
 
 |Name|Url|
 |--- |--- |
-|Bootstrap CDN|[http://www.bootstrapcdn.com](http://www.bootstrapcdn.com)|
-|Microsoft Ajax CDN|[http://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14](http://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14 "http://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14")|
+|Bootstrap CDN|[http://www.bootstrapcdn.com](http://www.bootstrapcdn.com){:target="_blank"}|
+|Microsoft Ajax CDN|[http://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14](http://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14 "http://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14"){:target="_blank"}|
 
 ## Resource Guides
 
 |Name|Url|
 |--- |--- |
-|The Big Bad Ass List of Twitter Bootstrap Resources|[http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources "http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources")|
+|The Big Bad Ass List of Twitter Bootstrap Resources|[http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources "http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources"){:target="_blank"}|
 
 ## Tutorials
 
 |Name|Url|
 |--- |--- |
-|Bootstrap Tutorial: A Guide for Beginners|[https://blog.udemy.com/bootstrap-tutorial-a-guide-for-beginners/](https://blog.udemy.com/bootstrap-tutorial-a-guide-for-beginners/ "Bootstrap Tutorial: A Guide for Beginners")|
+|Bootstrap Tutorial: A Guide for Beginners|[https://blog.udemy.com/bootstrap-tutorial-a-guide-for-beginners/](https://blog.udemy.com/bootstrap-tutorial-a-guide-for-beginners/ "Bootstrap Tutorial: A Guide for Beginners"){:target="_blank"}|
 
 ## Themes
 
 |Name|Url|
 |--- |--- |
-|Bootswatch|[http://bootswatch.com/](http://bootswatch.com/ "http://bootswatch.com/")|
-|Themes for Bootstrap|[http://www.themesforbootstrap.com/](http://www.themesforbootstrap.com/ "http://www.themesforbootstrap.com/")|
-|jquery-ui for Bootstrap|[https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap/](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap/ "https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap/")|
-|Style Bootstrap|[http://stylebootstrap.info/](http://stylebootstrap.info/ "http://stylebootstrap.info/")|
-|PaintStrap|[http://paintstrap.com/](http://paintstrap.com/ "http://paintstrap.com/")|
+|Bootswatch|[http://bootswatch.com/](http://bootswatch.com/ "http://bootswatch.com/"){:target="_blank"}|
+|Themes for Bootstrap|[http://www.themesforbootstrap.com/](http://www.themesforbootstrap.com/ "http://www.themesforbootstrap.com/"){:target="_blank"}|
+|jquery-ui for Bootstrap|[https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap/](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap/ "https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap/"){:target="_blank"}|
+|Style Bootstrap|[http://stylebootstrap.info/](http://stylebootstrap.info/ "http://stylebootstrap.info/"){:target="_blank"}|
+|PaintStrap|[http://paintstrap.com/](http://paintstrap.com/ "http://paintstrap.com/"){:target="_blank"}|
 
 ## Layout Helpers
 
 |Name|Url|
 |--- |--- |
-|Bootply|[http://www.bootply.com](http://www.bootply.com)|
-|BootUI|[http://www.bootui.com/](http://www.bootui.com/ "http://www.bootui.com/")|
-|Layoutit|[http://www.layoutit.com/build](http://www.layoutit.com/build "http://www.layoutit.com/build")|
+|Bootply|[http://www.bootply.com](http://www.bootply.com){:target="_blank"}|
+|BootUI|[http://www.bootui.com/](http://www.bootui.com/ "http://www.bootui.com/"){:target="_blank"}|
+|Layoutit|[http://www.layoutit.com/build](http://www.layoutit.com/build "http://www.layoutit.com/build"){:target="_blank"}|
 
 ## Visual Studio NuGet Packages
 
-As of [ASP.NET MVC 5](http://www.asp.net/mvc/mvc5), the File \| New templates are already wired for Twitter Bootstrap, just in case, here are a few packages to get you started.
+As of [ASP.NET MVC 5](http://www.asp.net/mvc/mvc5){:target="_blank"}, the File \| New templates are already wired for Twitter Bootstrap, just in case, here are a few packages to get you started.
 
 |Name|Url|
 |--- |--- |
-|Bootstrap|[http://www.nuget.org/packages/bootstrap/](http://www.nuget.org/packages/bootstrap/ "http://www.nuget.org/packages/bootstrap/")|
-|AngularJS UI Bootstrap|[http://www.nuget.org/packages/Angular.UI.Bootstrap/](http://www.nuget.org/packages/Angular.UI.Bootstrap/ "http://www.nuget.org/packages/Angular.UI.Bootstrap/")|
-|Bootstrap for MVC 5|[http://www.nuget.org/packages/Twitter.Bootstrap.MVC/](http://www.nuget.org/packages/Twitter.Bootstrap.MVC/ "http://www.nuget.org/packages/Twitter.Bootstrap.MVC/")|
-|Paged List for ASP.NET (Bootstrap)|[http://www.nuget.org/packages/PagedListExt/](http://www.nuget.org/packages/PagedListExt/ "http://www.nuget.org/packages/PagedListExt/")|
-|Font Awesome|[http://www.nuget.org/packages/FontAwesome/](http://www.nuget.org/packages/FontAwesome/ "http://www.nuget.org/packages/FontAwesome/")|
+|Bootstrap|[http://www.nuget.org/packages/bootstrap/](http://www.nuget.org/packages/bootstrap/ "http://www.nuget.org/packages/bootstrap/"){:target="_blank"}|
+|AngularJS UI Bootstrap|[http://www.nuget.org/packages/Angular.UI.Bootstrap/](http://www.nuget.org/packages/Angular.UI.Bootstrap/ "http://www.nuget.org/packages/Angular.UI.Bootstrap/"){:target="_blank"}|
+|Bootstrap for MVC 5|[http://www.nuget.org/packages/Twitter.Bootstrap.MVC/](http://www.nuget.org/packages/Twitter.Bootstrap.MVC/ "http://www.nuget.org/packages/Twitter.Bootstrap.MVC/"){:target="_blank"}|
+|Paged List for ASP.NET (Bootstrap)|[http://www.nuget.org/packages/PagedListExt/](http://www.nuget.org/packages/PagedListExt/ "http://www.nuget.org/packages/PagedListExt/"){:target="_blank"}|
+|Font Awesome|[http://www.nuget.org/packages/FontAwesome/](http://www.nuget.org/packages/FontAwesome/ "http://www.nuget.org/packages/FontAwesome/"){:target="_blank"}|
 
 ## UI Widgets
 
@@ -86,29 +86,29 @@ As of [ASP.NET MVC 5](http://www.asp.net/mvc/mvc5), the File \| New templates ar
 
 |Name|Url|
 |--- |--- |
-|Bootstrap Components (for ASP.NET MVC)|[http://bootstrapcomponents.apphb.com/](http://bootstrapcomponents.apphb.com/ "http://bootstrapcomponents.apphb.com/")|
-|Fuel UX|[http://exacttarget.github.io/fuelux/#](http://exacttarget.github.io/fuelux/# "http://exacttarget.github.io/fuelux/#")|
+|Bootstrap Components (for ASP.NET MVC)|[http://bootstrapcomponents.apphb.com/](http://bootstrapcomponents.apphb.com/ "http://bootstrapcomponents.apphb.com/"){:target="_blank"}|
+|Fuel UX|[http://exacttarget.github.io/fuelux/#](http://exacttarget.github.io/fuelux/# "http://exacttarget.github.io/fuelux/#"){:target="_blank"}|
 
 ### Buttons
 
 |Name|Url|
 |--- |--- |
-|Button Builder|[http://bootsnipp.com/buttons](http://bootsnipp.com/buttons "http://bootsnipp.com/buttons")|
+|Button Builder|[http://bootsnipp.com/buttons](http://bootsnipp.com/buttons "http://bootsnipp.com/buttons"){:target="_blank"}|
 
 ### Fonts
 
 |Name|Url|
 |--- |--- |
-|Font Awesome|[http://fontawesome.io/](http://fontawesome.io/ "http://fontawesome.io/")|
-|Font Custom|[http://fontcustom.com/](http://fontcustom.com/ "http://fontcustom.com/")|
+|Font Awesome|[http://fontawesome.io/](http://fontawesome.io/ "http://fontawesome.io/"){:target="_blank"}|
+|Font Custom|[http://fontcustom.com/](http://fontcustom.com/ "http://fontcustom.com/"){:target="_blank"}|
 
 ### Input Widgets
 
 |Name|Url|
 |--- |--- |
-|Bootstrap Form Helpers|[http://bootstrapformhelpers.com/](http://bootstrapformhelpers.com/ "http://bootstrapformhelpers.com/")|
-|Bootstrap Acknowledge Inputs|[http://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/](http://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/ "http://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/")|
-|Bootstrap Wysiwyg Editor|[http://mindmup.github.io/bootstrap-wysiwyg/](http://mindmup.github.io/bootstrap-wysiwyg/ "http://mindmup.github.io/bootstrap-wysiwyg/")|
-|Bootstrap Validation Helpers|[http://reactiveraven.github.io/jqBootstrapValidation/](http://reactiveraven.github.io/jqBootstrapValidation/ "http://reactiveraven.github.io/jqBootstrapValidation/")|
-|Date Picker|[http://www.eyecon.ro/bootstrap-datepicker/](http://www.eyecon.ro/bootstrap-datepicker/ "http://www.eyecon.ro/bootstrap-datepicker/")|
-|Time Picker|[https://github.com/jdewit/bootstrap-timepicker](https://github.com/jdewit/bootstrap-timepicker "https://github.com/jdewit/bootstrap-timepicker")|
+|Bootstrap Form Helpers|[http://bootstrapformhelpers.com/](http://bootstrapformhelpers.com/ "http://bootstrapformhelpers.com/"){:target="_blank"}|
+|Bootstrap Acknowledge Inputs|[http://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/](http://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/ "http://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/"){:target="_blank"}|
+|Bootstrap Wysiwyg Editor|[http://mindmup.github.io/bootstrap-wysiwyg/](http://mindmup.github.io/bootstrap-wysiwyg/ "http://mindmup.github.io/bootstrap-wysiwyg/"){:target="_blank"}|
+|Bootstrap Validation Helpers|[http://reactiveraven.github.io/jqBootstrapValidation/](http://reactiveraven.github.io/jqBootstrapValidation/ "http://reactiveraven.github.io/jqBootstrapValidation/"){:target="_blank"}|
+|Date Picker|[http://www.eyecon.ro/bootstrap-datepicker/](http://www.eyecon.ro/bootstrap-datepicker/ "http://www.eyecon.ro/bootstrap-datepicker/"){:target="_blank"}|
+|Time Picker|[https://github.com/jdewit/bootstrap-timepicker](https://github.com/jdewit/bootstrap-timepicker "https://github.com/jdewit/bootstrap-timepicker"){:target="_blank"}|

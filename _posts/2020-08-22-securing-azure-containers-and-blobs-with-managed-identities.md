@@ -27,7 +27,7 @@ The basic steps are:
 1. Register an application with Azure
 2. Assign a role to that application. More on this later.
 3. Allow that application access to the container.
-4. Pass the identity of the application to the Azure SDK or [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage/).
+4. Pass the identity of the application to the Azure SDK or [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage/){:target="_blank"}.
 5. Celebrate your secure connection!
 
 But before we talk about securing Azure Storage Blob Containers, let's look out what [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is. Azure RBAC, or Azure Role-Based Access Control, is an authorization system built on Azure Resource Manager that provides fine-grained access management of Azure resources.  It allows you to create roles or use predefined roles for your applications.  Azure Storages has many predefined [roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage?WT.mc_id=AZ-MVP-4024623){:target="_blank"}. The Azure Storage Container ones are as follows:

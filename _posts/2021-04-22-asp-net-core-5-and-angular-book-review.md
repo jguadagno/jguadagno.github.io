@@ -21,4 +21,4 @@ Overall, it is an excellent introduction to ASP.NET 5 Core and Angular.  As a bo
 
 This book would be a great addition to a web developer who wants to get into ASP.NET and Angular.
 
-Get [ASP.NET Core 5 and Angular](https://amzn.to/3ndwN4R) on Amazon.
+Get [ASP.NET Core 5 and Angular](https://amzn.to/3ndwN4R){:target="_blank"} on Amazon.

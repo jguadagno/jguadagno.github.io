@@ -10,7 +10,10 @@ tags:
   - Windows Azure
 ---
 
-This Part 2 of a [series of posts]({% link _posts/2013-05-21-the-windows-azure-experience.md %}) about my “upgrade” to Windows Azure. Next up in this series is the Windows Azure Management Portal.  It can be accessed directly at [https://manage.windowsazure.com/](https://manage.windowsazure.com/ "https://manage.windowsazure.com/") or by visiting [http://www.windowsazure.com/en-us/](http://www.windowsazure.com/en-us/) and clicking on the portal link in the upper hand corner. [![SNAGHTMLba8532e[5]](/assets/images/posts/SNAGHTMLba8532e_thumb.png "SNAGHTMLba8532e[5]")](/assets/images/posts/SNAGHTMLba8532e.png)   To access the portal you will need to sign in with the same Windows Live account that you used to create the account. _Note: There are two different sign is screens available, one for those the use a Microsoft Account for Office 365 and one that use a “regular” Windows Live account like hotmail.com or msn.com._
+This Part 2 of a [series of posts]({% link _posts/2013-05-21-the-windows-azure-experience.md %}) about my “upgrade” to Windows Azure. Next up in this series is the Windows Azure Management Portal.  It can be accessed directly at [https://manage.windowsazure.com/](https://manage.windowsazure.com/ "https://manage.windowsazure.com/"){:target="_blank"} or by visiting [http://www.windowsazure.com/en-us/](http://www.windowsazure.com/en-us/){:target="_blank"} and clicking on the portal link in the upper hand corner. [![SNAGHTMLba8532e[5]](/assets/images/posts/SNAGHTMLba8532e_thumb.png "SNAGHTMLba8532e[5]")](/assets/images/posts/SNAGHTMLba8532e.png)   To access the portal you will need to sign in with the same Windows Live account that you used to create the account.
+
+***Note:*** There are two different sign is screens available, one for those the use a Microsoft Account for Office 365 and one that use a “regular” Windows Live account like hotmail.com or msn.com.
+{: .notice--info }
 
 ## Navigation
 

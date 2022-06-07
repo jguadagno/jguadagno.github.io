@@ -10,7 +10,7 @@ tags:
   - jQuery
   - Web
 ---
-Building upon my previous post [Introduction to jQuery Mobile]({% link _posts/2011-12-31-introduction-to-jquery-mobile.md %}), I wanted to share how I converted the [Microsoft Global MVP Summit mobile](http://www.mvpsummitevents.info/m/default.aspx) site to use [jQuery Mobile](http://jquerymobile.com/).
+Building upon my previous post [Introduction to jQuery Mobile]({% link _posts/2011-12-31-introduction-to-jquery-mobile.md %}), I wanted to share how I converted the [Microsoft Global MVP Summit mobile](http://www.mvpsummitevents.info/m/default.aspx){:target="_blank"} site to use [jQuery Mobile](http://jquerymobile.com/){:target="_blank"}.
 
 ## Getting Started
 
@@ -94,7 +94,7 @@ You should notice that line 5 is now different and I added lines 9 - 15\. Line 9
 
 Note above that there is a meta `viewport` tag in the `head` to specify how the browser should display the page zoom level and dimensions. If this isn't set, many mobile browsers will use a "virtual" page width around 900 pixels to make it work well with existing desktop sites but the screens may look zoomed out and too wide. By setting the viewport attributes to `content="width=device-width, initial-scale=1"`, the width will be set to the pixel width of the device screen.
 
-Lines 10-15 contain the references to the jQuery Mobile style sheet, the jQuery library and the jQuery Mobile library. Line 19, is a workaround for using Google Analytics which is described [here](http://www.jongales.com/blog/2011/01/10/google-analytics-and-jquery-mobile/).
+Lines 10-15 contain the references to the jQuery Mobile style sheet, the jQuery library and the jQuery Mobile library. Line 19, is a workaround for using Google Analytics which is described [here](http://www.jongales.com/blog/2011/01/10/google-analytics-and-jquery-mobile/){:target="_blank"}.
 
 ## Converting the Document Body
 

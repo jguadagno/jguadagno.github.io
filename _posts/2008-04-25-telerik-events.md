@@ -15,7 +15,7 @@ This module is responsible for adding, removing, deleting events from the Sitefi
 * [Adding meta fields to an event](#adding-meta-fields-to-an-event)
 * [Adding the missing RSS Provider](#adding-the-missing-rss-provider)
 
-As of the time when this was written, development documentation does not exist for the Telerik.Events assembly. The code samples where either "figured out" or derived from other samples. Thanks to Visual Studio®'s Intellisense® feature, Visual Studio®'s Object Browser and [Reflector](http://www.aisto.com/roeder/dotnet/), I figured out most of it. In order to work with events in Sitefinity, you must add a reference to the Telerik.Events assembly. This assembly is already included in the Sitefinity install; it is mentioned in case you want to create a separate assembly for your events customization. The Telerik.Events.EventsManager handles all of the event management. An instance of the EventManager can be created like this. 
+As of the time when this was written, development documentation does not exist for the Telerik.Events assembly. The code samples where either "figured out" or derived from other samples. Thanks to Visual Studio®'s Intellisense® feature, Visual Studio®'s Object Browser and [Reflector](http://www.aisto.com/roeder/dotnet/){:target="_blank"}, I figured out most of it. In order to work with events in Sitefinity, you must add a reference to the Telerik.Events assembly. This assembly is already included in the Sitefinity install; it is mentioned in case you want to create a separate assembly for your events customization. The Telerik.Events.EventsManager handles all of the event management. An instance of the EventManager can be created like this. 
 
 ``` cs
 string providerName = "Events";

@@ -9,7 +9,7 @@ tags:
   - Productivity
   - Unit Tests
 ---
-For the past few weekends, I've been working rebuilding a library I wrote to make it easier to use Azure Storage. I started this library about 4 or 5 years ago, and it did not have ‘true' unit tests. I'm not going to talk about what makes a good unit test and what doesn't. There are plenty of posts around that! I decided to rewrite all of the tests and move to [xUnit](https://xUnit.net). After creating about the 50th test or so, I noticed a pattern in the initial shell of the tests. Most of the tests looked like this.
+For the past few weekends, I've been working rebuilding a library I wrote to make it easier to use Azure Storage. I started this library about 4 or 5 years ago, and it did not have ‘true' unit tests. I'm not going to talk about what makes a good unit test and what doesn't. There are plenty of posts around that! I decided to rewrite all of the tests and move to [xUnit](https://xUnit.net){:target="_blank"}. After creating about the 50th test or so, I noticed a pattern in the initial shell of the tests. Most of the tests looked like this.
 
 ```cs
 [Fact]
@@ -24,7 +24,7 @@ public void MethodName_WithSomething_ShouldDoSomething()
 }
 ```
 
-I've been a user of [JetBrains](https://www.jetbrains.com) [ReSharper](https://jetbrains.com/resharper) (a Visual Studio extension that makes Visual Studio better) for 9 or so years, maybe longer, and a user of [JetBrains](https://www.jetbrains.com) [Rider](https://jetbrains.com/rider) (cross platform .NET IDE), for about 3 months now, and they both have a feature called [Live Templates](https://www.jetbrains.com/help/rider/using-live-templates.html). Live templates provide you with the ability to create templates for code you often type. These are similar to snippets in Visual Studio but stronger. So to I solved my repeating the same code to start a unit tests with a live code template.
+I've been a user of [JetBrains](https://www.jetbrains.com){:target="_blank"} [ReSharper](https://jetbrains.com/resharper){:target="_blank"} (a Visual Studio extension that makes Visual Studio better) for 9 or so years, maybe longer, and a user of [JetBrains](https://www.jetbrains.com){:target="_blank"} [Rider](https://jetbrains.com/rider){:target="_blank"} (cross platform .NET IDE), for about 3 months now, and they both have a feature called [Live Templates](https://www.jetbrains.com/help/rider/using-live-templates.html){:target="_blank"}. Live templates provide you with the ability to create templates for code you often type. These are similar to snippets in Visual Studio but stronger. So to I solved my repeating the same code to start a unit tests with a live code template.
 
 ## Viewing Existing Templates
 
@@ -65,7 +65,7 @@ public void $MethodName$_With$What$_Should$DoWhat$()
 
 What are those dollar signs (`$`) for you ask? Well, I am glad you asked. The dollar signs are used for variables/inputs/prompts for your template. In this example, I have 4, `$MethodName$`, `$What$`, `$DoWhat$`, and `$END$`. So, in Rider/Visual Studio, when I enable the template, I will be prompted inline for the `$MethodName$`, then `$What$`, then `$DoWhat$`. The `$END$` indicates where the editing caret should end when you are complete with editing all the variables. The names matter as much as naming your methods or variables in code. They should reference what they are doing or expecting. For my unit test, the first variable is `MethodName`, which is the method I am testing, followed by `What` the tests expect as input, then followed up with the test should `DoWhat`, and the template `End`s in a position where I can start arranging the tests.
 
-Now, I can expand this a little bit more with some 'smarts' from the IDE by adding [live template functions](https://www.jetbrains.com/help/idea/template-variables.html#predefined_functions) but that maybe another blog posts.
+Now, I can expand this a little bit more with some 'smarts' from the IDE by adding [live template functions](https://www.jetbrains.com/help/idea/template-variables.html#predefined_functions){:target="_blank"} but that maybe another blog posts.
 
 ### Template Settings
 
@@ -84,6 +84,6 @@ There are a lot of things that you can do with live templates. I urge you to tak
 
 ### Further Resources
 
-- [Using Templates to Create Code](https://www.jetbrains.com/help/rider/Templates_Rider.html)
-- [Share Live Templates](https://www.jetbrains.com/help/rider/Sharing_Live_Templates.html)
-- [Live Template Variables](https://www.jetbrains.com/help/rider/template_variables.html)
+- [Using Templates to Create Code](https://www.jetbrains.com/help/rider/Templates_Rider.html){:target="_blank"}
+- [Share Live Templates](https://www.jetbrains.com/help/rider/Sharing_Live_Templates.html){:target="_blank"}
+- [Live Template Variables](https://www.jetbrains.com/help/rider/template_variables.html){:target="_blank"}

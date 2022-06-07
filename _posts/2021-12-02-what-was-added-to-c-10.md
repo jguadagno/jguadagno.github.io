@@ -16,10 +16,10 @@ tags:
   - dotnet
   - csharp
 ---
-**Note:** This post was originally posted on the Telerik [blog](https://www.telerik.com/blogs/what-was-added-csharp-10).
+**Note:** This post was originally posted on the Telerik {:target="_blank"}
 {: .notice--info}
 
-In a previous [post](https://www.telerik.com/blogs/what-i-like-about-csharp-9), I talked about all of the new features of C# 9. With the release of .NET 6 recently, I wanted to share some of the new language features of C# 10.
+In a previous [post](https://www.telerik.com/blogs/what-i-like-about-csharp-9){:target="_blank"}, I talked about all of the new features of C# 9. With the release of .NET 6 recently, I wanted to share some of the new language features of C# 10.
 
 Let's take a look at some of the new language features.
 
@@ -66,7 +66,7 @@ Now we save 2 curly braces and 1 indentation level. I kind of wish this feature 
 
 ### Global Using Directives
 
-How often do you see or type the same namespaces over and over again? `using System;`, for me, is declared in almost every file in my project. With C# 10s [Global Using Directives](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/global-using-directives?WT.mc_id=AZ-MVP-4024623), you can declare your using directives at the top of your file and then use them throughout your file. Now I can add `global using System;` to one file in my project, and the `using` statement will be *referenced* throughout all my files/classes.
+How often do you see or type the same namespaces over and over again? `using System;`, for me, is declared in almost every file in my project. With C# 10s {:target="_blank"} you can declare your using directives at the top of your file and then use them throughout your file. Now I can add `global using System;` to one file in my project, and the `using` statement will be *referenced* throughout all my files/classes.
 
 I see myself using the following code in my project regularly now:
 
@@ -100,7 +100,7 @@ If `global using` is not your or your teams thing, you can disable it by adding 
 
 ### Extended Property Patterns
 
-[Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns?WT.mc_id=AZ-MVP-4024623) was introduced in C# 7. It allows you to match the properties of an object against a pattern. Pattern matching is a great way to write cleaner code. In C# 8, the [Property Patterns](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/pattern-matching?WT.mc_id=AZ-MVP-4024623) feature was added, which enabled you to match against properties of an object like this:
+[Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns?WT.mc_id=AZ-MVP-4024623){:target="_blank"} was introduced in C# 7. It allows you to match the properties of an object against a pattern. Pattern matching is a great way to write cleaner code. In C# 8, the [Property Patterns](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/pattern-matching?WT.mc_id=AZ-MVP-4024623){:target="_blank"} feature was added, which enabled you to match against properties of an object like this:
 
 ```csharp
 Person person = new Person {
