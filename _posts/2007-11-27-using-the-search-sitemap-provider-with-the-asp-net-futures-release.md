@@ -8,19 +8,19 @@ categories:
 ---
 ## Sitemaps
 
-First off a quick introduction to what a Sitemap is, according to [http://www.sitemaps.org](http://www.sitemaps.org){:target="_blank"}.
+First off a quick introduction to what a Sitemap is, according to [https://www.sitemaps.org](https://www.sitemaps.org){:target="_blank"}.
 
 Sitemaps are an easy way for webmasters to inform search engines about pages on their sites that are available for crawling. In its simplest form, a Sitemap is an XML file that lists URLs for a site along with additional metadata about each URL (when it was last updated, how often it usually changes, and how important it is, relative to other URLs in the site) so that search engines can more intelligently crawl the site.
 
 ## ASP.NET Futures Release
 
-The ASP.NET futures release can be found at [http://www.asp.net/downloads/futures/](http://www.asp.net/downloads/futures/ "http://www.asp.net/downloads/futures/"){:target="_blank"}. Just a note, as you will see on the futures site, the content in the futures release might not make it to the official ASP.NET Ajax release. The futures release contains functionality that the team is thinking about incorporating into the main ASP.NET release. So this means that you could play with the code and hope that the team incorporates it into ASP.NET Ajax.  Enough with the disclaimer.
+The ASP.NET futures release can be found at [https://www.asp.net/downloads/futures/](https://www.asp.net/downloads/futures/ "https://www.asp.net/downloads/futures/"){:target="_blank"}. Just a note, as you will see on the futures site, the content in the futures release might not make it to the official ASP.NET Ajax release. The futures release contains functionality that the team is thinking about incorporating into the main ASP.NET release. So this means that you could play with the code and hope that the team incorporates it into ASP.NET Ajax.  Enough with the disclaimer.
 
-[**Download the ASP.NET Futures**  (July 2007) Release](http://go.microsoft.com/fwlink/?LinkID=89147&clcid=0x409){:target="_blank"}
+[**Download the ASP.NET Futures**  (July 2007) Release](https://go.microsoft.com/fwlink/?LinkID=89147&clcid=0x409){:target="_blank"}
 
 ## Getting Started Search Sitemap Provider
 
-The ASP.NET team created the [SearchSitemapProvider](http://quickstarts.asp.net/Futures/services/doc/searchsitemaps.aspx){:target="_blank"} as part of the ASP.NET Futures (July 2007) release. The release contains an HttpHandler to process the calls, SearchSiteMaps.axd, which serves up the Sitemap and two providers, AspNetSiteMapSearchSiteMapProvider and DynamicDataSearchSiteMapProvider. The AspNetSiteMapSearchSiteMapProvider will generate a static Sitemap based on the ASP.NET sitemap. The DynamicDataSearchSiteMap provider provides a way to dynamically generate the Sitemap.
+The ASP.NET team created the [SearchSitemapProvider](https://quickstarts.asp.net/Futures/services/doc/searchsitemaps.aspx){:target="_blank"} as part of the ASP.NET Futures (July 2007) release. The release contains an HttpHandler to process the calls, SearchSiteMaps.axd, which serves up the Sitemap and two providers, AspNetSiteMapSearchSiteMapProvider and DynamicDataSearchSiteMapProvider. The AspNetSiteMapSearchSiteMapProvider will generate a static Sitemap based on the ASP.NET sitemap. The DynamicDataSearchSiteMap provider provides a way to dynamically generate the Sitemap.
 
 To enable Search Sitemaps in your ASP.NET you need to do the following.
 
@@ -72,25 +72,25 @@ A call to `https://www.josephguadagno.net/SearchSiteMaps.axd` will produce somet
 <sitemapindex>
   <sitemap>
     <loc>
-      http://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=Navigation
+      https://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=Navigation
     </loc>
     <lastmod>2007-11-13T04:53:21.371Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>
-      http://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=Articles
+      https://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=Articles
     </loc>
     <lastmod>2007-11-13T04:53:21.371Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>
-      http://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=Books
+      https://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=Books
     </loc>
     <lastmod>2007-11-13T04:53:21.371Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>
-      http://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=News
+      https://www.josephguadagno.net/SearchSiteMaps.axd?sitemap=News
     </loc>
     <lastmod>2007-11-13T04:53:21.371Z</lastmod>
   </sitemap>
@@ -123,7 +123,7 @@ The SiteEntry class supports the following properties (taken straight from the A
 * The `lastModifiedDataField` property (optional) specifies the column that contains information about the last time the sitemap was modified. This date should be in W3C DateTime format, which allows you to omit the time portion and provide the date in the format YYYY-MM-DD. If the property is not specified, the provider attempts to read a property named `SiteMapLastModified`.
 * The `changeFrequencyDataField` property (optional) specifies how frequently the page is likely to change. Valid values are: always, hourly, daily, weekly, monthly, yearly, never. If the property is not specified, the provider attempts to read a property named `SiteMapChangeFrequency`.
 * The `priorityDataField` property (optional) specifies the priority of this URL relative to other URLs on your site. Valid values range from 0.0 to 1.0\. If the property is not specified, the provider attempts to read a property named `SiteMapPriority`.
-* Set the `pathInfoFormat` property (optional) to `true` if you want to use only the value in the URL (for example, http://site/page.aspx/1)
+* Set the `pathInfoFormat` property (optional) to `true` if you want to use only the value in the URL (for example, https://site/page.aspx/1)
 
 These properties are used in conjunction with your properties that you want to display in the sitemap. For my search sitemap I use the following fields:
 
@@ -184,19 +184,19 @@ Lines 14 - 21 you would replace with your code get your dynamic data.  Lines 19
 
 So how does the `List<SiteEntry>` tie into the provider configuration?  The answer is in the attributes/properties that are defined for provider. For this sample we have `targetUrl =""`, `targetUrlSeparator="/"`, `queryStringDataFormatString="{0}"` and `queryStringDataFields="Url"` this tells the provide to build a string with the base of targetUrl, then add `targetUrlSeparator`, followed by calling `string.forma`t using `queryStringDataFormatString` with the parameters equal to the value of the properties listed in `queryStringDataFields`.  In other words the url will look like this.
 
-http://www.yourdomain.com/<value of url field>
+https://www.yourdomain.com/<value of url field>
 
 In my site, I generate the Url in code so that it will be consistent between different pages.  A "real" world example might look like this.  
 
 Properties: `targetUrl ="BookReviews"`, `targetUrlSeparator="/"`, `queryStringDataFormatString="{0}/{1}.aspx"`` and queryStringDataFields="Id, Title"` which would generate a url similar to this.
 
-`http://www.yourdomain.com/1/title.aspx`
+`https://www.yourdomain.com/1/title.aspx`
 
 Notice that I had two field in the `queryStringDataFields` property.  You can list as many as you want, they just need to be comma separated. This means that the SiteEntry object needs to have at least the two properties of `Id` and `Title`.
 
 ## For more information
 
-That's about it.  I was a lot to read and digest but hopefully useful. If you have any questions, please feel free to contact me or leave a comment or you can discuss the Sitemap provider in the ASP.net [forums](http://forums.asp.net/1127/ShowForum.aspx){:target="_blank"}.
+That's about it.  I was a lot to read and digest but hopefully useful. If you have any questions, please feel free to contact me or leave a comment or you can discuss the Sitemap provider in the ASP.net [forums](https://forums.asp.net/1127/ShowForum.aspx){:target="_blank"}.
 
 ## Search Engines were you can submit a feed
 

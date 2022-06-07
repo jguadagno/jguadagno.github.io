@@ -12,4 +12,4 @@ The book covers ER diagrams, domain modeling, common design patterns, SOA, WCF, 
 
 There is only one downside the book and that is the formatting of the code samples.  There seems to be an issue with the spacing and tabs (at least in the book).  Other than that it is a good read.
 
-You can purchase the book on the [PackT Publishing site](http://www.packtpub.com/application-architecture-and-design-for-asp-.net-3.5/book/mid/261108nprnz1){:target="_blank"}.
+You can purchase the book on the [PackT Publishing site](https://www.packtpub.com/application-architecture-and-design-for-asp-.net-3.5/book/mid/261108nprnz1){:target="_blank"}.

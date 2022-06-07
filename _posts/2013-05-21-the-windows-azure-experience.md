@@ -9,7 +9,7 @@ tags:
   - Microsoft Azure
   - Windows Azure
 ---
-A few weeks ago, I embarked on a task to move one of my sites from a traditional hosting provider to [Windows Azure](http://www.windowsazure.com/en-us/){:target="_blank"} [Web Sites](http://www.windowsazure.com/en-us/home/scenarios/web-sites/){:target="_blank"}. I did this for a few reasons and it has **nothing** to do with the hosting provider.
+A few weeks ago, I embarked on a task to move one of my sites from a traditional hosting provider to [Windows Azure](https://www.windowsazure.com/en-us/){:target="_blank"} [Web Sites](https://www.windowsazure.com/en-us/home/scenarios/web-sites/){:target="_blank"}. I did this for a few reasons and it has **nothing** to do with the hosting provider.
 
 1. I was helping out at one of Global Windows Azure Boot Camps, so I felt I should see what it's like first hand.
 2. The site I moved needed to be able to scale up on certain days/weeks.

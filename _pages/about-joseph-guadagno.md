@@ -12,26 +12,26 @@ Joe Guadagno is a Director of Engineering at Rocket Mortgage, the nation's large
 * Streaming 'Coding with JoeG' on [Twitch](https://twitch.tv/jguadagno){:target="_blank"}
 * [Telerik](https://www.telerik.com/){:target="_blank"} [Ninja](https://www.telerik.com/ninjas){:target="_blank"} - August 2020
 * [C# Corner](https://www.c-sharpcorner.com/){:target="_blank"} [MVP](https://www.c-sharpcorner.com/article/how-to-become-a-csharp-corner-mvp/){:target="_blank"} - Sept 2020
-* Friend of Redgate [program](http://www.red-gate.com/community/friends-of-rg){:target="_blank"} (2015 to 2018)
-* Former President,Vice President, and Marketing Director of [INETA](http://ineta.org/){:target="_blank"} North America (2007-2015)
-* Founder of the Southeast Valley .NET User Group ([SEVDNUG](http://sevdnug.org/home.aspx){:target="_blank"}) in Chandler, AZ (2007-2013)
-* Currently serving on my the [City of Chandler](http://www.chandleraz.gov/){:target="_blank"}'s [Parks](http://www.chandleraz.gov/default.aspx?pageid=287){:target="_blank"} and [Recreation](http://www.chandleraz.gov/default.aspx?pageid=732){:target="_blank"} [board](http://www.chandleraz.gov/default.aspx?pageid=268){:target="_blank"} (2010 to 2018)
-* [Telerik MVP](http://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"} (2010 to 2012)
+* Friend of Redgate [program](https://www.red-gate.com/community/friends-of-rg){:target="_blank"} (2015 to 2018)
+* Former President,Vice President, and Marketing Director of [INETA](https://ineta.org/){:target="_blank"} North America (2007-2015)
+* Founder of the Southeast Valley .NET User Group ([SEVDNUG](https://sevdnug.org/home.aspx){:target="_blank"}) in Chandler, AZ (2007-2013)
+* Currently serving on my the [City of Chandler](https://www.chandleraz.gov/){:target="_blank"}'s [Parks](https://www.chandleraz.gov/default.aspx?pageid=287){:target="_blank"} and [Recreation](https://www.chandleraz.gov/default.aspx?pageid=732){:target="_blank"} [board](https://www.chandleraz.gov/default.aspx?pageid=268){:target="_blank"} (2010 to 2018)
+* [Telerik MVP](https://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"} (2010 to 2012)
 * Microsoft Visual Basic MVP (1996)
 
 ### Open Source Projects ([https://github.com/jguadagno](https://github.com/jguadagno){:target="_blank"})
 
-* [BingSharp](http://bingsharp.codeplex.com/){:target="_blank"}: A wrapper around the Bing API in C#
+* [BingSharp](https://bingsharp.codeplex.com/){:target="_blank"}: A wrapper around the Bing API in C#
 * [bootstrapThemeSwitcher](https://github.com/jguadagno/bootstrapThemeSwitcher){:target="_blank"}: jquery plugin to dynamically load Bootstrap themes
 * [twbs-flickrCarousel](https://github.com/jguadagno/twbs-flickrCarousel){:target="_blank"}: a bootstrap carousel to loop through Flickr pictures
 
 ### Events I organize or participate in
 
 * [Desert Code Camp](https://desertcodecamp.com/){:target="_blank"}
-* [AZGiveCamp](http://azgivecamp.org/){:target="_blank"}
+* [AZGiveCamp](https://azgivecamp.org/){:target="_blank"}
 * Organizer for the 1st Time MVP event at the MVP Summit
 * [MVP 2 MVP Sessions]({% link _pages/mvp-summit-2011-c-mvp-2-mvp-sessions.md %}){:target="_blank"} at MVP Summit.
-* Awesome bean pusher at [GeekGive](http://geekgive.org/project/mvpsummit2012.aspx){:target="_blank"} at the MVP Summit.
+* Awesome bean pusher at [GeekGive](https://geekgive.org/project/mvpsummit2012.aspx){:target="_blank"} at the MVP Summit.
 
 ## Resume
 

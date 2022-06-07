@@ -13,20 +13,20 @@ tags:
   - Plugin
   - Twitter Bootstrap
 ---
-**UPDATE**: This is now a jQuery Plugin. See the post [Bootstrap Theme Switcher jQuery Plugin]({% link _posts/2014-11-16-bootstrap-theme-switcher-jquery-plugin.md %}). While creating a Proof of Concept design for a web site I was working on I thought it would be cool to demonstrate the power of themes in Twitter [Bootstrap](http://getbootstrap.com){:target="_blank"} by providing an option in the Proof of Concept to switch to some of the themes that are on [Bootswatch](http://www.bootswatch.com){:target="_blank"}.  It was a remarkably easy solution, that involved [jQuery](http://www.jquery.com){:target="_blank"}, [jQuery.cookie](https://github.com/carhartl/jquery-cookie){:target="_blank"} plugin, Twitter Bootstrap [Navbar](http://getbootstrap.com/components/#navbar){:target="_blank"} and the themes from [Bootswatch](http://www.bootswatch.com){:target="_blank"}. This sample assumes that you are using a CDN for the Twitter Bootstrap and jQuery files and that you downloaded the themes from Bootswatch and copied them to the path of `/css/themes`. The example could easily be modified to use the themes on the Bootstrap [CDN](http://www.bootstrapcdn.com){:target="_blank"}. First, let's start with a basic template for Twitter Bootstrap
+**UPDATE**: This is now a jQuery Plugin. See the post [Bootstrap Theme Switcher jQuery Plugin]({% link _posts/2014-11-16-bootstrap-theme-switcher-jquery-plugin.md %}). While creating a Proof of Concept design for a web site I was working on I thought it would be cool to demonstrate the power of themes in Twitter [Bootstrap](https://getbootstrap.com){:target="_blank"} by providing an option in the Proof of Concept to switch to some of the themes that are on [Bootswatch](https://www.bootswatch.com){:target="_blank"}.  It was a remarkably easy solution, that involved [jQuery](https://www.jquery.com){:target="_blank"}, [jQuery.cookie](https://github.com/carhartl/jquery-cookie){:target="_blank"} plugin, Twitter Bootstrap [Navbar](https://getbootstrap.com/components/#navbar){:target="_blank"} and the themes from [Bootswatch](https://www.bootswatch.com){:target="_blank"}. This sample assumes that you are using a CDN for the Twitter Bootstrap and jQuery files and that you downloaded the themes from Bootswatch and copied them to the path of `/css/themes`. The example could easily be modified to use the themes on the Bootstrap [CDN](https://www.bootstrapcdn.com){:target="_blank"}. First, let's start with a basic template for Twitter Bootstrap
 
 ```html
 <html lang="en">
     <head>
         <!-- Bootstrap core CSS -->
         <link rel="stylesheet"
-            href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+            href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
         <link rel="stylesheet"
-            href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+            href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
         <link id="bootstrapTheme" rel="stylesheet"
-            href="http://netdna.bootstrapcdn.com/bootswatch/3.1.1/cerulean/bootstrap.min.css">
+            href="https://netdna.bootstrapcdn.com/bootswatch/3.1.1/cerulean/bootstrap.min.css">
         <link rel="stylesheet"
-            href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+            href="https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->   
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -44,7 +44,7 @@ Your content here!
     type="text/javascript">
 </script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"
     type="text/javascript">
 </script>
 <script src="/js/site.js" type="text/javascript"></script>

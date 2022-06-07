@@ -9,4 +9,4 @@ categories:
 ---
 So my family and I have been going camping a lot for the past two years and this got me thinking… Why not have a Code Camp with actual camping?  We can still learn, have fun and enjoy beautiful Arizona at the same time.
 
-If you're interested, help me with the planning.  Complete the survey at: [http://bit.ly/bUnZvl](http://bit.ly/bUnZvl)
+If you're interested, help me with the planning.  Complete the survey at: [https://bit.ly/bUnZvl](https://bit.ly/bUnZvl)

@@ -15,7 +15,7 @@ This module is responsible for adding, removing, deleting events from the Sitefi
 * [Adding meta fields to an event](#adding-meta-fields-to-an-event)
 * [Adding the missing RSS Provider](#adding-the-missing-rss-provider)
 
-As of the time when this was written, development documentation does not exist for the Telerik.Events assembly. The code samples where either "figured out" or derived from other samples. Thanks to Visual Studio®'s Intellisense® feature, Visual Studio®'s Object Browser and [Reflector](http://www.aisto.com/roeder/dotnet/){:target="_blank"}, I figured out most of it. In order to work with events in Sitefinity, you must add a reference to the Telerik.Events assembly. This assembly is already included in the Sitefinity install; it is mentioned in case you want to create a separate assembly for your events customization. The Telerik.Events.EventsManager handles all of the event management. An instance of the EventManager can be created like this. 
+As of the time when this was written, development documentation does not exist for the Telerik.Events assembly. The code samples where either "figured out" or derived from other samples. Thanks to Visual Studio®'s Intellisense® feature, Visual Studio®'s Object Browser and [Reflector](https://www.aisto.com/roeder/dotnet/){:target="_blank"}, I figured out most of it. In order to work with events in Sitefinity, you must add a reference to the Telerik.Events assembly. This assembly is already included in the Sitefinity install; it is mentioned in case you want to create a separate assembly for your events customization. The Telerik.Events.EventsManager handles all of the event management. An instance of the EventManager can be created like this. 
 
 ``` cs
 string providerName = "Events";
@@ -195,7 +195,7 @@ foreach (IEvent eventItem in events)
 
 Adding meta fields to the events module is a 5 step process which involves editing the web.config file, editing the administration control templates, and the public display templates. 
 
-For this example, we will add a _Short Text_ meta field call `ClickToAttendId` that we want to be displayed as part of an HTML hyperlink similar to this http://www.clicktoattend.com/invitation.aspx?code=_ClickToAttendId_
+For this example, we will add a _Short Text_ meta field call `ClickToAttendId` that we want to be displayed as part of an HTML hyperlink similar to this https://www.clicktoattend.com/invitation.aspx?code=_ClickToAttendId_
 
 ### **Step 1:** Edit the web.config file.
 
@@ -303,7 +303,7 @@ A sample of the markup could be.
 ```html
 <h4>Event Registration</h4>
   <p>This event requires registration, please register
-  <a href='http://www.ImComing.com/id.aspx?code=<asp:Literal ID="ClickToAttendId" runat="server"></asp:Literal>'>
+  <a href='https://www.ImComing.com/id.aspx?code=<asp:Literal ID="ClickToAttendId" runat="server"></asp:Literal>'>
   here</a>.
 </p>
 ```
@@ -325,7 +325,7 @@ A sample of the markup could be.
   <h2>Event Registration</h2>
   <p>Please click
     <asp:HyperLink ID="ClickToAttendId" runat="server" 
-      NavigateUrl='<% "http://www.clicktoattend.com/invitation.aspx?code=" + this.Text %>'>
+      NavigateUrl='<% "https://www.clicktoattend.com/invitation.aspx?code=" + this.Text %>'>
     </asp:HyperLink>
     to complete the registration for this event.
   </p>

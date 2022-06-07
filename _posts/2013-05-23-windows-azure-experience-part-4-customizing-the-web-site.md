@@ -12,12 +12,12 @@ tags:
   - Windows Azure
 ---
 
-This Part 4 of a [series of posts]({% link _posts/2013-05-21-the-windows-azure-experience.md %}) about my “upgrade” to Windows Azure. Next up in the series is customizing the Windows Azure [Web Site](http://www.windowsazure.com/en-us/manage/services/web-sites/){:target="_blank"}.
+This Part 4 of a [series of posts]({% link _posts/2013-05-21-the-windows-azure-experience.md %}) about my “upgrade” to Windows Azure. Next up in the series is customizing the Windows Azure [Web Site](https://www.windowsazure.com/en-us/manage/services/web-sites/){:target="_blank"}.
 
 **Note:** This blog post is based on the Preview version of Windows Azure Web Sites and might change in the future.
 {: .notice--info}
 
-**Note:** There is an [article](http://www.windowsazure.com/en-us/manage/services/web-sites/how-to-configure-websites/){:target="_blank"} on the Windows Azure site that will cover some of this content.
+**Note:** There is an [article](https://www.windowsazure.com/en-us/manage/services/web-sites/how-to-configure-websites/){:target="_blank"} on the Windows Azure site that will cover some of this content.
 {: .notice--info}
 
 ## Getting Started
@@ -30,11 +30,11 @@ WebMatrix is a free, lightweight web development tool that includes everything y
 
 #### Web Matrix
 
-Clicking on this link will redirect you to the latest and greatest version of [WebMatrix](http://www.microsoft.com/web/webmatrix/){:target="_blank"}.
+Clicking on this link will redirect you to the latest and greatest version of [WebMatrix](https://www.microsoft.com/web/webmatrix/){:target="_blank"}.
 
 #### Install a Windows Azure SDK
 
-Clicking on this link will redirect your to the downloads page for all of the [Windows Azure SDKs](http://www.windowsazure.com/en-us/downloads/?fb=en-us){:target="_blank"}. There are SDKs available for Mobile development, including Android, iOS, Windows Phone 8, and Windows Store. Here are some of the others
+Clicking on this link will redirect your to the downloads page for all of the [Windows Azure SDKs](https://www.windowsazure.com/en-us/downloads/?fb=en-us){:target="_blank"}. There are SDKs available for Mobile development, including Android, iOS, Windows Phone 8, and Windows Store. Here are some of the others
 
 * .NET: Visual Studio 2010, Visual Studio 2012
 * Node.js

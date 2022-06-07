@@ -10,7 +10,7 @@ tags:
   - jQuery
   - Web
 ---
-Building upon my previous post [Introduction to jQuery Mobile]({% link _posts/2011-12-31-introduction-to-jquery-mobile.md %}), I wanted to share how I converted the [Microsoft Global MVP Summit mobile](http://www.mvpsummitevents.info/m/default.aspx){:target="_blank"} site to use [jQuery Mobile](http://jquerymobile.com/){:target="_blank"}.
+Building upon my previous post [Introduction to jQuery Mobile]({% link _posts/2011-12-31-introduction-to-jquery-mobile.md %}), I wanted to share how I converted the [Microsoft Global MVP Summit mobile](https://www.mvpsummitevents.info/m/default.aspx){:target="_blank"} site to use [jQuery Mobile](https://jquerymobile.com/){:target="_blank"}.
 
 ## Getting Started
 
@@ -22,8 +22,8 @@ The first step was to look at the existing ASP.NET Master Page that the site was
   CodeBehind="Mobile.master.cs"
   Inherits="MVPSummitEvents.Website.Mobile" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" >
+  "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" >
 <head runat="server">
   <title>MVP Summit Events - Mobile - </title>
   <asp:ContentPlaceHolder ID="head" runat="server">
@@ -37,9 +37,9 @@ The first step was to look at the existing ASP.NET Master Page that the site was
       NavigateUrl="~/m/default.aspx" Text="Home" ToolTip="Home" /> |
     <asp:HyperLink runat="server" ID="hlMap"
       NavigateUrl="~/m/map.aspx" Text="Map" ToolTip="Map" /> |
-    <a href="http://tinyurl.com/4e5mp5p"
+    <a href="https://tinyurl.com/4e5mp5p"
       title="Windows Phone 7 App">Window Phone 7</a> App. |
-    <a href="http://itunes.apple.com/us/app/mvp-events/id416291827?mt=8">iPhone</a> App.
+    <a href="https://itunes.apple.com/us/app/mvp-events/id416291827?mt=8">iPhone</a> App.
   </div>
   <div id="mBody">
     <asp:ContentPlaceHolder ID="CphBody" runat="server">
@@ -48,7 +48,7 @@ The first step was to look at the existing ASP.NET Master Page that the site was
   </form>
   <div id="mFoot">Copyright ©2009-2012,
     <a href="https://www.josephguadagno.net" title="Joseph Guadagno">Joseph Guadagno</a> |
-    <a href="http://twitter.com/jguadagno" title="Follow jguadagno">@jguadagno</a> |
+    <a href="https://twitter.com/jguadagno" title="Follow jguadagno">@jguadagno</a> |
     <a href="mailto:jguadagno@hotmail.com">Contact</a>
   </div>
 </body>
@@ -71,16 +71,16 @@ Next was to include the jQuery Mobile scripts and CSS files, after that my head 
   CodeBehind="Mobile.master.cs"
   Inherits="MVPSummitEvents.Website.Mobile" %>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" >
+<html xmlns="https://www.w3.org/1999/xhtml" >
 <head runat="server">
   <title>MVP Summit Events - Mobile - </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet"
-    href="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" />
+    href="https://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" />
   <script type="text/javascript"
-    src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+    src="https://code.jquery.com/jquery-1.6.4.min.js"></script>
   <script type="text/javascript"
-    src="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
+    src="https://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
   <asp:ContentPlaceHolder ID="HeadContent" runat="server" />
   <link id="Link1" rel="stylesheet" runat="server" href="/css/m.css" />
   <script type="text/javascript" src="../js/analytics.js"></script>
@@ -94,7 +94,7 @@ You should notice that line 5 is now different and I added lines 9 - 15\. Line 9
 
 Note above that there is a meta `viewport` tag in the `head` to specify how the browser should display the page zoom level and dimensions. If this isn't set, many mobile browsers will use a "virtual" page width around 900 pixels to make it work well with existing desktop sites but the screens may look zoomed out and too wide. By setting the viewport attributes to `content="width=device-width, initial-scale=1"`, the width will be set to the pixel width of the device screen.
 
-Lines 10-15 contain the references to the jQuery Mobile style sheet, the jQuery library and the jQuery Mobile library. Line 19, is a workaround for using Google Analytics which is described [here](http://www.jongales.com/blog/2011/01/10/google-analytics-and-jquery-mobile/){:target="_blank"}.
+Lines 10-15 contain the references to the jQuery Mobile style sheet, the jQuery library and the jQuery Mobile library. Line 19, is a workaround for using Google Analytics which is described [here](https://www.jongales.com/blog/2011/01/10/google-analytics-and-jquery-mobile/){:target="_blank"}.
 
 ## Converting the Document Body
 
@@ -111,17 +111,17 @@ Looking at the body of Master Page, I was almost ready for the jQuery Mobile con
     ID="hlMap" 
     NavigateUrl="~/m/map.aspx"
     Text="Map" ToolTip="Map" /> |
-  <a href="http://tinyurl.com/4e5mp5p"
+  <a href="https://tinyurl.com/4e5mp5p"
     title="Windows Phone 7 App">Window Phone 7</a> App. |
-  <a href="http://itunes.apple.com/us/app/mvp-events/id416291827?mt=8">iPhone</a> App.
+  <a href="https://itunes.apple.com/us/app/mvp-events/id416291827?mt=8">iPhone</a> App.
 </div>
 <div id="mBody">
   <asp:ContentPlaceHolder ID="CphBody" runat="server">
   </asp:ContentPlaceHolder>
 </div>
 <div id="mFoot">Copyright ©2009-2012,
-  <a href="http://www.josephguadagno.net" title="Joseph Guadagno">Joseph Guadagno</a> |
-  <a href="http://twitter.com/jguadagno" title="Follow jguadagno">@jguadagno</a> |
+  <a href="https://www.josephguadagno.net" title="Joseph Guadagno">Joseph Guadagno</a> |
+  <a href="https://twitter.com/jguadagno" title="Follow jguadagno">@jguadagno</a> |
   <a href="mailto:jguadagno@hotmail.com">Contact</a>
 </div>
 ```

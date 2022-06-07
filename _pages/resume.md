@@ -79,7 +79,7 @@ Outside of the &#39;day to day&#39; roles and responsibilities of being a Direct
 
 As a Team Leader, I lead a team of Business Analysts, Quality Assurance Engineers, Software Engineers, and a Software Architect to deliver several quality projects.
 
-My team built a service that allows our clients to automatically gather, with their permission, Asset, Income, and Income Tax data and forms from our partners to include in their mortgage application. For the work and creativity for this product I was awarded U.S. Patent #[10,042,949](http://jjg.me/patent)
+My team built a service that allows our clients to automatically gather, with their permission, Asset, Income, and Income Tax data and forms from our partners to include in their mortgage application. For the work and creativity for this product I was awarded U.S. Patent #[10,042,949](https://jjg.me/patent)
 
 Another project was a new, reimagined, Sales Force automation system. This system was redesigned from the ground up to help our bankers&#39; collect data from our clients during the mortgage process. My tasks included: discovery, project estimation, application architecture, status reporting, and presentations on the progress of the project.
 
@@ -303,10 +303,10 @@ I actively publish content on my blog at [https://josephguadagno.net](https://jo
 
 | **Title** | **Url** | **Published** |
 | --- | --- | --- |
-| Guadagno Task Scheduler | [http://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler](http://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler) | October 2008 |
-| log4net XmlConfigurator Simplified | [http://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified](http://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified) | June 2007 |
-| Task Plug-in: A Flexible .NET Plug-in Architecture | [http://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture](http://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture) | April 2007 |
-| Customizing Folders in C##| [http://www.codeproject.com/Articles/18811/Customizing-Folders-in-C](http://www.codeproject.com/Articles/18811/Customizing-Folders-in-C) | May 2007 |
+| Guadagno Task Scheduler | [https://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler](https://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler) | October 2008 |
+| log4net XmlConfigurator Simplified | [https://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified](https://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified) | June 2007 |
+| Task Plug-in: A Flexible .NET Plug-in Architecture | [https://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture](https://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture) | April 2007 |
+| Customizing Folders in C##| [https://www.codeproject.com/Articles/18811/Customizing-Folders-in-C](https://www.codeproject.com/Articles/18811/Customizing-Folders-in-C) | May 2007 |
 
 ## Community Work
 
@@ -331,15 +331,15 @@ I actively publish content on my blog at [https://josephguadagno.net](https://jo
 
 | **Used for** | **Site** |
 | --- | --- |
-| The site for Desert Code Camp, the Phoenix area code camp. | [http://www.desertcodecamp.com](http://www.desertcodecamp.com/) |
+| The site for Desert Code Camp, the Phoenix area code camp. | [https://www.desertcodecamp.com](https://www.desertcodecamp.com/) |
 | --- | --- |
-| The site for the Southeast Valley .NET User Group in Chandler, AZ | [http://www.sevdnug.org](http://www.sevdnug.org/) |
-| The site for tracking all the events and after parties at Microsoft Global MVP Summit. | [http://www.mvpsummitevents.info](http://mvpsummitevents.info/) |
-| The site for tracking all the events and after parties at Microsoft TechEd. | [http://www.techedevents.info](http://techedevents.info/) |
-| The site for tracking all the events and after parties at Connections conference. | [http://www.devconnectionevents.info](http://devconnectionevents.info/) |
-| The site for tracking all the events and after parties at the Professional Developers Conference (PDC). | [http://www.pdcevents.info](http://pdcevents.info/) |
-| The site for tracking all the events and after parties at the Mix conference. | [http://www.visitmixevents.info](http://visitmixevents.info/) |
-| The site for tracking all the events and after parties at SQL Pass Summit. | [http://www.passsummitevents.info](http://passsummitevents.info/) |
+| The site for the Southeast Valley .NET User Group in Chandler, AZ | [https://www.sevdnug.org](https://www.sevdnug.org/) |
+| The site for tracking all the events and after parties at Microsoft Global MVP Summit. | [https://www.mvpsummitevents.info](https://mvpsummitevents.info/) |
+| The site for tracking all the events and after parties at Microsoft TechEd. | [https://www.techedevents.info](https://techedevents.info/) |
+| The site for tracking all the events and after parties at Connections conference. | [https://www.devconnectionevents.info](https://devconnectionevents.info/) |
+| The site for tracking all the events and after parties at the Professional Developers Conference (PDC). | [https://www.pdcevents.info](https://pdcevents.info/) |
+| The site for tracking all the events and after parties at the Mix conference. | [https://www.visitmixevents.info](https://visitmixevents.info/) |
+| The site for tracking all the events and after parties at SQL Pass Summit. | [https://www.passsummitevents.info](https://passsummitevents.info/) |
 
 ## Affiliations, Awards and Certifications
 
@@ -347,7 +347,7 @@ I actively publish content on my blog at [https://josephguadagno.net](https://jo
 | --- | --- | --- |
 | Microsoft | [Microsoft Developer Services MVP](https://mvp.support.microsoft.com/profile=4C0083AE-C0DE-4F05-A179-D9072AF2EA2B) | 2009 through 2021 |
 | Progress Telerik | Telerik Ninja | 2018 through 2021 |
-| Telerik | [Telerik MVP](http://www.telerik.com/community/client-profile.aspx?cId=187651) | 2009 thought 2013 |
+| Telerik | [Telerik MVP](https://www.telerik.com/community/client-profile.aspx?cId=187651) | 2009 thought 2013 |
 | Microsoft | Microsoft Visual Basic MVP | 1996 |
 
 ## Additional Information

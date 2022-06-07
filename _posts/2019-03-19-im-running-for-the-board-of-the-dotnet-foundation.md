@@ -15,7 +15,7 @@ I am a Microsoft Developer Service MVP. I have been an MVP since 2008. I have sp
 
 ## Why I'm Running
 
-For 20 years or so I have been in Software Development. During that time I have used many tools, languages, and technologies. I started out programming with a small book on QuickBASIC. I later moved on to Visual Basic for DOS. Windows then came along and I starting using Visual Basic for Windows, I then migrated to Visual Basic .NET and eventually ended up using Visual C#. I work as an Engineering Director at Rocket Mortgage, based in Detroit, MI. I am a public speaker and present internationally on a lot of different [technology topics](http://www.josephguadagno.net/presentations/){:target="_blank"}.
+For 20 years or so I have been in Software Development. During that time I have used many tools, languages, and technologies. I started out programming with a small book on QuickBASIC. I later moved on to Visual Basic for DOS. Windows then came along and I starting using Visual Basic for Windows, I then migrated to Visual Basic .NET and eventually ended up using Visual C#. I work as an Engineering Director at Rocket Mortgage, based in Detroit, MI. I am a public speaker and present internationally on a lot of different [technology topics](https://www.josephguadagno.net/presentations/){:target="_blank"}.
 
 One of my primary goals in life is to *leave this live (planet) better than it was when I joined it*. I do that in many ways. My favorite way is to grow people and help make them better. I do this through education. Presenting/Public Speaking.  I also do this by helping others find ways to help themselves grow.  I believe that being on the board of the .NET Foundation, I can help the vision of .NET and make it easier for others to adopt and grow themselves.  In the past, I have worked with many other talented professionals while serving on the Board of Directors for [INETA](#ineta-experience){:target="_blank"} to help spread the education and adoption of .NET.
 
@@ -39,7 +39,7 @@ INETA was the International .NET Association.  I served on the board for eight y
 
 ### Open Source Projects
 
-* [BingSharp](http://bingsharp.codeplex.com/){:target="_blank"}: A wrapper around the Bing API in C#
+* [BingSharp](https://bingsharp.codeplex.com/){:target="_blank"}: A wrapper around the Bing API in C#
 * [bootstrapThemeSwitcher](https://github.com/jguadagno/bootstrapThemeSwitcher){:target="_blank"}: jquery plugin to dynamically load Bootstrap themes
 * [twbs-flickrCarousel](https://github.com/jguadagno/twbs-flickrCarousel){:target="_blank"}: a bootstrap carousel to loop through Flickr pictures
 * [JosephGuadagno.Extensions](https://github.com/jguadagno/JosephGuadagno.Extensions){:target="_blank"}
@@ -63,7 +63,7 @@ INETA was the International .NET Association.  I served on the board for eight y
 
 * Twitter: [@jguadagno](https://twitter.com/jguadagno){:target="_blank"}
 * GitHub: [@jguadagno](https://github.com/jguadagno){:target="_blank"}
-* [Microsoft MVP Profile](http://jjg.me/MVPLink){:target="_blank"}
+* [Microsoft MVP Profile](https://jjg.me/MVPLink){:target="_blank"}
 * [LinkedIn](https://www.linkedin.com/in/josephguadagno/){:target="_blank"}
 * [StackOverflow](https://stackoverflow.com/users/89184/joseph-guadagno){:target="_blank"}
 * Email: [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com){:target="_blank"}

@@ -317,7 +317,7 @@ Now we'll need to create a script to call the tool
     script: |
       .\NuGetKeyVaultSignTool sign ./src/**/*.nupkg `
       --file-digest "sha256" `
-      --timestamp-rfc3161 "http://timestamp.digicert.com" `
+      --timestamp-rfc3161 "https://timestamp.digicert.com" `
       --timestamp-digest "sha256" `
       --azure-key-vault-url "https://<yourvaultname>.vault.azure.net/" `
       --azure-key-vault-tenant-id "92a85e53-affe-4d2d-ac5d-99383f88e2e3" `
@@ -333,7 +333,7 @@ The first part of the Powershell shell task is the execute the `NuGetKeyVaultSig
 | Argument | Value | Comment |
 | --- | --- | --- |
 | **file-digest** | `sha256` |  This shouldn't need to change depending on your certificate |
-| **timestamp-rfc3161** | `http://timestamp.digicert.com` | This shouldn't need to change unless you get your certificate from another source |
+| **timestamp-rfc3161** | `https://timestamp.digicert.com` | This shouldn't need to change unless you get your certificate from another source |
 | **timestamp-digest** | `sha256` | This shouldn't need to change depending on your certificate |
 | **azure-key-vault-url** | `https://<yourvaultname>.vault.azure.net/` | Replace this vault with the Url for your Azure Key Vault |
 | **azure-key-vault-tenant-id** | `92a85e53-affe-4d2d-ac5d-99383f88e2e3` | Replace this with the Azure Tenant Id that this Key Vault is in |

@@ -5,7 +5,7 @@ permalink: /2009/10/19/gangplank-jr-track-at-code-camp-jr/
 categories:
   - Arizona Technology News
 ---
-Got a kid interested in Technology? Bring them to the **Gankplank Jr track at Code Camp Jr.** taking place at [Desert Code Camp](http://www.desertcodecamp.com/){:target="_blank"}.
+Got a kid interested in Technology? Bring them to the **Gankplank Jr track at Code Camp Jr.** taking place at [Desert Code Camp](https://www.desertcodecamp.com/){:target="_blank"}.
 
 ## Schedule for the day
 
@@ -30,7 +30,7 @@ Lunch will be provided by Gangplank Jr.
 
 If you have any Arduino sets or Lego Mindstorm NXT sets feel free to bring them.
 
-Register to attend: [codecampjr2009.eventbrite.com](http://codecampjr2009.eventbrite.com)
+Register to attend: [codecampjr2009.eventbrite.com](https://codecampjr2009.eventbrite.com)
 
 If you have any questions, feel free to contact me.
 

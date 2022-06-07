@@ -39,7 +39,7 @@ This session will show how to display information using maps and how they can he
 
 #### Chris Woodruff
 
-The Open Data Protocol (OData) http://www.odata.org/ is an open protocol for sharing data. It provides a way to break down data silos and increase the shared value of data by creating an ecosystem in which data consumers can interoperate with data producers in a way that is far more powerful than currently possible, enabling more applications to make sense of a broader set of data. Every producer and consumer of data that participates in this ecosystem increases its overall value.
+The Open Data Protocol (OData) https://www.odata.org/ is an open protocol for sharing data. It provides a way to break down data silos and increase the shared value of data by creating an ecosystem in which data consumers can interoperate with data producers in a way that is far more powerful than currently possible, enabling more applications to make sense of a broader set of data. Every producer and consumer of data that participates in this ecosystem increases its overall value.
 
 ### Using FitNesse with C#
 

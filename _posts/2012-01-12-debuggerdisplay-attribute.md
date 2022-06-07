@@ -11,7 +11,7 @@ Have you ever tried to debug an application and wish the Visual Studio debugger 
 
 [![image](/assets/images/posts/image_thumb_4.png "image")](/assets/images/posts/image_5.png)
 
-Visual Studio has an attribute that you can add to a class to inform the debugger what to display when it is displaying that class in the debugger. As you probably guessed the attribute is called [DebuggerDisplay](http://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx?WT.mc_id=DOP-MVP-4024623){:target="_blank"}.
+Visual Studio has an attribute that you can add to a class to inform the debugger what to display when it is displaying that class in the debugger. As you probably guessed the attribute is called [DebuggerDisplay](https://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx?WT.mc_id=DOP-MVP-4024623){:target="_blank"}.
 
 ## How to Implement
 
@@ -36,7 +36,7 @@ public class Person
 }
 ```
 
-Next, let's assume we want to display the first and last name of the person when debugging. We first need to add the DebuggerDisplay attribute to our class. The DebuggerDisplay attribute can be found in the [System.Diagnosis](http://msdn.microsoft.com/en-us/library/15t15zda.aspx?WT.mc_id=DOP-MVP-4024623){:target="_blank"} class of the .NET framework. The DebuggerDisplay works almost like the string.Format method, except you, replace the numbers with the property/method names you want to display. Example:
+Next, let's assume we want to display the first and last name of the person when debugging. We first need to add the DebuggerDisplay attribute to our class. The DebuggerDisplay attribute can be found in the [System.Diagnosis](https://msdn.microsoft.com/en-us/library/15t15zda.aspx?WT.mc_id=DOP-MVP-4024623){:target="_blank"} class of the .NET framework. The DebuggerDisplay works almost like the string.Format method, except you, replace the numbers with the property/method names you want to display. Example:
 
 ```cs
 [DebuggerDisplay("FirstName={FirstName} LastName={LastName}")]
@@ -73,4 +73,4 @@ You'll notice this makes it easier to see what you are looking at. It also works
 
 ## Summary
 
-You can use more than just field names. Method calls can be done (although probably not the best) and some calculations. Take a look at the MSDN documentation for the [DebuggerDisplay](http://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx?WT.mc_id=DOP-MVP-4024623){:target="_blank"} attribute for more information. There is also an article titled [DebuggerDisplay attribute best practices](http://blogs.msdn.com/b/jaredpar/archive/2011/03/18/debuggerdisplay-attribute-best-practices.aspx){:target="_blank"} that you should read also.
+You can use more than just field names. Method calls can be done (although probably not the best) and some calculations. Take a look at the MSDN documentation for the [DebuggerDisplay](https://msdn.microsoft.com/en-us/library/system.diagnostics.debuggerdisplayattribute.aspx?WT.mc_id=DOP-MVP-4024623){:target="_blank"} attribute for more information. There is also an article titled [DebuggerDisplay attribute best practices](https://blogs.msdn.com/b/jaredpar/archive/2011/03/18/debuggerdisplay-attribute-best-practices.aspx){:target="_blank"} that you should read also.

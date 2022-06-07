@@ -7,9 +7,9 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-Download this document: [How to create a Sitefinity custom module](http://sevdnug.org/Libraries/Sitefinity_Modules/SiteFinity%20Custom%20Module%20Creation.sflb)
+Download this document: [How to create a Sitefinity custom module](https://sevdnug.org/Libraries/Sitefinity_Modules/SiteFinity%20Custom%20Module%20Creation.sflb)
 
-Download the source: [SEVDNUG.Contact.zip](http://sevdnug.org/Libraries/Sitefinity_Modules/SEVDNUG.Contacts.sflb)
+Download the source: [SEVDNUG.Contact.zip](https://sevdnug.org/Libraries/Sitefinity_Modules/SEVDNUG.Contacts.sflb)
 
 This document outlines how to create a custom Sitefinity module by modifying the `SEVDNUG.Contacts` module.  The `SEVDNUG.Contacts` module was based on the `Samples.Contacts` module found on the Sitefinity blog.  This document gives you step by step directions on how to modify/tweak this `SEVDNUG.Contacts` module to implement your new custom module.  In addition, I attempt to explain what each file is used for. This sample module is constructed in a very similar to the way the modules of Sitefinity application are constructed. As a result, you should be able to use parts of this document to figure out how to customize certain features of Sitefinity modules. After completing the [First Steps](#first-steps) and [Modify the Code](#modify-the-code) sections of this document, your new module will be available on your Sitefinity site.
 
@@ -186,7 +186,7 @@ dbclass ModuleName [TableName="SEVDNUG_ModuleName"]{
     created date CreatedOn;
 ```
 
-For more info on modifying the dbclass library or how to modify this file, check the Nolics [documentation](http://www.nolics.net/Docs4_2/Ref_dbclass.html){:target="_blank"}.
+For more info on modifying the dbclass library or how to modify this file, check the Nolics [documentation](https://www.nolics.net/Docs4_2/Ref_dbclass.html){:target="_blank"}.
 
 Where is the tutorial that tells you how to make tables?
 
@@ -196,7 +196,7 @@ This class will allow you to add additional properties and methods to the Nolics
 
 #### `<ModuleName>s.cs` <!-- omit in toc -->
 
-This class creates a dynamic query around the module table. Dynamic queries are typically used when there are custom table joins that you want to be available to any calling class. For more information on creating or using dynamic queries with Nolics please check out the Nolics [documentation](http://www.nolics.com/Material2005/WT10_Queries.doc){:target="_blank"}.
+This class creates a dynamic query around the module table. Dynamic queries are typically used when there are custom table joins that you want to be available to any calling class. For more information on creating or using dynamic queries with Nolics please check out the Nolics [documentation](https://www.nolics.com/Material2005/WT10_Queries.doc){:target="_blank"}.
 
 ```cs
 public class ModuleNames: Query<ModuleName>

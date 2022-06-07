@@ -14,7 +14,7 @@ tags:
   - Theme
   - Twitter Bootstrap
 ---
-A few months ago a published an article on a [Bootstrap Theme Switcher]({% link _posts/2014-05-24-bootstrap-theme-switcher.md %}). I've since approved this post and the JavaScript and turned it into a jQuery plugin. This plugin works with the [Bootswatch](http://www.bootswatch.com) {:target="_blank"} [API](http://bootswatch.com/help/#api){:target="_blank"} to provide the user with the following:
+A few months ago a published an article on a [Bootstrap Theme Switcher]({% link _posts/2014-05-24-bootstrap-theme-switcher.md %}). I've since approved this post and the JavaScript and turned it into a jQuery plugin. This plugin works with the [Bootswatch](https://www.bootswatch.com) {:target="_blank"} [API](https://bootswatch.com/help/#api){:target="_blank"} to provide the user with the following:
 
 * Loads a list of available themes from the API into a SELECT or a UL,
 * Dynamically change the site theme to the selected theme
@@ -30,9 +30,9 @@ Let me know what you think.
 
 | Download | Link |
 |---|---|
-|jQuery Plugin page|[http://plugins.jquery.com/bootstrapThemeSwitcher/](http://plugins.jquery.com/bootstrapThemeSwitcher/ "Bootstrap Theme Selector"){:target="_blank"}|
-|GitHub Repository|[http://github.com/jguadagno/bootstrapThemeSwitcher](http://github.com/jguadagno/bootstrapThemeSwitcher "http://github.com/jguadagno/bootstrapThemeSwitcher"){:target="_blank"}|
-|Demo site|[http://introtobootstrap.azurewebsites.net/](http://introtobootstrap.azurewebsites.net/ "Introduction to Twitter Bootstrap"){:target="_blank"}|
+|jQuery Plugin page|[https://plugins.jquery.com/bootstrapThemeSwitcher/](https://plugins.jquery.com/bootstrapThemeSwitcher/ "Bootstrap Theme Selector"){:target="_blank"}|
+|GitHub Repository|[https://github.com/jguadagno/bootstrapThemeSwitcher](https://github.com/jguadagno/bootstrapThemeSwitcher "https://github.com/jguadagno/bootstrapThemeSwitcher"){:target="_blank"}|
+|Demo site|[https://introtobootstrap.azurewebsites.net/](https://introtobootstrap.azurewebsites.net/ "Introduction to Twitter Bootstrap"){:target="_blank"}|
 
 ### Next steps
 

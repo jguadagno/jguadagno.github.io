@@ -7,14 +7,14 @@ dsq_thread_id:
 categories:
   - Arizona Technology News
 ---
-It's time for the 7th iteration of [Desert Code Camp](http://www.desertcodecamp.com){:target="_blank"} (my second one as director).  Desert Code Camp will be held on May 15th at DeVry again.
+It's time for the 7th iteration of [Desert Code Camp](https://www.desertcodecamp.com){:target="_blank"} (my second one as director).  Desert Code Camp will be held on May 15th at DeVry again.
 
 DeVry University  
-2149 W Dunlap Ave ([Map](http://www.desertcodecamp.com/Map.aspx){:target="_blank"})  
+2149 W Dunlap Ave ([Map](https://www.desertcodecamp.com/Map.aspx){:target="_blank"})  
 Phoenix, Arizona 85021
 
-The Desert Code Camp website has a new design and logo thanks to [Gabriel Utasi](http://gabrielutasi.com/){:target="_blank"} and a few new features.
+The Desert Code Camp website has a new design and logo thanks to [Gabriel Utasi](https://gabrielutasi.com/){:target="_blank"} and a few new features.
 
 Sign-up to give a talk today.
 
-Follow Desert Code Camp on Twitter [@DesertCodeCamp](http://twitter.com/DesertCodeCamp){:target="_blank"}
+Follow Desert Code Camp on Twitter [@DesertCodeCamp](https://twitter.com/DesertCodeCamp){:target="_blank"}

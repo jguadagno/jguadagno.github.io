@@ -5,7 +5,7 @@ permalink: /2007/11/06/how-do-i-format-my-gridview-bound-column-differently/
 categories:
   - Articles
 ---
-Replace the _ColumnName_ value with the name of your column. Replace DataFormatString property with the format string of your choosing.  A good reference for .NET string formats is available at [http://john-sheehan.com/blog/index.php/net-cheat-sheets/](http://john-sheehan.com/blog/index.php/net-cheat-sheets/)
+Replace the _ColumnName_ value with the name of your column. Replace DataFormatString property with the format string of your choosing.  A good reference for .NET string formats is available at [https://john-sheehan.com/blog/index.php/net-cheat-sheets/](https://john-sheehan.com/blog/index.php/net-cheat-sheets/)
 
 ```html
 <asp:GridView ID="GridView1" runat=“server”>

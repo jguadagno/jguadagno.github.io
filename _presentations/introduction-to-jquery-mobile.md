@@ -10,4 +10,4 @@ jQuery Mobile framework takes the “write less, do more” mantra to the next l
 
 We'll walk through all of the components that make up the jQuery Mobile framework, like form widgets, themes and more.
 
-You can see the demo live at [http://jjg.me/jqmsite](http://jjg.me/jqmsite)
+You can see the demo live at [https://jjg.me/jqmsite](https://jjg.me/jqmsite)

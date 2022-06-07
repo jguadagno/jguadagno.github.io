@@ -7,7 +7,7 @@ dsq_thread_id:
 categories:
   - Articles
 ---
-So, I heard that the [Sitefinity](http://www.sitefinity.com/){:target="_blank"} application had this generic content module that was pretty easy to use to create your own module with. Why do you need to create a new generic content based module you ask?  There a few answers to that question.  I created a new generic content based module because I wanted to track all of the discounts that were offered to the [Southeast Valley .NET user group](http://www.sevdnug.org/){:target="_blank"} and since free time is a something I do not have lately, it was an easy choice.  You might also want to leverage the existing Sitefinity generic content module because you do not have any development resources available to.  As the name implies it is generic, so generic in fact, it is used by the blog feature, news feature and events feature. After a week's worth of digging into the code and documentation, I was successful. So that you do not have to go through the pain, I will lay out the instructions for you.  This guide will require virtually no coding, just a little HTML markup, and some web.config changes. There are few steps involved in creating a new copy of the generic module.  
+So, I heard that the [Sitefinity](https://www.sitefinity.com/){:target="_blank"} application had this generic content module that was pretty easy to use to create your own module with. Why do you need to create a new generic content based module you ask?  There a few answers to that question.  I created a new generic content based module because I wanted to track all of the discounts that were offered to the [Southeast Valley .NET user group](https://www.sevdnug.org/){:target="_blank"} and since free time is a something I do not have lately, it was an easy choice.  You might also want to leverage the existing Sitefinity generic content module because you do not have any development resources available to.  As the name implies it is generic, so generic in fact, it is used by the blog feature, news feature and events feature. After a week's worth of digging into the code and documentation, I was successful. So that you do not have to go through the pain, I will lay out the instructions for you.  This guide will require virtually no coding, just a little HTML markup, and some web.config changes. There are few steps involved in creating a new copy of the generic module.  
 
 The first step is to BACKUP your web.config file and Sitefinity project, just to be safe.
 {: .notice--danger}
@@ -32,11 +32,11 @@ There are two bugs in Sitefinity 3.2 Service Pack 2 hotfix 1616 that cause poten
 
 ### Multiple Providers Fix
 
-This bug does not allow for you to select multiple generic content providers. To fix this issue, check out the Sitefinity knowledge base article titled [Adding a custom provider for Generic Content](http://www.sitefinity.com/support/knowledge-base/kb-article/b1154K-bach-b1154T-cmm.aspx)
+This bug does not allow for you to select multiple generic content providers. To fix this issue, check out the Sitefinity knowledge base article titled [Adding a custom provider for Generic Content](https://www.sitefinity.com/support/knowledge-base/kb-article/b1154K-bach-b1154T-cmm.aspx)
 
 ### The Settings for ContentView controls are reset fix
 
-To fix this issue, check out the Sitefinity knowledge base article titled [Settings applied to the Content View based controls are reset](http://www.sitefinity.com/support/knowledge-base/kb-article/b1154K-bace-b1154T-cmm.aspx)
+To fix this issue, check out the Sitefinity knowledge base article titled [Settings applied to the Content View based controls are reset](https://www.sitefinity.com/support/knowledge-base/kb-article/b1154K-bace-b1154T-cmm.aspx)
 
 ### Resource Files
 
@@ -148,7 +148,7 @@ Further down in the web.config file, you should find an element, add Meta keys f
 <add key="Discounts.Author" valueType="ShortText" visible="True" searchable="True" sortable="True" defaultValue="Joseph Guadagno"/>
 ```
 
-Please note that the name of the module and the word before the period must match the module name. For the Discounts Module provider I discussed, the name should be Discounts as shown below this sentence: The important part is for each property/field you want you to need to add a line. You will notice the format is "PropertyName". For more information on the attributes, check out the [Sitefinity developer's documentation](http://www.sitefinity.com/help/developer-manual/telerik.cms.engine-telerik.cms.engine.metainfo_members.html){:target="_blank"}. Save your `web.config` and this completes all necessary changes to the file.
+Please note that the name of the module and the word before the period must match the module name. For the Discounts Module provider I discussed, the name should be Discounts as shown below this sentence: The important part is for each property/field you want you to need to add a line. You will notice the format is "PropertyName". For more information on the attributes, check out the [Sitefinity developer's documentation](https://www.sitefinity.com/help/developer-manual/telerik.cms.engine-telerik.cms.engine.metainfo_members.html){:target="_blank"}. Save your `web.config` and this completes all necessary changes to the file.
 
 ## Create your new admin section
 

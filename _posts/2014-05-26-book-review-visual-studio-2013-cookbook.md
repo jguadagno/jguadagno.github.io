@@ -13,4 +13,4 @@ When I first looked at the title of the book Visual Studio 2013 Cookbook I wonde
 **Disclaimer**: I was given a copy of this book in the hopes that I would review it. I only post reviews on books that I think would provide some benefit to the development community.
 {: .notice}
 
-Get [Visual Studio 2013 Cookbook](http://www.amazon.com/gp/product/1782171967/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1782171967&linkCode=as2&tag=beyondthebasic0e&linkId=E366A2OH33HLPZLY){:target="_blank"} on Amazon.
+Get [Visual Studio 2013 Cookbook](https://www.amazon.com/gp/product/1782171967/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1782171967&linkCode=as2&tag=beyondthebasic0e&linkId=E366A2OH33HLPZLY){:target="_blank"} on Amazon.

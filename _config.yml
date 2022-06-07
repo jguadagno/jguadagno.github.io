@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Microsoft .NET MVP, Director of Engineering at Rocket Mortgage, Organizer of Desert Code Camp
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title
-url: "https://www.josephguadagno.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.josephguadagno.net" # the base hostname & protocol for your site, e.g. https://example.com
 timezone: America/Phoenix
 breadcrumbs: true
 collections:
@@ -28,7 +28,7 @@ collections:
     output: true
     permalink: /:collection/:name
 atom_feed:
-  path: "http://feeds.feedburner.com/JosephGuadagno"
+  path: "https://feeds.feedburner.com/JosephGuadagno"
 feed:
   posts_limit: 40
 og_image: /assets/images/og_image.png
@@ -69,7 +69,7 @@ author:
       url: "https://www.paypal.me/jguadagno"
     - label: "Sponsor - Buy Me a Tea"
       icon: "fas fa-fw fa-coffee"
-      url: "http://buymeacoffee.com/jguadagno"
+      url: "https://buymeacoffee.com/jguadagno"
 
 # Build settings
 markdown: kramdown

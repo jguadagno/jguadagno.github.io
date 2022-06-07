@@ -16,4 +16,4 @@ There were two things that the book was missing... It did not talk about the err
 
 In summary, this is a great book for beginners to SSIS and DBA's that what to start using Visual Studio to debug their SSIS packages.
 
-This book is out and is available from [Packt](http://www.packtpub.com/){:target="_blank"}. For more information about this book, please visit: [www.packtpub.com/sql-server-integration-services-visual-studio-2005/book](http://www.packtpub.com/sql-server-integration-services-visual-studio-2005/book){:target="_blank"}
+This book is out and is available from [Packt](https://www.packtpub.com/){:target="_blank"}. For more information about this book, please visit: [www.packtpub.com/sql-server-integration-services-visual-studio-2005/book](https://www.packtpub.com/sql-server-integration-services-visual-studio-2005/book){:target="_blank"}

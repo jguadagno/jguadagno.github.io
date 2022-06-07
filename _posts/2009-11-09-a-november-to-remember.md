@@ -16,12 +16,12 @@ I get to go fly back to NY in a few days to see family and friends and wish my m
 
 ## On the professional front…
 
-I was elected to the North American [INETA](http://www.ineta.org){:target="_blank"} board of directors.
+I was elected to the North American [INETA](https://www.ineta.org){:target="_blank"} board of directors.
 
-I was elected to the [AZGiveCamp](http://www.azgivecamp.org){:target="_blank"} executive committee, VP of Operations.  As the VP I will oversee the activities of the Logistics, Sponsorship, Technology and Publicity teams.
+I was elected to the [AZGiveCamp](https://www.azgivecamp.org){:target="_blank"} executive committee, VP of Operations.  As the VP I will oversee the activities of the Logistics, Sponsorship, Technology and Publicity teams.
 
-I put together my first Code Camp, [Desert Code Camp](http://www.desertcodecamp.com/){:target="_blank"}.
+I put together my first Code Camp, [Desert Code Camp](https://www.desertcodecamp.com/){:target="_blank"}.
 
-I am presenting a [Bird of Feather](http://pdcbof.com){:target="_blank"} session at PDC with Chris Woodruff on “How to Build and Enrich Your Technical and Local Community” on Tuesday, Nov 17 from 11a – 12p.  Stop by if you want to see how to build your community.
+I am presenting a [Bird of Feather](https://pdcbof.com){:target="_blank"} session at PDC with Chris Woodruff on “How to Build and Enrich Your Technical and Local Community” on Tuesday, Nov 17 from 11a – 12p.  Stop by if you want to see how to build your community.
 
 That's it for now.  Hopefully, I can relax a bit in December.

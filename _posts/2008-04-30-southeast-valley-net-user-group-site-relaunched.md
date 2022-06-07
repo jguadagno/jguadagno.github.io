@@ -6,4 +6,4 @@ categories:
   - Arizona Technology News
   - News
 ---
-Come check out the new site [http://www.sevdnug.org](http://www.sevdnug.org)
+Come check out the new site [https://www.sevdnug.org](https://www.sevdnug.org)

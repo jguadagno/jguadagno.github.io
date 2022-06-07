@@ -298,7 +298,7 @@
   },
   {
     "eventName": "RocketTech Developer Relations Stream",
-    "eventUrl": "http://twitch.tv/rocketdevrel",
+    "eventUrl": "https://twitch.tv/rocketdevrel",
     "location": "Virtual",
     "eventStart": "2021-12-01T10:00:00",
     "eventEnd": "2021-12-01T11:00:00",
@@ -468,7 +468,7 @@
   },
   {
     "eventName": "Azure DevOps Podcast",
-    "eventUrl": "http://azuredevopspodcast.clear-measure.com/",
+    "eventUrl": "https://azuredevopspodcast.clear-measure.com/",
     "location": "Podcast",
     "eventStart": "2021-10-01T00:00:00",
     "eventEnd": "2021-10-01T00:00:00",
@@ -478,7 +478,7 @@
     "presentation": [
       {
         "name": "Joe Guadagno on the Latest in Azure DevOps - Episode 159",
-        "url": "http://azuredevopspodcast.clear-measure.com/joe-guadagno-on-the-latest-in-azure-devops-episode-159",
+        "url": "https://azuredevopspodcast.clear-measure.com/joe-guadagno-on-the-latest-in-azure-devops-episode-159",
         "date": "2021-10-01T00:00:00",
         "room": "",
         "comments": "",
@@ -986,7 +986,7 @@
   },
   {
     "eventName": "CodepoLOUsa",
-    "eventUrl": "http://www.codepalousa.com/",
+    "eventUrl": "https://www.codepalousa.com/",
     "location": "Virtual",
     "eventStart": "2020-08-21T00:00:00",
     "eventEnd": "2020-08-21T00:00:00",
@@ -1710,7 +1710,7 @@
   },
   {
     "eventName": "C# Corner Conference",
-    "eventUrl": "http://conference.c-sharpcorner.com/",
+    "eventUrl": "https://conference.c-sharpcorner.com/",
     "location": "New Delhi, India",
     "eventStart": "2017-04-09T00:00:00",
     "eventEnd": "2017-04-09T00:00:00",
@@ -1762,7 +1762,7 @@
   },
   {
     "eventName": "Philly Code Camp 2017.1",
-    "eventUrl": "http://phillydotnet.azurewebsites.net/",
+    "eventUrl": "https://phillydotnet.azurewebsites.net/",
     "location": "Malvern, PA",
     "eventStart": "2017-02-25T00:00:00",
     "eventEnd": "2017-02-25T00:00:00",
@@ -1792,7 +1792,7 @@
   },
   {
     "eventName": "MVP Mix",
-    "eventUrl": "http://www.mvpmix.com/dallas",
+    "eventUrl": "https://www.mvpmix.com/dallas",
     "location": "Dallas, TX",
     "eventStart": "2017-03-09T00:00:00",
     "eventEnd": "2017-03-09T00:00:00",

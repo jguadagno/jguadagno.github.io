@@ -11,7 +11,7 @@ tags:
 ---
 ## The Google AJAX Search API
 
-The [Google AJAX Search API](http://code.google.com/apis/ajaxsearch/){:target="_blank"} is a Javascript library that allows you to embed Google Search in your web pages and other web applications. To use the API, you will first need to sign up for an [API key](http://code.google.com/apis/ajaxsearch/signup.html){:target="_blank"}. The Google AJAX Search API provides simple web objects that perform inline searches over a number of Google services (Web Search, Local Search, Video Search, Blog Search, News Search, Book Search, and Image Search). If your web page is designed to help users create content (e.g. message boards, blogs, etc.), the API is designed to support these activities by allowing them to copy search results directly into their messages.
+The [Google AJAX Search API](https://code.google.com/apis/ajaxsearch/){:target="_blank"} is a Javascript library that allows you to embed Google Search in your web pages and other web applications. To use the API, you will first need to sign up for an [API key](https://code.google.com/apis/ajaxsearch/signup.html){:target="_blank"}. The Google AJAX Search API provides simple web objects that perform inline searches over a number of Google services (Web Search, Local Search, Video Search, Blog Search, News Search, Book Search, and Image Search). If your web page is designed to help users create content (e.g. message boards, blogs, etc.), the API is designed to support these activities by allowing them to copy search results directly into their messages.
 
 ## If so, then why wrap it?
 
@@ -129,7 +129,7 @@ This mimics the Ajax ASP.NET watermark extender control by changing the CSS clas
 
 ## Using the MyGSearch object
 
-There are two easy steps to using the MyGSearch objects. This, of course, assumes that you have obtained a Google API key from [http://code.google.com/apis/ajaxsearch/signup.html](http://code.google.com/apis/ajaxsearch/signup.html){:target="_blank"}.
+There are two easy steps to using the MyGSearch objects. This, of course, assumes that you have obtained a Google API key from [https://code.google.com/apis/ajaxsearch/signup.html](https://code.google.com/apis/ajaxsearch/signup.html){:target="_blank"}.
 
 ### Step 1: Create the HTML content
 
@@ -250,7 +250,7 @@ Other possible modifications include adding additional Google searchers to searc
 
 # References
 
-* Get your Google API Key: [http://code.google.com/apis/ajaxsearch/signup.html](http://code.google.com/apis/ajaxsearch/signup.html)
-* Google AJAX API: [http://code.google.com/apis/ajaxsearch/](http://code.google.com/apis/ajaxsearch/)
-* Google AJAX API Documentation: [http://code.google.com/apis/ajaxsearch/documentation/](http://code.google.com/apis/ajaxsearch/documentation/)
-* Google AJAX API User Group: [http://groups-beta.google.com/group/Google-AJAX-Search-API](http://groups-beta.google.com/group/Google-AJAX-Search-API)
+* Get your Google API Key: [https://code.google.com/apis/ajaxsearch/signup.html](https://code.google.com/apis/ajaxsearch/signup.html)
+* Google AJAX API: [https://code.google.com/apis/ajaxsearch/](https://code.google.com/apis/ajaxsearch/)
+* Google AJAX API Documentation: [https://code.google.com/apis/ajaxsearch/documentation/](https://code.google.com/apis/ajaxsearch/documentation/)
+* Google AJAX API User Group: [https://groups-beta.google.com/group/Google-AJAX-Search-API](https://groups-beta.google.com/group/Google-AJAX-Search-API)

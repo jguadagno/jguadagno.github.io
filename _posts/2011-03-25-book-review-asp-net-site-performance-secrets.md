@@ -10,4 +10,4 @@ When I first got this book I thought it was going to be a compilation of tips an
 
 This book is definitely worth a read then a reread every once in a while. I plan on implementing some of the suggestions for my sites.
 
-Check out the book on the [Packt Publishing](https://www.packtpub.com/asp-net-site-performance-secrets/book){:target="_blank"} site or [ASP.NET Site Performance Secrets](http://www.amazon.com/gp/product/1849690685/ref=as_li_ss_tl?ie=UTF8&tag=beyondthebasic0e&linkCode=as2&camp=1789&creative=390957&creativeASIN=1849690685){:target="_blank"}.
+Check out the book on the [Packt Publishing](https://www.packtpub.com/asp-net-site-performance-secrets/book){:target="_blank"} site or [ASP.NET Site Performance Secrets](https://www.amazon.com/gp/product/1849690685/ref=as_li_ss_tl?ie=UTF8&tag=beyondthebasic0e&linkCode=as2&camp=1789&creative=390957&creativeASIN=1849690685){:target="_blank"}.

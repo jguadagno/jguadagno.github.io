@@ -12,4 +12,4 @@ Well as you can see the title is quite but extremely accurate.  The book covers 
 
 Overall, this book is a good read for those that want to get started in Windows Workflow Foundation.
 
-The books web site: [http://www.packtpub.com/windows-workflow-foundation-Csharp/book](http://www.packtpub.com/windows-workflow-foundation-Csharp/book "http://www.packtpub.com/windows-workflow-foundation-Csharp/book")
+The books web site: [https://www.packtpub.com/windows-workflow-foundation-Csharp/book](https://www.packtpub.com/windows-workflow-foundation-Csharp/book "https://www.packtpub.com/windows-workflow-foundation-Csharp/book")

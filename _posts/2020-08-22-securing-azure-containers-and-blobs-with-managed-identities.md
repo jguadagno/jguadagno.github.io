@@ -91,7 +91,7 @@ Assuming you have the authorization and syntax-correct, the call will return a J
 {
   "appId": "6c04f5c5-97f7-486d-bbb2-eeeeeeeeee",
   "displayName": "HelpersTestRole",
-  "name": "http://HelpersTestRole",
+  "name": "https://HelpersTestRole",
   "password": "QPxyBvw3.UE8Bw6AJAt63pWx~BB40deded",
   "tenant": "bee716cf-fa94-4610-b72e-5df4bf5a9999"
 }

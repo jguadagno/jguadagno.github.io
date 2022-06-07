@@ -13,7 +13,7 @@ tags:
 Download [RandomGCContent](/assets/downloads/RandomGCContent.zip)
 
 ![image-right](/assets/images/posts/sponsor_thumb.png "Sponsor Image"){: .align-right}
-One of the many features of [Sitefinity](http://www.sitefinity.com "Sitefinity"){:target="_blank"} is the ability to create custom controls to customize the look and feel of your website. The website for the [Southeast Valley .NET User Group](http://www.sevdnug.org "Southeast Valley .NET User Group"){:target="_blank"} contains several custom controls. In the next few weeks, I will post all of the controls here. On to the Random Generic Content Control. The purpose of the control randomly displays items that are based on a Generic  Content provider. I use this control to randomly pick sponsors of the Southeast Valley .NET User Group to display on the home page. Here is a snapshot of the control in use.
+One of the many features of [Sitefinity](https://www.sitefinity.com "Sitefinity"){:target="_blank"} is the ability to create custom controls to customize the look and feel of your website. The website for the [Southeast Valley .NET User Group](https://www.sevdnug.org "Southeast Valley .NET User Group"){:target="_blank"} contains several custom controls. In the next few weeks, I will post all of the controls here. On to the Random Generic Content Control. The purpose of the control randomly displays items that are based on a Generic  Content provider. I use this control to randomly pick sponsors of the Southeast Valley .NET User Group to display on the home page. Here is a snapshot of the control in use.
 
 ### Installing the Control
 
@@ -22,7 +22,7 @@ Installing the control is a three-part process.
 The first step is to add the control to Sitefinity.  This can be done one of three ways.  Which way you choose depends on your technical ability. Here is a list of options in order of least technical to most technical.
 
 1. Add the class `RandomGCControl.cs` in the zip file to the `App_Code` folder of your Sitefinity project.
-2. Create a Visual Studio class library project, add the `RandomGCControl.cs` class to it. You will need to add the following references to the project; `Telerik.Cms`, `Telerik.Cms.Engine`, `Telerik.Cms.Web.UI`, `Telerik.Framework`, `Telerik.Personalization`, and `Telerik.Web.UI`. Compile the class, then upload it as documented by the Sitefinity article [Adding Controls](http://www.sitefinity.com/help/developer-manual/controls-adding-controls-to-sitefinity.html "Adding controls to Sitefinity")
+2. Create a Visual Studio class library project, add the `RandomGCControl.cs` class to it. You will need to add the following references to the project; `Telerik.Cms`, `Telerik.Cms.Engine`, `Telerik.Cms.Web.UI`, `Telerik.Framework`, `Telerik.Personalization`, and `Telerik.Web.UI`. Compile the class, then upload it as documented by the Sitefinity article [Adding Controls](https://www.sitefinity.com/help/developer-manual/controls-adding-controls-to-sitefinity.html "Adding controls to Sitefinity")
 3. Create a separate class project as outlined in the step above then add a reference to this project to your Sitefinity project.
 
 The next step is let Sitefinity know about the new control. Note: this step is not required if you compiled the control and uploaded it through the Sitefinity interface. To do this you need to modify the web.config file.  The controls are listed in the cms/toolboxControls section. Add the following:

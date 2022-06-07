@@ -172,7 +172,7 @@ const MsalConfig = {
         auth: {
             clientId: '', // Replace with your client id
             authority: "https://login.microsoftonline.com/common",
-            redirectUri: "http://localhost:19006/Auth",
+            redirectUri: "https://localhost:19006/Auth",
             navigateToLoginRequestUrl: false,
             validateAuthority: false
         },

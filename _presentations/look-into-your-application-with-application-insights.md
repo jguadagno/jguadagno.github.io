@@ -13,6 +13,6 @@ Let's see how you can get alerts on performance and availability issues, monitor
 
 We'll also look at how we can analyze request load, server performance counters, and response times across dependencies. Get multi-dimensional analyzes over standard metrics or define your own. Diagnose exceptions, mobile application crashes, and failed requests, correlating with events and traces.
 
-Here's a video of this presentation from [NDC London](http://ndc-london.com/)
+Here's a video of this presentation from [NDC London](https://ndc-london.com/)
 
 {% include video id="160855761" provider="vimeo" %}

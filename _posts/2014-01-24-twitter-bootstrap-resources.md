@@ -12,7 +12,7 @@ tags:
   - Bootstrap
   - Twitter Bootstrap
 ---
-This does Over the past few months, I have built quite a few sites using Twitter [Bootstrap](http://www.getbootstrap.com){:target="_blank"}. I think it is an awesome framework for styling websites and abstracts away a lot of the differences in CSS between modern browsers.  I say Twitter Bootstrap did for CSS what [jquery](http://www.jquery.com){:target="_blank"} did for JavaScript. I typically say that if you use both frameworks in the same site, your site will work pretty consistent against all modern browsers. Anyway, the purpose of this post was to list all of the Twitter Bootstrap resources that use or find helpful.
+This does Over the past few months, I have built quite a few sites using Twitter [Bootstrap](https://www.getbootstrap.com){:target="_blank"}. I think it is an awesome framework for styling websites and abstracts away a lot of the differences in CSS between modern browsers.  I say Twitter Bootstrap did for CSS what [jquery](https://www.jquery.com){:target="_blank"} did for JavaScript. I typically say that if you use both frameworks in the same site, your site will work pretty consistent against all modern browsers. Anyway, the purpose of this post was to list all of the Twitter Bootstrap resources that use or find helpful.
 
 - [Content Delivery Networks (CDN)](#content-delivery-networks-cdn)
 - [Resource Guides](#resource-guides)
@@ -30,14 +30,14 @@ This does Over the past few months, I have built quite a few sites using Twitter
 
 |Name|Url|
 |--- |--- |
-|Bootstrap CDN|[http://www.bootstrapcdn.com](http://www.bootstrapcdn.com){:target="_blank"}|
-|Microsoft Ajax CDN|[http://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14](http://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14 "http://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14"){:target="_blank"}|
+|Bootstrap CDN|[https://www.bootstrapcdn.com](https://www.bootstrapcdn.com){:target="_blank"}|
+|Microsoft Ajax CDN|[https://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14](https://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14 "https://www.asp.net/ajaxlibrary/cdn.ashx#Bootstrap_Releases_on_the_CDN_14"){:target="_blank"}|
 
 ## Resource Guides
 
 |Name|Url|
 |--- |--- |
-|The Big Bad Ass List of Twitter Bootstrap Resources|[http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources "http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources"){:target="_blank"}|
+|The Big Bad Ass List of Twitter Bootstrap Resources|[https://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources](https://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources "https://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources"){:target="_blank"}|
 
 ## Tutorials
 
@@ -49,31 +49,31 @@ This does Over the past few months, I have built quite a few sites using Twitter
 
 |Name|Url|
 |--- |--- |
-|Bootswatch|[http://bootswatch.com/](http://bootswatch.com/ "http://bootswatch.com/"){:target="_blank"}|
-|Themes for Bootstrap|[http://www.themesforbootstrap.com/](http://www.themesforbootstrap.com/ "http://www.themesforbootstrap.com/"){:target="_blank"}|
+|Bootswatch|[https://bootswatch.com/](https://bootswatch.com/ "https://bootswatch.com/"){:target="_blank"}|
+|Themes for Bootstrap|[https://www.themesforbootstrap.com/](https://www.themesforbootstrap.com/ "https://www.themesforbootstrap.com/"){:target="_blank"}|
 |jquery-ui for Bootstrap|[https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap/](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap/ "https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap/"){:target="_blank"}|
-|Style Bootstrap|[http://stylebootstrap.info/](http://stylebootstrap.info/ "http://stylebootstrap.info/"){:target="_blank"}|
-|PaintStrap|[http://paintstrap.com/](http://paintstrap.com/ "http://paintstrap.com/"){:target="_blank"}|
+|Style Bootstrap|[https://stylebootstrap.info/](https://stylebootstrap.info/ "https://stylebootstrap.info/"){:target="_blank"}|
+|PaintStrap|[https://paintstrap.com/](https://paintstrap.com/ "https://paintstrap.com/"){:target="_blank"}|
 
 ## Layout Helpers
 
 |Name|Url|
 |--- |--- |
-|Bootply|[http://www.bootply.com](http://www.bootply.com){:target="_blank"}|
-|BootUI|[http://www.bootui.com/](http://www.bootui.com/ "http://www.bootui.com/"){:target="_blank"}|
-|Layoutit|[http://www.layoutit.com/build](http://www.layoutit.com/build "http://www.layoutit.com/build"){:target="_blank"}|
+|Bootply|[https://www.bootply.com](https://www.bootply.com){:target="_blank"}|
+|BootUI|[https://www.bootui.com/](https://www.bootui.com/ "https://www.bootui.com/"){:target="_blank"}|
+|Layoutit|[https://www.layoutit.com/build](https://www.layoutit.com/build "https://www.layoutit.com/build"){:target="_blank"}|
 
 ## Visual Studio NuGet Packages
 
-As of [ASP.NET MVC 5](http://www.asp.net/mvc/mvc5){:target="_blank"}, the File \| New templates are already wired for Twitter Bootstrap, just in case, here are a few packages to get you started.
+As of [ASP.NET MVC 5](https://www.asp.net/mvc/mvc5){:target="_blank"}, the File \| New templates are already wired for Twitter Bootstrap, just in case, here are a few packages to get you started.
 
 |Name|Url|
 |--- |--- |
-|Bootstrap|[http://www.nuget.org/packages/bootstrap/](http://www.nuget.org/packages/bootstrap/ "http://www.nuget.org/packages/bootstrap/"){:target="_blank"}|
-|AngularJS UI Bootstrap|[http://www.nuget.org/packages/Angular.UI.Bootstrap/](http://www.nuget.org/packages/Angular.UI.Bootstrap/ "http://www.nuget.org/packages/Angular.UI.Bootstrap/"){:target="_blank"}|
-|Bootstrap for MVC 5|[http://www.nuget.org/packages/Twitter.Bootstrap.MVC/](http://www.nuget.org/packages/Twitter.Bootstrap.MVC/ "http://www.nuget.org/packages/Twitter.Bootstrap.MVC/"){:target="_blank"}|
-|Paged List for ASP.NET (Bootstrap)|[http://www.nuget.org/packages/PagedListExt/](http://www.nuget.org/packages/PagedListExt/ "http://www.nuget.org/packages/PagedListExt/"){:target="_blank"}|
-|Font Awesome|[http://www.nuget.org/packages/FontAwesome/](http://www.nuget.org/packages/FontAwesome/ "http://www.nuget.org/packages/FontAwesome/"){:target="_blank"}|
+|Bootstrap|[https://www.nuget.org/packages/bootstrap/](https://www.nuget.org/packages/bootstrap/ "https://www.nuget.org/packages/bootstrap/"){:target="_blank"}|
+|AngularJS UI Bootstrap|[https://www.nuget.org/packages/Angular.UI.Bootstrap/](https://www.nuget.org/packages/Angular.UI.Bootstrap/ "https://www.nuget.org/packages/Angular.UI.Bootstrap/"){:target="_blank"}|
+|Bootstrap for MVC 5|[https://www.nuget.org/packages/Twitter.Bootstrap.MVC/](https://www.nuget.org/packages/Twitter.Bootstrap.MVC/ "https://www.nuget.org/packages/Twitter.Bootstrap.MVC/"){:target="_blank"}|
+|Paged List for ASP.NET (Bootstrap)|[https://www.nuget.org/packages/PagedListExt/](https://www.nuget.org/packages/PagedListExt/ "https://www.nuget.org/packages/PagedListExt/"){:target="_blank"}|
+|Font Awesome|[https://www.nuget.org/packages/FontAwesome/](https://www.nuget.org/packages/FontAwesome/ "https://www.nuget.org/packages/FontAwesome/"){:target="_blank"}|
 
 ## UI Widgets
 
@@ -86,29 +86,29 @@ As of [ASP.NET MVC 5](http://www.asp.net/mvc/mvc5){:target="_blank"}, the File \
 
 |Name|Url|
 |--- |--- |
-|Bootstrap Components (for ASP.NET MVC)|[http://bootstrapcomponents.apphb.com/](http://bootstrapcomponents.apphb.com/ "http://bootstrapcomponents.apphb.com/"){:target="_blank"}|
-|Fuel UX|[http://exacttarget.github.io/fuelux/#](http://exacttarget.github.io/fuelux/# "http://exacttarget.github.io/fuelux/#"){:target="_blank"}|
+|Bootstrap Components (for ASP.NET MVC)|[https://bootstrapcomponents.apphb.com/](https://bootstrapcomponents.apphb.com/ "https://bootstrapcomponents.apphb.com/"){:target="_blank"}|
+|Fuel UX|[https://exacttarget.github.io/fuelux/#](https://exacttarget.github.io/fuelux/# "https://exacttarget.github.io/fuelux/#"){:target="_blank"}|
 
 ### Buttons
 
 |Name|Url|
 |--- |--- |
-|Button Builder|[http://bootsnipp.com/buttons](http://bootsnipp.com/buttons "http://bootsnipp.com/buttons"){:target="_blank"}|
+|Button Builder|[https://bootsnipp.com/buttons](https://bootsnipp.com/buttons "https://bootsnipp.com/buttons"){:target="_blank"}|
 
 ### Fonts
 
 |Name|Url|
 |--- |--- |
-|Font Awesome|[http://fontawesome.io/](http://fontawesome.io/ "http://fontawesome.io/"){:target="_blank"}|
-|Font Custom|[http://fontcustom.com/](http://fontcustom.com/ "http://fontcustom.com/"){:target="_blank"}|
+|Font Awesome|[https://fontawesome.io/](https://fontawesome.io/ "https://fontawesome.io/"){:target="_blank"}|
+|Font Custom|[https://fontcustom.com/](https://fontcustom.com/ "https://fontcustom.com/"){:target="_blank"}|
 
 ### Input Widgets
 
 |Name|Url|
 |--- |--- |
-|Bootstrap Form Helpers|[http://bootstrapformhelpers.com/](http://bootstrapformhelpers.com/ "http://bootstrapformhelpers.com/"){:target="_blank"}|
-|Bootstrap Acknowledge Inputs|[http://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/](http://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/ "http://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/"){:target="_blank"}|
-|Bootstrap Wysiwyg Editor|[http://mindmup.github.io/bootstrap-wysiwyg/](http://mindmup.github.io/bootstrap-wysiwyg/ "http://mindmup.github.io/bootstrap-wysiwyg/"){:target="_blank"}|
-|Bootstrap Validation Helpers|[http://reactiveraven.github.io/jqBootstrapValidation/](http://reactiveraven.github.io/jqBootstrapValidation/ "http://reactiveraven.github.io/jqBootstrapValidation/"){:target="_blank"}|
-|Date Picker|[http://www.eyecon.ro/bootstrap-datepicker/](http://www.eyecon.ro/bootstrap-datepicker/ "http://www.eyecon.ro/bootstrap-datepicker/"){:target="_blank"}|
+|Bootstrap Form Helpers|[https://bootstrapformhelpers.com/](https://bootstrapformhelpers.com/ "https://bootstrapformhelpers.com/"){:target="_blank"}|
+|Bootstrap Acknowledge Inputs|[https://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/](https://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/ "https://averagemarcus.github.com/Bootstrap-AcknowledgeInputs/"){:target="_blank"}|
+|Bootstrap Wysiwyg Editor|[https://mindmup.github.io/bootstrap-wysiwyg/](https://mindmup.github.io/bootstrap-wysiwyg/ "https://mindmup.github.io/bootstrap-wysiwyg/"){:target="_blank"}|
+|Bootstrap Validation Helpers|[https://reactiveraven.github.io/jqBootstrapValidation/](https://reactiveraven.github.io/jqBootstrapValidation/ "https://reactiveraven.github.io/jqBootstrapValidation/"){:target="_blank"}|
+|Date Picker|[https://www.eyecon.ro/bootstrap-datepicker/](https://www.eyecon.ro/bootstrap-datepicker/ "https://www.eyecon.ro/bootstrap-datepicker/"){:target="_blank"}|
 |Time Picker|[https://github.com/jdewit/bootstrap-timepicker](https://github.com/jdewit/bootstrap-timepicker "https://github.com/jdewit/bootstrap-timepicker"){:target="_blank"}|
