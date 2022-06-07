@@ -157,7 +157,7 @@ Most of the code here can be just copied and pasted into future projects.  The o
 
 ## References
 
-- [Swagger OAuth2 documentation](https://swagger.io/docs/specification/authentication/oauth2s)
+- [Swagger OAuth2 documentation](https://swagger.io/docs/specification/authentication/oauth2)
 - [Microsoft Identity - Register an application]({% post_url 2020-08-29-working-with-microsoft-identity-registering-an-application %})
 - [Microsoft Identity - Configure Local Development]({% post_url 2020-08-29-working-with-microsoft-identity-configure-local-development %})
 - [Microsoft Identity - Assigning a Role]({% post_url 2020-08-29-working-with-microsoft-identity-assigning-a-role %})
