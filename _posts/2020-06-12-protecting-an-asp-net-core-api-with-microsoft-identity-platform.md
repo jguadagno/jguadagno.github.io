@@ -10,7 +10,7 @@ tags:
   - Managed Identity
   - Entra
 ---
-[Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web) is a library which contains a set of reusable classes used in conjunction with ASP.NET Core for integrating with the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/) (formerly *Azure AD v2.0 endpoint*) and [AAD B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/).
+[Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web) is a library which contains a set of reusable classes used in conjunction with ASP.NET Core for integrating with the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623) (formerly *Azure AD v2.0 endpoint*) and [AAD B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/?WT.mc_id=AZ-MVP-4024623).
 
 This library is for specific usage with:
 
@@ -23,7 +23,7 @@ This library is for specific usage with:
 ## Prerequisites
 
 - An Azure account with an active subscription. [Create an account for free](https://azure.microsoft.com/free/?ref=microsoft.com&utm_source=microsoft.com&utm_medium=docs&utm_campaign=visualstudio&WT.mc_id=AZ-MVP-4024623).
-- An [Azure AD tenant](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant).
+- An [Azure AD tenant](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant?WT.mc_id=AZ-MVP-4024623).
 - An ASP.NET Core Web Api.  If you need one, you can start with the [Contacts](https://www.github.com/jguadagno/contacts) application at this [commit](https://github.com/jguadagno/Contacts/commit/e34ff477146c336a47eae141de31cede197650cf).
 
 ## Getting Started with Microsoft Identity Platform

@@ -28,7 +28,7 @@ You can purchase a code signing certificate from a few different sources like [D
 
 ### Azure Key Vault
 
-[Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview) helps solve the following problems:
+[Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview?WT.mc_id=AZ-MVP-4024623) helps solve the following problems:
 
 * **Secrets Management** - Azure Key Vault can be used to Securely store and tightly control access to tokens, passwords, certificates, API keys, and other secrets
 * **Key Management** - Azure Key Vault can also be used as a Key Management solution. Azure Key Vault makes it easy to create and control the encryption keys used to encrypt your data.

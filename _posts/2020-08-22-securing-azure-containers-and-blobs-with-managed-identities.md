@@ -12,7 +12,7 @@ tags:
   - MSAL
   - Managed Identity
 ---
-I've been streaming 'Coding with JoeG' on [Twitch](https://www.twitch.tv/jguadagno){:target="_blank"} for a few months now. The general theme of the stream is teaching software development with C#. We've been building a contact management application to demonstrate some *best practices*.  About two weeks ago, or so, I added an Azure Storage Blob Container to hold the images of the contacts. I did this using the way I knew how to do it using [Storage Access Keys](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage){:target="_blank"} and a library, [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage/){:target="_blank"}, that I wrote to make it '*easier*' to interact with Azure Storage. While talking about the stream on Twitter, [Christos](https://twitter.com/ChristosMatskas){:target="_blank"}, PM on the Microsoft Identity team, reached out and said I should try securing the Container/Blob with [Managed Identity](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-msi){:target="_blank"}.  I tried on the stream for a good 5 or so hours and could not get it to work.  If you want to see it, check out the recording of the stream on my [YouTube](https://jjg.me/youtube){:target="_blank"} channel.
+I've been streaming 'Coding with JoeG' on [Twitch](https://www.twitch.tv/jguadagno){:target="_blank"} for a few months now. The general theme of the stream is teaching software development with C#. We've been building a contact management application to demonstrate some *best practices*.  About two weeks ago, or so, I added an Azure Storage Blob Container to hold the images of the contacts. I did this using the way I knew how to do it using [Storage Access Keys](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?WT.mc_id=AZ-MVP-4024623){:target="_blank"} and a library, [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage/){:target="_blank"}, that I wrote to make it '*easier*' to interact with Azure Storage. While talking about the stream on Twitter, [Christos](https://twitter.com/ChristosMatskas){:target="_blank"}, PM on the Microsoft Identity team, reached out and said I should try securing the Container/Blob with [Managed Identity](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-msi?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.  I tried on the stream for a good 5 or so hours and could not get it to work.  If you want to see it, check out the recording of the stream on my [YouTube](https://jjg.me/youtube){:target="_blank"} channel.
 
 * Security Azure Blob Using Microsoft Identity [Part 1](https://www.youtube.com/watch?v=JX_ysOk-IYM){:target="_blank"}
 * Security Azure Blob Using Microsoft Identity [Part 2](https://www.youtube.com/watch?v=xwoMnUZVafo){:target="_blank"}
@@ -30,18 +30,18 @@ The basic steps are:
 4. Pass the identity of the application to the Azure SDK or [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage/).
 5. Celebrate your secure connection!
 
-But before we talk about securing Azure Storage Blob Containers, let's look out what [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview){:target="_blank"} is. Azure RBAC, or Azure Role-Based Access Control, is an authorization system built on Azure Resource Manager that provides fine-grained access management of Azure resources.  It allows you to create roles or use predefined roles for your applications.  Azure Storages has many predefined [roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage){:target="_blank"}. The Azure Storage Container ones are as follows:
+But before we talk about securing Azure Storage Blob Containers, let's look out what [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is. Azure RBAC, or Azure Role-Based Access Control, is an authorization system built on Azure Resource Manager that provides fine-grained access management of Azure resources.  It allows you to create roles or use predefined roles for your applications.  Azure Storages has many predefined [roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage?WT.mc_id=AZ-MVP-4024623){:target="_blank"}. The Azure Storage Container ones are as follows:
 
 | --- | --- |
 | Role | Description |
-| [Storage Blob Data Owner](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-blob-data-owner){:target="_blank"} |  Use to set ownership and manage POSIX access control for Azure Data Lake Storage Gen2. For more information, see Access control in Azure Data Lake Storage Gen2.|
-| [Storage Blob Data Contributor](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-blob-data-contributor){:target="_blank"} | Use to grant read/write/delete permissions to Blob storage resources. |
-| [Storage Blob Data Reader](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-blob-data-reader){:target="_blank"} | Use to grant read-only permissions to Blob storage resources. |
+| [Storage Blob Data Owner](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-blob-data-owner?WT.mc_id=AZ-MVP-4024623){:target="_blank"} |  Use to set ownership and manage POSIX access control for Azure Data Lake Storage Gen2. For more information, see Access control in Azure Data Lake Storage Gen2.|
+| [Storage Blob Data Contributor](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-blob-data-contributor?WT.mc_id=AZ-MVP-4024623){:target="_blank"} | Use to grant read/write/delete permissions to Blob storage resources. |
+| [Storage Blob Data Reader](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-blob-data-reader?WT.mc_id=AZ-MVP-4024623){:target="_blank"} | Use to grant read-only permissions to Blob storage resources. |
 | [Storage Blob Delegator](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-blob-delegator){:target="_blank"} | Get a user delegation key to use to create a shared access signature that is signed with Azure AD credentials for a container or blob. |
 | [Storage Queue Data Contributor](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-queue-data-contributor){:target="_blank"} | Use to grant read/write/delete permissions to Azure queues.|
-| [Storage Queue Data Reader](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-queue-data-reader){:target="_blank"} | Use to grant read-only permissions to Azure queues. |
-| [Storage Queue Data Message Processor](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-queue-data-message-processor){:target="_blank"} | Use to grant peek, retrieve, and delete permissions to messages in Azure Storage queues. |
-| [Storage Queue Data Message Sender](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-queue-data-message-sender){:target="_blank"} | Use to grant add permissions to messages in Azure Storage queues. |
+| [Storage Queue Data Reader](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-queue-data-reader?WT.mc_id=AZ-MVP-4024623){:target="_blank"} | Use to grant read-only permissions to Azure queues. |
+| [Storage Queue Data Message Processor](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-queue-data-message-processor?WT.mc_id=AZ-MVP-4024623){:target="_blank"} | Use to grant peek, retrieve, and delete permissions to messages in Azure Storage queues. |
+| [Storage Queue Data Message Sender](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#storage-queue-data-message-sender?WT.mc_id=AZ-MVP-4024623){:target="_blank"} | Use to grant add permissions to messages in Azure Storage queues. |
 
 ## Registering the Application
 
@@ -49,7 +49,7 @@ The first step in getting authentication working for your application is registe
 
 ### Azure CLI
 
-If you don't have the CLI installed and you prefer the command, check out the [installation instructions](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows){:target="_blank"}.
+If you don't have the CLI installed and you prefer the command, check out the [installation instructions](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
 
 To register your application with Azure using the Azure CLI, open up Terminal, Bash, Command Prompt, ITerm, or whatever your preferred command prompt is.
 
@@ -59,7 +59,7 @@ First, you need to log in with the command line.
 az login
 ```
 
-After you are logged in, the next step would be to create the Azure Active Directory service principal.  This *registers* the application.  You can use the [ad sp](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest){:target="_blank"} command, which stands for 'Active Directory' 'Service Principal'. We are going to use `create-for-rbac` sub-command [Documentation](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az-ad-sp-create-for-rbac){:target="_blank"}.
+After you are logged in, the next step would be to create the Azure Active Directory service principal.  This *registers* the application.  You can use the [ad sp](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest?WT.mc_id=AZ-MVP-4024623){:target="_blank"} command, which stands for 'Active Directory' 'Service Principal'. We are going to use `create-for-rbac` sub-command [Documentation](https://docs.microsoft.com/en-us/cli/azure/ad/sp?view=azure-cli-latest#az-ad-sp-create-for-rbac?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
 
 The command looks similar to this.
 
@@ -102,7 +102,7 @@ Assuming you have the authorization and syntax-correct, the call will return a J
 
 At this point, you'll want to save values of the `appId`, `password`, and `tenant`.  Once you close your terminal you will now be able to retrieve the password again.
 
-You can find more about this approach on [Azure Documentation site](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-rbac-cli?toc=/azure/storage/blobs/toc.json){:target="_blank"}
+You can find more about this approach on [Azure Documentation site](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-rbac-cli?toc=/azure/storage/blobs/toc.json&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
 
 ### Azure Portal
 
@@ -161,13 +161,13 @@ Enter the following:
 
 You can verify the changes by using the 'Check access' section of the blade.
 
-You can find more about this approach on [Azure Documentation site](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-rbac-portal?toc=/azure/storage/blobs/toc.json){:target="_blank"}
+You can find more about this approach on [Azure Documentation site](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-rbac-portal?toc=/azure/storage/blobs/toc.json&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
 
 ## Updating the Application Code
 
 The [Azure SDK](https://azure.github.io/azure-sdk/){:target="_blank"} added support for using credentials instead of just the shared storage keys. I added the same support to [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage/){:target="_blank"}, since underneath the hood it uses the Azure SDK.
 
-Both SDKs take a [TokenCredential](https://docs.microsoft.com/en-us/dotnet/api/azure.core.tokencredential?view=azure-dotnet){:target="_blank"} that can be one of many types.  For this post, we are going to allow the SDK to do the work for us by providing the `DefaultAzureCredential`.  The `DefaultAzureCredential` will look through many '*different sources*' for credential data, including but not limited to, the **Environment**, **Shared Token Cache**, **Visual Studio**, **IntelliJ**, and many more. You read more about it in the [Azure Identity August 2020 GA Release Notes](https://devblogs.microsoft.com/azure-sdk/azure-identity-august-2020-ga/?WT.mc_id=DOP-MVP-4024623){:target="_blank"}.
+Both SDKs take a [TokenCredential](https://docs.microsoft.com/en-us/dotnet/api/azure.core.tokencredential?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"} that can be one of many types.  For this post, we are going to allow the SDK to do the work for us by providing the `DefaultAzureCredential`.  The `DefaultAzureCredential` will look through many '*different sources*' for credential data, including but not limited to, the **Environment**, **Shared Token Cache**, **Visual Studio**, **IntelliJ**, and many more. You read more about it in the [Azure Identity August 2020 GA Release Notes](https://devblogs.microsoft.com/azure-sdk/azure-identity-august-2020-ga/?WT.mc_id=DOP-MVP-4024623){:target="_blank"}.
 
 ### Using the Azure SDK
 
@@ -268,7 +268,7 @@ Wow, that was a lot.  Any questions, please feel free to send me and email or tw
 
 ### Resources
 
-* Microsoft identity platform [documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/){:target="_blank"}
+* Microsoft identity platform [documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
 * Follow the 425show on [Twitch](https://www.twitch.tv/425show){:target="_blank"}
 
 A recording of me explaining this on my [Twitch](https://jjg.me/stream){:target="_blank"} stream.

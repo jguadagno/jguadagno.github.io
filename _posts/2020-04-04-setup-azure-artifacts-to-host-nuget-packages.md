@@ -21,7 +21,7 @@ Just like most services provided with Azure their maybe a cost to using it.  Azu
 
 ## Setup
 
-First step is signing up for Azure Artifacts is to setup an Azure DevOps account/organization. Check out the [Quick Start](https://docs.microsoft.com/en-us/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops) guide, to get started.
+First step is signing up for Azure Artifacts is to setup an Azure DevOps account/organization. Check out the [Quick Start](https://docs.microsoft.com/en-us/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops?WT.mc_id=AZ-MVP-4024623) guide, to get started.
 
 Now that you have an organization you'll need to sign into it. The url should look something like **dev.azure.com/*organization-name***, in my case, it's **dev.azure.com/jguadagno**. 
 
@@ -94,15 +94,15 @@ Instructions are provided for
   * dotnet
   * NuGet.exe
   * Visual Studio
-* [npm](https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-npm?view=azure-devops&tabs=windows)
+* [npm](https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-npm?view=azure-devops&tabs=windows&WT.mc_id=AZ-MVP-4024623)
   * npm
-* [Maven](https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-maven?view=azure-devops)
+* [Maven](https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-maven?view=azure-devops&WT.mc_id=AZ-MVP-4024623)
   * Maven
   * Gradle
-* [Python](https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/python-packages?view=azure-devops)
+* [Python](https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/python-packages?view=azure-devops&WT.mc_id=AZ-MVP-4024623)
   * pip
   * twine
-* [Universal](https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/universal-packages?view=azure-devops)
+* [Universal](https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/universal-packages?view=azure-devops&WT.mc_id=AZ-MVP-4024623)
   * Universal packages
 
 *Universal* gives you command line instructions for a 'catch all' scenario to get the package(s) onto your machine if the package manager you are using doesn't have instructions on the site.

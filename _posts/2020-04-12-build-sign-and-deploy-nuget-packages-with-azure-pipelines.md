@@ -20,7 +20,7 @@ In this post we'll cover how you can use Azure Pipelines to build, test, sign, a
 
 Before we get started, you might want to brush up on [YAML](https://yaml.org/). If you do not know what YAML is, it is a human-friendly data serialization standard for all programming languages. I like to think of it as a more modern, less verbose version of XML. If YAML or learning another language/data format scares you, do be worried!  You don't need to read/write YAML in order to use Azure Pipelines. Azure provides a UI to build out your pipeline.  That's how I learned it!
 
-If you understand YAML, check out the [Azure YAML schema](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema).
+If you understand YAML, check out the [Azure YAML schema](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema&WT.mc_id=AZ-MVP-4024623).
 
 ## Getting Started
 
@@ -72,7 +72,7 @@ The components of the editor:
 
 ## Pipeline Basics
 
-Check the docs, [Key Concepts](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops) for some key concepts on everything that makes up a pipeline.  We are going to cover [triggers](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops#trigger), [pools](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&tabs=browser), variables, [steps](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops#step), and [tasks](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops#task).
+Check the docs, [Key Concepts](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&WT.mc_id=AZ-MVP-4024623) for some key concepts on everything that makes up a pipeline.  We are going to cover [triggers](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&WT.mc_id=AZ-MVP-4024623#trigger), [pools](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&tabs=browser&WT.mc_id=AZ-MVP-4024623), variables, [steps](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&WT.mc_id=AZ-MVP-4024623#step), and [tasks](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&WT.mc_id=AZ-MVP-4024623#task).
 
 ### Trigger
 
@@ -87,7 +87,7 @@ trigger:
 
 ### Setup Pool
 
-The pool tells Azure when VMs and 'pooled' resources it should use.  This varies based on the subscription model you have and are willing to pay for. For a list of the built-in agents, see the document called '[Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops)'.
+The pool tells Azure when VMs and 'pooled' resources it should use.  This varies based on the subscription model you have and are willing to pay for. For a list of the built-in agents, see the document called '[Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&WT.mc_id=AZ-MVP-4024623)'.
 
 Since we are planning to sign the package and the signing only works on Windows machines (at least that I could get to work). We are going to choose a vmImage of `windows-latest`.
 
@@ -170,7 +170,7 @@ The second group, defines how the version number is generated. These version num
 
 #### Pipeline Parameter and Variables
 
-Because we want the ability to indicate whether we are building the `Debug` or `Release` configuration, we are going to use '[parameters](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/runtime-parameters?view=azure-devops)' and '[variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch)'
+Because we want the ability to indicate whether we are building the `Debug` or `Release` configuration, we are going to use '[parameters](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/runtime-parameters?view=azure-devops&WT.mc_id=AZ-MVP-4024623)' and '[variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch&WT.mc_id=AZ-MVP-4024623)'
 
 Let's go back to before the `trigger`, around line 5 or 6 and past this parameter yaml.
 

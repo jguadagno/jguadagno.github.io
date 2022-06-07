@@ -103,7 +103,7 @@ The Windows File Explorer received some new icons and better spacing between obj
 
 ![Windows 11 - Explorer - Navigation Pane](/assets/images/posts/windows11-devchannel-navigation-pane.png){: .align-center}
 
-You might notice the *Linux* folder item.  This appears because I have Docker on this machine along with [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+You might notice the *Linux* folder item.  This appears because I have Docker on this machine along with [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10?WT.mc_id=AZ-MVP-4024623)
 
 ![Windows 11 - Explorer - Linux](/assets/images/posts/windows11-devchannel-linux.png){: .align-center}
 

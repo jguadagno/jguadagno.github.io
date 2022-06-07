@@ -8,7 +8,7 @@ sessionizeUrl: protecting_a_net_core_api_with_micr/33628
 level: 300
 ---
 
-[Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web) is a library that contains a set of reusable classes used in conjunction with ASP.NET Core for integrating with the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/) (formerly *Azure AD v2.0 endpoint*) and [Azure Active Directory B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/).
+[Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web) is a library that contains a set of reusable classes used in conjunction with ASP.NET Core for integrating with the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623) (formerly *Azure AD v2.0 endpoint*) and [Azure Active Directory B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/?WT.mc_id=AZ-MVP-4024623).
 
 In this session, we'll configure Azure, our API, and clients to protect your APIs.  We'll walk through the following:
 

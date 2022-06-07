@@ -10,7 +10,7 @@ tags:
   - MVC
   - ASP.NET Core MVC
 ---
-In a previous [post]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}), I demonstrated how you can protect an ASP.NET Core Web API using the [Microsoft Identity Platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/). In this post, we are going to look at what you need to do to have an ASP.NET Core MVC application interact with the same protected API. It's really easy, once you figure it out! :wink:
+In a previous [post]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}), I demonstrated how you can protect an ASP.NET Core Web API using the [Microsoft Identity Platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/&WT.mc_id=AZ-MVP-4024623). In this post, we are going to look at what you need to do to have an ASP.NET Core MVC application interact with the same protected API. It's really easy, once you figure it out! :wink:
 
 **Note!** This post was written based on a preview version of the [Microsoft Identity Web](https://github.com/AzureAD/microsoft-identity-web) library, version [0.1.5-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.1.5-preview). It has been updated to version [0.2.0-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.2.0-preview) of the library. Your experience may vary!
 {: .notice--warning}
@@ -75,7 +75,7 @@ Install-Package Microsoft.Identity.Web -Version 0.2.0-preview
 
 ### Application Settings
 
-Next up, add the Azure Active Directory Settings to your `appsettings.Development.json` file.  **Note**, you should not store client secrets or PII in your version repository, Git, SVN, TFS, etc. you should use the '[user secrets](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-3.1&tabs=windows)' functionality, [Azure App Configuration](https://azure.microsoft.com/en-us/services/app-configuration/?WT.mc_id=AZ-MVP-4024623) service, or [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/?WT.mc_id=AZ-MVP-4024623) service.  For now, I will show it the `appsettings.development.json`.
+Next up, add the Azure Active Directory Settings to your `appsettings.Development.json` file.  **Note**, you should not store client secrets or PII in your version repository, Git, SVN, TFS, etc. you should use the '[user secrets](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-3.1&tabs=windows&WT.mc_id=AZ-MVP-4024623)' functionality, [Azure App Configuration](https://azure.microsoft.com/en-us/services/app-configuration/?WT.mc_id=AZ-MVP-4024623) service, or [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/?WT.mc_id=AZ-MVP-4024623) service.  For now, I will show it the `appsettings.development.json`.
 
 You will need to add the `AzureAd` section.
 

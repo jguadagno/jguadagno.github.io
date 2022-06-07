@@ -19,7 +19,7 @@ Securing our applications and data is critical in this day and age.  I've been w
 
 ## Using Environment Variable
 
-Your setup may vary depending on the IDE you are using, Visual Studio, Jetbrains Rider, IntelliJ, Visual Studio Code, etc.  I'm going to show you how to set up your *Environment* variables to use the `DefaultAzureCredentials`.  For this, you will need the Application (Client) ID, Directory (Tenant) ID, and Client Secret (password) obtained from registering your application with the Azure portal.  If you need to register an application, check out the post [Register an application]({% link _posts/2020-08-29-working-with-microsoft-identity-registering-an-application.md %}).
+Your setup may vary depending on the IDE you are using, Visual Studio, JetBrains Rider, IntelliJ, Visual Studio Code, etc.  I'm going to show you how to set up your *Environment* variables to use the `DefaultAzureCredentials`.  For this, you will need the Application (Client) ID, Directory (Tenant) ID, and Client Secret (password) obtained from registering your application with the Azure portal.  If you need to register an application, check out the post [Register an application]({% link _posts/2020-08-29-working-with-microsoft-identity-registering-an-application.md %}).
 
 ### Windows
 
