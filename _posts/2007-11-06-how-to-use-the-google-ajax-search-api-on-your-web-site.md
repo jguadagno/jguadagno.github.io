@@ -133,7 +133,7 @@ There are two easy steps to using the MyGSearch objects. This, of course, assume
 
 ### Step 1: Create the HTML content
 
-In order for you to use the MyGSearch control, you must create 5 DIVs and one input box. The five Divs map to the five Divs object properties, SearchResults, SearchBranding, MainContent, SearchStarting, and SearchClose. The input box will be used for the Google API to execute the search. 
+In order for you to use the MyGSearch control, you must create 5 DIVs and one input box. The five Divs map to the five Divs object properties, SearchResults, SearchBranding, MainContent, SearchStarting, and SearchClose. The input box will be used for the Google API to execute the search.
 
 The HTML content will exist in two parts, the first the HEAD section.
 
@@ -182,7 +182,7 @@ Remember to replace YOUR_KEY_HERE with your Google API key. Then in the body of 
 <div id="divSearchResults"></div>
 ```
 
-When you are done you should have something like this, which is the google.html example file. 
+When you are done you should have something like this, which is the google.html example file.
 
 ``` html
 <HTML>
@@ -248,9 +248,9 @@ Here you would change lines 4 and 6 to match whatever domain you want. Line 4 is
 
 Other possible modifications include adding additional Google searchers to search other domains or other file types like Images, Video or Blogs. You could also change the Google draw objects to draw the search results in a result set.
 
-# References
+## References
 
-* Get your Google API Key: [https://code.google.com/apis/ajaxsearch/signup.html](https://code.google.com/apis/ajaxsearch/signup.html)
-* Google AJAX API: [https://code.google.com/apis/ajaxsearch/](https://code.google.com/apis/ajaxsearch/)
-* Google AJAX API Documentation: [https://code.google.com/apis/ajaxsearch/documentation/](https://code.google.com/apis/ajaxsearch/documentation/)
-* Google AJAX API User Group: [https://groups-beta.google.com/group/Google-AJAX-Search-API](https://groups-beta.google.com/group/Google-AJAX-Search-API)
+* Get your Google API Key: [https://code.google.com/apis/ajaxsearch/signup.html](https://code.google.com/apis/ajaxsearch/signup.html){:target="_blank"}
+* Google AJAX API: [https://code.google.com/apis/ajaxsearch/](https://code.google.com/apis/ajaxsearch/){:target="_blank"}
+* Google AJAX API Documentation: [https://code.google.com/apis/ajaxsearch/documentation/](https://code.google.com/apis/ajaxsearch/documentation/){:target="_blank"}
+* Google AJAX API User Group: [https://groups-beta.google.com/group/Google-AJAX-Search-API](https://groups-beta.google.com/group/Google-AJAX-Search-API){:target="_blank"}

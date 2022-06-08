@@ -22,7 +22,7 @@ Some of the cons of the book.
 
 ## On to the book content...
 
-Chapter 1 starts off with an introduction of why Ajax is needed and the components involved at a high level.  Chapter 2 goes into more detail of the foundation of Ajax covering the DOM, CSS, XMLHTTPRequest object.  This is a good overview of Ajax technology that is not tied to Microsoft technologies. 
+Chapter 1 starts off with an introduction of why Ajax is needed and the components involved at a high level.  Chapter 2 goes into more detail of the foundation of Ajax covering the DOM, CSS, XMLHTTPRequest object.  This is a good overview of Ajax technology that is not tied to Microsoft technologies.
 
 Chapter 3 contains an overview of adding some object-oriented programming (OOP) to JavaScript.
 

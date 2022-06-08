@@ -123,7 +123,7 @@ The SiteEntry class supports the following properties (taken straight from the A
 * The `lastModifiedDataField` property (optional) specifies the column that contains information about the last time the sitemap was modified. This date should be in W3C DateTime format, which allows you to omit the time portion and provide the date in the format YYYY-MM-DD. If the property is not specified, the provider attempts to read a property named `SiteMapLastModified`.
 * The `changeFrequencyDataField` property (optional) specifies how frequently the page is likely to change. Valid values are: always, hourly, daily, weekly, monthly, yearly, never. If the property is not specified, the provider attempts to read a property named `SiteMapChangeFrequency`.
 * The `priorityDataField` property (optional) specifies the priority of this URL relative to other URLs on your site. Valid values range from 0.0 to 1.0\. If the property is not specified, the provider attempts to read a property named `SiteMapPriority`.
-* Set the `pathInfoFormat` property (optional) to `true` if you want to use only the value in the URL (for example, https://site/page.aspx/1)
+* Set the `pathInfoFormat` property (optional) to `true` if you want to use only the value in the URL (for example, `https://site/page.aspx/1`)
 
 These properties are used in conjunction with your properties that you want to display in the sitemap. For my search sitemap I use the following fields:
 
@@ -133,13 +133,13 @@ These properties are used in conjunction with your properties that you want to d
 |SiteMapChangeFrequency|specifies how often this page is expected to change|
 |SiteMapPriority|specifies the priority of this Url verses others|
 |targetUrl|specifies the url that will be used|
-|targetUrlseparator|specifies the separator between the query string|
+|targetUrlSeparator|specifies the separator between the query string|
 |queryStringDataFormatString|specifies how the sitemap provider will format the url|
 |queryStringDataFields|specifies what properties from the SiteEntry object you will use to pass to the queryStringDataFormatString (similar to the `String.Format`)|
 
 The `Url`, `SiteMapLastModified`, `SiteMapChangeFrequency`, `SiteMapPriority` properties are set in code and the `targetUrl`, `targetUrlseparator`, `queryStringDataFormatString`, and `queryStringDataFields` are set in the web config.
 
-So what do all of the there properties mean and do. Well like I mentioned above the DynamicDataSearchSiteMapProvider expects a DataQuery method to be implemented.  This method is expected to return an `IEnumerable` (collection) of objects. In my case, I return a List<SiteEntry> objects.  My SiteEntry class looks like this.
+So what do all of the there properties mean and do. Well like I mentioned above the DynamicDataSearchSiteMapProvider expects a DataQuery method to be implemented.  This method is expected to return an `IEnumerable` (collection) of objects. In my case, I return a List&lt;SiteEntry&gt; objects.  My SiteEntry class looks like this.
 
 TODO: Find Image "image2.png"
 
@@ -184,7 +184,7 @@ Lines 14 - 21 you would replace with your code get your dynamic data.  Lines 19
 
 So how does the `List<SiteEntry>` tie into the provider configuration?  The answer is in the attributes/properties that are defined for provider. For this sample we have `targetUrl =""`, `targetUrlSeparator="/"`, `queryStringDataFormatString="{0}"` and `queryStringDataFields="Url"` this tells the provide to build a string with the base of targetUrl, then add `targetUrlSeparator`, followed by calling `string.forma`t using `queryStringDataFormatString` with the parameters equal to the value of the properties listed in `queryStringDataFields`.  In other words the url will look like this.
 
-https://www.yourdomain.com/<value of url field>
+`https://www.yourdomain.com/<value of url field>`
 
 In my site, I generate the Url in code so that it will be consistent between different pages.  A "real" world example might look like this.  
 

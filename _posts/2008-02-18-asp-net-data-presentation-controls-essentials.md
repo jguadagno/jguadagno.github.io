@@ -12,4 +12,4 @@ Unfortunately there are a few things that I did not like about the book. The fir
 
 Overall, I think this books would be could a good reference point for data binding in Microsoft ASP.NET.
 
-The website for the book: [https://www.packtpub.com/asp-net-data-presentation-controls/book](https://www.packtpub.com/asp-net-data-presentation-controls/book)
+The website for the book: [https://www.packtpub.com/asp-net-data-presentation-controls/book](https://www.packtpub.com/asp-net-data-presentation-controls/book){:target="_blank"}

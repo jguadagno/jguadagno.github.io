@@ -15,7 +15,7 @@ This module is responsible for adding, removing, deleting events from the Sitefi
 * [Adding meta fields to an event](#adding-meta-fields-to-an-event)
 * [Adding the missing RSS Provider](#adding-the-missing-rss-provider)
 
-As of the time when this was written, development documentation does not exist for the Telerik.Events assembly. The code samples where either "figured out" or derived from other samples. Thanks to Visual Studio®'s Intellisense® feature, Visual Studio®'s Object Browser and [Reflector](https://www.aisto.com/roeder/dotnet/){:target="_blank"}, I figured out most of it. In order to work with events in Sitefinity, you must add a reference to the Telerik.Events assembly. This assembly is already included in the Sitefinity install; it is mentioned in case you want to create a separate assembly for your events customization. The Telerik.Events.EventsManager handles all of the event management. An instance of the EventManager can be created like this. 
+As of the time when this was written, development documentation does not exist for the Telerik.Events assembly. The code samples where either "figured out" or derived from other samples. Thanks to Visual Studio®'s Intellisense® feature, Visual Studio®'s Object Browser and [Reflector](https://www.aisto.com/roeder/dotnet/){:target="_blank"}, I figured out most of it. In order to work with events in Sitefinity, you must add a reference to the Telerik.Events assembly. This assembly is already included in the Sitefinity install; it is mentioned in case you want to create a separate assembly for your events customization. The Telerik.Events.EventsManager handles all of the event management. An instance of the EventManager can be created like this.
 
 ``` cs
 string providerName = "Events";
@@ -54,7 +54,7 @@ This folder contains the files for the public/display portion of the events modu
 
 In order to create an event in Sitefinity using the Telerik.Events assembly, you must follow a few steps.
 
-* Create an instance of the EventsManager class with the correct provider... 
+* Create an instance of the EventsManager class with the correct provider...
 
 ```cs
 EventsManager eventsManager = new Telerik.Events.EventsManager(providerName);
@@ -193,11 +193,11 @@ foreach (IEvent eventItem in events)
 
 ## Adding meta fields to an event
 
-Adding meta fields to the events module is a 5 step process which involves editing the web.config file, editing the administration control templates, and the public display templates. 
+Adding meta fields to the events module is a 5 step process which involves editing the web.config file, editing the administration control templates, and the public display templates.
 
-For this example, we will add a _Short Text_ meta field call `ClickToAttendId` that we want to be displayed as part of an HTML hyperlink similar to this https://www.clicktoattend.com/invitation.aspx?code=_ClickToAttendId_
+For this example, we will add a _Short Text_ meta field call `ClickToAttendId` that we want to be displayed as part of an HTML hyperlink similar to this `https://www.clicktoattend.com/invitation.aspx?code=_ClickToAttendId_`
 
-### **Step 1:** Edit the web.config file.
+### **Step 1:** Edit the web.config file
 
 Open the web.config file and search for
 
@@ -235,7 +235,7 @@ section that looks like this
 
 Save an close the web.config.
 
-### **Step 2:** Edit the Admin\ControlTemplates\Events\ControlPanelEdit.ascx.
+### **Step 2:** Edit the Admin\ControlTemplates\Events\ControlPanelEdit.ascx
 
 Where you place the HTML markup depends on where you think the control needs to be. At the minimum it needs to be placed after the
 
@@ -250,7 +250,7 @@ code block and before the block...
 </sfGCn:ContentMetaFields>
 ```
 
-An example of the markup could look like this. 
+An example of the markup could look like this.
 
 ```html
 <h3>
@@ -284,9 +284,9 @@ section is used for the title of grouping of the data.
 <fieldset class=”set”>
 ```
 
-element is used to contain the label and text box for the ClickToAttendId. Notice that there is a consistent naming theme for the HTML controls, lbl_fieldName_ for the label (this is optional), the text box must be the _fieldName_ or Sitefinity will not be able to update it. Save the file. Open up `App_Resources\ControlPanelEdit.ascx.resx` and add in any of the resources that you referred to in this sample, namely ClickToAttendId.
+element is used to contain the label and text box for the ClickToAttendId. Notice that there is a consistent naming theme for the HTML controls, `lbl_fieldName` for the label (this is optional), the text box must be the `fieldName` or Sitefinity will not be able to update it. Save the file. Open up `App_Resources\ControlPanelEdit.ascx.resx` and add in any of the resources that you referred to in this sample, namely ClickToAttendId.
 
-### **Step 3:** Edit the Admin\ControlTemplates\Events\ControlPanelInsert.ascx.
+### **Step 3:** Edit the Admin\ControlTemplates\Events\ControlPanelInsert.ascx
 
 The `ControlPanelInsert.ascx` should be edited in the same way that the `ControlPanelEdit.ascx` was edited.
 
@@ -336,4 +336,4 @@ Save the file. If necessary, open up the `App_Resources\ContentViewSingleItem.as
 
 ## Adding the missing RSS Provider
 
-_Coming soon..._
+Coming soon...
