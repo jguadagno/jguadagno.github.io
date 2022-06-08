@@ -7,25 +7,26 @@ permalink: /mvp-summit-2011-c-mvp-2-mvp-sessions/
 
 [MVP](/assets/images/posts/MVP_FullColor_ForScreen.png)
 
-This series of 15 minute "lightening round" sessions will be given by MVPs, for MVPs. It will be an opportunity for MVPs to share things they've learned or showcase what they have created/mastered with .net technologies using C#.
+This series of 15-minute "lightening round" sessions will be given by MVPs, for MVPs. 
+It will be an opportunity for MVPs to share things they've learned or showcase what they have created/mastered with .net technologies using C#.
 
 ## Schedule
 
 All sessions are scheduled for 15 minutes. There will be 5 minutes in between for Q&A. The sessions will take place Tuesday, March 1 from 2:00pm - 6:00pm in Building 92 - Room Utopia.  
 
-|**Start**|**Speaker**|**Topic**|
-|--- |--- |--- |
-|2:00 PM|Rob Vetter|[Entity Framework 360: Code-Only Approach](#entity-framework-360-code-only-approach)|
-|2:20 PM|Sergey Barskiy|[Testing Silverlight Applications with Silverlight Unit Test Framework](#testing-silverlight-applications-with-silverlight-unit-test-framework)|
-|2:40 PM|Chris Woodruff|[Create an OData feed in 10 minutes](#create-an-odata-feed-in-10-minutes)|
-|3:00 PM|Special Guest|[Using FitNesse with C#](#using-fitnesse-with-c)|
-|3:20 PM|Mezil Matthieu|[WF Dynamic hosting](#wf-dynamic-hosting)|
-|3:40 PM|Mezil Matthieu|[Entity Framework performance tips and tricks](#entity-Framework-performance-tips-and-tricks)|
-|4:00 PM|Peter Richie|[A lap around Mighty Mouse](#a-lap-around-mighty-mouse)|
-|4:20 PM|Al Pascual|[Visual your data with maps](#visualize-your-data-with-maps)|
-|4:40 PM|Gary Short|[Credit Crunch Code – Paying Back the Technical Debt](#credit-crunch-code–paying-back-the-technical-debt)|
-|5:00 PM|Jason Bock|[Evolving .NET](#evolving-net)|
-|5:20 PM|Paul Litwin|[How to become a conference speaker](#how-to-become-a-conference-speaker)|
+| **Start** | **Speaker**    | **Topic**                                                                                                                                     |
+|-----------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 2:00 PM   | Rob Vetter     | [Entity Framework 360: Code-Only Approach](#entity-framework-360-code-only-approach)                                                          |
+| 2:20 PM   | Sergey Barskiy | [Testing Silverlight Applications with Silverlight Unit Test Framework](#testing-silverlight-applications-with-silverlight-unit-test-framework) |
+| 2:40 PM   | Chris Woodruff | [Create an OData feed in 10 minutes](#create-an-odata-feed-in-10-minutes)                                                                     |
+| 3:00 PM   | Special Guest  | [Using FitNesse with C#](#using-fitnesse-with-c)                                                                                              |
+| 3:20 PM   | Mezil Matthieu | [WF Dynamic hosting](#wf-dynamic-hosting)                                                                                                     |
+| 3:40 PM   | Mezil Matthieu | [Entity Framework performance tips and tricks](#entity-framework-360-code-only-approach)                                                      |
+| 4:00 PM   | Peter Richie   | [A lap around Mighty Mouse](#a-lap-around-mighty-moose)                                                                                       |
+| 4:20 PM   | Al Pascual     | [Visual your data with maps](#visualize-your-data-with-maps)                                                                                  |
+| 4:40 PM   | Gary Short     | [Credit Crunch Code – Paying Back the Technical Debt](#credit-crunch-code–paying-back-the-technical-debt)                                     |
+| 5:00 PM   | Jason Bock     | [Evolving .NET](#evolving-net)                                                                                                                |
+| 5:20 PM   | Paul Litwin    | [How to become a conference speaker](#how-to-become-a-conference-speaker)                                                                     |
 
 ## Sessions
 

@@ -13,9 +13,9 @@ Joe Guadagno is a Director of Engineering at Rocket Mortgage, the nation's large
 * [Telerik](https://www.telerik.com/){:target="_blank"} [Ninja](https://www.telerik.com/ninjas){:target="_blank"} - August 2020
 * [C# Corner](https://www.c-sharpcorner.com/){:target="_blank"} [MVP](https://www.c-sharpcorner.com/article/how-to-become-a-csharp-corner-mvp/){:target="_blank"} - Sept 2020
 * Friend of Redgate [program](https://www.red-gate.com/community/friends-of-rg){:target="_blank"} (2015 to 2018)
-* Former President,Vice President, and Marketing Director of [INETA](https://ineta.org/){:target="_blank"} North America (2007-2015)
+* Former President, Vice President, and Marketing Director of [INETA](https://ineta.org/){:target="_blank"} North America (2007-2015)
 * Founder of the Southeast Valley .NET User Group ([SEVDNUG](https://sevdnug.org/home.aspx){:target="_blank"}) in Chandler, AZ (2007-2013)
-* Currently serving on my the [City of Chandler](https://www.chandleraz.gov/){:target="_blank"}'s [Parks](https://www.chandleraz.gov/default.aspx?pageid=287){:target="_blank"} and [Recreation](https://www.chandleraz.gov/default.aspx?pageid=732){:target="_blank"} [board](https://www.chandleraz.gov/default.aspx?pageid=268){:target="_blank"} (2010 to 2018)
+* Previously served on the [City of Chandler](https://www.chandleraz.gov/){:target="_blank"}'s [Parks](https://www.chandleraz.gov/default.aspx?pageid=287){:target="_blank"} and [Recreation](https://www.chandleraz.gov/default.aspx?pageid=732){:target="_blank"} [board](https://www.chandleraz.gov/default.aspx?pageid=268){:target="_blank"} (2010 to 2018)
 * [Telerik MVP](https://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"} (2010 to 2012)
 * Microsoft Visual Basic MVP (1996)
 
@@ -43,4 +43,6 @@ If you want me to review your book or product on this site. Please contact me at
 
 ## Other
 
-If you wish to contact me, send an email to [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com). If you are curious about what technologies were used to build this site, please visit the [Site Technologies]({% link _pages/site-technologies.md %}) page.
+If you wish to contact me, email [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com). 
+If you are curious about what technologies were used to build this site, 
+please visit the [Site Technologies]({% link _pages/site-technologies.md %}) page.

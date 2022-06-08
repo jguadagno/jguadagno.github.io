@@ -1,6 +1,6 @@
 ---
 title: Resume
-excerpt: 'For 20 years or so I have been in Software Development. During that time I have used many tools, languages, and technologies. I started out programming with a small book on QuickBASIC. I later moved on to Visual Basic for DOS. Windows then came along and I starting using Visual Basic for Windows, I then migrated to Visual Basic .NET and eventually ended up using Visual C#. I work as a Director at Rocket Mortgage, based in Detroit, MI. I am a public speaker and present internationally on a lot of different technology topics, here is a list of the topics I present on https://www.josephguadagno.net/presentations/.  I have been recognized as a Microsoft MVP in .NET (since 2009), a Telerik Ninja, and a Friends of Red Gate program (since 2015).'
+excerpt: 'For 20 years or so I have been in Software Development. During that time I have used many tools, languages, and technology. I started out programming with a small book on QuickBASIC. I later moved on to Visual Basic for DOS. Windows then came along and I starting using Visual Basic for Windows, I then migrated to Visual Basic .NET and eventually ended up using Visual C#. I work as a Director at Rocket Mortgage, based in Detroit, MI. I am a public speaker and present internationally on a lot of different technology topics, here is a list of the topics I present on https://www.josephguadagno.net/presentations/.  I have been recognized as a Microsoft MVP in .NET (since 2009), a Telerik Ninja, and a Friends of Red Gate program (since 2015).'
 permalink: /resume/
 header:
     og_image: /assets/images/pages/resume.png
@@ -67,7 +67,7 @@ _8/2013 to Present_
 
 #### Director in Engineering - 1/2019 to Present
 
-As a Director, I am responsible for the growth of the products I own and the growth of my teams along with their team members. I started in the position with 2 teams, 14 team members and three products. Our team has since grown to 5 teams, 55 people and over 15 products. The growth of about 400% of the team and products was done seamlessly through leadership and the work that was done to enable it. Along with my leadership team, we established some common processes to enable the stability of our applications with enabled us to grow. Some of the processes included on boarding processes for new team members to ensure they had the right tools and processes to effectively do their role. We standardized on the deployment process across all our products, which includes change processes, documentation, and testing. This change process enabled the team to increase the number of deployments over 500% from the start of the year.
+As a Director, I am responsible for the growth of the products I own and the growth of my teams along with their team members. I started in the position with 2 teams, 14 team members and three products. Our team has since grown to 5 teams, 55 people and over 15 products. The growth of about 400% of the team and products was done seamlessly through leadership and the work that was done to enable it. Along with my leadership team, we established some common processes to enable the stability of our applications with enabled us to grow. Some processes included on-boarding processes for new team members to ensure they had the right tools and processes to effectively do their role. We standardized on the deployment process across all our products, which includes change processes, documentation, and testing. This change process enabled the team to increase the number of deployments over 500% from the start of the year.
 
 I enabled and encouraged Team Member growth through training, we have quarterly team training goals to level up the team. Through experimentation, we frequently try new things to tweak/improve our processes including Mob Programming, Machine Learning, Reorganizing the teams based on projects and skill sets, and trying out new tools.
 
@@ -301,54 +301,54 @@ For a list of presentations that I can/have done, please visit: [https://www.jos
 
 I actively publish content on my blog at [https://josephguadagno.net](https://josephguadagno.net/) and have guest posts on the Telerik [blog](https://www.telerik.com/blogs). Here is a list of older articles I have written before my blog became active.
 
-| **Title** | **Url** | **Published** |
-| --- | --- | --- |
-| Guadagno Task Scheduler | [https://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler](https://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler) | October 2008 |
-| log4net XmlConfigurator Simplified | [https://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified](https://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified) | June 2007 |
-| Task Plug-in: A Flexible .NET Plug-in Architecture | [https://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture](https://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture) | April 2007 |
-| Customizing Folders in C##| [https://www.codeproject.com/Articles/18811/Customizing-Folders-in-C](https://www.codeproject.com/Articles/18811/Customizing-Folders-in-C) | May 2007 |
+| **Title**                                          | **Url**                                                                                                                                                                                    | **Published** |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| Guadagno Task Scheduler                            | [https://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler](https://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler)                                                   | October 2008  |
+| log4net XmlConfigurator Simplified                 | [https://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified](https://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified)                             | June 2007     |
+| Task Plug-in: A Flexible .NET Plug-in Architecture | [https://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture](https://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture) | April 2007    |
+| Customizing Folders in C##                         | [https://www.codeproject.com/Articles/18811/Customizing-Folders-in-C](https://www.codeproject.com/Articles/18811/Customizing-Folders-in-C)                                                 | May 2007      |
 
 ## Community Work
 
-| **Organization / Work** | **Role** | **When** |
-| --- | --- | --- |
-| .NET Foundation | Member Committee Member | 2019-2021 |
-| INETA Community Leadership Summit at Microsoft TechEd | Organizer | 6/2012 |
-| MVP 2 MVP Sessions at the Microsoft Global MVP Summit | Organizer | 2/2012 |
-| INETA Community Leadership Summit at Microsoft TechEd | Organizer | 5/2011 |
-| MVP 2 MVP Sessions at the Microsoft Global MVP Summit | Organizer | 2/2011, 2/2012, 2/2013, 3/2013, 11/2013, 11/2014 |
-| INETA North America | Vice President | 4/2013 - Present |
-| INETA North America | President | 3/2011 – 3/2013 |
-| City of Chandler - Parks and Recreation board | Board Member | 3/2011 - Present |
-| Gangplank Jr. | Organizer | 1/2010 - 12/2010 |
-| SEVDNUG Social Mixer | Organizer | 1/2010 - Present |
-| Desert Code Camp | Organizer | 10/2009 - Present |
-| INETA North America | Marketing Director | 11/2009 - 2/2011 |
-| TechLunchSouth | Organizer | 1/2009 - 3/2012 |
-| Redwood Estates Homeowners Association | President | 5/2007 - 5/2012 |
+| **Organization / Work**                               | **Role**                | **When**                                         |
+|-------------------------------------------------------|-------------------------|--------------------------------------------------|
+| .NET Foundation                                       | Member Committee Member | 2019-2021                                        |
+| INETA Community Leadership Summit at Microsoft TechEd | Organizer               | 6/2012                                           |
+| MVP 2 MVP Sessions at the Microsoft Global MVP Summit | Organizer               | 2/2012                                           |
+| INETA Community Leadership Summit at Microsoft TechEd | Organizer               | 5/2011                                           |
+| MVP 2 MVP Sessions at the Microsoft Global MVP Summit | Organizer               | 2/2011, 2/2012, 2/2013, 3/2013, 11/2013, 11/2014 |
+| INETA North America                                   | Vice President          | 4/2013 - Present                                 |
+| INETA North America                                   | President               | 3/2011 – 3/2013                                  |
+| City of Chandler - Parks and Recreation board         | Board Member            | 3/2011 - Present                                 |
+| Gangplank Jr.                                         | Organizer               | 1/2010 - 12/2010                                 |
+| SEVDNUG Social Mixer                                  | Organizer               | 1/2010 - Present                                 |
+| Desert Code Camp                                      | Organizer               | 10/2009 - Present                                |
+| INETA North America                                   | Marketing Director      | 11/2009 - 2/2011                                 |
+| TechLunchSouth                                        | Organizer               | 1/2009 - 3/2012                                  |
+| Redwood Estates Homeowners Association                | President               | 5/2007 - 5/2012                                  |
 
 ## Community Websites
 
-| **Used for** | **Site** |
-| --- | --- |
-| The site for Desert Code Camp, the Phoenix area code camp. | [https://www.desertcodecamp.com](https://www.desertcodecamp.com/) |
-| --- | --- |
-| The site for the Southeast Valley .NET User Group in Chandler, AZ | [https://www.sevdnug.org](https://www.sevdnug.org/) |
-| The site for tracking all the events and after parties at Microsoft Global MVP Summit. | [https://www.mvpsummitevents.info](https://mvpsummitevents.info/) |
-| The site for tracking all the events and after parties at Microsoft TechEd. | [https://www.techedevents.info](https://techedevents.info/) |
-| The site for tracking all the events and after parties at Connections conference. | [https://www.devconnectionevents.info](https://devconnectionevents.info/) |
-| The site for tracking all the events and after parties at the Professional Developers Conference (PDC). | [https://www.pdcevents.info](https://pdcevents.info/) |
-| The site for tracking all the events and after parties at the Mix conference. | [https://www.visitmixevents.info](https://visitmixevents.info/) |
-| The site for tracking all the events and after parties at SQL Pass Summit. | [https://www.passsummitevents.info](https://passsummitevents.info/) |
+| **Used for**                                                                                            | **Site**                                                                  |
+|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| The site for Desert Code Camp, the Phoenix area code camp.                                              | [https://www.desertcodecamp.com](https://www.desertcodecamp.com/)         |
+| ---                                                                                                     | ---                                                                       |
+| The site for the Southeast Valley .NET User Group in Chandler, AZ                                       | [https://www.sevdnug.org](https://www.sevdnug.org/)                       |
+| The site for tracking all the events and after parties at Microsoft Global MVP Summit.                  | [https://www.mvpsummitevents.info](https://mvpsummitevents.info/)         |
+| The site for tracking all the events and after parties at Microsoft TechEd.                             | [https://www.techedevents.info](https://techedevents.info/)               |
+| The site for tracking all the events and after parties at Connections conference.                       | [https://www.devconnectionevents.info](https://devconnectionevents.info/) |
+| The site for tracking all the events and after parties at the Professional Developers Conference (PDC). | [https://www.pdcevents.info](https://pdcevents.info/)                     |
+| The site for tracking all the events and after parties at the Mix conference.                           | [https://www.visitmixevents.info](https://visitmixevents.info/)           |
+| The site for tracking all the events and after parties at SQL Pass Summit.                              | [https://www.passsummitevents.info](https://passsummitevents.info/)       |
 
 ## Affiliations, Awards and Certifications
 
-| **Company** | **Affiliation / Award / Certification** | **When received** |
-| --- | --- | --- |
-| Microsoft | [Microsoft Developer Services MVP](https://mvp.support.microsoft.com/profile=4C0083AE-C0DE-4F05-A179-D9072AF2EA2B) | 2009 through 2021 |
-| Progress Telerik | Telerik Ninja | 2018 through 2021 |
-| Telerik | [Telerik MVP](https://www.telerik.com/community/client-profile.aspx?cId=187651) | 2009 thought 2013 |
-| Microsoft | Microsoft Visual Basic MVP | 1996 |
+| **Company**      | **Affiliation / Award / Certification**                                                                                              | **When received** |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Microsoft        | [Microsoft Developer Services MVP](https://mvp.support.microsoft.com/profile=4C0083AE-C0DE-4F05-A179-D9072AF2EA2B){:target="_blank"} | 2009 through 2021 |
+| Progress Telerik | Telerik Ninja                                                                                                                        | 2018 through 2021 |
+| Telerik          | [Telerik MVP](https://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"}                                    | 2009 through 2013 |
+| Microsoft        | Microsoft Visual Basic MVP                                                                                                           | 1996              |
 
 ## Additional Information
 
