@@ -1,5 +1,27 @@
 [
   {
+    "eventName": "DEVintersection",
+    "eventUrl": "https://www.devintersection.com/",
+    "location": "Las Vegas, NV",
+    "eventStart": "2022-12-04T09:00:00",
+    "eventEnd": "2022-12-09T17:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Building and Deploying a New Cloud App from Scratch",
+        "url": "/presentations/building-and-deploying-a-new-cloud-app-from-scratch",
+        "date": "",
+        "room": "",
+        "comments": "Workshop",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "PST",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "TechBash",
     "eventUrl": "https://techbash.com/",
     "location": "Pocono Mountains, PA",
@@ -14,7 +36,7 @@
         "url": "/presentations/building-and-deploying-a-new-cloud-app-from-scratch",
         "date": "",
         "room": "",
-        "comments": "",
+        "comments": "Workshop",
         "isCanceled": false
       },
       {
@@ -57,7 +79,7 @@
     "location": "India",
     "eventStart": "2022-10-10T00:00:00",
     "eventEnd": "2022-10-19T00:00:00",
-    "comments": "Event is taking place in 3 India states: Mumbai, Bangalore, and Delhi. Presentations will be announced in the future.",
+    "comments": "This event is a 6 day tour from Mumbai to Delhi containing 4 one day conferences, Mumbai (Oct 8th), Hyderabad (Oct 10), Chennai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
@@ -398,7 +420,7 @@
     "location": "Las Vegas, NV",
     "eventStart": "2021-12-07T00:00:00",
     "eventEnd": "2021-12-09T00:00:00",
-    "comments": "Use code \u0027\u003Cb\u003EGuadagno\u003C/b\u003E\u0027 for $50 off registration. In Person",
+    "comments": "Use code \u0027'GUADAGNO'\u0027 for $50 off registration. In Person",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -516,7 +538,7 @@
     "location": "Pocono Mountains, PA",
     "eventStart": "2021-10-19T00:00:00",
     "eventEnd": "2021-10-22T00:00:00",
-    "comments": "Register with code \u003Cb\u003EDEVCOMMUNITY40\u003C/b\u003E for $40 off registration and add my name to the \u003Cb\u003EReferred By\u003C/b\u003E field.",
+    "comments": "Register with code 'DEVCOMMUNITY' for $40 off registration and add my name to the \u003Cb\u003EReferred By\u003C/b\u003E field.",
     "isCanceled": true,
     "isCurrent": false,
     "presentation": [
@@ -598,7 +620,7 @@
     "location": "Orlando, FL and Virtual",
     "eventStart": "2021-06-08T00:00:00",
     "eventEnd": "2021-06-08T00:00:00",
-    "comments": "Use code \u003Cb\u003EGUADAGNO\u003C/b\u003E for $50 off",
+    "comments": "Use code 'GUADAGNO' for $50 off",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -607,7 +629,7 @@
         "url": "/presentations/build-and-ship-it",
         "date": "2021-06-08T00:00:00",
         "room": "",
-        "comments": "Use code \u003Cb\u003EGUADAGNO\u003C/b\u003E for $50 off",
+        "comments": "Use code 'GUADAGNO' for $50 off",
         "isCanceled": false
       },
       {
@@ -615,7 +637,7 @@
         "url": "/presentations/migrate-it",
         "date": "2021-06-08T00:00:00",
         "room": "",
-        "comments": "Use code \u003Cb\u003EGUADAGNO\u003C/b\u003E for $50 off",
+        "comments": "Use code 'GUADAGNO' for $50 off",
         "isCanceled": false
       },
       {
@@ -623,7 +645,7 @@
         "url": "/presentations/look-into-your-application-with-application-insights",
         "date": "2021-06-08T00:00:00",
         "room": "",
-        "comments": "Use code \u003Cb\u003EGUADAGNO\u003C/b\u003E for $50 off",
+        "comments": "Use code 'GUADAGNO' for $50 off",
         "isCanceled": false
       }
     ],
