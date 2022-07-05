@@ -16,7 +16,7 @@ tags:
   - dotnet
   - csharp
 ---
-**Note:** This post was originally posted on the Telerik {:target="_blank"}
+**Note:** This post was originally posted on the Telerik [blog](https://www.telerik.com/blogs/what-was-added-csharp-10){:target="_blank"}
 {: .notice--info}
 
 In a previous [post](https://www.telerik.com/blogs/what-i-like-about-csharp-9){:target="_blank"}, I talked about all of the new features of C# 9. With the release of .NET 6 recently, I wanted to share some of the new language features of C# 10.
