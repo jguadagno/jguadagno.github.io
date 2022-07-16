@@ -12,9 +12,25 @@
       {
         "name": "Building and Deploying a New Cloud App from Scratch",
         "url": "/presentations/building-and-deploying-a-new-cloud-app-from-scratch",
-        "date": "",
+        "date": "2022-12-05T09:00",
         "room": "",
         "comments": "Workshop",
+        "isCanceled": false
+      },
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Communication is Hard. Make it better with Azure Communication Services",
+        "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
+        "date": "",
+        "room": "",
+        "comments": "",
         "isCanceled": false
       }
     ],
@@ -34,7 +50,7 @@
       {
         "name": "Building and Deploying a New Cloud App from Scratch",
         "url": "/presentations/building-and-deploying-a-new-cloud-app-from-scratch",
-        "date": "",
+        "date": "2022-12-08T09:00",
         "room": "",
         "comments": "Workshop",
         "isCanceled": false
@@ -42,7 +58,7 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "",
+        "date": "2022-12-09",
         "room": "",
         "comments": "",
         "isCanceled": false
