@@ -148,7 +148,7 @@
     "eventEnd": "2022-07-15T00:00:00",
     "comments": "Event is In Person",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
