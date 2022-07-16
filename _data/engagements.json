@@ -111,19 +111,19 @@
     "inPerson": "In Person"
   },
   {
-    "eventName": "THAT Conference - WI",
-    "eventUrl": "https://that.us/activities/wi/2022/",
-    "location": "Wisconsin Dells, WI",
-    "eventStart": "2022-07-25T00:00:00",
-    "eventEnd": "2022-07-28T00:00:00",
-    "comments": "Event is In Person, however, I will be presenting virtually.",
+    "eventName": "THAT Online",
+    "eventUrl": "https://that.us/events/thatus/2022-9/",
+    "location": "Virtual",
+    "eventStart": "2022-09-15T08:00:00",
+    "eventEnd": "2022-09-15T14:00:00",
+    "comments": "Virtual event and free",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2022-07-26T14:30:00",
+        "date": "2022-09-15T12:30:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false
@@ -131,14 +131,14 @@
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
         "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
-        "date": "2022-07-28T13:00:00",
+        "date": "2022-09-15T11:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false
       }
     ],
     "timezone": "MST",
-    "inPerson": "In Person"
+    "inPerson": "Virtual"
   },
   {
     "eventName": "Nebraska.Code()",
