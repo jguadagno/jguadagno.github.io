@@ -2,7 +2,7 @@
 title: "How to simplify your C# unit testing with a mocking framework"
 header:
     og_image: /assets/images/posts/header/github-copilot-writing.png
-date: 2022-07-19 06:10:00 -0500
+date: 2022-07-19 03:50:00 -0700
 categories:
   - Articles
 tags:
@@ -22,8 +22,6 @@ Mocking is a framework that allows you to create a mock object that can be used 
 ## Getting Started with Mocking
 
 First, you'll need a mocking framework to get started.  Something like Telerik [JustMock](https://www.telerik.com/products/mocking.aspx) or their free version [JustMock Lite](https://www.telerik.com/justmock/free-mocking).
-
-***MAYBE:*** **Insert a cool ad or picture about JustMock here** Similar to https://www.telerik.com/blogs/30-days-of-tdd-day-11-what-s-the-deal-with-mocking
 
 A mocking framework is what you creates the objects and *"pretends"* to be the object(s) you are testings.
 
