@@ -1,8 +1,8 @@
 ---
 title: "How to simplify your C# unit testing with a mocking framework"
 header:
-    og_image: /assets/images/posts/header/github-copilot-writing.png
-date: 2022-07-19 03:50:00 -0700
+    og_image: /assets/images/posts/header/mocking.png
+date: 2022-07-19 04:22:00 -0700
 categories:
   - Articles
 tags:
@@ -10,8 +10,6 @@ tags:
   - Unit Tests
   - testing
 ---
-
-## What is Mocking
 
 It's time to take your unit testing to the next level.  You've implemented either [NUnit](https://www.nunit.org), or [xUnit](https://xunit.net), or [MSTest](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest?WT.mc_id=AZ-MVP-4024623) in your projects. You've gotten your code coverage to 80+%. But the are just some things that are hard to test or validate in your project.  How do you test the "business logic" in your repository class?  How do you test your dependent web service or database? Yeah, you can write special unit test and create fake objects to mimic these dependencies but why waste your time writing code that does not ship with the end product. Or write a lot of code with the `ExcludeFromCoverage` attribute :smile:. Well this is mocking comes in.
 
