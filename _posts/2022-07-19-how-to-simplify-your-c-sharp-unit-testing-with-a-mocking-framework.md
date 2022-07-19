@@ -2,7 +2,7 @@
 title: "How to simplify your C# unit testing with a mocking framework"
 header:
     og_image: /assets/images/posts/header/github-copilot-writing.png
-date: 2022-07-20 18:15:00 -0700
+date: 2022-07-19 06:10:00 -0500
 categories:
   - Articles
 tags:
