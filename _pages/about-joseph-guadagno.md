@@ -5,7 +5,7 @@ classes: wide
 header:
     og_image: /assets/images/pages/about-joseph-guadagno.png
 ---
-Joe Guadagno is a Director of Engineering at Rocket Mortgage, 
+Joe Guadagno is a Senior Director of Engineering at Rocket Mortgage,
 the nation's largest mortgage lender based in Detroit, Michigan.
 He has been writing software for over 20 years, has been an active member of the .NET community,
 serving as a Microsoft MVP in .NET for more than ten years.
@@ -60,11 +60,11 @@ You can see more of my work on [GitHub](https://www.github.com/jguadagno){:targe
 
 ## Book Reviews
 
-If you want me to review your book or product on this site. 
+If you want me to review your book or product on this site.
 Please contact me at [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com?Subject=%27Product%20Review%20Request%27 "Send me an email")
 
 ## Other
 
-If you wish to contact me, email [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com). 
-If you are curious about what technologies were used to build this site, 
+If you wish to contact me, email [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com).
+If you are curious about what technologies were used to build this site,
 please visit the [Site Technologies]({% link _pages/site-technologies.md %}) page.

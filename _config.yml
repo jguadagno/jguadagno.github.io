@@ -17,7 +17,7 @@ title: JosephGuadagno.net
 email: jguadagno@hotmail.com
 name: "Joseph Guadagno"
 description: >- # this means to ignore newlines until "baseurl:"
-  Microsoft .NET MVP, Director of Engineering at Rocket Mortgage, Organizer of Desert Code Camp
+  Microsoft .NET MVP, Senior Director of Engineering at Rocket Mortgage, Organizer of Desert Code Camp
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title
 url: "https://www.josephguadagno.net" # the base hostname & protocol for your site, e.g. https://example.com
