@@ -17,7 +17,7 @@ We will look at some best practices in designing and building the application,
 testing your code, and deploying the application, so you are set up for success later.
 After this workshop,
 you will have an established pattern to follow for future applications
-and in case you need to change the infrastructure of your application. 
+and in case you need to change the infrastructure of your application.
 
 ## What We will Cover
 
@@ -55,6 +55,6 @@ This workshop is geared toward individuals just getting started with Microsoft .
 
 Requirements:
 
-- Visual Studio or JetBrains Rider
-- SQL Server (Developer Edition or LocalDB)
-- Azure Account
+- [Visual Studio](https://visualstudio.microsoft.com/?WT.mc_id=AZ-MVP-4024623) or [JetBrains Rider](https://jetbrains.com/rider/)
+- SQL Server (Developer Edition or LocalDB) [Installation Guide](https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16&WT.mc_id=AZ-MVP-4024623)
+- [Azure Account](https://docs.microsoft.com/en-us/azure/developer/?WT.mc_id=AZ-MVP-4024623)
