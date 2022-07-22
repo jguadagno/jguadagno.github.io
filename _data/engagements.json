@@ -38,6 +38,28 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "Update Conference Prague 2022",
+    "eventUrl": "https://www.updateconference.net/",
+    "location": "Prague, Czech Republic",
+    "eventStart": "2022-11-10T00:00:00",
+    "eventEnd": "2022-11-11T00:00:00",
+    "comments": "In person and Virtual",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with JetBrains Rider",
+        "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
+        "date": "2022-11-11T08:30:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "CEST",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "TechBash",
     "eventUrl": "https://techbash.com/",
     "location": "Pocono Mountains, PA",
