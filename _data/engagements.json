@@ -179,6 +179,36 @@
     "inPerson": "Virtual"
   },
   {
+    "eventName": "Code Quality Conference",
+    "eventUrl": "https://codequalityconf.com/",
+    "location": "Online",
+    "eventStart": "2022-08-19T07:50:00",
+    "eventEnd": "2022-08-19T13:00:00",
+    "comments": "Online only",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2022-08-19T08:00:00",
+        "room": "Virtual",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Application Architecture",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2022-08-19T08:50:00",
+        "room": "Virtual",
+        "comments": "",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "EST",
+    "inPerson": "Virtual"
+  },
+  {
     "eventName": "Nebraska.Code()",
     "eventUrl": "https://nebraskacode.amegala.com/",
     "location": "Lincoln, NE",
