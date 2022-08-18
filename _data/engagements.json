@@ -113,11 +113,11 @@
   },
   {
     "eventName": "C# Corner - India Tour",
-    "eventUrl": "https://www.csharpcorner.com",
+    "eventUrl": "https://conference.c-sharpcorner.com/",
     "location": "India",
     "eventStart": "2022-10-10T00:00:00",
     "eventEnd": "2022-10-19T00:00:00",
-    "comments": "This event is a 6 day tour from Mumbai to Delhi containing 4 one day conferences, Mumbai (Oct 8th), Hyderabad (Oct 10), Chennai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
+    "comments": "This event is a 6 day tour from Chennai to Delhi containing 4 one day conferences, Chennai (Oct 8th), Hyderabad (Oct 10), Mumbai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
