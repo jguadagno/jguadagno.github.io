@@ -1,7 +1,7 @@
 ---
 title: .NET 5 - What is it?
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2179191&authkey=AFFYuImKsNsScF4&em=2
 youTubeId: dQMfN9nGDHA
