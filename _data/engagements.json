@@ -179,6 +179,28 @@
     "inPerson": "Virtual"
   },
   {
+    "eventName": "Twin Cities .NET User Group",
+    "eventUrl": "https://www.meetup.com/tcdnug/events/288181972/",
+    "location": "Virtual",
+    "eventStart": "2022-09-08T15:30:00",
+    "eventEnd": "2022-09-08T17:30:00",
+    "comments": "Virtual event and free",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Communication is Hard. Make it better with Azure Communication Services",
+        "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
+        "date": "2022-09-08T15:30:00",
+        "room": "Virtual",
+        "comments": "",
+        "isCanceled": false
+      }
+    ],
+    "timezone": "MST",
+    "inPerson": "Virtual"
+  },
+  {
     "eventName": "Code Quality Conference",
     "eventUrl": "https://codequalityconf.com/",
     "location": "Online",
