@@ -26,10 +26,12 @@ To see a list of presentations I speak on, please visit [Joseph Guadagno's Prese
 {% if engagement.isCanceled- %}
 This event has been canceled.
 {: .notice--danger}
+{% if engagement.isWorkshop -%}***Workshop***{% endif %}
 {% if engagement.comments -%}{{ engagement.comments }}{% endif %}
 {% else %}
 
 {% if engagement.presentation.size > 0 -%}
+
 #### Presentations
 
 {% for presentation in engagement.presentation -%}

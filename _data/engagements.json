@@ -5,33 +5,36 @@
     "location": "Las Vegas, NV",
     "eventStart": "2022-12-04T09:00:00",
     "eventEnd": "2022-12-09T17:00:00",
-    "comments": "Register with code 'GUADAGNO50' for $50 off registration!",
+    "comments": "Register with code \u0027GUADAGNO50\u0027 for $50 off registration!",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
       {
         "name": "Building and Deploying a New Cloud App from Scratch",
         "url": "/presentations/building-and-deploying-a-new-cloud-app-from-scratch",
-        "date": "2022-12-05T09:00",
+        "date": "2022-12-05T09:00:00",
         "room": "",
         "comments": "Workshop",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": true
       },
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "",
+        "date": "2022-12-06T09:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
         "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
-        "date": "",
+        "date": "2022-12-06T10:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "PST",
@@ -53,7 +56,8 @@
         "date": "2022-11-11T08:30:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "CEST",
@@ -72,25 +76,27 @@
       {
         "name": "Building and Deploying a New Cloud App from Scratch",
         "url": "/presentations/building-and-deploying-a-new-cloud-app-from-scratch",
-        "date": "2022-12-08T09:00",
+        "date": "2022-12-08T09:00:00",
         "room": "",
-        "comments": "Workshop",
-        "isCanceled": false
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": true
       },
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2022-12-09",
+        "date": "2022-12-09T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
     "inPerson": "In Person"
   },
   {
-    "eventName": "European SharePoint Office 365 & Azure Conference",
+    "eventName": "European SharePoint Office 365 \u0026 Azure Conference",
     "eventUrl": "https://www.sharepointeurope.com/",
     "location": "Copenhagen, Denmark",
     "eventStart": "2022-11-28T00:00:00",
@@ -105,7 +111,8 @@
         "date": "2022-11-29T10:15:00",
         "room": "T4",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "CET",
@@ -127,7 +134,8 @@
         "date": "2022-10-14T12:30:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Scaling Your .NET Application Using Azure",
@@ -135,7 +143,8 @@
         "date": "2022-10-15T11:45:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "IST",
@@ -157,7 +166,8 @@
         "date": "2022-08-08T10:00:00",
         "room": "2214",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "CST",
@@ -179,7 +189,8 @@
         "date": "2022-09-15T12:30:00",
         "room": "Virtual",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
@@ -187,7 +198,8 @@
         "date": "2022-09-15T11:00:00",
         "room": "Virtual",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "MST",
@@ -209,7 +221,8 @@
         "date": "2022-09-08T15:30:00",
         "room": "Virtual",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "MST",
@@ -231,7 +244,8 @@
         "date": "2022-08-19T08:00:00",
         "room": "Virtual",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Application Architecture",
@@ -239,7 +253,8 @@
         "date": "2022-08-19T08:50:00",
         "room": "Virtual",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -261,7 +276,8 @@
         "date": "2022-07-14T13:15:00",
         "room": "Lancaster 123",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Application Architecture",
@@ -269,7 +285,8 @@
         "date": "2022-07-15T13:15:00",
         "room": "Lancaster 123",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "CST",
@@ -291,7 +308,8 @@
         "date": "2022-05-24T08:30:00",
         "room": "Salon D",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "MST",
@@ -313,7 +331,8 @@
         "date": "2022-05-06T14:30:00",
         "room": "CAS Theater",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -325,7 +344,7 @@
     "location": "Las Vegas, NV",
     "eventStart": "2022-04-05T00:00:00",
     "eventEnd": "2022-04-07T00:00:00",
-    "comments": "Use code <b>Guadagno</b> for $50 off registration. In Person",
+    "comments": "Use code \u003Cb\u003EGuadagno\u003C/b\u003E for $50 off registration. In Person",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -335,7 +354,8 @@
         "date": "2022-04-06T16:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Build and Ship It!",
@@ -343,7 +363,8 @@
         "date": "2022-04-07T10:45:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "PDT",
@@ -365,7 +386,8 @@
         "date": "2022-03-04T12:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "What\u0027s Happening in My App",
@@ -373,14 +395,15 @@
         "date": "2022-03-04T15:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
     "inPerson": "Virtual"
   },
   {
-    "eventName": "Rockin' the Code World",
+    "eventName": "Rockin\u0027 the Code World",
     "eventUrl": "https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave",
     "location": "Virtual",
     "eventStart": "2022-02-12T10:00:00",
@@ -395,7 +418,8 @@
         "date": "2022-02-12T10:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "PST",
@@ -417,7 +441,8 @@
         "date": "2022-01-24T12:50:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -439,7 +464,8 @@
         "date": "2021-12-01T10:00:00",
         "room": "",
         "comments": "Time is Mountain Standard (MST)",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -461,7 +487,8 @@
         "date": "2022-01-17T08:30:00",
         "room": "Salon D",
         "comments": "MST Time",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -483,7 +510,8 @@
         "date": "2022-01-11T16:00:00",
         "room": "Salon E/D",
         "comments": "EST Time - I cancelled my presentation",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "6 (or so) new features of .NET 6",
@@ -491,7 +519,8 @@
         "date": "2022-01-13T13:00:00",
         "room": "Salon A/H",
         "comments": "EST Time - I cancelled my presentation",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -513,7 +542,8 @@
         "date": "2021-11-06T15:30:00",
         "room": "Exeter",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -525,7 +555,7 @@
     "location": "Las Vegas, NV",
     "eventStart": "2021-12-07T00:00:00",
     "eventEnd": "2021-12-09T00:00:00",
-    "comments": "Use code \u0027'GUADAGNO'\u0027 for $50 off registration. In Person",
+    "comments": "Use code \u0027\u0027GUADAGNO\u0027\u0027 for $50 off registration. In Person",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -535,7 +565,8 @@
         "date": "2021-12-07T13:30:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Migrate It!",
@@ -543,7 +574,8 @@
         "date": "2021-12-07T16:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -565,7 +597,8 @@
         "date": "2021-11-23T18:30:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -587,7 +620,8 @@
         "date": "2021-10-29T11:30:00",
         "room": "",
         "comments": "India Standard Time (IST)",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -609,7 +643,8 @@
         "date": "2021-10-01T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -631,7 +666,8 @@
         "date": "2021-09-29T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -643,7 +679,7 @@
     "location": "Pocono Mountains, PA",
     "eventStart": "2021-10-19T00:00:00",
     "eventEnd": "2021-10-22T00:00:00",
-    "comments": "Register with code 'DEVCOMMUNITY' for $40 off registration and add my name to the \u003Cb\u003EReferred By\u003C/b\u003E field.",
+    "comments": "Register with code \u0027DEVCOMMUNITY\u0027 for $40 off registration and add my name to the \u003Cb\u003EReferred By\u003C/b\u003E field.",
     "isCanceled": true,
     "isCurrent": false,
     "presentation": [
@@ -653,7 +689,8 @@
         "date": "2021-10-19T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": true
+        "isCanceled": true,
+        "isWorkshop": false
       },
       {
         "name": "What\u0027s Happening in My App",
@@ -661,7 +698,8 @@
         "date": "2021-10-19T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": true
+        "isCanceled": true,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -683,7 +721,8 @@
         "date": "2021-09-17T08:30:00",
         "room": "2201",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Write Uno Time, Run Everywhere with the Uno Platform",
@@ -691,7 +730,8 @@
         "date": "2021-09-16T13:15:00",
         "room": "2215-A",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -713,7 +753,8 @@
         "date": "2021-09-20T14:20:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -725,7 +766,7 @@
     "location": "Orlando, FL and Virtual",
     "eventStart": "2021-06-08T00:00:00",
     "eventEnd": "2021-06-08T00:00:00",
-    "comments": "Use code 'GUADAGNO' for $50 off",
+    "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
     "isCanceled": false,
     "isCurrent": false,
     "presentation": [
@@ -734,24 +775,27 @@
         "url": "/presentations/build-and-ship-it",
         "date": "2021-06-08T00:00:00",
         "room": "",
-        "comments": "Use code 'GUADAGNO' for $50 off",
-        "isCanceled": false
+        "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Migrate It!",
         "url": "/presentations/migrate-it",
         "date": "2021-06-08T00:00:00",
         "room": "",
-        "comments": "Use code 'GUADAGNO' for $50 off",
-        "isCanceled": false
+        "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Look into your Application with Azure Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
         "date": "2021-06-08T00:00:00",
         "room": "",
-        "comments": "Use code 'GUADAGNO' for $50 off",
-        "isCanceled": false
+        "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -773,7 +817,8 @@
         "date": "2021-05-12T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -795,7 +840,8 @@
         "date": "2021-05-04T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Look into your Application with Azure Application Insights",
@@ -803,7 +849,8 @@
         "date": "2021-05-04T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -825,7 +872,8 @@
         "date": "2021-04-14T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -847,7 +895,8 @@
         "date": "2021-03-09T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -869,7 +918,8 @@
         "date": "2021-02-25T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -891,7 +941,8 @@
         "date": "2021-02-12T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -913,7 +964,8 @@
         "date": "2021-02-11T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -935,7 +987,8 @@
         "date": "2021-02-09T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -957,7 +1010,8 @@
         "date": "2021-01-16T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -979,7 +1033,8 @@
         "date": "2020-12-18T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1001,7 +1056,8 @@
         "date": "2020-11-19T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1023,7 +1079,8 @@
         "date": "2020-12-06T00:00:00",
         "room": "",
         "comments": "In Person - \u003Cb\u003ECanceled\u003C/b\u003E",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Look into your Application with Application Insights",
@@ -1031,7 +1088,8 @@
         "date": "2020-12-06T00:00:00",
         "room": "",
         "comments": "In Person - \u003Cb\u003ECanceled\u003C/b\u003E",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1053,7 +1111,8 @@
         "date": "2020-10-15T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1075,7 +1134,8 @@
         "date": "2020-11-14T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1097,7 +1157,8 @@
         "date": "2020-09-09T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Help Your Application Scale with Azure",
@@ -1105,7 +1166,8 @@
         "date": "2020-09-09T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1127,7 +1189,8 @@
         "date": "2020-08-21T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1149,7 +1212,8 @@
         "date": "2020-08-13T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1171,7 +1235,8 @@
         "date": "2020-08-07T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1193,7 +1258,8 @@
         "date": "2020-07-31T00:00:00",
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Debugging Tips and Tips with Visual Studio",
@@ -1201,7 +1267,8 @@
         "date": "2020-07-30T00:00:00",
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Typescript for the Microsoft Developer",
@@ -1209,7 +1276,8 @@
         "date": "2020-07-31T00:00:00",
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1231,7 +1299,8 @@
         "date": "2020-10-27T00:00:00",
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1253,7 +1322,8 @@
         "date": "2020-06-05T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1275,7 +1345,8 @@
         "date": "2020-04-24T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1297,7 +1368,8 @@
         "date": "2020-04-06T00:00:00",
         "room": "",
         "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1319,7 +1391,8 @@
         "date": "2020-04-06T00:00:00",
         "room": "",
         "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Build \u0026 Ship It!",
@@ -1327,7 +1400,8 @@
         "date": "2020-04-06T00:00:00",
         "room": "",
         "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1349,7 +1423,8 @@
         "date": "2020-03-14T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Build a Native Mobile Application using React Native and JavaScript",
@@ -1357,7 +1432,8 @@
         "date": "2020-03-13T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1379,7 +1455,8 @@
         "date": "2019-11-18T00:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Typescript for the Microsoft Developer",
@@ -1387,7 +1464,8 @@
         "date": "2019-11-18T00:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1409,7 +1487,8 @@
         "date": "2019-11-12T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Look into your Application with Azure Application Insights",
@@ -1417,7 +1496,8 @@
         "date": "2019-11-12T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1439,7 +1519,8 @@
         "date": "2019-08-22T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1461,7 +1542,8 @@
         "date": "2019-08-21T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1483,7 +1565,8 @@
         "date": "2019-09-05T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Typescript for the Microsoft Developer",
@@ -1491,7 +1574,8 @@
         "date": "2019-09-05T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1513,7 +1597,8 @@
         "date": "2019-05-24T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1535,7 +1620,8 @@
         "date": "2019-06-11T00:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "What\u0027s Happening in My App?, Application Insights",
@@ -1543,7 +1629,8 @@
         "date": "2019-06-12T00:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Building Mobile Applications with Ionic",
@@ -1551,7 +1638,8 @@
         "date": "2018-12-03T00:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Building Mobile Applications with React Native",
@@ -1559,7 +1647,8 @@
         "date": "2018-12-03T00:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1581,7 +1670,8 @@
         "date": "2018-11-13T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
@@ -1589,7 +1679,8 @@
         "date": "2018-11-13T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1611,7 +1702,8 @@
         "date": "2018-10-02T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Look into your Application with Application Insights",
@@ -1619,7 +1711,8 @@
         "date": "2018-10-02T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1641,7 +1734,8 @@
         "date": "2018-07-11T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Building Native Application with React Native and Javascript",
@@ -1649,7 +1743,8 @@
         "date": "2018-07-11T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1671,7 +1766,8 @@
         "date": "2018-06-01T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Building Native Applications with Ionic and Javascript",
@@ -1679,7 +1775,8 @@
         "date": "2018-06-01T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1701,7 +1798,8 @@
         "date": "2018-04-13T00:00:00",
         "room": "",
         "comments": "**Keynote**",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Being More Personable",
@@ -1709,7 +1807,8 @@
         "date": "2018-04-13T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Building Native Applications with Ionic and Javascript",
@@ -1717,7 +1816,8 @@
         "date": "2018-04-13T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1739,7 +1839,8 @@
         "date": "2018-02-10T00:00:00",
         "room": "",
         "comments": "See the blog post \u0027I\u0027m Speaking on a Boat\u0027",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1761,7 +1862,8 @@
         "date": "2017-10-04T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Typescript for the Microsoft Developer",
@@ -1769,7 +1871,8 @@
         "date": "2017-10-04T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1791,7 +1894,8 @@
         "date": "2017-05-21T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Build Native Mobile Apps Using Ionic and Javascript",
@@ -1799,7 +1903,8 @@
         "date": "2017-05-21T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1821,7 +1926,8 @@
         "date": "2017-05-05T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Look into Your Application with Application Insights",
@@ -1829,7 +1935,8 @@
         "date": "2017-05-05T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1851,7 +1958,8 @@
         "date": "2017-04-09T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Build Native Applications with Ionic and Javascript",
@@ -1859,7 +1967,8 @@
         "date": "2017-04-09T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1881,7 +1990,8 @@
         "date": "2017-04-07T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1903,7 +2013,8 @@
         "date": "2017-02-25T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Build Native Mobile Apps using Javascript and React Native",
@@ -1911,7 +2022,8 @@
         "date": "2017-02-25T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1933,7 +2045,8 @@
         "date": "2017-03-09T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Typescript for the Microsoft Developer",
@@ -1941,7 +2054,8 @@
         "date": "2017-03-09T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       },
       {
         "name": "Introduction to ASP.NET Core",
@@ -1949,7 +2063,8 @@
         "date": "2017-03-09T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
@@ -1971,7 +2086,8 @@
         "date": "2017-03-15T00:00:00",
         "room": "",
         "comments": "",
-        "isCanceled": false
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
