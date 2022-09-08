@@ -5,7 +5,7 @@
     "location": "Las Vegas, NV",
     "eventStart": "2022-12-04T09:00:00",
     "eventEnd": "2022-12-09T17:00:00",
-    "comments": "",
+    "comments": "Register with code 'GUADAGNO50' for $50 off registration!",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
@@ -121,7 +121,22 @@
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
-
+      {
+        "name": "Application Architecture",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2022-10-14T12:30:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      },
+      {
+        "name": "Scaling Your .NET Application Using Azure",
+        "url": "/presentations/scaling-your-dotnet-application-using-azure",
+        "date": "2022-10-15T11:45:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false
+      }
     ],
     "timezone": "IST",
     "inPerson": "In Person"
