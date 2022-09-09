@@ -19,8 +19,8 @@ Chandler, AZ 85248
 
 - [Resume Sections](#resume-sections)
   - [Experience](#experience)
-    - [Director in Engineering](#director-in-engineering)
-      - [Director in Engineering - 1/2019 to Present](#director-in-engineering---12019-to-present)
+    - [Senior Director in Engineering](#senior-director-in-engineering)
+      - [Senior Director in Engineering - 1/2019 to Present](#senior-director-in-engineering---12019-to-present)
       - [Team Leader – 1/2014 to 1/2019](#team-leader--12014-to-12019)
       - [Software Architect – 8/2013 to 1/2014](#software-architect--82013-to-12014)
     - [Senior Software Engineer](#senior-software-engineer)
@@ -60,12 +60,12 @@ Chandler, AZ 85248
 
 ## Experience
 
-### Director in Engineering
+### Senior Director in Engineering
 
 Rocket Mortgage - Detroit, MI
 _8/2013 to Present_
 
-#### Director in Engineering - 1/2019 to Present
+#### Senior Director in Engineering - 1/2019 to Present
 
 As a Director, I am responsible for the growth of the products I own and the growth of my teams along with their team members. I started in the position with 2 teams, 14 team members and three products. Our team has since grown to 5 teams, 55 people and over 15 products. The growth of about 400% of the team and products was done seamlessly through leadership and the work that was done to enable it. Along with my leadership team, we established some common processes to enable the stability of our applications with enabled us to grow. Some processes included on-boarding processes for new team members to ensure they had the right tools and processes to effectively do their role. We standardized on the deployment process across all our products, which includes change processes, documentation, and testing. This change process enabled the team to increase the number of deployments over 500% from the start of the year.
 
