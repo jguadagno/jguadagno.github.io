@@ -213,7 +213,7 @@
     "eventEnd": "2022-09-08T17:30:00",
     "comments": "Virtual event and free",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
