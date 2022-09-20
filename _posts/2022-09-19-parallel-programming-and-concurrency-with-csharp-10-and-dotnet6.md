@@ -1,5 +1,5 @@
 ---
-title: Parallel Programming and Concurrency with C# 10 and .NET 6
+title: Book Review - Parallel Programming and Concurrency with C# 10 and .NET 6
 header:
     og_image: /assets/images/posts/header/parallel-programming.png
 date: 2022-09-19 04:22:00 -0700
