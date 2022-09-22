@@ -6,6 +6,7 @@ header:
     og_image: /assets/images/posts/header/app-service-dotnet5.png
 categories:
   - Articles
+  - Archive
 tags:
   - Azure
   - App Service
