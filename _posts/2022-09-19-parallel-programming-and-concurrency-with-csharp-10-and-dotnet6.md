@@ -20,7 +20,7 @@ This book is for beginner to intermediate-level .NET developers who want to empl
 
 This book should be in your library if you're a .NET developer.
 
-Purchase [Parallel Programming and Concurrency with C# 10 and .NET 6](https://amzn.to/3f3zlTh){:target="_blank"}
+Purchase [Parallel Programming and Concurrency with C# 10 and .NET 6](https://amzn.to/3f3zlTh){:target="_blank"} on Amazon. 
 
 **Note**: I was a technical reviewer for this book.
 {: .notice--info}
