@@ -26,7 +26,7 @@ For the past 3 years I have been active with the .NET Foundation serving on the 
 
 I feel I am very well suited for the position.
 
-If you are on Twitter, you can follow the curated list of .NET Foundation Board of Directors 2022 Candidates [here](https://twitter.com/i/lists/1280532798072389633){:target="_blank"}.
+If you are on Twitter, you can follow the curated list of .NET Foundation Board of Directors 2022 Candidates [here](https://twitter.com/i/lists/1573087256981737472){:target="_blank"}.
 
 ## My Community Contributions
 
