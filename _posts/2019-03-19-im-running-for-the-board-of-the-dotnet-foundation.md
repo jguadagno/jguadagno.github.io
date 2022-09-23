@@ -5,6 +5,9 @@ date:   2019-03-19 14:35:20 -0700
 categories: News
 tags: 
   - .NET
+  - .NET Core
+  - dotnet
+  - Community
 ---
 
 ## About Me
