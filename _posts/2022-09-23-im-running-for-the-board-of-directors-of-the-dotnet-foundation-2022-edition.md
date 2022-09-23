@@ -1,7 +1,9 @@
 ---
 title: "I'm Running for the Board of the Directors of the DotNet Foundation - 2022 Edition"
 image: https://avatars3.githubusercontent.com/u/3209610?s=250
-date:   2022-09-23 07:37:20 -0700
+header:
+    og_image: /assets/images/posts/header/running-dotnet-foundation.png
+date:   2022-09-23 04:54:20 -0700
 categories: News
 tags: 
   - .NET
