@@ -12,11 +12,7 @@ tags:
   - Community
 ---
 
-## About Me
-
-I am a Microsoft Developer Service MVP. I have been an MVP since 2008. I have spoken at multiple conferences throughout the last ten years.
-
-![alt text](https://avatars3.githubusercontent.com/u/3209610?s=250 "Joseph Guadagno")
+I am a Microsoft Developer Service MVP, running for a Board of Directors position on the .NET Foundation. I have been an MVP since 2008. I have spoken at multiple conferences throughout the last ten years.
 
 ## Why I'm Running
 
