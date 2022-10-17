@@ -119,20 +119,74 @@
     "inPerson": "In Person"
   },
   {
-    "eventName": "C# Corner - India Tour",
+    "eventName": "C# Corner Conference 2022 - Delhi",
     "eventUrl": "https://conference.c-sharpcorner.com/",
-    "location": "India",
-    "eventStart": "2022-10-10T00:00:00",
-    "eventEnd": "2022-10-19T00:00:00",
+    "location": "Delhi, India",
+    "eventStart": "2022-10-14T00:00:00",
+    "eventEnd": "2022-10-15T00:00:00",
     "comments": "This event is a 6 day tour from Chennai to Delhi containing 4 one day conferences, Chennai (Oct 8th), Hyderabad (Oct 10), Mumbai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
+      {
+        "name": "Keynote",
+        "url": "",
+        "date": "2022-10-14T10:15:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
         "date": "2022-10-14T12:30:00",
-        "room": "",
+        "room": "Track 2",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Panel: Building Better Software",
+        "url": "",
+        "date": "2022-10-14T14:30:00",
+        "room": "Track 3",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Panel: Growth Mindset",
+        "url": "",
+        "date": "2022-10-14T15:30:00",
+        "room": "Track 3",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Keynote",
+        "url": "",
+        "date": "2022-10-15T10:15:00",
+        "room": "Track 2",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Panel: Growth Mindset",
+        "url": "",
+        "date": "2022-10-14T14:30:00",
+        "room": "Track 2",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Panel: Future of Cloud and Data",
+        "url": "",
+        "date": "2022-10-14T15:30:00",
+        "room": "Track 3",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false
@@ -149,6 +203,78 @@
     ],
     "timezone": "IST",
     "inPerson": "In Person"
+  },
+  {
+    "eventName": "C# Corner Conference 2022 - Chennai",
+    "eventUrl": "https://conference.c-sharpcorner.com/",
+    "location": "Chennai, India",
+    "eventStart": "2022-10-08T00:00:00",
+    "eventEnd": "2022-10-08T00:00:00",
+    "comments": "This event is a 6 day tour from Chennai to Delhi containing 4 one day conferences, Chennai (Oct 8th), Hyderabad (Oct 10), Mumbai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Keynote: Community",
+        "url": "",
+        "date": "2022-10-08T12:15:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ]
+  },
+  {
+    "eventName": "C# Corner Conference 2022 - Hyderabad",
+    "eventUrl": "https://conference.c-sharpcorner.com/",
+    "location": "Hyderabad, India",
+    "eventStart": "2022-10-10T00:00:00",
+    "eventEnd": "2022-10-10T00:00:00",
+    "comments": "This event is a 6 day tour from Chennai to Delhi containing 4 one day conferences, Chennai (Oct 8th), Hyderabad (Oct 10), Mumbai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Keynote: Technology Trends",
+        "url": "",
+        "date": "2022-10-10T10:15:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Keynote: Community",
+        "url": "",
+        "date": "2022-10-10T12:15:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ]
+  },
+  {
+    "eventName": "C# Corner Conference 2022 - Mumbai",
+    "eventUrl": "https://conference.c-sharpcorner.com/",
+    "location": "Mumbai, India",
+    "eventStart": "2022-10-12T00:00:00",
+    "eventEnd": "2022-10-12T00:00:00",
+    "comments": "This event is a 6 day tour from Chennai to Delhi containing 4 one day conferences, Chennai (Oct 8th), Hyderabad (Oct 10), Mumbai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Keynote: Community",
+        "url": "",
+        "date": "2022-10-12T12:15:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ]
   },
   {
     "eventName": "KCDC",
