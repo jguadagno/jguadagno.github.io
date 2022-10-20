@@ -28,9 +28,9 @@
         "isWorkshop": false
       },
       {
-        "name": "Communication is Hard. Make it better with Azure Communication Services",
-        "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
-        "date": "2022-12-06T10:00:00",
+        "name": "Scaling Your .NET Application Using Azure",
+        "url": "/presentations/scaling-your-dotnet-application-using-azure",
+        "date": "2022-12-06T09:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
