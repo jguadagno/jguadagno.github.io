@@ -14,6 +14,9 @@ tags:
 
 I am a Microsoft Developer Service MVP, running for a Board of Directors position on the .NET Foundation. I have been an MVP since 2008. I have spoken at multiple conferences throughout the last ten years.
 
+Thank you for electing me to the Board of Directors in 2022
+{: .notice--success}
+
 ## Why I'm Running
 
 For 20 years or so I have been in Software Development. During that time I have used many tools, languages, and technologies. I started out programming with a small book on QuickBASIC. I later moved on to Visual Basic for DOS. Windows then came along and I starting using Visual Basic for Windows, I then migrated to Visual Basic .NET and eventually ended up using Visual C#. I work as an Senior Engineering Director at Rocket Mortgage, based in Detroit, MI. I am a public speaker and present internationally on a lot of different [technology topics](https://www.josephguadagno.net/presentations/){:target="_blank"}.
