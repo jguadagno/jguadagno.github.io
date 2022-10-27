@@ -3,8 +3,8 @@ title: Building and Deploying a New Cloud App from Scratch
 isKeynote: false
 isRetired: false
 isWorkshop: true
-sourceUrl:
-powerPointUrl:  
+sourceUrl: https://github.com/jguadagno/app-from-scratch
+powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2182140&authkey=AAmtHvQJjCWQPjI
 youTubeId:
 youTubeCaption:
 sessionizeUrl: building-and-deploying-a-new-cloud-app-from-scratc/51051
@@ -22,8 +22,9 @@ and in case you need to change the infrastructure of your application.
 ## What We will Cover
 
 - Introduction to the Integrated Development Environment (IDE) – Visual Studio
-- C# Programming Language
-  - CSS? HTML?
+- C# Programming Language *Optional*
+  - CSS *Optional*
+  - HTML *Optional*
 - Nuget Packages
 - Application Development
   - Designing Models
@@ -45,7 +46,7 @@ and in case you need to change the infrastructure of your application.
     - Application Service
     - SQL Server
   - Create the GitHub Action to Deploy
-- Monitoring the Application
+- Monitoring the Application *Optional*
   - Azure Monitor Application Insights
   - Logging (SeriLog)
 
