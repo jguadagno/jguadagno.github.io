@@ -8,7 +8,7 @@ header:
 Joe Guadagno is a Senior Director of Engineering at Rocket Mortgage,
 the nation's largest mortgage lender based in Detroit, Michigan.
 He has been writing software for over 20 years, has been an active member of the .NET community,
-serving as a Microsoft MVP in .NET for more than ten years.
+serving on the .NET Foundation Board of Directors, and has been a Microsoft MVP in .NET for more than 13 years.
 At Rocket Mortgage, he leads five software development teams building and modernizing our internal services.
 He has spoken through the United States and international events on topics ranging from Microsoft .NET,
 Microsoft Azure, Ionic, Bootstrap, and many others.
