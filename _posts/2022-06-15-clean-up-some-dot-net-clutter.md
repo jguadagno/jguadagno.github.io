@@ -51,7 +51,7 @@ This will show you a list similar to the images above.
 If you are not ready to uninstall a particular version of the .NET SDK or Runtime, you can use the following command to see what would happen if you were to uninstall that version:
 
 ```powershell
-./dotnet-core-install dry-run
+./dotnet-core-uninstall dry-run
 ```
 
 ### Uninstall the .NET SDKs and Runtime
