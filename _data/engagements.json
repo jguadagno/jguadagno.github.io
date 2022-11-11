@@ -48,7 +48,7 @@
     "eventEnd": "2022-11-11T00:00:00",
     "comments": "In person and Virtual",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Debugging Tips and Tricks with JetBrains Rider",
@@ -71,7 +71,7 @@
     "eventEnd": "2022-11-11T00:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Building and Deploying a New Cloud App from Scratch",
