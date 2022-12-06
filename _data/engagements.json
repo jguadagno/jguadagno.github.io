@@ -7,7 +7,7 @@
     "eventEnd": "2022-12-09T17:00:00",
     "comments": "Register with code \u0027GUADAGNO50\u0027 for $50 off registration!",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Building and Deploying a New Cloud App from Scratch",
