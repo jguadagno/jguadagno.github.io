@@ -1,5 +1,37 @@
 [
   {
+    "eventName": "CodeMash",
+    "eventUrl": "https://www.codemash.org/",
+    "location": "Sandusky, OH",
+    "eventStart": "2023-01-10T09:00:00",
+    "eventEnd": "2023-01-13T17:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2023-01-13T08:30:00",
+        "room": "Zambezi",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Scaling Your .NET Application Using Azure",
+        "url": "/presentations/scaling-your-dotnet-application-using-azure",
+        "date": "2023-01-13T12:15:00",
+        "room": "Salon A",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "DEVintersection",
     "eventUrl": "https://www.devintersection.com/",
     "location": "Las Vegas, NV",
