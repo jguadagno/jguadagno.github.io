@@ -1,8 +1,8 @@
 # Installation Instructions
 
-This document contains the installation instructions for setting up and building this site locally.  It does not cover the create of the GitHub  site.[pages](https://pages.github.com/)
+This document contains the installation instructions for setting up and building this site locally.  It does not cover the creation of the GitHub [pages](https://pages.github.com/)  site.
 
-There are two ways to build and test the site locally.  The first is with [Docker](#running-with-docker) and the second is [running with Ruby](#running-locally-with-ruby). The first option on requires Docker to be installed on your local machine. The second option, requires installing Ruby on your machine and some other required tools. Both options required the [machine configuration](#machine-configuration) which creates a local environment variable to avoid committing keys and secrets.
+There are two ways to build and test the site locally.  The first way is with [Docker](#running-with-docker) and the second is running it [locally with Ruby](#running-locally-with-ruby). The first option on requires Docker to be installed on your local machine. The second option, requires installing Ruby on your machine and some other required tools. Both options required the [machine configuration](#machine-configuration) which creates a local environment variable to avoid committing keys and secrets.
 
 ## Machine Configuration
 
