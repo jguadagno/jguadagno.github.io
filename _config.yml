@@ -118,6 +118,9 @@ exclude:
   - runsiteindocker.ps1
   - dockerfile
   - .idea/
+  - .vscode/
+  - .devcontainer/
+  - .jekyll-metadata
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
