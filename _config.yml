@@ -95,7 +95,6 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
   - jekyll-include-cache
-  - jekyll-avatar
   - jemoji
 
 # Exclude from processing.
