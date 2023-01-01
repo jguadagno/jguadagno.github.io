@@ -1,7 +1,7 @@
 ---
 title: Introduction to Bootstrap
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2161577&amp;authkey=AJ7l_1_tBP_Uo28&amp;em=2
 sessionizeUrl: introduction_to_bootstrap/17929

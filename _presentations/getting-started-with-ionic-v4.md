@@ -1,7 +1,7 @@
 ---
 title: Getting Starting with Ionic v4
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2170187&amp;authkey=ANoJM7lWhlMxYm8&amp;em=2&amp;wdAr=1.7777777777777777
 level: 100

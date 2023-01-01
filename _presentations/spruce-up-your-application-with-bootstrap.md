@@ -1,7 +1,7 @@
 ---
 title: Spruce up your Application with Bootstrap
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl:
 powerPointUrl:
 level: 100

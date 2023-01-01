@@ -1,7 +1,7 @@
 ---
 title: Introduction to Bootstrap Components
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2169390&amp;authkey=APMTO4hOGwjEfqs&amp;em=2
 level: 200

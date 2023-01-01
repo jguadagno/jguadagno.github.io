@@ -1,7 +1,7 @@
 ---
 title: Making your application more responsive with Async
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2163686&authkey=AAGrjdSLlAzhA9w&em=2
 level: 300

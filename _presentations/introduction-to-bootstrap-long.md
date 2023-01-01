@@ -1,7 +1,7 @@
 ---
 title: Introduction to Bootstrap (Long)
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl:
 powerPointUrl:
 level: 200
