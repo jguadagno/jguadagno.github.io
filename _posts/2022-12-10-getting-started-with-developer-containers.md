@@ -121,7 +121,7 @@ Most of the other lines are specific to the type of template you chose, but are 
 | Section             | Description                                                                                                                     |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | `features`          | This is where you can add additional tools to your container. [More details](https://containers.dev/features){:target="_blank"} |
-| `forwardPosts`      | This is where you can forward ports from the container to your local machine.                                                   |
+| `forwardPorts`      | This is where you can forward ports from the container to your local machine.                                                   |
 | `postCreateCommand` | This is where you can run a script after the container is created.                                                              |
 | `customizations`    | This is where you can customize the instance of Visual Studio Code that will be used in the container.                          |
 
