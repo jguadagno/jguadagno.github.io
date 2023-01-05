@@ -1,5 +1,5 @@
 ---
-title: DevContainers: What are they and why do you need them?
+title: DevContainers. What are they and why do you need them?
 isKeynote: false
 isRetired: false
 sourceUrl: 
