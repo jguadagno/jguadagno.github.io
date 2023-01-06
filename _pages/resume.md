@@ -1,89 +1,58 @@
 ---
 title: Resume
-excerpt: 'For 20 years or so I have been in Software Development. During that time I have used many tools, languages, and technology. I started out programming with a small book on QuickBASIC. I later moved on to Visual Basic for DOS. Windows then came along and I starting using Visual Basic for Windows, I then migrated to Visual Basic .NET and eventually ended up using Visual C#. I work as a Director at Rocket Mortgage, based in Detroit, MI. I am a public speaker and present internationally on a lot of different technology topics, here is a list of the topics I present on https://www.josephguadagno.net/presentations/.  I have been recognized as a Microsoft MVP in .NET (since 2009), a Telerik Ninja, and a Friends of Red Gate program (since 2015).'
+excerpt: 'For 20 years or so I have been in Software Development.
+During that time, I have used many tools, languages, and technology.
+I started out programming with a small book on QuickBASIC.
+I later moved on to Visual Basic for DOS.
+Windows then came along and I starting to use Visual Basic for Windows.
+I then migrated to Visual Basic .NET and eventually ended up using Visual C#.
+I work as a Director at Rocket Mortgage, based in Detroit, MI.
+I am a public speaker and present internationally on a lot of different technology topics. here is a list of the topics I present on https://www.josephguadagno.net/presentations/.  I have been recognized as a Microsoft MVP in .NET (since 2009), a Telerik Ninja, and a Friends of Red Gate program (since 2015).'
 permalink: /resume/
 header:
     og_image: /assets/images/pages/resume.png
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "file-alt"
 ---
-**Joseph Guadagno**
-103 West Cedar Drive
-Chandler, AZ 85248
-
+Joseph Guadagno
 602-293-6767
-
 [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com)
-
-[https://www.josephguadagno.net](https://www.josephguadagno.net/)
-
-# Resume Sections
-
-- [Resume Sections](#resume-sections)
-  - [Experience](#experience)
-    - [Senior Director in Engineering](#senior-director-in-engineering)
-      - [Senior Director in Engineering - 1/2019 to Present](#senior-director-in-engineering---12019-to-present)
-      - [Team Leader – 1/2014 to 1/2019](#team-leader--12014-to-12019)
-      - [Software Architect – 8/2013 to 1/2014](#software-architect--82013-to-12014)
-    - [Senior Software Engineer](#senior-software-engineer)
-    - [Technology Lead/Technology Advisor](#technology-leadtechnology-advisor)
-      - [Technology Advisor](#technology-advisor)
-      - [Technology Lead](#technology-lead)
-        - [Technologies Used](#technologies-used)
-    - [Lead Software Developer](#lead-software-developer)
-        - [Technologies Used](#technologies-used-1)
-    - [Software Programmer Analyst](#software-programmer-analyst)
-        - [Technologies Used](#technologies-used-2)
-    - [Development Manager / Manager of Imaging Practice](#development-manager--manager-of-imaging-practice)
-      - [Development Manager and Manager of Imaging Practice](#development-manager-and-manager-of-imaging-practice)
-      - [Project Manager – 12/1998 to 7/2005](#project-manager--121998-to-72005)
-        - [Technologies Used](#technologies-used-3)
-      - [Technical Consultant – 12/1998 to 7/2005](#technical-consultant--121998-to-72005)
-        - [Technologies Used](#technologies-used-4)
-    - [Director of Technology](#director-of-technology)
-        - [Technologies Used](#technologies-used-5)
-    - [Vice President](#vice-president)
-        - [Technologies Used](#technologies-used-6)
-    - [Project Leader](#project-leader)
-        - [Technologies Used](#technologies-used-7)
-    - [Programmer](#programmer)
-        - [Technologies Used](#technologies-used-8)
-    - [Programmer](#programmer-1)
-        - [Technologies Used](#technologies-used-9)
-    - [Area Manager](#area-manager)
-        - [Technologies Used](#technologies-used-10)
-  - [Speaking Engagements/Presentations](#speaking-engagementspresentations)
-  - [Published Articles](#published-articles)
-  - [Community Work](#community-work)
-  - [Community Websites](#community-websites)
-  - [Affiliations, Awards and Certifications](#affiliations-awards-and-certifications)
-  - [Additional Information](#additional-information)
-  - [Resume in Word](#resume-in-word)
+{: .text-center}
 
 ## Experience
 
-### Senior Director in Engineering
+### Rocket Mortgage
 
-Rocket Mortgage - Detroit, MI
+Detroit, MI
 _8/2013 to Present_
 
 #### Senior Director in Engineering - 1/2019 to Present
 
-As a Director, I am responsible for the growth of the products I own and the growth of my teams along with their team members. I started in the position with 2 teams, 14 team members and three products. Our team has since grown to 5 teams, 55 people and over 15 products. The growth of about 400% of the team and products was done seamlessly through leadership and the work that was done to enable it. Along with my leadership team, we established some common processes to enable the stability of our applications with enabled us to grow. Some processes included on-boarding processes for new team members to ensure they had the right tools and processes to effectively do their role. We standardized on the deployment process across all our products, which includes change processes, documentation, and testing. This change process enabled the team to increase the number of deployments over 500% from the start of the year.
-
-I enabled and encouraged Team Member growth through training, we have quarterly team training goals to level up the team. Through experimentation, we frequently try new things to tweak/improve our processes including Mob Programming, Machine Learning, Reorganizing the teams based on projects and skill sets, and trying out new tools.
-
-I also be a fully remote, location-aware, team prior to Covid. My team members are split between two different offices (in two time zones) along with multiple time zones in the US. This remote team works well because of what is done to keep the team connected. We have &quot;fun rooms&quot; in Teams, life celebrations (new child, birthday, anniversary, etc.), theme weeks, and more.
-
-Outside of the &#39;day to day&#39; roles and responsibilities of being a Director, I also mentor other Directors and leaders looking to improve their skills set and advance in leadership. I am also an international public speaker, who speaks on multiple technology topics and active blogger. I also am active in the community to educate people and help with brand awareness.
+As a Senior Director, I am responsible for the growth of the products I own and the growth of my teams along with their team members. I started in the position with 2 teams, 14 team members and three products.  Our team has since grown to 5 teams, 55 people and over 15 products.  The growth of about 400% of the team and products was done seamlessly through leadership and the work that was done to enable it.  Along with my leadership team, we established some common processes to enable the stability of our applications with enabled us to grow.  Some processes included onboarding processes for new team members to ensure they had the right tools and processes to effectively do their role. We standardized on the deployment process across all our products, which includes change-processes, documentation, and testing. This change process enabled the team to increase the number of deployments over 500% from the start of the year.
+I enabled and encouraged Team Member growth through training. We have quarterly team training goals to level up the team. Through experimentation, we frequently try new things to tweak/improve our processes including Mob Programming, Machine Learning, Reorganizing the teams based on projects and skill sets, and trying out new tools.
+We have also been a fully remote, location-aware, team prior to Covid.  My team members are split between two different offices (in two time zones) along with multiple time zones in the US.  This remote team works well because of what is done to keep the team connected. We have "fun rooms" in Teams, life celebrations (new children, birthday, anniversary, etc.), theme weeks, and more.
+Outside the 'day to day' roles and responsibilities of being a Senior Director, I also mentor other Directors and leaders looking to improve their skill set and advance in leadership.  I am also an international public speaker, who speaks on multiple technology topics and an active blogger.  I also am active in the community to educate people and help with brand awareness.
 
 #### Team Leader – 1/2014 to 1/2019
 
 As a Team Leader, I lead a team of Business Analysts, Quality Assurance Engineers, Software Engineers, and a Software Architect to deliver several quality projects.
 
-My team built a service that allows our clients to automatically gather, with their permission, Asset, Income, and Income Tax data and forms from our partners to include in their mortgage application. For the work and creativity for this product I was awarded U.S. Patent #[10,042,949](https://jjg.me/patent)
+My team built a service that allows our clients to automatically gather, with their permission, Asset, Income, and Income Tax data and forms from our partners to include in their mortgage application. For the work and creativity for this product, I was awarded U.S. Patent #[10,042,949](https://jjg.me/patent)
 
 Another project was a new, reimagined, Sales Force automation system. This system was redesigned from the ground up to help our bankers&#39; collect data from our clients during the mortgage process. My tasks included: discovery, project estimation, application architecture, status reporting, and presentations on the progress of the project.
 
-Although not part of my day-to-day work, I participate on several virtual teams including the Open-Source Big Rock team. The Open-Source Big Rock team&#39;s goal was to get an open-source mind set at work, and to create a culture of being able to jump in and contribute code to projects and applications that you do not normally work on. I also help mentor other leaders, both new and seasoned. I do this by having one on ones with them where we talk about challenges we are having together. I also was part of the Technology Public Relations team as well as the .NET Interviewers team. I helped organize the Quicken Loans Technology conference for around 1200 team members. This conference had 3 tracks with 2 keynotes and 15 sessions. I also participate on a team to investigate the future and figure out what we need to do to make are systems and processes better for our clients and our team members.
+Although not part of my day-to-day work,
+I participate in several virtual teams, including the Open-Source Big Rock team.
+The Open-Source Big Rock team&#39;s goal was to get an open-source mind set at work,
+and to create a culture of being able to jump in and contribute code to projects and applications that you do not normally work on.
+I also help mentor other leaders, both new and seasoned.
+I do this by having one on ones with them where we talk about the challenges we are having together.
+I also was part of the Technology Public Relations team as well as the .NET Interviewers team.
+I helped organize the Quicken Loans Technology conference for around 1200 team members.
+This conference had 3 tracks with 2 keynotes and 15 sessions.
+I also participate in a team to investigate the future and figure out what we need
+to do to make are systems and processes better for our clients and our team members.
 
 #### Software Architect – 8/2013 to 1/2014
 
@@ -91,23 +60,32 @@ As a Software Architect, I was brought onto a net-new project that was being man
 
 I have provided several training events and presentations to fellow team&#39;s members on topics such as &quot;Debugging Applications&quot;, Twitter Bootstrap, ReSharper, and many more.
 
-### Senior Software Engineer
+### IO
 
-IO – Phoenix, AZ
+Phoenix, AZ
 _1/2013 to 8/2013_
+
+#### Senior Software Engineer
 
 As a Senior Software Engineer, I was tasked with doing research, design, and discovery for new features or products to add to the company&#39;s offerings. I was also tasked with research existing problems and looking for solutions to them. I presented at several &quot;Lunch and Learns&quot; to teach fellow software developers new technology.
 
 One of my other tasks was to help set the standard and best practices for development. This included improving the current software development standards documentation, establishing processes for software development, and choosing the right tools to help with the process.
 
-### Technology Lead/Technology Advisor
+### Wells Fargo
 
-Wells Fargo - Chandler, AZ
+Chandler, AZ
 _2006 to 1/2013_
 
 #### Technology Advisor
 
-As the Technology Advisor, I was charged with creating and implementing development coding standards, development best practices, and common development software for the Technology Operations group, approximately 400 developers. In addition, I acted as the internal developer evangelist for Microsoft development technologies. I provided several internal training classes on architecture and development for groups ranging from 5 – 200 people. I was tasked as a &quot;hired gun&quot; to join troubled projects to fix them up and/or help projects that were stumped with implementation or integration technologies. I implemented an internal NuGet server for common and internal libraries.
+As the Technology Advisor, I was charged with creating and implementing development coding standards,
+development best practices, and common development software for the Technology Operations group,
+approximately four hundred developers.
+In addition, I acted as the internal developer evangelist for Microsoft development technologies.
+I provided several internal training classes on architecture and development for groups ranging from 5 to 200 people.
+I was tasked as a &quot;hired gun&quot;
+to join troubled projects to fix them up and/or help projects that were stumped with implementation or integration technologies.
+I implemented an internal NuGet server for common and internal libraries.
 
 #### Technology Lead
 
@@ -135,10 +113,12 @@ Created custom CodeSmith templates, a CodeSmith SQLite schema provider, and a Co
 
 C#, SQL Server 2008, Windows Services, Entity Framework, Team Foundation Server (TFS), Visual Studio, jQuery, jQueryUi, Telerik Controls, NHibernate, ELMAH, WCF, Log4Net, Custom Threading Library, Custom TCP/IP messaging, CodeSmith, NUnit, SQLite, Oracle, Custom CodeSmith Schema Provider. Rational ClearQuest, Rational ClearCase, Nuget, Red Gate SQL Toolbelt.
 
-### Lead Software Developer
+### Intel Corporation
 
-Intel Corporation – Chandler, AZ
+Chandler, AZ
 _1/2006 to 6/2006_
+
+#### Lead Software Developer
 
 As part of the Flex Services Technical Operations team (TechOps), I was tasked to improve the performance and reliability of one of Flex Services internal billing sites. This web site supported 600 users across the globe. Application performance was dramatically improved (search speeds when from 3 minutes for 600 records to 3-17 seconds for 1200 records), page load times when from 45-60 to about 5 seconds. The user interface was also improved dramatically be using Ajax technology to dynamically load pages (or sections of) when needed. The security, menu and database interfaces were improved. I was also tasked with reviewing third party developed code to ensure it was following general programming requirements and design.
 
@@ -148,10 +128,12 @@ I also created a dynamic reporting application, which used reflection to see a l
 
 ASP.NET, C#, IIS6, Microsoft SQL Server 2000, Microsoft SQL Server 2005, Microsoft SQL Server Reporting Services, Microsoft Excel, Ajax Professional.NET, Infragistics NetVantage, ComponentArt WebUI.
 
-### Software Programmer Analyst
+### Express Scripts
 
-Express Scripts – Tempe, AZ
+Tempe, AZ
 _7/2005 to 1/2006_
+
+#### Software Programmer Analyst
 
 As part of the Tempe Application Development group for Express Scripts, Inc., I was tasked to help clean up the development processes and help support their existing applications.
 
@@ -174,9 +156,9 @@ Some of the accomplishments that I achieved during this time frame include:
 
 Visual Basic 6.0, Visual Basic.NET, Microsoft SQL Server 2000, Microsoft SQL Server 2005, Oracle 9.0i, Microsoft Excel, Microsoft Access, Microsoft SQL Server Reporting Services, Microsoft Visual SourceSafe, Crystal Reports.
 
-### Development Manager / Manager of Imaging Practice
+### Guardian Life Insurance
 
-Guardian Life Insurance – New York, NY
+New York, NY
 _12/1998 to 7/2005_
 
 #### Development Manager and Manager of Imaging Practice
@@ -197,7 +179,9 @@ Some of the accomplishments I achieved while being the manager of the imaging pr
 - Created a Forms Design Guidelines for Visual Basic development in user at the Guardian
 - Served as a member of the Enterprise Architecture team to create a framework for the company using .NET technologies.
 
-#### Project Manager – 12/1998 to 7/2005
+#### Project Manager
+
+From _12/1998 to 7/2005_
 
 I managed a project for Guardian&#39;s Individual Market profit center. This application was designed to enable for faster underwriting of the insurance applications. This was accomplished by having the agencies scan or fax in their application to our capture system which in term indexed them for storage in the FileNet repository. I was responsible for getting the project approved, designed, developed, implemented, and supported. The project team consisted of 4 developers, 1 DBA, 1 system administrator, and me. I managed this project from end to end.
 
@@ -207,7 +191,9 @@ I started on the team as the lead developer, but I quickly became the project ma
 
 Microsoft Visual Basic, Microsoft ASP, Microsoft VBA, FileNet SDK, Desaware NT Service Toolkit, OCR for AnyDoc, DCOM, Accusoft ImageGear, XML.Visual Basic 5.0 – 6.0, Microsoft InterDev, FileNet IDMIS, Datacap 2000, Microsoft Ado, Oracle 8.0.5, Windows Scripting Host, IIS 4.0, Active Server Pages, HTML, Dynamic HTML, ASP, Accusoft ImageGear, Digital Certificates, COM, DCOM, XML, and NT services.
 
-#### Technical Consultant – 12/1998 to 7/2005
+#### Technical Consultant
+
+From _12/1998 to 7/2005_
 
 I served as an imaging consultant for the Guardian Life Insurance Company &amp; Berkshire Life Insurance Company merger. I helped Berkshire Life Insurance with recommendations for their design of the imaging and workflow application. Project Life Cycle: Full Life Cycle.
 
@@ -219,10 +205,12 @@ I also worked on the Online Electronic Forms Repository project. For this projec
 
 Microsoft InterDev, ASP, Microsoft Ado, UDB, IIS 4.0, Active Server Pages, and HTML.
 
-### Director of Technology
+### DeBari Associates
 
-DeBari Associates – New York, NY
+New York, NY
 _4/1998 to 10/1998_
+
+#### Director of Technology
 
 I managed the technical staff that consisted of six programmers, 2 network administrators, and 3 interns. Part of my responsibilities included managing all in house development, approximately 5-6 projects a month. These projects were custom designed document imaging projects. Documents are scanned, then &quot;coded&quot; using the scanned image. We then created a custom export application for the clients to use with their document system. Other duties included the interviewing of prospective candidates and terminating employees. I was also responsible for the computer network that consisted of over 300 computers both in New York and the country of St. Vincent. I also maintained client contact to ensure the data that we were providing them was accurate.
 
@@ -230,10 +218,12 @@ I managed the technical staff that consisted of six programmers, 2 network admin
 
 Visual Basic 3-6, Microsoft Access, Microsoft Word, Microsoft FrontPage, Microsoft ADO, Microsoft RDO, Microsoft DAO, ODBC, Microsoft SQL Server, Kofax Imaging, Caere OCR, Seagate Crystal Reports. Microsoft Project and Microsoft Team Manager.
 
-### Vice President
+### Bear Stearns
 
-Bear Stearns – New York, NY
+New York, NY
 _12/1997 to 3/1998_
+
+#### Vice President
 
 I managed the development of all 15 projects that the group created; part of my responsibilities included the managing of the developers on these projects, attending several weekly project status meetings and new development/project meetings, and holding monthly code reviews. I created several graphical custom controls for this organization and a project documenting utility add-in.
 
@@ -241,10 +231,12 @@ I managed the development of all 15 projects that the group created; part of my 
 
 Visual Basic 5.0, ADO, AS/400
 
-### Project Leader
+### Lehrer McGovern Bovis
 
-Lehrer McGovern Bovis – New York, NY
+New York, NY
 _6/1996 to 12/1997_
+
+#### Project Leader
 
 American Museum of Natural History, New York, NY. Project Leader, 7/97 to 12/97. I served as the primary developer and contact to build a totally customizable project tracking system for the museum. The application included familiar Windows interfaces, such as the Explorer and &quot;hot tracking&quot;. Project Life Cycle: Through development.
 
@@ -256,10 +248,12 @@ Princeton University, Princeton, NJ. Project Manager, 9/96 to 12/97. I visited w
 
 Visual Basic 5.0, ADO, Erwin, Microsoft Project, and Crystal Reports. Visual Basic 5.0, ADO, VBSQL, SQL Server, Wise Installation, Microsoft Project, Microsoft Word, Microsoft Excel, Crystal Reports. Visual Basic 4.0, DAO, Microsoft Access, and Crystal Reports.
 
-### Programmer
+### Norwood Computer Services
 
-Norwood Computer Services – Hicksville, NY
+Hicksville, NY
 _6/1995 to 6/1996_
+
+#### Programmer
 
 Norwood Computer Services, Hicksville, NY. Programmer Analyst, 6/95 to 6/96. I developed and implemented their payroll and invoicing system. This system included interaction with Microsoft Word, Microsoft Excel, MAS 90, and Advance Software to create many different reports. The system included transactions with accounts payable, accounts receivable and general ledger. Project Life Cycle: Full Life Cycle
 
@@ -269,10 +263,12 @@ Norwood Computer Services, Hicksville, NY. Network Administrator. 6/95 to 6/96. 
 
 Visual Basic 3.0, Crystal Reports, Microsoft Access, Sybase, FoxPro, and MAS90. Windows NT 3.51, Novell NetWare 2.1, Ascend Communications, and ISDN.
 
-### Programmer
+### Patriot Computer Services
 
-Patriot Computer Services – Queens, NY
+Queens, NY
 _2/1991 to 2/1993_
+
+#### Programmer
 
 I was responsible for creating a real estate database system that tracked available apartments and rented apartments. It maintained a list of upcoming apartments and the managers of these apartments.
 
@@ -280,10 +276,12 @@ I was responsible for creating a real estate database system that tracked availa
 
 QuickBASIC
 
-### Area Manager
+### RGIS Inventory Specialist
 
-RGIS Inventory Specialist – Westbury, NY
+Westbury, NY
 _12/1987 to 6/1995_
+
+#### Area Manager
 
 I developed a time sheet and invoicing system. This system was used to bill over 100,000 customers a year.
 
