@@ -1,5 +1,5 @@
 ﻿---
-title: "Getting Started with Developer Containers"
+title: "Getting Started with Dev Containers"
 header:
 og_image: /assets/images/posts/header/dev-containers.png
 date: 2022-12-10 15:50:00 -0700
@@ -12,27 +12,27 @@ tags:
 ---
 
 Recently,
-I attended a session at [DEVIntersections](https://devintersection.com/){:target="_blank"} on [Developer Containers](https://code.visualstudio.com/docs/remote/containers){:target="_blank"}
+I attended a session at [DEVIntersections](https://devintersection.com/){:target="_blank"} on [Dev Containers](https://code.visualstudio.com/docs/remote/containers){:target="_blank"}
 presented by [Burke Holland](https://twitter.com/burkeholland){:target="_blank"}.
-Prior to attending the session, I knew of Developer Containers but didn't understand them.
-This session helped me understand what they are and how to use them. 
+Prior to attending the session, I knew of Development Containers, or Dev Containers for short, but didn't understand them.
+This session helped me understand what they are and how to use them.
 I figured that I would share what I learned with you.
 
-## What are Developer Containers?
+## What are Dev Containers?
 
-According to the [Developers Containers](https://container.dev/){:target="_blank"} website, developer containers are:
+According to the [Development Containers](https://containers.dev/){:target="_blank"} website, developer containers are:
 
-A Development Container (or Dev Container for short) allows you to use a container as a full-featured development environment. It can be used to run an application, to separate tools, libraries, or runtimes needed for working with a codebase, and to aid in continuous integration and testing. Dev containers can be run locally or remotely, in a private or public cloud.
+A Development Container (or Dev Container for short) allows you to use a container as a full-featured development environment. It can be used to run an application, to separate tools, libraries, or run times needed for working with a codebase, and to aid in continuous integration and testing. Development Containers can be run locally or remotely, in a private or public cloud.
 {: .notice--info}
 
 Ok, so basically,
-a developer container uses docker behind the scenes to create your development environment, so you don't have to.
+a development container uses Docker behind the scenes to create your development environment, so you don't have to.
 Because I do a lot of presentations and demos using different languages and frameworks, it will allow me to have a cleaner machine,
 plus be able to work on multiple projects at the same time without having to worry about if I have the correct version of a language or framework installed.
 
 ## Getting Started
 
-You need three things to get started with developer containers:
+You need three things to get started with development containers:
 
 - [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
 - [Docker](https://www.docker.com/){:target="_blank"} or another container engine
