@@ -7,7 +7,7 @@
     "eventEnd": "2023-01-13T17:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Application Architecture Patterns",
