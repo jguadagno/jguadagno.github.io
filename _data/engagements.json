@@ -1,5 +1,28 @@
 [
   {
+    "eventName": "Greater Lansing User Group for .NET Developers",
+    "eventUrl": "https://www.meetup.com/glugnet/events/jgqtbtyfcjbtb/",
+    "location": "Virtual",
+    "eventStart": "2023-06-15T18:00:00",
+    "eventEnd": "2023-06-15T19:30:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Scaling Your .NET Application Using Azure",
+        "url": "/presentations/write-uno-time-run-everywhere-with-the-uno-platform",
+        "date": "2023-06-15T18:00:00",
+        "room": "Virtual",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "EST",
+    "inPerson": "Virtual"
+  },
+  {
     "eventName": "Global App Dev User Group",
     "eventUrl": "https://globalappdevusergroup.com/",
     "location": "Virtual",
@@ -20,7 +43,7 @@
       }
     ],
     "timezone": "EST",
-    "inPerson": "In Person"
+    "inPerson": "Virtual"
   },
   {
     "eventName": "CodeMash",
