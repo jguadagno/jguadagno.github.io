@@ -16,7 +16,8 @@
 	],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "sh .devcontainer/post-create.sh",
+	// Note: The post-create.sh script is copied into the container at build time.
+	"postCreateCommand": "sh /usr/local/post-create.sh",
 
 	// Configure tool-specific properties.
 	"customizations": {
@@ -26,8 +27,8 @@
 				"DavidAnson.vscode-markdownlint", 
 				"bierner.markdown-emoji",
 				"streetsidesoftware.code-spell-checker",
-				"GitHub.copilot",
-				"bierner.markdown-preview-github-styles"
+				"bierner.markdown-preview-github-styles", 
+				"Github.copilot"
 			]
 		}
 	},
@@ -37,5 +38,5 @@
 	},
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	"remoteUser": "root"
+	"remoteUser": "vscode"
 }
