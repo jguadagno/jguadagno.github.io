@@ -1,23 +1,18 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
 {
-	"name": "JosephGuadagno.NET",
-	"image": "mcr.microsoft.com/devcontainers/jekyll:0-buster",
+	"name": "Jekyll",
+	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+	"image": "mcr.microsoft.com/devcontainers/jekyll:0-bullseye",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts": [
-		// Jekyll server
-		4000,
-		// Live reload server
-		35729
-	],
+	"forwardPorts": [4000],
 
-	// Use 'postCreateCommand' to run commands after the container is created.
-	// Note: The post-create.sh script is copied into the container at build time.
-	"postCreateCommand": "sh /usr/local/post-create.sh",
+	// Uncomment the next line to run commands after the container is created.
+	// "postCreateCommand": "jekyll --version"
 
 	// Configure tool-specific properties.
 	"customizations": {
@@ -35,8 +30,8 @@
 
 	"containerEnv": {
 		"JEKYLL_GITHUB_TOKEN": "${localEnv:JEKYLL_GITHUB_TOKEN}"
-	},
+	}
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	"remoteUser": "vscode"
+	// "remoteUser": "root"
 }
