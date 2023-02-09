@@ -165,7 +165,6 @@ paginate_path: /page:num/
 
 logo: "/assets/icons/android-chrome-96x96.png"
 bing_site_verification: "7EC9949296748CD8737FFF69FC74B369"
-google_analytics: UA-2998428-1
 head_scripts:
   - /assets/js/ai.js
   - /assets/js/clarity.js
@@ -189,9 +188,9 @@ facebook:
 
 # Analytics
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
-    tracking_id: "UA-2998428-1"
+    tracking_id: "G-HKYKNTCV88"
     anonymize_ip: false # default
 
 # comments:
