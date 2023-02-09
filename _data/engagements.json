@@ -1,5 +1,28 @@
 [
   {
+    "eventName": "NDC Oslo",
+    "eventUrl": "https://ndcoslo.com/",
+    "location": "Oslo, Norway",
+    "eventStart": "2023-05-22T09:00:00",
+    "eventEnd": "2023-05-26T17:20:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Dev Containers. What are they and why do you need them?",
+        "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
+        "date": "2023-05-24T16:20:00",
+        "room": "Room 5",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "UTC+2",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "Greater Lansing User Group for .NET Developers",
     "eventUrl": "https://www.meetup.com/glugnet/events/jgqtbtyfcjbtb/",
     "location": "Virtual",
