@@ -53,7 +53,7 @@
     "eventEnd": "2023-02-20T19:30:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Scaling Your .NET Application Using Azure",
