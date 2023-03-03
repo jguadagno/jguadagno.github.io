@@ -53,7 +53,7 @@
     "eventEnd": "2023-03-02T20:30:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Look into your Application with Azure AppInsights",
