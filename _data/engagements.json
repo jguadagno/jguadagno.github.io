@@ -23,6 +23,29 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "abp DOTNET CONF '23",
+    "eventUrl": "https://abp.io/conference",
+    "location": "Virtual",
+    "eventStart": "2023-05-10T05:00:00",
+    "eventEnd": "2023-05-10T13:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "",
+        "room": "Virtual",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "UTC+2",
+    "inPerson": "Virtual"
+  },
+  {
     "eventName": "Greater Lansing User Group for .NET Developers",
     "eventUrl": "https://www.meetup.com/glugnet/events/jgqtbtyfcjbtb/",
     "location": "Virtual",
