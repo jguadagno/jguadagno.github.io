@@ -14,7 +14,7 @@ tags:
   - MVC
   - Web
 ---
-Since I got bitten by the CI/CD bug, I've been looking at ways to clean up some code-bases and make it easier to deploy and store less *unneeded* files in my repositories.  This time around it got me looking into {:target="_blank"}
+Since I got bitten by the CI/CD bug, I've been looking at ways to clean up some code-bases and make it easier to deploy and store less *unneeded* files in my repositories.  This time around it got me looking into [Yarn](https://yarnpkg.com/) {:target="_blank"}
 
 > Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.
 
