@@ -1,5 +1,28 @@
 [
   {
+    "eventName": "ESPC23 - European SharePoint, Office 365 & Azure Conference",
+    "eventUrl": "https://www.sharepointeurope.com/",
+    "location": "Amsterdam, Netherlands",
+    "eventStart": "2023-11-27T09:00:00",
+    "eventEnd": "2023-11-30T17:20:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Using Azure Key Vault to Protect Your Application Secrets",
+        "url": "/presentations/using-azure-key-vault-to-protect-your-application-secrets",
+        "date": "2023-11-29T11:45:00",
+        "room": "E105-E106",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "WEST (UTC+1)",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "NDC Oslo",
     "eventUrl": "https://ndcoslo.com/",
     "location": "Oslo, Norway",
