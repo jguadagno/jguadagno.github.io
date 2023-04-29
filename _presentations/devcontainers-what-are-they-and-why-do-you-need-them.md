@@ -3,7 +3,7 @@ title: Dev Containers. What are they and why do you need them?
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2185369
+powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2185369&authkey=AJtNP-QqXFzZXJ8&em=2
 sessionizeUrl: devcontainers.-what-are-they-and-why-do-you-need-t/61384
 youTubeId: 
 youTubeCaption: 
