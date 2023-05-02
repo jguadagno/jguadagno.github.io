@@ -46,6 +46,29 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "DevDays Europe 2023",
+    "eventUrl": "https://devdays.lt/",
+    "location": "Virtual and Vilnius, Lithuania",
+    "eventStart": "2023-05-23T09:00:00",
+    "eventEnd": "2023-05-26T17:20:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Scaling Your .NET Application Using Azure",
+        "url": "/presentations/scaling-your-dotnet-application-using-azure",
+        "date": "2023-05-24T14:40:00",
+        "room": "Stage 6",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "UTC+2",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "Stir Trek 2023",
     "eventUrl": "https://stirtrek.com/",
     "location": "Columbus, OH",
