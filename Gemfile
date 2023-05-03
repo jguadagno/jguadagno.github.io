@@ -32,3 +32,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Override packages because a vulnerabilities
 gem "faraday", "~> 2.7.1"
+
+# Needed as a dependency with Ruby 3.0 or higher
+gem "webrick"
