@@ -99,7 +99,7 @@
     "eventEnd": "2023-05-10T13:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Application Architecture Patterns",
