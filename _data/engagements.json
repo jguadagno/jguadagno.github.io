@@ -23,6 +23,38 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "TechBash",
+    "eventUrl": "https://techbash.com/",
+    "location": "Pocono Mountains, PA",
+    "eventStart": "2023-11-07T00:00:00",
+    "eventEnd": "2023-11-10T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Using Azure Key Vault to Protect Your Application Secrets",
+        "url": "/presentations/using-azure-key-vault-to-protect-your-application-secrets",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Dev Containers. What are they and why do you need them?",
+        "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "NDC Oslo",
     "eventUrl": "https://ndcoslo.com/",
     "location": "Oslo, Norway",
