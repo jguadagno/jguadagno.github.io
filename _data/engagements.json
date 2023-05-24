@@ -97,6 +97,29 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "Code Quality Conference 2023",
+    "eventUrl": "https://codequalityconf.com/",
+    "location": "Virtual",
+    "eventStart": "2023-06-02T10:00:00",
+    "eventEnd": "2023-06-02T15:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2023-06-02T10:10:00",
+        "room": "Virtual",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "EST (UTC -5)",
+    "inPerson": "Virtual"
+  },
+  {
     "eventName": "NDC Oslo",
     "eventUrl": "https://ndcoslo.com/",
     "location": "Oslo, Norway",
@@ -104,7 +127,7 @@
     "eventEnd": "2023-05-26T17:20:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Dev Containers. What are they and why do you need them?",
@@ -127,7 +150,7 @@
     "eventEnd": "2023-05-26T17:20:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Scaling Your .NET Application Using Azure",
