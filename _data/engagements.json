@@ -104,7 +104,7 @@
     "eventEnd": "2023-06-02T15:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": false,
+    "isCurrent": true,
     "presentation": [
       {
         "name": "Application Architecture Patterns",
