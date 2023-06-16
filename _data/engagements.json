@@ -234,7 +234,7 @@
     "eventEnd": "2023-06-15T19:30:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Write Uno Time, Run Everywhere with the Uno Platform",
