@@ -55,6 +55,21 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "C# Corner Conference 2023",
+    "eventUrl": "https://conference.c-sharpcorner.com/",
+    "location": "Delhi, India",
+    "eventStart": "2023-10-13T00:00:00",
+    "eventEnd": "2023-10-14T00:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+
+    ],
+    "timezone": "IST",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "Developers Conference 2023",
     "eventUrl": "https://2023.mscc.mu",
     "location": "Port Louis, Mauritius",
