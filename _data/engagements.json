@@ -82,8 +82,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "",
-        "room": "",
+        "date": "2023-07-22T13:00",
+        "room": "Andromeda",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false
@@ -91,8 +91,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "",
-        "room": "",
+        "date": "2023-07-20T12:00",
+        "room": "Andromeda",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false
@@ -100,13 +100,21 @@
       {
         "name": "Write Uno Time, Run Everywhere with the Uno Platform",
         "url": "/presentations/write-uno-time-run-everywhere-with-the-uno-platform",
-        "date": "",
-        "room": "",
+        "date": "2023-07-20T15:00",
+        "room": "Titan",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false
+      },
+      {
+        "name": "Panel Discussion: Data Privacy, Protection & Governance",
+        "url": "/presentations/write-uno-time-run-everywhere-with-the-uno-platform",
+        "date": "2023-07-22T10:00",
+        "room": "Andromeda",
+        "comments": "I will be one of a few panelists",
+        "isCanceled": false,
+        "isWorkshop": false
       }
-
     ],
     "timezone": "Mauritius Standard Time (UTC+4)",
     "inPerson": "In Person"
