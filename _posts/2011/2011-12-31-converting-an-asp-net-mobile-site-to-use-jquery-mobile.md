@@ -10,7 +10,7 @@ tags:
   - jQuery
   - Web
 ---
-Building upon my previous post [Introduction to jQuery Mobile]({% link _posts/2011-12-31-introduction-to-jquery-mobile.md %}), I wanted to share how I converted the [Microsoft Global MVP Summit mobile](https://www.mvpsummitevents.info/m/default.aspx){:target="_blank"} site to use [jQuery Mobile](https://jquerymobile.com/){:target="_blank"}.
+Building upon my previous post [Introduction to jQuery Mobile]({% link _posts/2011/2011-12-31-introduction-to-jquery-mobile.md %}), I wanted to share how I converted the [Microsoft Global MVP Summit mobile](https://www.mvpsummitevents.info/m/default.aspx){:target="_blank"} site to use [jQuery Mobile](https://jquerymobile.com/){:target="_blank"}.
 
 ## Getting Started
 

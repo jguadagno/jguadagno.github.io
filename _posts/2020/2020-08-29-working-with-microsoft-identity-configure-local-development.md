@@ -13,13 +13,13 @@ tags:
 ---
 Securing our applications and data is critical in this day and age.  I've been working a lot with the new [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}  (MSAL) library, so I decided to create a series of blog posts around working with it.
 
-* [Register an application]({% link _posts/2020-08-29-working-with-microsoft-identity-registering-an-application.md %}).
+* [Register an application]({% link _posts/2020/2020-08-29-working-with-microsoft-identity-registering-an-application.md %}).
 * Configure Local Development (this post)
-* [Assigning a Role]({% link _posts/2020-08-29-working-with-microsoft-identity-assigning-a-role.md %})
+* [Assigning a Role]({% link _posts/2020/2020-08-29-working-with-microsoft-identity-assigning-a-role.md %})
 
 ## Using Environment Variable
 
-Your setup may vary depending on the IDE you are using, Visual Studio, JetBrains Rider, IntelliJ, Visual Studio Code, etc.  I'm going to show you how to set up your *Environment* variables to use the `DefaultAzureCredentials`.  For this, you will need the Application (Client) ID, Directory (Tenant) ID, and Client Secret (password) obtained from registering your application with the Azure portal.  If you need to register an application, check out the post [Register an application]({% link _posts/2020-08-29-working-with-microsoft-identity-registering-an-application.md %}).
+Your setup may vary depending on the IDE you are using, Visual Studio, JetBrains Rider, IntelliJ, Visual Studio Code, etc.  I'm going to show you how to set up your *Environment* variables to use the `DefaultAzureCredentials`.  For this, you will need the Application (Client) ID, Directory (Tenant) ID, and Client Secret (password) obtained from registering your application with the Azure portal.  If you need to register an application, check out the post [Register an application]({% link _posts/2020/2020-08-29-working-with-microsoft-identity-registering-an-application.md %}).
 
 ### Windows
 

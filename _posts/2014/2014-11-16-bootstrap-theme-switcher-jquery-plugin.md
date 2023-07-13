@@ -14,7 +14,7 @@ tags:
   - Theme
   - Twitter Bootstrap
 ---
-A few months ago a published an article on a [Bootstrap Theme Switcher]({% link _posts/2014-05-24-bootstrap-theme-switcher.md %}). I've since approved this post and the JavaScript and turned it into a jQuery plugin. This plugin works with the [Bootswatch](https://www.bootswatch.com) {:target="_blank"} [API](https://bootswatch.com/help/#api){:target="_blank"} to provide the user with the following:
+A few months ago a published an article on a [Bootstrap Theme Switcher]({% link _posts/2014/2014-05-24-bootstrap-theme-switcher.md %}). I've since approved this post and the JavaScript and turned it into a jQuery plugin. This plugin works with the [Bootswatch](https://www.bootswatch.com) {:target="_blank"} [API](https://bootswatch.com/help/#api){:target="_blank"} to provide the user with the following:
 
 * Loads a list of available themes from the API into a SELECT or a UL,
 * Dynamically change the site theme to the selected theme

@@ -319,7 +319,7 @@ Outside of the initial changes to `MsalConfig.ts`, you shouldn't have to change 
 
 ### Create the Azure Client Application
 
-I've covered how to register/create an application in Azure before. If you haven't done this before, check out '[Working with Microsoft Identity - Registering an Application]({% link _posts/2020-08-29-working-with-microsoft-identity-registering-an-application.md %})'
+I've covered how to register/create an application in Azure before. If you haven't done this before, check out '[Working with Microsoft Identity - Registering an Application]({% link _posts/2020/2020-08-29-working-with-microsoft-identity-registering-an-application.md %})'
 
 Once you created the application, update `Contacts\msal\MsalConfig.ts` with the correct client id.
 

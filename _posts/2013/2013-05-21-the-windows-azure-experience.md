@@ -17,10 +17,10 @@ A few weeks ago, I embarked on a task to move one of my sites from a traditional
 
 This blog post is the first in a few that will talk about the different parts of the overall "Migration”
 
-* [Part 1: Creating the Account]({% link _posts/2013-05-23-windows-azure-experience-part-1-creating-the-account.md %})
-* [Part 2: Management Portal]({% link _posts/2013-05-23-windows-azure-experience-part-2-management-portal.md %})
-* [Part 3: Creating the Web Site]({% link _posts/2013-05-23-windows-azure-experience-part-3-creating-the-web-site.md %})
-* [Part 4: Customizing the Web Site]({% link _posts/2013-05-23-windows-azure-experience-part-4-customizing-the-web-site.md %})
+* [Part 1: Creating the Account]({% link _posts/2013/2013-05-23-windows-azure-experience-part-1-creating-the-account.md %})
+* [Part 2: Management Portal]({% link _posts/2013/2013-05-23-windows-azure-experience-part-2-management-portal.md %})
+* [Part 3: Creating the Web Site]({% link _posts/2013/2013-05-23-windows-azure-experience-part-3-creating-the-web-site.md %})
+* [Part 4: Customizing the Web Site]({% link _posts/2013/2013-05-23-windows-azure-experience-part-4-customizing-the-web-site.md %})
 * Part 5: The Database
 * Part 6: Publishing
 * Part 7: Subdomains

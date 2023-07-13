@@ -14,8 +14,8 @@ tags:
 Securing our applications and data is critical in this day and age.  I've been working a lot with the new [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}  (MSAL) library, so I decided to create a series of blog posts around working with it.
 
 * Register an application (this post)
-* [Configure Local Development]({% link _posts/2020-08-29-working-with-microsoft-identity-configure-local-development.md  %})
-* [Assigning a Role]({% link _posts/2020-08-29-working-with-microsoft-identity-assigning-a-role.md %})
+* [Configure Local Development]({% link _posts/2020/2020-08-29-working-with-microsoft-identity-configure-local-development.md  %})
+* [Assigning a Role]({% link _posts/2020/2020-08-29-working-with-microsoft-identity-assigning-a-role.md %})
 
 I've been following the pattern of creating a dedicated *test* application to validate that everything works locally. By *Application*, I don't mean an executable or javascript application, I mean [registering an application with the Microsoft Identity Platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
 
@@ -113,4 +113,4 @@ You will be presented with the information around the application.  Copy down th
 
 ## Next Steps
 
-The next step would be to [configure your workstation]({% link _posts/2020-08-29-working-with-microsoft-identity-configure-local-development.md %}) to use the *credentials* of the newly registered application.
+The next step would be to [configure your workstation]({% link _posts/2020/2020-08-29-working-with-microsoft-identity-configure-local-development.md %}) to use the *credentials* of the newly registered application.

@@ -12,7 +12,7 @@ tags:
   - Windows Azure
 ---
 
-This Part 3 of a [series of posts]({% link _posts/2013-05-21-the-windows-azure-experience.md %}) about my “upgrade” to Windows Azure. Next up in the series is creating the Windows Azure [Web Site](https://www.windowsazure.com/en-us/manage/services/web-sites/){:target="_blank"}.
+This Part 3 of a [series of posts]({% link _posts/2013/2013-05-21-the-windows-azure-experience.md %}) about my “upgrade” to Windows Azure. Next up in the series is creating the Windows Azure [Web Site](https://www.windowsazure.com/en-us/manage/services/web-sites/){:target="_blank"}.
 
 **Note:** This blog post is based on the Preview version of Windows Azure Web Sites and might, change in the future. To get create a new Web Site from the management portal you simply need to click on the **+ New** button.
 {: .notice--info }

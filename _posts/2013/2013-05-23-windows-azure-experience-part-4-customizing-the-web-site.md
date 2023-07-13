@@ -12,7 +12,7 @@ tags:
   - Windows Azure
 ---
 
-This Part 4 of a [series of posts]({% link _posts/2013-05-21-the-windows-azure-experience.md %}) about my “upgrade” to Windows Azure. Next up in the series is customizing the Windows Azure [Web Site](https://www.windowsazure.com/en-us/manage/services/web-sites/){:target="_blank"}.
+This Part 4 of a [series of posts]({% link _posts/2013/2013-05-21-the-windows-azure-experience.md %}) about my “upgrade” to Windows Azure. Next up in the series is customizing the Windows Azure [Web Site](https://www.windowsazure.com/en-us/manage/services/web-sites/){:target="_blank"}.
 
 **Note:** This blog post is based on the Preview version of Windows Azure Web Sites and might change in the future.
 {: .notice--info}
