@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 Let's take a look at how you can set up and configure Azure Key Vault to store Code Signing Certificates
 <!--more-->
 
-In this post, we'll take a look at how to store Code Signing Certificates in an Azure Key Vault.  In a future post we'll use this certificate to sign a NuGet package to ultimately deploy to [Azure Artifacts]({% post_url 2020-04-04-setup-azure-artifacts-to-host-nuget-packages %}).
+In this post, we'll take a look at how to store Code Signing Certificates in an Azure Key Vault.  In a future post we'll use this certificate to sign a NuGet package to ultimately deploy to [Azure Artifacts]({% post_url 2020/2020-04-04-setup-azure-artifacts-to-host-nuget-packages %}).
 
 ### Code Signing Certificate
 

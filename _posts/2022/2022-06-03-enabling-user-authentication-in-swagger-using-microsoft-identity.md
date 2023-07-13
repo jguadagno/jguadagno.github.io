@@ -20,7 +20,7 @@ I've been working on a personal project of mine called "[JosephGuadagno.NET Broa
 
 ## Assumptions
 
-I'm going to assume that you already have an API secured with Microsoft Identity, if not, you can check out a series I put together previously called [Protecting an ASP.NET Core API with Microsoft Identity Platform]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}).
+I'm going to assume that you already have an API secured with Microsoft Identity, if not, you can check out a series I put together previously called [Protecting an ASP.NET Core API with Microsoft Identity Platform]({% post_url 2020/2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}).
 
 I'm also going to assume that you already have swagger configured. If not, check out [this](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-6.0&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
 
@@ -158,6 +158,6 @@ Most of the code here can be just copied and pasted into future projects.  The o
 ## References
 
 - [Swagger OAuth2 documentation](https://swagger.io/docs/specification/authentication/oauth2)
-- [Microsoft Identity - Register an application]({% post_url 2020-08-29-working-with-microsoft-identity-registering-an-application %})
-- [Microsoft Identity - Configure Local Development]({% post_url 2020-08-29-working-with-microsoft-identity-configure-local-development %})
-- [Microsoft Identity - Assigning a Role]({% post_url 2020-08-29-working-with-microsoft-identity-assigning-a-role %})
+- [Microsoft Identity - Register an application]({% post_url 2020/2020-08-29-working-with-microsoft-identity-registering-an-application %})
+- [Microsoft Identity - Configure Local Development]({% post_url 2020/2020-08-29-working-with-microsoft-identity-configure-local-development %})
+- [Microsoft Identity - Assigning a Role]({% post_url 2020/2020-08-29-working-with-microsoft-identity-assigning-a-role %})

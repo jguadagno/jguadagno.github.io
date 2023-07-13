@@ -8,7 +8,7 @@ tags:
   - Stream
   - CodingWithJoeG
 ---
-Since the original '[Stream Hardware Configuration]({% post_url 2020-05-20-coding-with-joeg-streaming-hardware-configuration %}) post, I've changed my hardware configuration a bit.  This post contains the most current hardware configuration.
+Since the original '[Stream Hardware Configuration]({% post_url 2020/2020-05-20-coding-with-joeg-streaming-hardware-configuration %}) post, I've changed my hardware configuration a bit.  This post contains the most current hardware configuration.
 
 I've listed out all of the equipment that I use to stream 'Coding with JoeG' on [Twitch](https://twitch.tv/jguadagno){:target="_blank"}. While all this equipment is not necessary, it has helped me produce a reliable stream.  *Your mileage may vary!*
 
@@ -67,7 +67,7 @@ Don't let the name 'Game Capture' fool you. This device does more than capture g
 
 "Green Screening" or chroma keying allows software like OBS to easily separate green screens and panels from the people standing in front of them and replace those backgrounds with pretty much anything.  You've seen chroma keying in Hollywood special effects when superheroes fly or while watching your local weather forecast when the weather person is magically standing in front of a map.  Many streamers use chroma keying to drop out everything behind them, so you only see them on the stream.  I use the ePhotoInc chroma key collapsible blue/green background with the Fovitec stand to hold it.
 
-For OBS to remove or replace the background, you need to add a `Chromakey`.  You can check out the post '[Coding with JoeG - Software Configuration]({% post_url 2020-05-25-coding-with-joeg-streaming-software-configuration %})' for details on my configuration.
+For OBS to remove or replace the background, you need to add a `Chromakey`.  You can check out the post '[Coding with JoeG - Software Configuration]({% post_url 2020/2020-05-25-coding-with-joeg-streaming-software-configuration %})' for details on my configuration.
 
 #### ePhotoInc 5' x 7' Photo Collapsible CHROMAKEY Green Blue Background 2 in 1 Backdrop Panel T57BG
 

@@ -10,12 +10,12 @@ tags:
   - MVC
   - ASP.NET Core MVC
 ---
-In a previous [post]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}), I demonstrated how you can protect an ASP.NET Core Web API using the [Microsoft Identity Platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/&WT.mc_id=AZ-MVP-4024623){:target="_blank"}. In this post, we are going to look at what you need to do to have an ASP.NET Core MVC application interact with the same protected API. It's really easy, once you figure it out! :wink:
+In a previous [post]({% post_url 2020/2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}), I demonstrated how you can protect an ASP.NET Core Web API using the [Microsoft Identity Platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/&WT.mc_id=AZ-MVP-4024623){:target="_blank"}. In this post, we are going to look at what you need to do to have an ASP.NET Core MVC application interact with the same protected API. It's really easy, once you figure it out! :wink:
 
 **Note!** This post was written based on a preview version of the [Microsoft Identity Web](https://github.com/AzureAD/microsoft-identity-web){:target="_blank"} library, version [0.1.5-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.1.5-preview){:target="_blank"}. It has been updated to version [0.2.0-preview](https://www.nuget.org/packages/Microsoft.Identity.Web/0.2.0-preview){:target="_blank"} of the library. Your experience may vary!
 {: .notice--warning}
 
-**Note!** This post assumes that you already have a tenant setup in Azure Active Directory with scopes, similar to the previous [post]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %})
+**Note!** This post assumes that you already have a tenant setup in Azure Active Directory with scopes, similar to the previous [post]({% post_url 2020/2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %})
 {: .notice--info}
 
 ## Add a New Scope To Your API Application In Azure
@@ -44,7 +44,7 @@ Click on '+ Add a scope'
 
 ### Enable the New Scope in a Client App Registration
 
-If you followed along with the previous example, you should have an API application and 'PostMan Client' application registered. I recommend that you create a Client Registration as outlined in [Register a new client]({% post_url 2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}) section. In general, it's a good practice to keep separate 'client app registrations' for each client that accesses your API. And by each client, I mean each codebase. With the application I am building, [Contacts](https://www.github.com/jguadagno/Contacts){:target="_blank"}, I have an application registered for the API, the PostMan tests, and not the Contacts MVC application. If I add other clients, like a Blazor application or React-Native application, they will get separate application ids.
+If you followed along with the previous example, you should have an API application and 'PostMan Client' application registered. I recommend that you create a Client Registration as outlined in [Register a new client]({% post_url 2020/2020-06-12-protecting-an-asp-net-core-api-with-microsoft-identity-platform %}) section. In general, it's a good practice to keep separate 'client app registrations' for each client that accesses your API. And by each client, I mean each codebase. With the application I am building, [Contacts](https://www.github.com/jguadagno/Contacts){:target="_blank"}, I have an application registered for the API, the PostMan tests, and not the Contacts MVC application. If I add other clients, like a Blazor application or React-Native application, they will get separate application ids.
 
 Now in that newly created application, go to 'API permissions.'
 

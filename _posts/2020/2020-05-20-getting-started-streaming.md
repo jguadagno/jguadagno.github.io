@@ -9,7 +9,7 @@ tags:
   - Stream
   - CodingWithJoeG
 ---
-As I [posted]({% post_url 2020-04-25-coding-with-joeg-im-streaming %}) about a month ago, I starting live coding sessions, aka streaming, on [Twitch](https://twitch.tv/jguadagno). This post is a '*getting started guide*' for streaming, with a couple of tips and tricks that I have learned in the last month.
+As I [posted]({% post_url 2020/2020-04-25-coding-with-joeg-im-streaming %}) about a month ago, I starting live coding sessions, aka streaming, on [Twitch](https://twitch.tv/jguadagno). This post is a '*getting started guide*' for streaming, with a couple of tips and tricks that I have learned in the last month.
 
 ## Getting Started
 
@@ -56,8 +56,8 @@ Now you are ready to stream, go for it.  Here is a quick [checklist](https://ard
 
 ## Up Next
 
-* [Branding your stream]({% post_url 2020-05-20-branding-your-stream %})
-* Coding with JoeG - ~~[Hardware Configuration]({% post_url 2020-05-20-coding-with-joeg-streaming-hardware-configuration %})~~
-* Coding with JoeG - [Hardware Configuration - December 2020 Update]({% post_url 2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %})
-* Coding with JoeG - [Software Configuration]({% post_url 2020-05-25-coding-with-joeg-streaming-software-configuration %})
-* Coding with JoeG - [OBS Plugins]({% post_url 2020-05-20-coding-with-joeg-stream-plugins %}) to add to your stream
+* [Branding your stream]({% post_url 2020/2020-05-20-branding-your-stream %})
+* Coding with JoeG - ~~[Hardware Configuration]({% post_url 2020/2020-05-20-coding-with-joeg-streaming-hardware-configuration %})~~
+* Coding with JoeG - [Hardware Configuration - December 2020 Update]({% post_url 2020/2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %})
+* Coding with JoeG - [Software Configuration]({% post_url 2020/2020-05-25-coding-with-joeg-streaming-software-configuration %})
+* Coding with JoeG - [OBS Plugins]({% post_url 2020/2020-05-20-coding-with-joeg-stream-plugins %}) to add to your stream

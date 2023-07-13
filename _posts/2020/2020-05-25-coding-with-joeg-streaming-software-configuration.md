@@ -9,10 +9,10 @@ tags:
   - Stream
   - CodingWithJoeG
 ---
-***NOTE*** Since I have a new hardware configuration as outlined in '[Stream Hardware Configuration - December 2020]({% post_url 2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %}), I've updated the software configuration in the post [Stream Software Configuration - December 2020]({% post_url 2020-12-25-coding-with-joeg-streaming-software-configuration-december-2020-update %}). Check it out!
+***NOTE*** Since I have a new hardware configuration as outlined in '[Stream Hardware Configuration - December 2020]({% post_url 2020/2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %}), I've updated the software configuration in the post [Stream Software Configuration - December 2020]({% post_url 2020/2020-12-25-coding-with-joeg-streaming-software-configuration-december-2020-update %}). Check it out!
 {: .notice--info}
 
-In a previous post, I covered the [hardware]({% post_url 2020-05-20-coding-with-joeg-streaming-hardware-configuration %}) I use for the stream.  In this post, I'll cover the software and settings to 'produce' the stream and artifacts. Please keep in mind, this is a guide based on some of my searchings, my playing around, and my hardware, your needs may be different. Another thing to keep in mind, is these are my settings for streaming live coding not live gaming.
+In a previous post, I covered the [hardware]({% post_url 2020/2020-05-20-coding-with-joeg-streaming-hardware-configuration %}) I use for the stream.  In this post, I'll cover the software and settings to 'produce' the stream and artifacts. Please keep in mind, this is a guide based on some of my searchings, my playing around, and my hardware, your needs may be different. Another thing to keep in mind, is these are my settings for streaming live coding not live gaming.
 
 ## Streamlabs OBS Configuration
 
@@ -314,4 +314,4 @@ These settings will require a lot of tweaking to get a clear sound for your reco
 
 That's it!  Again, your mileage may vary.  These are the 'optimal' settings for my hardware, software, and environment.
 
-For details on my hardware, check out this [post]({% post_url 2020-05-20-coding-with-joeg-streaming-hardware-configuration %})
+For details on my hardware, check out this [post]({% post_url 2020/2020-05-20-coding-with-joeg-streaming-hardware-configuration %})

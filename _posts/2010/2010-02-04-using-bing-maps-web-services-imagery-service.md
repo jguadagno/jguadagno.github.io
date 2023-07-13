@@ -10,7 +10,7 @@ tags:
   - Bing
   - Web
 ---
-In my previous post, [Using the Bing Maps Web Services for Geocoding Addresses]({% post_url 2010-02-04-using-the-bing-maps-web-services-for-geocoding-addresses %}), I talk about geocoding addresses using the Bing Maps Web Services. Now it is time to talk about getting imagery of maps, roads or aerials views for addresses or geocodes. In order to get started using the Bing Maps Web Services, check out the Getting Started section of [Using the Bing Maps Web Services for Geocoding Addresses]({% post_url 2010-02-04-using-the-bing-maps-web-services-for-geocoding-addresses %}).
+In my previous post, [Using the Bing Maps Web Services for Geocoding Addresses]({% post_url 2010/2010-02-04-using-the-bing-maps-web-services-for-geocoding-addresses %}), I talk about geocoding addresses using the Bing Maps Web Services. Now it is time to talk about getting imagery of maps, roads or aerials views for addresses or geocodes. In order to get started using the Bing Maps Web Services, check out the Getting Started section of [Using the Bing Maps Web Services for Geocoding Addresses]({% post_url 2010/2010-02-04-using-the-bing-maps-web-services-for-geocoding-addresses %}).
 
 ## Bing Maps Web Services
 
