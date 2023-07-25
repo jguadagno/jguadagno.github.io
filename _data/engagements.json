@@ -77,7 +77,7 @@
     "eventEnd": "2023-07-22T17:20:00",
     "comments": "Conference brought to you by the Mauritius Software Craftsmanship Community",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Dev Containers. What are they and why do you need them?",
