@@ -24,9 +24,9 @@ Joseph Guadagno
 ### Rocket Mortgage
 
 Detroit, MI
-_8/2013 to 8/2023
+_8/2013 to 8/2023_
 
-#### Senior Director in Engineering - 1/2019 to Present
+#### Senior Director in Engineering - 1/2019 to 8/2023
 
 As a Senior Director, I am responsible for the growth of the products I own and the growth of my teams along with their team members. I started in the position with two teams, fourteen team members and three products. Our team has since grown to five teams, fifty-five people and over fifteen products. The growth of about 400% of the team and products was done seamlessly through leadership and the work that was done to enable it. Along with my leadership team, we established some common processes to enable the stability of our applications with enabled us to grow. Some processes included onboarding processes for new team members to ensure they had the right tools and processes to effectively do their role. We standardized the deployment process across all our products, which includes change processes, documentation, and testing. This change process enabled the team to increase the number of deployments by over 500% from the start of the year.
 
