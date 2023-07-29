@@ -5,8 +5,7 @@ classes: wide
 header:
     og_image: /assets/images/pages/about-joseph-guadagno.png
 ---
-Joe Guadagno is a Senior Director of Engineering at Rocket Mortgage,
-the nation's largest mortgage lender based in Detroit, Michigan.
+Joe Guadagno is a currently open for work.
 He has been writing software for over 20 years, has been an active member of the .NET community,
 serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 13 years.
 At Rocket Mortgage, he leads five software development teams building and modernizing our internal services.
@@ -22,6 +21,7 @@ and on his blog at [https://www.josephguadagno.net](/)
 
 ### Some of my notable achievements
 
+* Serving on the [.NET Foundation](https://dotnetfoundation.org) Board of Directors as President
 * Streaming 'Coding with JoeG' on [Twitch](https://twitch.tv/jguadagno){:target="_blank"}
 * [Telerik](https://www.telerik.com/){:target="_blank"} [Ninja](https://www.telerik.com/ninjas){:target="_blank"} - Since August 2020
 * [C# Corner](https://www.c-sharpcorner.com/){:target="_blank"} [MVP](https://www.c-sharpcorner.com/article/how-to-become-a-csharp-corner-mvp/){:target="_blank"} - Sept 2020
