@@ -1,7 +1,7 @@
 ---
 title: "LinkedIn has an AI Assisted Editor for Post"
 header:
-og_image: /assets/images/posts/header/linkedin-ai-editor.png
+    og_image: /assets/images/posts/header/linkedin-ai-editor.png
 date: 2023-08-08 20:45:00 -0700
 categories:
 - Articles

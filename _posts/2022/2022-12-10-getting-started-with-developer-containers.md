@@ -1,7 +1,7 @@
 ﻿---
 title: "Getting Started with Dev Containers"
 header:
-og_image: /assets/images/posts/header/dev-containers.png
+  og_image: /assets/images/posts/header/dev-containers.png
 date: 2022-12-10 15:50:00 -0700
 categories:
 - Articles

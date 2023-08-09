@@ -1,7 +1,7 @@
 ﻿---
 title: "Visual Studio Code File List Sort Order"
 header:
-og_image: /assets/images/posts/header/vscode-sort-order.png
+    og_image: /assets/images/posts/header/vscode-sort-order.png
 date: 2022-12-10 08:50:00 -0700
 categories:
 - Articles
