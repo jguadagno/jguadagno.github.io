@@ -23,7 +23,8 @@
 				"bierner.markdown-emoji",
 				"streetsidesoftware.code-spell-checker",
 				"bierner.markdown-preview-github-styles", 
-				"Github.copilot"
+				"Github.copilot",
+				"GitHub.vscode-pull-request-github"
 			]
 		}
 	},
