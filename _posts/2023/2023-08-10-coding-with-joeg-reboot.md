@@ -10,7 +10,7 @@ tags:
   - Stream
   - CodingWithJoeG
 ---
-Tomorrow, I will kick off my Coding with JoeG stream again and I'll be joined by [Richard Dudley](https://www.linkedin.com/in/ACoAAAAYFTQB8y3h2jQK_51y7RmIo3PSopBQxDw?){:target="_blank"}. We'll start the stream at 1pm MST/PST, 4pm EST, 8pm UTC
+Tomorrow, August 11th, 2023, I will kick off my Coding with JoeG stream again and I'll be joined by [Richard Dudley](https://www.linkedin.com/in/ACoAAAAYFTQB8y3h2jQK_51y7RmIo3PSopBQxDw?){:target="_blank"}. We'll start the stream at 1pm MST/PST, 4pm EST, 8pm UTC
 
 Rich and I will work together to learn how to use [Kubernetes](https://kubernetes.io/){:target="_blank"}. Here is the multi-day agenda:
 
