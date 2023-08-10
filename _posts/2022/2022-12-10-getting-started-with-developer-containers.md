@@ -87,28 +87,28 @@ In my case, there was an extra file called `post-create.sh`, more on that later.
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
 {
-	"name": "Jekyll",
-	"image": "mcr.microsoft.com/devcontainers/jekyll:0-buster",
+ "name": "Jekyll",
+ "image": "mcr.microsoft.com/devcontainers/jekyll:0-buster",
 
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
+ // Features to add to the dev container. More info: https://containers.dev/features.
+ // "features": {},
 
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts": [
-		// Jekyll server
-		4000,
-		// Live reload server
-		35729
-	],
+ // Use 'forwardPorts' to make a list of ports inside the container available locally.
+ "forwardPorts": [
+  // Jekyll server
+  4000,
+  // Live reload server
+  35729
+ ],
+ 
+ // Use 'postCreateCommand' to run commands after the container is created.
+ "postCreateCommand": "sh .devcontainer/post-create.sh"
 
-	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "sh .devcontainer/post-create.sh"
+ // Configure tool-specific properties.
+ // "customizations": {},
 
-	// Configure tool-specific properties.
-	// "customizations": {},
-
-	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	// "remoteUser": "root"
+ // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+ // "remoteUser": "root"
 }
 
 ```
@@ -200,32 +200,32 @@ You can add them to the `devcontainer.json` file like this:
 }
 ```
 
-You can also add additional settings to the `customizations` section. 
+You can also add additional settings to the `customizations` section.
 Details on Visual Studio Code settings can be found [here](https://containers.dev/supporting#visual-studio-code){:target="_blank"}.
 
 ## Using the Developer Container
 
-After the `.devcontainer.json` file is created you will need to build the container. 
+After the `.devcontainer.json` file is created you will need to build the container.
 You can do this by opening the Command Palette (`Ctrl+Shift+P`) and selecting the **Dev Containers: Rebuild and Reopen in Container** command.
 This will build the container and open a new instance of Visual Studio Code in the container.
 This will take a few minutes the first time you do it, but will be much faster after that.
 
 You may be prompted by a notification that says:
 
-The git repository in the current folder is potentially unsafe as the folder is owned by someone other than the current user.* 
-If you do get this, click on *Manage Unsafe Repositories* and then click on repository folder.
+The git repository in the current folder is potentially unsafe as the folder is owned by someone other than the current user.*
+If you do get this, click on*Manage Unsafe Repositories* and then click on repository folder.
 {: .notice--info}
 
 ![Dev Containers - Unsafe Repository ](/assets/images/posts/devcontainer-unsafe-repository.png){: .align-center}
 
-After the container is built and the `postCreateCommand` script, if any, is run, 
+After the container is built and the `postCreateCommand` script, if any, is run,
 you should see a message in the terminal, "**Done. Press any key to close the terminal.**".
 
 Feel free to close the terminal and start working on your project.
 
 ### Reopening the Project
 
-Now with the `.devcontainer.json` file in the project, whenever you open the folder in Visual Studio Code, 
+Now with the `.devcontainer.json` file in the project, whenever you open the folder in Visual Studio Code,
 it will ask you if you want to open the project in a container.
 
 ![Dev Containers - Reopen in Container ](/assets/images/posts/devcontainer-reopen-in-container.png){: .align-center}
