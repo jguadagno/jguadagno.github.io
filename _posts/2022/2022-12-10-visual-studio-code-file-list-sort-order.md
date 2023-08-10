@@ -36,4 +36,3 @@ The setting is `explorer.sortOrderLexicographicOptions` and has 4 options:
 After changing the order to `Unicode` the file list was sorted the same way as I had it in JetBrains Rider.
 
 ![Visual Studio Code - Explorer Sort Order - Unicode](/assets/images/posts/vscode-sort-unicode.png){: .align-center}
-
