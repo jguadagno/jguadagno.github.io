@@ -580,7 +580,7 @@ You can view this methods in the [LinkedInApiManager.cs](https://github.com/jgua
 
 That was a lot to take in.  We covered how to post text, links, and images to LinkedIn.  We also covered how to get the access token. We also covered how to get the user's profile information.  I hope you found this useful as well as the break down of calls required to call the API.
 
-If you have any questions, please feel free to reach out to me on [Twitter](https://twitter.com/jguadagno){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/jguadagno/){:target="_blank"}, or via the [contact]({% link _pages/contact.md %}).
+If you have any questions, please feel free to reach out to me on [Twitter](https://twitter.com/jguadagno){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/josephguadagno/){:target="_blank"}, or via the [contact]({% link _pages/contact.md %}).
 
 ## References
 
