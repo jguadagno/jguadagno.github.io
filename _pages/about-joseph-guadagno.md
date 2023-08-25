@@ -7,7 +7,7 @@ header:
 ---
 Joe Guadagno is a currently open for work.
 He has been writing software for over 20 years, has been an active member of the .NET community,
-serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 13 years.
+serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years.
 He has spoken through the United States and international events on topics ranging from Microsoft .NET,
 Microsoft Azure, Ionic, Bootstrap, and many others.
 You can see the complete list at
