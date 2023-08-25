@@ -20,10 +20,13 @@ and on his blog at [https://www.josephguadagno.net](/)
 
 ### Some of my notable achievements
 
-* Serving on the [.NET Foundation](https://dotnetfoundation.org) Board of Directors as President
-* Streaming 'Coding with JoeG' on [Twitch](https://twitch.tv/jguadagno){:target="_blank"}
+* Microsoft Developer Services [MVP](https://jjg.me/MVPLink){:target="_blank"} – Since January 2007
+* Serving on the [.NET Foundation](https://dotnetfoundation.org/){:target="_blank"} Board of Directors
+  * President (Since July 2023)
+  * Vice President (October 2022 – June 2023)
+* Streaming '*Coding with JoeG*' on [Twitch](https://twitch.tv/jguadagno){:target="_blank"}
 * [Telerik](https://www.telerik.com/){:target="_blank"} [Ninja](https://www.telerik.com/ninjas){:target="_blank"} - Since August 2020
-* [C# Corner](https://www.c-sharpcorner.com/){:target="_blank"} [MVP](https://www.c-sharpcorner.com/article/how-to-become-a-csharp-corner-mvp/){:target="_blank"} - Sept 2020
+* [C# Corner](https://www.c-sharpcorner.com/){:target="_blank"} [MVP](https://www.c-sharpcorner.com/article/how-to-become-a-csharp-corner-mvp/){:target="_blank"} - Since Sept 2020
 * Friend of Redgate [program](https://www.red-gate.com/community/friends-of-rg){:target="_blank"} (2015 to 2018)
 * [.NET Foundation](https://dotnetfoundation.org/) [Membership Committee](https://github.com/dotnet-foundation/wg-membership){:target="_blank"} volunteer (2015 to 2018)
 * Former President, Vice President, and Marketing Director of [INETA](https://ineta.org/){:target="_blank"} North America (2007-2015)
@@ -32,16 +35,15 @@ and on his blog at [https://www.josephguadagno.net](/)
 * [Telerik MVP](https://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"} (2010 to 2012)
 * Microsoft Visual Basic MVP (1996)
 
-### Open Source Projects ([https://github.com/jguadagno](https://github.com/jguadagno){:target="_blank"})
+### Open-Source Projects ([https://github.com/jguadagno](https://github.com/jguadagno){:target="_blank"})
 
 * [JJG.NET Broadcasting](https://github.com/jguadagno/jjgnet-broadcast){:target="_blank"} - Repository for the automated broadcasting of blog post, conferences, and streams.
 * [JosephGuadagno.Extensions](https://github.com/jguadagno/JosephGuadagno.Extensions){:target="_blank"} - A collection of extensions for .NET.
 * [JosephGuadagno.AzureHelpers.Cosmos](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Cosmos){:target="_blank"} - A collection of helpers for Azure Cosmos DB Table storage.
 * [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage){:target="_blank"} - A collection of helpers for Azure Storage Queues and Blobs.
 * [JosephGuadagno.AzureHelpers](https://github.com/jguadagno/JosephGuadagno.AzureHelpers){:target="_blank"} - A collection of helpers for using Microsoft Azure.
-* [BingSharp](https://bingsharp.codeplex.com/){:target="_blank"}: A wrapper around the Bing API in C#
-* [bootstrapThemeSwitcher](https://github.com/jguadagno/bootstrapThemeSwitcher){:target="_blank"}: jquery plugin to dynamically load Bootstrap themes
-* [twbs-flickrCarousel](https://github.com/jguadagno/twbs-flickrCarousel){:target="_blank"}: a bootstrap carousel to loop through Flickr pictures
+* [bootstrapThemeSwitcher](https://github.com/jguadagno/bootstrapThemeSwitcher){:target="_blank"}: jquery plugin to dynamically load Bootstrap themes.
+* [twbs-flickrCarousel](https://github.com/jguadagno/twbs-flickrCarousel){:target="_blank"}: a bootstrap carousel to loop through Flickr pictures.
 
 You can see more of my work on [GitHub](https://www.github.com/jguadagno){:target="_blank"}.
 
