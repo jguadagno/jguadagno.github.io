@@ -3,7 +3,7 @@ title: "Working with the LinkedIn API with C#"
 header:
     og_image: /assets/images/posts/header/linkedin-api.png
 date: 2023-08-16 15:50:00 -0700
-last_modified_at: 2023-09-10 15:04:00 -0700
+last_modified_at: 2023-09-10 15:29:00 -0700
 categories:
 - Articles
 tags:
