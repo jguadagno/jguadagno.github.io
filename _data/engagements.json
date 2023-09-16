@@ -67,8 +67,8 @@
       {
         "name": "Using Azure Key Vault to Protect Your Application Secrets",
         "url": "/presentations/using-azure-key-vault-to-protect-your-application-secrets",
-        "date": "",
-        "room": "",
+        "date": "2023-11-08T13:30:00",
+        "room": "Rosewood",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false
@@ -76,8 +76,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "",
-        "room": "",
+        "date": "2023-11-09T13:30:00",
+        "room": "Salons EF",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false
