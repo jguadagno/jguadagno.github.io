@@ -1,5 +1,37 @@
 [
   {
+    "eventName": "DEVintersection Conference 2023",
+    "eventUrl": "https://www.devintersection.com/",
+    "location": "Orlando, FL",
+    "eventStart": "2023-12-07T09:00:00",
+    "eventEnd": "2023-12-07T17:20:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Dev Containers. What are they and why do you need them?",
+        "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "EST (UTC+5)",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "ESPC23 - European SharePoint, Office 365 & Azure Conference",
     "eventUrl": "https://www.sharepointeurope.com/",
     "location": "Amsterdam, Netherlands",
