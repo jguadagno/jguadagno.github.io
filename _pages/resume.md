@@ -21,6 +21,15 @@ Joseph Guadagno
 
 ## Experience
 
+### Real Time Technologies (RT²)
+
+Remote
+_9/2023 to Present_
+
+#### Vice President of IT
+
+*Fill in responsibilities here*
+
 ### Rocket Mortgage
 
 Detroit, MI
