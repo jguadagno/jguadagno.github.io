@@ -58,13 +58,21 @@
     "eventName": "C# Corner Conference 2023",
     "eventUrl": "https://conference.c-sharpcorner.com/",
     "location": "Delhi, India",
-    "eventStart": "2023-10-13T00:00:00",
+    "eventStart": "2023-10-09T00:00:00",
     "eventEnd": "2023-10-14T00:00:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
-
+      {
+        "name": "Open-Source for All",
+        "url": "/presentations/open-source-for-all",
+        "date": "202310-09T13:00",
+        "room": "IPEC",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": true
+      }
     ],
     "timezone": "IST",
     "inPerson": "In Person"
