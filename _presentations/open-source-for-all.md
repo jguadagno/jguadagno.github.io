@@ -1,0 +1,12 @@
+---
+title: Open-Source for All
+isKeynote: false
+isRetired: false
+sourceUrl: 
+powerPointUrl: https://onedrive.live.com/embed?resid=406EE4C95978C038%2189474&authkey=!APUqndaP59Azi_I&em=2
+sessionizeUrl: open-source-for-all/78730
+youTubeId: 
+youTubeCaption: 
+level: 100
+---
+Contributing to and using open-source software is a valuable practice for students, hobbyists, and professionals in various technology fields. Open-source software offers many benefits, such as transparency, reproducibility, collaboration, and innovation. However, contributing to and using open-source software also poses some challenges, such as quality assurance, documentation, licensing, and sustainability. In this session, we present an overview of the current state of open-source software and discuss some best practices and recommendations for both contributors and users. I will also highlight some of the opportunities and future directions for open-source software development and adoption.
