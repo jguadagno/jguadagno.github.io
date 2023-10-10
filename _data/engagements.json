@@ -131,11 +131,37 @@
       {
         "name": "Open-Source for All",
         "url": "/presentations/open-source-for-all",
-        "date": "202310-09T13:00",
-        "room": "IPEC",
+        "date": "2023-10-09T13:00:00",
+        "room": "IPEC, Sahibabad",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": true
+      },
+      {
+        "name": "Resources for the Modern Learner",
+        "url": "/presentations/resources-for-the-modern-learner",
+        "date": "2023-10-10T12:10:00",
+        "room": "SRM IST, Delhi NCR Campus, Ghaziabad",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      { "name": "Resources for the Modern Learner",
+        "url": "/presentations/resources-for-the-modern-learner",
+        "date": "2023-10-11T13:10:00",
+        "room": "I.T.S Engineering College, Greater Noida",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Resources for the Modern Learner",
+        "url": "/presentations/resources-for-the-modern-learner",
+        "date": "2023-10-12T11:45:00",
+        "room": "Sharda University",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "IST",
