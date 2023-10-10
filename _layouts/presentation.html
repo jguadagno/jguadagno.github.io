@@ -56,6 +56,17 @@ layout: single
 {% endif %}
 {% endif %}
 
+{% if page.links %}
+<h3>Reference Links</h3>
+<ul>
+{% for link in page.links %}
+  <li><a target="_blank" href="{{link.url}}" title="{{link.title}}">{{ link.title }}</a></li>
+{% else %}
+  No reference links
+{% endfor %}
+</ul>
+{% endif %}
+
 <h3>Interested</h3>
 Would you like this talk at your event?  You can send me an <a href="mailto:jguadagno@hotmail.com">email</a>.
 {% if page.sessionizeUrl %}
