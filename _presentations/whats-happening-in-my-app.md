@@ -6,6 +6,19 @@ sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2175532&amp;authkey=AM3IOL_9PzTn6ks&amp;em=2&amp
 sessionizeUrl: whats_happening_in_my_app/23124
 level: 200
+links:
+ - title: What is Application Insights
+   url: https://jjg.me/ai_whatis
+ - title: Application Insights Documentation
+   url: https://jjg.me/ai_docs
+ - title: ASP.NET Setup
+   url: https://jjg.me/ai_aspnet
+ - title: Application Insights Status Monitor
+   url: https://jjg.me/ai_statusmon
+ - title: Status Blog
+   url: https://jjg.me/ai_service_status
+ - title: Monitor Web App Performance
+   url: https://jjg.me/ai_mon_webapp
 ---
 Azure Application Insights, part of the Azure Monitor services, helps you collect, analyze, and act on telemetry data from your Azure and on-premises environment.
 
