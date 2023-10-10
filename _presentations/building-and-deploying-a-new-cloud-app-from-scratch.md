@@ -9,6 +9,23 @@ youTubeId:
 youTubeCaption:
 sessionizeUrl: building-and-deploying-a-new-cloud-app-from-scratc/51051
 level: 100
+links:
+ - title: My Website
+   url: https://www.josephguadagno.net
+ - title: Source Code
+   url: https://github.com/jguadagno/app-from-scratch
+ - title: Azure Portal
+   url: https://portal.azure.com
+ - title: Microsoft Learn
+   url: https://jjg.me/learn-microsoft-learn
+ - title: GitHub
+   url: https://www.github.com
+ - title: Visual Studio
+   url: https://visualstudio.microsoft.com/?WT.mc_id=AZ-MVP-4024623
+ - title: JetBrains Rider
+   url: https://jetbrains.com/rider/
+ - title: SQL Server
+   url: https://www.microsoft.com/sqlserver
 ---
 In this workshop we are going to build and deploy a modern cloud application from scratch!
 Using Visual Studio and Azure, you will learn how to build a modern application from the ground up
