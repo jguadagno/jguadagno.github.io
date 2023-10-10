@@ -6,6 +6,19 @@ sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2171311&amp;authkey=AGYmbK71qIIX7iE&amp;em=2
 sessionizeUrl: build_native_applications_with_java/17922
 level: 200
+links:
+ - title: Ionic Framework
+   url: https://ionicframework.com/
+ - title: Ionic Play
+   url: https://play.ionic.io
+ - title: Ionic Labs
+   url: https://lab.ionic.io/
+ - title: Ionic Documentation
+   url: https://ionicframework.com/docs/resources/
+ - title: Ionic Marketplace 
+   url: https://market.ionic.io/
+ - title: Ionic Conference App 
+   url: https://github.com/microsoft/ionic-azure-conference-app 
 ---
 Ionic lets you build mobile apps using only JavaScript.
 The [Ionic framework](https://ionicframework.com/){:target="_blank"} is a free and open-source library of mobile-optimized HTML, 
