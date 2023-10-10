@@ -8,6 +8,11 @@ sessionizeUrl: build_and_ship_it/28595
 youTubeId: D5aEDPt0ZTs
 youTubeCaption: Build and Ship It! at Cloud Summit Live
 level: 300
+links:
+ - title: Blog Post - Build, Sign, and Deploy NuGet Packages with Azure Pipeline
+   url: https://jjg.me/buildit
+ - title: Blog - JosephGuadagno.net
+   url: https://jjg.me/mysite
 ---
 If you are like me, you have many libraries, helpers,
 utilities that you have built over time that you use for multiple projects.
