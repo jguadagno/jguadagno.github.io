@@ -12,11 +12,11 @@ links:
  - title: Microsoft Learn
    url: https://jjg.me/learn-microsoft-learn
  - title: Microsoft Student Hub
-   url: https://jjg.me/learn-microsoft-learn
+   url: https://jjg.me/learn-google
  - title: Google for Developers
-   url: https://jjg.me/learn-microsoft-learn
+   url: https://jjg.me/learn-google
  - title: Apple Developer
-   url: https://jjg.me/learn-microsoft-learn
+   url: https://jjg.me/learn-apple
  - title: W3Schools
    url: https://jjg.me/learn-w3
  - title: Humble Bundle
