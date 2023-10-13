@@ -24,7 +24,8 @@
 				"streetsidesoftware.code-spell-checker",
 				"bierner.markdown-preview-github-styles", 
 				"Github.copilot",
-				"GitHub.vscode-pull-request-github"
+				"GitHub.vscode-pull-request-github",
+				"Shopify.ruby-lsp"
 			]
 		}
 	},
