@@ -162,6 +162,24 @@
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false
+      },
+      {
+        "name": "Panel: Leadership and Work-Life Balance",
+        "url": "https://conference.c-sharpcorner.com",
+        "date": "2023-10-14T11:05:00",
+        "room": "Hotel Radisson Blu, Kaushambi, Delhi/NCR",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
+      {
+        "name": "Panel: Beyond the Screen: Creating Memorable Experiences in Virtual Events",
+        "url": "https://conference.c-sharpcorner.com",
+        "date": "2023-10-14T16:30:00",
+        "room": "Hotel Radisson Blu, Kaushambi, Delhi/NCR",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "IST",
