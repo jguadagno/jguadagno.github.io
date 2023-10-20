@@ -145,6 +145,15 @@
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false
+      },
+      {
+        "name": "Communication is Hard. Make it better with Azure Communication Services",
+        "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
+        "date": "2022-11-08T16:00:00",
+        "room": "Salons EF",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
       }
     ],
     "timezone": "EST",
