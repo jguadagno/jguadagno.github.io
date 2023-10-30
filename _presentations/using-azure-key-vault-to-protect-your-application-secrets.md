@@ -2,8 +2,8 @@
 title: Using Azure Key Vault to Protect Your Application Secrets
 isKeynote: false
 isRetired: false
-sourceUrl:
-powerPointUrl:
+sourceUrl: https://github.com/jguadagno/contacts-noauth/
+powerPointUrl: https://onedrive.live.com/embed?resid=406EE4C95978C038%2189816&authkey=!AOiqCIYnizBG9Eo
 sessionizeUrl: using-azure-key-vault-to-protect-your-application-/67404
 level: 200
 ---
