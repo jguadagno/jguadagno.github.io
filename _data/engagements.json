@@ -39,7 +39,7 @@
     "eventEnd": "2024-01-12T17:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Application Architecture Patterns",
@@ -103,7 +103,7 @@
     "eventEnd": "2023-11-30T17:20:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Using Azure Key Vault to Protect Your Application Secrets",
