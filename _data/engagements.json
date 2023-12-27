@@ -64,6 +64,29 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "Orlando Code Camp 2024",
+    "eventUrl": "https://orlandocodecamp.com/",
+    "location": "Orlando, FL",
+    "eventStart": "2024-02-24T09:00:00",
+    "eventEnd": "2024-02-2417:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Building a Talk for an Event",
+        "url": "/presentations/building-a-talk-for-an-event",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "EST",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "CodeMash",
     "eventUrl": "https://www.codemash.org/",
     "location": "Sandusky, OH",
@@ -71,7 +94,7 @@
     "eventEnd": "2024-01-12T17:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": false,
+    "isCurrent": true,
     "presentation": [
       {
         "name": "Application Architecture Patterns",
