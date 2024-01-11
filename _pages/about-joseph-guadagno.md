@@ -5,7 +5,7 @@ classes: wide
 header:
     og_image: /assets/images/pages/about-joseph-guadagno.png
 ---
-Joe Guadagno is a currently Vice President of IT for [RT²](https://www.rt2.com){:target="_blank"}.
+Joe Guadagno is AN awesome presenter and some other stuff is a currently Vice President of IT for [RT²](https://www.rt2.com){:target="_blank"}.
 He has been writing software for over 20 years, has been an active member of the .NET community,
 serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years.
 He has spoken through the United States and international events on topics ranging from Microsoft .NET,
