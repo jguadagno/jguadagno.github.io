@@ -25,7 +25,8 @@ and on his blog at [https://www.josephguadagno.net](/)
   * President (Since July 2023)
   * Vice President (October 2022 – June 2023)
 * Streaming '*Coding with JoeG*' on [Twitch](https://twitch.tv/jguadagno){:target="_blank"}
-* [Telerik](https://www.telerik.com/){:target="_blank"} [Ninja](https://www.telerik.com/ninjas){:target="_blank"} - Since August 2020
+* [Progress](https://www.progress.com/){:target="_blank"} [Champion](https://www.progress.com/champion){:target="_blank"} - Since January 2022
+* [Telerik](https://www.telerik.com/){:target="_blank"} [Ninja](https://www.telerik.com/ninjas){:target="_blank"} - (August 2020 - January 2022)
 * [C# Corner](https://www.c-sharpcorner.com/){:target="_blank"} [MVP](https://www.c-sharpcorner.com/article/how-to-become-a-csharp-corner-mvp/){:target="_blank"} - Since Sept 2020
 * Friend of Redgate [program](https://www.red-gate.com/community/friends-of-rg){:target="_blank"} (2015 to 2018)
 * [.NET Foundation](https://dotnetfoundation.org/) [Membership Committee](https://github.com/dotnet-foundation/wg-membership){:target="_blank"} volunteer (2015 to 2018)
