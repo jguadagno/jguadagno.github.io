@@ -69,7 +69,7 @@
     "location": "Orlando, FL",
     "eventStart": "2024-02-24T09:00:00",
     "eventEnd": "2024-02-2417:00:00",
-    "comments": "",
+    "comments": "***Keynote***",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
@@ -78,7 +78,7 @@
         "url": "/presentations/building-a-talk-for-an-event",
         "date": "",
         "room": "",
-        "comments": "",
+        "comments": "Opening ***Keynote***",
         "isCanceled": false,
         "isWorkshop": false
       }
