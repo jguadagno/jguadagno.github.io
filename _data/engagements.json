@@ -67,7 +67,7 @@
     "eventName": "Orlando Code Camp 2024",
     "eventUrl": "https://orlandocodecamp.com/",
     "location": "Orlando, FL",
-    "eventStart": "2024-02-24T09:00:00",
+    "eventStart": "2024-02-24T08:00:00",
     "eventEnd": "2024-02-2417:00:00",
     "comments": "***Keynote***",
     "isCanceled": false,
@@ -76,12 +76,21 @@
       {
         "name": "Building a Talk for an Event",
         "url": "/presentations/building-a-talk-for-an-event",
-        "date": "",
+        "date": "2024-02-24T08:00:00",
         "room": "",
         "comments": "Opening ***Keynote***",
         "isCanceled": false,
         "isWorkshop": false
-      }
+      },
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2024-02-24T09:30:00",
+        "room": "1205",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      },
     ],
     "timezone": "EST",
     "inPerson": "In Person"
