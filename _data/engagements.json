@@ -44,8 +44,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "",
-        "room": "",
+        "date": "2024-03-22T15:45:00",
+        "room": "Infoblox",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false
@@ -53,8 +53,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "",
-        "room": "",
+        "date": "2024-03-21T09:45:00",
+        "room": "Hashicorp",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false
