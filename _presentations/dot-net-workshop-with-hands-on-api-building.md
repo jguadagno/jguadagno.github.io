@@ -40,7 +40,7 @@ This workshop will help you master the skills and tools you need to create high-
 
 ## Target Audience
 
-This workshop is geared toward individuals getting started with ASP.NET Core or not familiar with how modern ASP.NET Core works. Attendees should have experience .NET and an understanding of basic web programming paradigms.
+This workshop is geared toward individuals getting started with ASP.NET Core or not familiar with how modern ASP.NET Core works. Attendees should have experience with .NET and an understanding of basic web programming paradigms.
 
 ### Requirements
 
