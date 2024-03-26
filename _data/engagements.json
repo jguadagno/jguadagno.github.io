@@ -31,6 +31,7 @@
     "timezone": "GMT",
     "inPerson": "In Person"
   },
+  
   {
     "eventName": "Michigan Tech Con",
     "eventUrl": "https://www.mitechcon.org/",
@@ -39,7 +40,7 @@
     "eventEnd": "2024-03-22T17:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Application Architecture Patterns",
