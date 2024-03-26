@@ -73,6 +73,29 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "LambdaConf 2024",
+    "eventUrl": "https://www.lambdaconf.us/",
+    "location": "Estes Park, CO",
+    "eventStart": "2024-05-06T09:00:00",
+    "eventEnd": "2024-05-07T17:00:00",
+    "comments": "Use discount code [JosephGuadagno15](https://www.eventbrite.com/e/540887036687/?discount=JosephGuadagno15) for 15% off.",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Learn New Languages with Developer Containers in VS Code",
+        "url": "",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "MDT",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "Michigan Tech Con",
     "eventUrl": "https://www.mitechcon.org/",
     "location": "Pontiac, MI",
