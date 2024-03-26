@@ -36,7 +36,11 @@ This event has been canceled.
 {% for presentation in engagement.presentation -%}
 {% capture presentationTime %}{{ presentation.date | date: "%R" }}{% endcapture %}
 [{{presentation.name}}]({{presentation.url}})
+{% if presentation.date == "" %}
+: The schedule has *not* been released yet.
+{% else %}
 : Scheduled on {{ presentation.date | date: "%a, %F" }}{% if presentationTime !="00:00" %} at {{presentation.date | date: "%R" }} ({{engagement.timezone}}){% endif %} {% if presentation.room.size > 0 %} in room **{{presentation.room }}** {% endif %}
+{% endif %}
 {% if presentation.isWorkshop -%}***Workshop***{% endif %}
 {% if presentation.comments.size > 0 -%}
 :  {{ presentation.comments}}
