@@ -15,7 +15,7 @@ source code, videos (if any), and any additional resources for this talk.
 
 {% assign presentations = site.presentations | where:'isRetired', 'false' %}
 {% for presentation in presentations -%}
-- [{{presentation.title}}]({{presentation.url}}) {% if presentation.isWorkshop == true %} (***Workshop***) {% endif %}
+- [{{presentation.title}}]({{presentation.url}}) {% if presentation.isWorkshop == true %} (***Workshop***) {% endif %}{% if presentation.isKeynote == true %} (***Keynote***) {% endif %}
 {% endfor %}
 
 ## Retired Presentations
