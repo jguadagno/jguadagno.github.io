@@ -1,5 +1,37 @@
 [
   {
+    "eventName": "Tunisia Dev Days",
+    "eventUrl": "https://tunisiadevdays.net/",
+    "location": "Sousse, Tunisia",
+    "eventStart": "2024-10-31T09:00:00",
+    "eventEnd": "2024-11-02T17:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": ".NET Workshop with Hands-On API Building",
+        "url": "/presentations/dot-net-workshop-with-hands-on-api-building",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": true
+      },
+      {
+        "name": "Protecting a .NET Core API with Microsoft Identity Platform (Microsoft Entra)",
+        "url": "/presentations/protecting-a-net-core-api-with-microsoft-identity-platform",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false
+      }
+    ],
+    "timezone": "CET",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "Software Design & Development 2024",
     "eventUrl": "https://sddconf.com/",
     "location": "London, UK",
