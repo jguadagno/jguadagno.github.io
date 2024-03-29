@@ -16,7 +16,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": true
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Protecting a .NET Core API with Microsoft Identity Platform (Microsoft Entra)",
@@ -25,14 +27,16 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "CET",
     "inPerson": "In Person"
   },
   {
-    "eventName": "Software Design & Development 2024",
+    "eventName": "Software Design \u0026 Development 2024",
     "eventUrl": "https://sddconf.com/",
     "location": "London, UK",
     "eventStart": "2024-05-13T09:00:00",
@@ -48,7 +52,9 @@
         "room": "Track 2",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": true
       },
       {
         "name": "Dev Containers. What are they and why do you need them?",
@@ -57,7 +63,9 @@
         "room": "Track 2",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "GMT",
@@ -80,8 +88,10 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
-      },      
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      },
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
@@ -89,7 +99,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Scaling Your .NET Application Using Azure",
@@ -98,7 +110,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "PST",
@@ -121,7 +135,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "MDT",
@@ -144,7 +160,9 @@
         "room": "Infoblox",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Dev Containers. What are they and why do you need them?",
@@ -153,7 +171,9 @@
         "room": "Hashicorp",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -164,7 +184,7 @@
     "eventUrl": "https://orlandocodecamp.com/",
     "location": "Orlando, FL",
     "eventStart": "2024-02-24T08:00:00",
-    "eventEnd": "2024-02-2417:00:00",
+    "eventEnd": "2024-02-24T17:00:00",
     "comments": "***Keynote***",
     "isCanceled": false,
     "isCurrent": false,
@@ -176,7 +196,9 @@
         "room": "",
         "comments": "Opening ***Keynote***",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": true,
+        "isPanel": false
       },
       {
         "name": "Application Architecture Patterns",
@@ -185,8 +207,10 @@
         "room": "1205",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
-      },
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
     ],
     "timezone": "EST",
     "inPerson": "In Person"
@@ -204,20 +228,24 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "",
+        "date": "2024-01-11T13:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "",
+        "date": "2024-01-12T08:30:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -240,7 +268,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Application Architecture Patterns",
@@ -249,14 +279,16 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
-    "timezone": "EST (UTC+5)",
+    "timezone": "EST (UTC\u002B5)",
     "inPerson": "In Person"
   },
   {
-    "eventName": "ESPC23 - European SharePoint, Office 365 & Azure Conference",
+    "eventName": "ESPC23 - European SharePoint, Office 365 \u0026 Azure Conference",
     "eventUrl": "https://www.sharepointeurope.com/",
     "location": "Amsterdam, Netherlands",
     "eventStart": "2023-11-27T09:00:00",
@@ -272,10 +304,12 @@
         "room": "E105-E106",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
-    "timezone": "WEST (UTC+1)",
+    "timezone": "WEST (UTC\u002B1)",
     "inPerson": "In Person"
   },
   {
@@ -295,7 +329,9 @@
         "room": "Rosewood",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Dev Containers. What are they and why do you need them?",
@@ -304,7 +340,9 @@
         "room": "Salons EF",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
@@ -313,7 +351,9 @@
         "room": "Salons EF",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -336,7 +376,9 @@
         "room": "IPEC, Sahibabad",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": true
+        "isWorkshop": false,
+        "isKeynote": true,
+        "isPanel": false
       },
       {
         "name": "Resources for the Modern Learner",
@@ -345,15 +387,20 @@
         "room": "SRM IST, Delhi NCR Campus, Ghaziabad",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
-      { "name": "Resources for the Modern Learner",
+      {
+        "name": "Resources for the Modern Learner",
         "url": "/presentations/resources-for-the-modern-learner",
         "date": "2023-10-11T13:10:00",
         "room": "I.T.S Engineering College, Greater Noida",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Resources for the Modern Learner",
@@ -362,7 +409,9 @@
         "room": "Sharda University",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Panel: Leadership and Work-Life Balance",
@@ -371,7 +420,9 @@
         "room": "Hotel Radisson Blu, Kaushambi, Delhi/NCR",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": true
       },
       {
         "name": "Panel: Beyond the Screen: Creating Memorable Experiences in Virtual Events",
@@ -380,7 +431,9 @@
         "room": "Hotel Radisson Blu, Kaushambi, Delhi/NCR",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": true
       }
     ],
     "timezone": "IST",
@@ -391,7 +444,7 @@
     "eventUrl": "https://www.meetup.com/louisville-dotnet/events/296001884/",
     "location": "Virtual",
     "eventStart": "2023-09-24T18:00:00",
-    "eventEnd": "2023-09-24-4T19:00:00",
+    "eventEnd": "2023-09-24T19:00:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -403,7 +456,9 @@
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "IST",
@@ -422,41 +477,49 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2023-07-22T13:00",
+        "date": "2023-07-22T13:00:00",
         "room": "Andromeda",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2023-07-20T12:00",
+        "date": "2023-07-20T12:00:00",
         "room": "Andromeda",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Write Uno Time, Run Everywhere with the Uno Platform",
         "url": "/presentations/write-uno-time-run-everywhere-with-the-uno-platform",
-        "date": "2023-07-20T15:00",
+        "date": "2023-07-20T15:00:00",
         "room": "Titan",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
-        "name": "Panel Discussion: Data Privacy, Protection & Governance",
+        "name": "Panel Discussion: Data Privacy, Protection \u0026 Governance",
         "url": "/presentations/write-uno-time-run-everywhere-with-the-uno-platform",
-        "date": "2023-07-22T10:00",
+        "date": "2023-07-22T10:00:00",
         "room": "Andromeda",
         "comments": "I will be one of a few panelists",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
-    "timezone": "Mauritius Standard Time (UTC+4)",
+    "timezone": "Mauritius Standard Time (UTC\u002B4)",
     "inPerson": "In Person"
   },
   {
@@ -476,7 +539,9 @@
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST (UTC -5)",
@@ -499,10 +564,12 @@
         "room": "Room 5",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
-    "timezone": "UTC+2",
+    "timezone": "UTC\u002B2",
     "inPerson": "In Person"
   },
   {
@@ -522,10 +589,12 @@
         "room": "Stage 6",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
-    "timezone": "UTC+2",
+    "timezone": "UTC\u002B2",
     "inPerson": "In Person"
   },
   {
@@ -545,14 +614,16 @@
         "room": "Theater 6",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
     "inPerson": "In Person"
   },
   {
-    "eventName": "abp DOTNET CONF '23",
+    "eventName": "abp DOTNET CONF \u002723",
     "eventUrl": "https://abp.io/conference",
     "location": "Virtual",
     "eventStart": "2023-05-10T05:00:00",
@@ -564,14 +635,16 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "",
+        "date": "2023-05-10T05:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
-    "timezone": "UTC+2",
+    "timezone": "UTC\u002B2",
     "inPerson": "Virtual"
   },
   {
@@ -591,7 +664,9 @@
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -614,7 +689,9 @@
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -637,7 +714,9 @@
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -660,7 +739,9 @@
         "room": "Zambezi",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Scaling Your .NET Application Using Azure",
@@ -669,7 +750,9 @@
         "room": "Salon A",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -692,7 +775,9 @@
         "room": "",
         "comments": "Workshop",
         "isCanceled": false,
-        "isWorkshop": true
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Application Architecture Patterns",
@@ -701,7 +786,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Scaling Your .NET Application Using Azure",
@@ -710,7 +797,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "PST",
@@ -733,7 +822,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "CEST",
@@ -756,7 +847,9 @@
         "room": "Suite 7",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": true
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Application Architecture Patterns",
@@ -765,7 +858,9 @@
         "room": "Suite 7",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -788,7 +883,9 @@
         "room": "T4",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "CET",
@@ -811,7 +908,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Application Architecture",
@@ -820,7 +919,9 @@
         "room": "Track 2",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Panel: Building Better Software",
@@ -829,7 +930,9 @@
         "room": "Track 3",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Panel: Growth Mindset",
@@ -838,7 +941,9 @@
         "room": "Track 3",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Keynote",
@@ -847,7 +952,9 @@
         "room": "Track 2",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Panel: Growth Mindset",
@@ -856,7 +963,9 @@
         "room": "Track 2",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Panel: Future of Cloud and Data",
@@ -865,7 +974,9 @@
         "room": "Track 3",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Scaling Your .NET Application Using Azure",
@@ -874,7 +985,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "IST",
@@ -897,9 +1010,13 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
-    ]
+    ],
+    "timezone": null,
+    "inPerson": null
   },
   {
     "eventName": "C# Corner Conference 2022 - Hyderabad",
@@ -918,7 +1035,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Keynote: Community",
@@ -927,9 +1046,13 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
-    ]
+    ],
+    "timezone": null,
+    "inPerson": null
   },
   {
     "eventName": "C# Corner Conference 2022 - Mumbai",
@@ -948,9 +1071,13 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
-    ]
+    ],
+    "timezone": null,
+    "inPerson": null
   },
   {
     "eventName": "KCDC",
@@ -969,7 +1096,9 @@
         "room": "2214",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "CST",
@@ -992,7 +1121,9 @@
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
@@ -1001,7 +1132,9 @@
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "MST",
@@ -1024,7 +1157,9 @@
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "MST",
@@ -1047,7 +1182,9 @@
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Application Architecture",
@@ -1056,7 +1193,9 @@
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1079,7 +1218,9 @@
         "room": "Lancaster 123",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Application Architecture",
@@ -1088,7 +1229,9 @@
         "room": "Lancaster 123",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "CST",
@@ -1111,7 +1254,9 @@
         "room": "Salon D",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "MST",
@@ -1134,7 +1279,9 @@
         "room": "CAS Theater",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1157,7 +1304,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Build and Ship It!",
@@ -1166,7 +1315,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "PDT",
@@ -1189,7 +1340,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "What\u0027s Happening in My App",
@@ -1198,7 +1351,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1221,7 +1376,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "PST",
@@ -1244,7 +1401,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1267,7 +1426,9 @@
         "room": "",
         "comments": "Time is Mountain Standard (MST)",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1290,7 +1451,9 @@
         "room": "Salon D",
         "comments": "MST Time",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1313,7 +1476,9 @@
         "room": "Salon E/D",
         "comments": "EST Time - I cancelled my presentation",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "6 (or so) new features of .NET 6",
@@ -1322,7 +1487,9 @@
         "room": "Salon A/H",
         "comments": "EST Time - I cancelled my presentation",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1345,7 +1512,9 @@
         "room": "Exeter",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1368,7 +1537,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Migrate It!",
@@ -1377,7 +1548,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1400,7 +1573,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1423,7 +1598,9 @@
         "room": "",
         "comments": "India Standard Time (IST)",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1446,7 +1623,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1469,7 +1648,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1492,7 +1673,9 @@
         "room": "",
         "comments": "",
         "isCanceled": true,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "What\u0027s Happening in My App",
@@ -1501,7 +1684,9 @@
         "room": "",
         "comments": "",
         "isCanceled": true,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1524,7 +1709,9 @@
         "room": "2201",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Write Uno Time, Run Everywhere with the Uno Platform",
@@ -1533,7 +1720,9 @@
         "room": "2215-A",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1556,7 +1745,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1579,7 +1770,9 @@
         "room": "",
         "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Migrate It!",
@@ -1588,7 +1781,9 @@
         "room": "",
         "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Look into your Application with Azure Application Insights",
@@ -1597,7 +1792,9 @@
         "room": "",
         "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1620,7 +1817,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1643,7 +1842,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Look into your Application with Azure Application Insights",
@@ -1652,7 +1853,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1675,7 +1878,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1698,7 +1903,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1721,7 +1928,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1744,7 +1953,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1767,7 +1978,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1790,7 +2003,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1813,7 +2028,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1836,7 +2053,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1859,7 +2078,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1882,7 +2103,9 @@
         "room": "",
         "comments": "In Person - \u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Look into your Application with Application Insights",
@@ -1891,7 +2114,9 @@
         "room": "",
         "comments": "In Person - \u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1914,7 +2139,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1937,7 +2164,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1960,7 +2189,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Help Your Application Scale with Azure",
@@ -1969,7 +2200,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -1992,7 +2225,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2015,7 +2250,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2038,7 +2275,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2061,7 +2300,9 @@
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Debugging Tips and Tips with Visual Studio",
@@ -2070,7 +2311,9 @@
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Typescript for the Microsoft Developer",
@@ -2079,7 +2322,9 @@
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2102,7 +2347,9 @@
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2125,7 +2372,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2148,7 +2397,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2171,7 +2422,9 @@
         "room": "",
         "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2194,7 +2447,9 @@
         "room": "",
         "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Build \u0026 Ship It!",
@@ -2203,7 +2458,9 @@
         "room": "",
         "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2226,7 +2483,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Build a Native Mobile Application using React Native and JavaScript",
@@ -2235,7 +2494,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2258,7 +2519,9 @@
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Typescript for the Microsoft Developer",
@@ -2267,7 +2530,9 @@
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2290,7 +2555,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Look into your Application with Azure Application Insights",
@@ -2299,7 +2566,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2322,7 +2591,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2345,7 +2616,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2368,7 +2641,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Typescript for the Microsoft Developer",
@@ -2377,7 +2652,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2400,7 +2677,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2423,7 +2702,9 @@
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "What\u0027s Happening in My App?, Application Insights",
@@ -2432,7 +2713,9 @@
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Building Mobile Applications with Ionic",
@@ -2441,7 +2724,9 @@
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Building Mobile Applications with React Native",
@@ -2450,7 +2735,9 @@
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2473,7 +2760,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
@@ -2482,7 +2771,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2505,7 +2796,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Look into your Application with Application Insights",
@@ -2514,7 +2807,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2537,7 +2832,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Building Native Application with React Native and Javascript",
@@ -2546,7 +2843,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2569,7 +2868,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Building Native Applications with Ionic and Javascript",
@@ -2578,7 +2879,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2601,7 +2904,9 @@
         "room": "",
         "comments": "**Keynote**",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Being More Personable",
@@ -2610,7 +2915,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Building Native Applications with Ionic and Javascript",
@@ -2619,7 +2926,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2642,7 +2951,9 @@
         "room": "",
         "comments": "See the blog post \u0027I\u0027m Speaking on a Boat\u0027",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2665,7 +2976,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Typescript for the Microsoft Developer",
@@ -2674,7 +2987,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2697,7 +3012,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Build Native Mobile Apps Using Ionic and Javascript",
@@ -2706,7 +3023,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2729,7 +3048,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Look into Your Application with Application Insights",
@@ -2738,7 +3059,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2761,7 +3084,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Build Native Applications with Ionic and Javascript",
@@ -2770,7 +3095,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2793,7 +3120,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2816,7 +3145,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Build Native Mobile Apps using Javascript and React Native",
@@ -2825,7 +3156,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2848,7 +3181,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Typescript for the Microsoft Developer",
@@ -2857,7 +3192,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       },
       {
         "name": "Introduction to ASP.NET Core",
@@ -2866,7 +3203,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
@@ -2889,7 +3228,9 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "EST",
