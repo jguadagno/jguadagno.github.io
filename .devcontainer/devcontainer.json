@@ -25,6 +25,7 @@
 				"bierner.markdown-preview-github-styles", 
 				"Github.copilot",
 				"GitHub.vscode-pull-request-github",
+				"github.vscode-github-actions",
 				"Shopify.ruby-lsp"
 			]
 		}
