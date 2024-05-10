@@ -36,6 +36,42 @@
     "inPerson": "In Person"
   },
   {
+    "eventName": "DevSum24",
+    "eventUrl": "https://www.devsum.se/",
+    "location": "Stockholm, Sweden",
+    "eventStart": "2024-05-16T09:00:00",
+    "eventEnd": "2024-05-17T17:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tips with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2024-05-16T14:20:00",
+        "room": "E5",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": true
+      },
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "2024-05-17T13:10:00",
+        "room": "M2",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "CET",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "Software Design \u0026 Development 2024",
     "eventUrl": "https://sddconf.com/",
     "location": "London, UK",
