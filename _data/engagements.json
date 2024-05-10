@@ -78,8 +78,8 @@
     "eventStart": "2024-05-07T09:00:00",
     "eventEnd": "2024-05-09T17:00:00",
     "comments": "Register with code \u0027***GUADAGNO50***\u0027 for $50 off registration!",
-    "isCanceled": false,
-    "isCurrent": true,
+    "isCanceled": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Application Architecture Patterns",
@@ -126,7 +126,7 @@
     "eventEnd": "2024-05-07T17:00:00",
     "comments": "Use discount code [JosephGuadagno15](https://www.eventbrite.com/e/540887036687/?discount=JosephGuadagno15) for 15% off.",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Learn New Languages with Developer Containers in VS Code",
