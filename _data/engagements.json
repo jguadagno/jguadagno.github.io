@@ -43,7 +43,7 @@
     "eventEnd": "2024-05-17T17:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Debugging Tips and Tips with Visual Studio",
@@ -79,7 +79,7 @@
     "eventEnd": "2024-05-17T17:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Debugging Tips and Tips with Visual Studio",
