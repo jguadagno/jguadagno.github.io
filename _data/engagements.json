@@ -108,53 +108,6 @@
     "inPerson": "In Person"
   },
   {
-    "eventName": "DEVintersection",
-    "eventUrl": "https://www.devintersection.com/",
-    "location": "Las Vegas, NV",
-    "eventStart": "2024-05-07T09:00:00",
-    "eventEnd": "2024-05-09T17:00:00",
-    "comments": "Register with code \u0027***GUADAGNO50***\u0027 for $50 off registration!",
-    "isCanceled": true,
-    "isCurrent": false,
-    "presentation": [
-      {
-        "name": "Application Architecture Patterns",
-        "url": "/presentations/application-architecture-patterns",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": false,
-        "isPanel": false
-      },
-      {
-        "name": "Debugging Tips and Tricks with Visual Studio",
-        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": false,
-        "isPanel": false
-      },
-      {
-        "name": "Scaling Your .NET Application Using Azure",
-        "url": "/presentations/scaling-your-dotnet-application-using-azure",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": false,
-        "isPanel": false
-      }
-    ],
-    "timezone": "PST",
-    "inPerson": "In Person"
-  },
-  {
     "eventName": "LambdaConf 2024",
     "eventUrl": "https://www.lambdaconf.us/",
     "location": "Estes Park, CO",
