@@ -7,7 +7,7 @@ header:
 ---
 Joe Guadagno is a currently Vice President of IT for [RT²](https://www.rt2.com){:target="_blank"}.
 He has been writing software for over 20 years, has been an active member of the .NET community,
-serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years.
+formerly serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years.
 He has spoken through the United States and international events on topics ranging from Microsoft .NET,
 Microsoft Azure, Ionic, Bootstrap, and many others.
 You can see the complete list at
@@ -21,10 +21,10 @@ and on his blog at [https://www.josephguadagno.net](/)
 ### Some of my notable achievements
 
 * Microsoft Developer Services [MVP](https://jjg.me/MVPLink){:target="_blank"} – Since January 2007
-* Serving on the [.NET Foundation](https://dotnetfoundation.org/){:target="_blank"} Board of Directors
-  * President (Since July 2023)
+* Previously served on the [.NET Foundation](https://dotnetfoundation.org/){:target="_blank"} Board of Directors
+  * President (July 2023 - July 2024)
   * Vice President (October 2022 – June 2023)
-* Streaming '*Coding with JoeG*' on [Twitch](https://twitch.tv/jguadagno){:target="_blank"}
+* Occasionally streaming '*Coding with JoeG*' on [Twitch](https://twitch.tv/jguadagno){:target="_blank"}
 * [Progress](https://www.progress.com/){:target="_blank"} [Champion](https://www.progress.com/champion){:target="_blank"} - Since January 2022
 * [Telerik](https://www.telerik.com/){:target="_blank"} [Ninja](https://www.telerik.com/ninjas){:target="_blank"} - (August 2020 - January 2022)
 * [C# Corner](https://www.c-sharpcorner.com/){:target="_blank"} [MVP](https://www.c-sharpcorner.com/article/how-to-become-a-csharp-corner-mvp/){:target="_blank"} - Since Sept 2020

@@ -308,7 +308,7 @@ I actively publish content on my blog at [https://josephguadagno.net](https://jo
 
 | **Organization / Work** | **Role** | **When** |
 | --- | --- | --- |
-| .NET Foundation Board of Directors | President | 2023-Present |
+| .NET Foundation Board of Directors | President | 2023-2024 |
 | .NET Foundation Board of Directors | Vice President and Outreach Committee | 2022-2023 |
 | .NET Foundation | Member Committee Member | 2019-2021 |
 | INETA Community Leadership Summit at Microsoft TechEd | Organizer | 6/2012 |
