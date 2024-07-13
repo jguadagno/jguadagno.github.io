@@ -3,7 +3,7 @@ title: "My JetBrains Rider Plugins—June 2022 Edition"
 header:
 og_image: /assets/images/posts/header/rider-plugins.png
 date: 2022-06-23 17:25:00 -0700
-date_modified: 2024-07-12 21:27:00 -0700
+last_modified_at: 2024-07-12 21:27:00 -0700
 
 categories:
 - Articles
