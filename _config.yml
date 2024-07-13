@@ -17,7 +17,7 @@ title: JosephGuadagno.net
 email: jguadagno@hotmail.com
 name: "Joseph Guadagno"
 description: >- # this means to ignore newlines until "baseurl:"
-  Microsoft Developer Services MVP, VP of IT at RT², Organizer of Desert Code Camp
+  Microsoft Developer Services MVP, Public Speaker, VP of IT at RT², Organizer of Desert Code Camp
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title
 url: "https://www.josephguadagno.net" # the base hostname & protocol for your site, e.g. https://example.com
@@ -35,7 +35,7 @@ og_image: /assets/images/og_image.png
 author: 
   name        : "Joseph Guadagno"
   bio         : >-
-    Microsoft Developer Services MVP, VP of IT at RT², Organizer of Desert Code Camp
+    Microsoft Developer Services MVP, Public Speaker, VP of IT at RT², Organizer of Desert Code Camp
   avatar      : "/assets/images/authors/Joe_Guadagno_512x512.jpg"
   picture     : "/assets/images/authors/Joe_Guadagno_512x512.jpg"
   location    : "Chandler, AZ, USA"

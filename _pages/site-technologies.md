@@ -2,6 +2,7 @@
 title: Site Technologies
 date: 2019-02-26T21:02:13+00:00
 permalink: /site-technologies/
+description: Site technologies used for JosephGuadagno.NET
 ---
 Here is a list of technologies that were used to create this site.
 

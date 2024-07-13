@@ -2,6 +2,7 @@
 title: Privacy Policy
 date: 2018-05-23T10:38:56+00:00
 permalink: /privacy-policy/
+description: Privacy Policy for JosephGuadagno.NET
 ---
 ## Who we are
 

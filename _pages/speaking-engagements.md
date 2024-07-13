@@ -3,6 +3,7 @@ title: Speaking Engagements
 permalink: /speaking-engagements/
 header:
     og_image: /assets/images/pages/speaking-engagements.png
+description: A list of speaking engagements that Joseph Guadagno is scheduled to speak at or has spoken at.
 # strfTime: http://strftime.net/
 # liquid date filter: https://shopify.github.io/liquid/filters/date/
 ---

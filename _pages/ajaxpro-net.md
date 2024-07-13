@@ -4,6 +4,7 @@ date: 2015-03-04T17:05:54+00:00
 dsq_thread_id:
   - "75176961"
 permalink: /ajaxpro-net/
+description: AjaxPro.NET, Microsoft Developer Services MVP, VP of IT at RT², Organizer of Desert Code Camp
 ---
 **Please Note:** The creator of this library has stopped development on this project. I recommend that you look at the [Ajax Toolkit](https://www.asp.net/ajax){:target="_blank"} for future Ajax development.
 {: .notice--info}

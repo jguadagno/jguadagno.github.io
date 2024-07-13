@@ -4,6 +4,7 @@ permalink: /about-joseph-guadagno/
 classes: wide
 header:
     og_image: /assets/images/pages/about-joseph-guadagno.png
+description: About Joseph Guadagno, Microsoft Developer Services MVP, Public Speaker, VP of IT at RT², Organizer of Desert Code Camp
 ---
 Joe Guadagno is a currently Vice President of IT for [RT²](https://www.rt2.com){:target="_blank"}.
 He has been writing software for over 20 years, has been an active member of the .NET community,

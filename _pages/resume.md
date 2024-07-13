@@ -4,6 +4,7 @@ excerpt:
 permalink: /resume/
 header:
     og_image: /assets/images/pages/resume.png
+description: Resume Joseph Guadagno, Microsoft Developer Services MVP, Public Speaker, VP of IT at RT², Organizer of Desert Code Camp
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "file-alt"

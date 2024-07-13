@@ -6,6 +6,7 @@ dsq_thread_id:
 permalink: /contact/
 header:
     og_image: /assets/images/pages/contact.png
+description: Contact Joseph Guadagno, Microsoft Developer Services MVP, Public Speaker, VP of IT at RT², Organizer of Desert Code Camp
 ---
 I'll answer your email as soon as I can.
 

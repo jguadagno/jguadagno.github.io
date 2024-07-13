@@ -3,6 +3,7 @@ title: Presentations
 permalink: /presentations/
 header:
     og_image: /assets/images/pages/presentations.png
+description: Presentations that Joseph Guadagno can deliver for your event, conference, or organization.
 ---
 If you would like for me to speak at your event, please [contact me]({% link _pages/contact.md %}).
 {: .notice--info}
