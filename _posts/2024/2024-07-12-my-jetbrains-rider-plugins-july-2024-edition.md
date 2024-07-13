@@ -1,7 +1,7 @@
 ﻿---
 title: "My JetBrains Rider Plugins — July 2024 Edition"
 header:
-og_image: /assets/images/posts/header/rider-plugins.png
+og_image: /assets/images/posts/header/rider-plugins-2024-07.png
 date: 2024-07-12 21:27:00 -0700
 categories:
 - Articles
