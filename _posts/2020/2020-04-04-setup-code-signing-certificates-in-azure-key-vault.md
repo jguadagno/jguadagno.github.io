@@ -20,7 +20,7 @@ In this post, we'll take a look at how to store Code Signing Certificates in an 
 
 ### Code Signing Certificate
 
-What is a code signing certificate you ask? I'm glad you asked! According to {:target="_blank"} code signing certificates are used by software developers to digitally sign apps, drivers, and software programs as a way for end-users to verify that the code they receive has not been altered or compromised by a third party. They include your signature, your company's name, and if desired, a timestamp.
+What is a code signing certificate you ask? I'm glad you asked! According to [DigiCert](https://www.globalsign.com/en/code-signing-certificate){:target="_blank"} code signing certificates are used by software developers to digitally sign apps, drivers, and software programs as a way for end-users to verify that the code they receive has not been altered or compromised by a third party. They include your signature, your company's name, and if desired, a timestamp.
 
 Essentially, they are a way to validate that source code, packages, executables, etc., comes from who it says it's from, similarly to how certificates on a web site authenticate the web site when you go to HTTPS enabled web site.
 
