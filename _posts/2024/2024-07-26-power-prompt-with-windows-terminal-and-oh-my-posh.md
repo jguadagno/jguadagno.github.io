@@ -1,5 +1,5 @@
 ---
-title: "Power Prompt with Windows Terminal and Oh My Prompt"
+title: "Power Prompt with Windows Terminal and Oh My Posh"
 header:
     og_image: /assets/images/posts/header/power-prompt.png
 date: 2024-07-26 21:55:00 -0700
