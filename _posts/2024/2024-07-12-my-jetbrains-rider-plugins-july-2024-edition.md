@@ -3,6 +3,7 @@ title: "My JetBrains Rider Plugins — July 2024 Edition"
 header:
     og_image: /assets/images/posts/header/rider-plugins-2024-07.png
 date: 2024-07-12 21:27:00 -0700
+last_modified_at: 2024-07-31 15:43:00 -0700
 categories:
 - Articles
 tags:
@@ -34,6 +35,7 @@ So here is the list.
 | [JetBrains AI Assistant](https://plugins.jetbrains.com/plugin/22282-jetbrains-ai-assistant){:target="_blank"}          | JetBrains AI Assistant provides AI-powered features for software development based on the JetBrains AI Service. The service transparently connects you, as an IDE user, to different large language models (LLMs). ***Note***: This plugin is free but requires a paid subscription service |
 | [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x){:target="_blank"}           | Let's you know if there is a keystroke shortcut for any mouse based IDE commands                                                                                                    |
 | [Structured Logging](https://plugins.jetbrains.com/plugin/12832-structured-logging){:target="_blank"}  | Contains some useful analyzers for structured logging. Supports Serilog, NLog, and Microsoft.Extensions.Logging                                                                     |
+| [Uno Platform](https://plugins.jetbrains.com/plugin/24653-uno-platform){:target="_blank"}|The Uno Platform plugin for JetBrains Rider enables Hot Reload support for Uno Platform apps, streamlining the development of cross-platform .NET Mobile, Web, and Desktop Apps.|
 
 ### Microsoft Specific Development
 
