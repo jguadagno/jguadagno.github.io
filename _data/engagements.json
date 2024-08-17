@@ -131,8 +131,8 @@
       {
         "name": ".NET Workshop with Hands-On API Building",
         "url": "/presentations/dot-net-workshop-with-hands-on-api-building",
-        "date": "",
-        "room": "",
+        "date": "2024-11-06T10:00:00",
+        "room": "Workshop Room 4",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false,
@@ -140,10 +140,21 @@
         "isPanel": false
       },
       {
+        "name": "Discussion Panel: Navigating the Future of Technology and Innovation",
+        "url": "https://tunisiadevdays.net/single-speaker/137fb55c-d120-4a6b-9e15-98123df17302",
+        "date": "2024-11-07T11:10:00",
+        "room": "Main Room",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel":  true
+      },
+      {
         "name": "Protecting a .NET Core API with Microsoft Identity Platform (Microsoft Entra)",
         "url": "/presentations/protecting-a-net-core-api-with-microsoft-identity-platform",
-        "date": "",
-        "room": "",
+        "date": "2024-11-08T11:20:00",
+        "room": "Room A",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false,
