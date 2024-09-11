@@ -1,5 +1,30 @@
 [
   {
+    "eventName": "NDC London",
+    "eventUrl": "https://www.ndclondon.com/",
+    "location": "London, UK",
+    "eventStart": "2025-01-27T09:00:00",
+    "eventEnd": "2025-01-31T17:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+      "name": "Write Uno Time, Run Everywhere with the Uno Platform",
+      "url": "https://ndclondon.com/agenda/write-uno-time-run-everywhere-with-the-uno-platform-0h6h/01ltoebptb0",
+      "date": "2025-01-29T16:20:00",
+      "room": "Room 4",
+      "comments": "",
+      "isCanceled": false,
+      "isWorkshop": false,
+      "isKeynote": false,
+      "isPanel": false
+      }
+    ],
+    "timezone": "UTC",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "ESPC24 - European SharePoint, Office 365 \u0026 Azure Conference",
     "eventUrl": "https://www.sharepointeurope.com/",
     "location": "Stockholm, Sweden",
