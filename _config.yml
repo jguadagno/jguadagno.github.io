@@ -76,6 +76,9 @@ author:
     - label: "Sponsor - Buy Me a Tea"
       icon: "fas fa-fw fa-coffee"
       url: "https://buymeacoffee.com/jguadagno"
+    - label: "Headshots"
+      icon: "fas fa-fw fa-camera"
+      url: "https://jjg.me/headshots"
 
 # Build settings
 markdown: kramdown
