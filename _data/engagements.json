@@ -52,7 +52,7 @@
   {
     "eventName": "Advanced Technology Days 2024",
     "eventUrl": "https://www.advtechdays.com/",
-    "location": "New Delhi, India",
+    "location": "Zagreb, Croatia",
     "eventStart": "2024-11-28T09:00:00",
     "eventEnd": "2024-11-29T17:00:00",
     "comments": "",
@@ -94,53 +94,6 @@
       }
     ],
     "timezone": "UTC+2",
-    "inPerson": "In Person"
-  },
-  {
-    "eventName": "C# Corner Conference 2024",
-    "eventUrl": "https://conference.c-sharpcorner.com",
-    "location": "New Delhi, India",
-    "eventStart": "2024-10-15T09:00:00",
-    "eventEnd": "2024-10-19T17:00:00",
-    "comments": "",
-    "isCanceled": false,
-    "isCurrent": true,
-    "presentation": [
-      {
-        "name": "To be announced",
-        "url": "",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": true,
-        "isPanel": false
-      },
-      {
-        "name": "To be announced",
-        "url": "",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": false,
-        "isPanel": true
-      },
-      {
-        "name": "To be announced",
-        "url": "",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": false,
-        "isPanel": false
-      }
-    ],
-    "timezone": "IST",
     "inPerson": "In Person"
   },
   {
@@ -188,6 +141,111 @@
       }
     ],
     "timezone": "CET",
+    "inPerson": "In Person"
+  },
+  {
+    "eventName": "Name TO BE ANNOUNCED",
+    "eventUrl": "https://www.josephguadagno.net/",
+    "location": "Beirut, Lebanon",
+    "eventStart": "2024-11-02T09:00:00",
+    "eventEnd": "2024-11-02T17:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tips with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      },
+      {
+        "name": "Dev Containers. What are they and why do you need them?",
+        "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      },
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      },
+      {
+        "name": "Help Your Application Scale with Azure",
+        "url": "/presentations/help-your-application-scale-with-azure",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "UTC+3",
+    "inPerson": "In Person"
+  },
+  {
+    "eventName": "C# Corner Conference 2024",
+    "eventUrl": "https://conference.c-sharpcorner.com",
+    "location": "New Delhi, India",
+    "eventStart": "2024-10-15T09:00:00",
+    "eventEnd": "2024-10-19T17:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "To be announced",
+        "url": "",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": true,
+        "isPanel": false
+      },
+      {
+        "name": "To be announced",
+        "url": "",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": true
+      },
+      {
+        "name": "To be announced",
+        "url": "",
+        "date": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "IST",
     "inPerson": "In Person"
   },
   {
