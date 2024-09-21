@@ -202,41 +202,19 @@
     "inPerson": "In Person"
   },
   {
-    "eventName": "C# Corner Conference 2024",
-    "eventUrl": "https://conference.c-sharpcorner.com",
+    "eventName": "Action AI Conference 2024",
+    "eventUrl": "https://actionaiconf.com/",
     "location": "New Delhi, India",
-    "eventStart": "2024-10-15T09:00:00",
-    "eventEnd": "2024-10-19T17:00:00",
+    "eventStart": "2024-10-18T08:00:00",
+    "eventEnd": "2024-10-18T20:00:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
       {
-        "name": "To be announced",
-        "url": "",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": true,
-        "isPanel": false
-      },
-      {
-        "name": "To be announced",
-        "url": "",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": false,
-        "isPanel": true
-      },
-      {
-        "name": "To be announced",
-        "url": "",
-        "date": "",
+        "name": "AI for Business Leaders and Product Managers",
+        "url": "/presentations/ai-for-business-leaders-and-product-managers",
+        "date": "2024-10-18T09:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
