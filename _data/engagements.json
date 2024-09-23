@@ -144,64 +144,6 @@
     "inPerson": "In Person"
   },
   {
-    "eventName": "Name TO BE ANNOUNCED",
-    "eventUrl": "https://www.josephguadagno.net/",
-    "location": "Beirut, Lebanon",
-    "eventStart": "2024-11-02T09:00:00",
-    "eventEnd": "2024-11-02T17:00:00",
-    "comments": "",
-    "isCanceled": false,
-    "isCurrent": true,
-    "presentation": [
-      {
-        "name": "Debugging Tips and Tips with Visual Studio",
-        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": false,
-        "isPanel": false
-      },
-      {
-        "name": "Dev Containers. What are they and why do you need them?",
-        "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": false,
-        "isPanel": false
-      },
-      {
-        "name": "Application Architecture Patterns",
-        "url": "/presentations/application-architecture-patterns",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": false,
-        "isPanel": false
-      },
-      {
-        "name": "Help Your Application Scale with Azure",
-        "url": "/presentations/help-your-application-scale-with-azure",
-        "date": "",
-        "room": "",
-        "comments": "",
-        "isCanceled": false,
-        "isWorkshop": false,
-        "isKeynote": false,
-        "isPanel": false
-      }
-    ],
-    "timezone": "UTC+3",
-    "inPerson": "In Person"
-  },
-  {
     "eventName": "Action AI Conference 2024",
     "eventUrl": "https://actionaiconf.com/",
     "location": "New Delhi, India",
