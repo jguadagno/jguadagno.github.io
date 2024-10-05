@@ -6,6 +6,15 @@ sourceUrl:
 powerPointUrl: https://1drv.ms/p/s!AjjAeFnJ5G5Ahf8yaASSiTUHDYRpGA?embed=1&amp;em=2&amp;wdAr=1.7777777777777777
 sessionizeUrl: ai-for-business-leaders-and-product-managers/106211
 level: 100
+links:
+ - title: Britannica - Methods and Goals of Artificial Intelligence
+   url: https://jjg.me/aiblpm_goals 
+ - title: National Institute of Standards and Technology - Artificial Intelligence Risk Management Framework
+   url: https://jjg.me/aiblpm_riskframework 
+ - title: UNESDOC - Recommendation on the Ethics of Artificial Intelligence
+   url: https://jjg.me/aiblpm_ethics 
+ - title: Harvard Data Science Review - A Unified Framework of Five Principles for AI in Society
+   url: https://jjg.me/aiblpm_principles 
 ---
 Artificial Intelligence (AI) is transforming industries and redefining the competitive landscape. However, for business leaders and product managers, understanding AI’s potential and practical applications can be daunting. This session aims to demystify AI, providing a comprehensive introduction tailored to those at the helm of business strategy and product development.
 
