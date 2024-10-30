@@ -8,6 +8,14 @@ sessionizeUrl: protecting-a-.net-api-with-microsoft-identity-plat/33628
 level: 300
 redirect_from:
     - /presentations/protecting-a-net-core-api-with-microsoft-identity-platform
+links:
+    - title: Microsoft identity platform
+      url: https://learn.microsoft.com/en-us/entra/identity-platform/p/?WT.mc_id=AZ-MVP-4024623
+    - title: Identity and access management (IAM) fundamental concepts
+      url: https://learn.microsoft.com/en-us/entra/fundamentals/identity-fundamental-concepts/?WT.mc_id=AZ-MVP-4024623
+    - title: Microsoft Identity Web
+      url: https://www.nuget.org/packages/Microsoft.Identity.Web
+
 ---
 
 With the rise of microservices and cloud-native applications, securing APIs has become paramount for protecting data and ensuring seamless user experiences. This session delves into using C# with the Microsoft Identity Platform to secure APIs effectively.
@@ -18,6 +26,6 @@ We'll walk through the following:
 
 * Setting up Azure Active Directory (AD) tenant with the necessary '*application*' registrations to use the power of Azure and Microsoft Account logins to secure your API and applications.
 * Add authentication and authorization to your API
-* Add authentication and clients.
+* Add authentication to client applications.
 
 At the end of the session, you'll want to go and add authentication and authorization to your APIs.
