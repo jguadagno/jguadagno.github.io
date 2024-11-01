@@ -60,10 +60,10 @@
     "isCurrent": true,
     "presentation": [
       {
-        "name": "To be announced",
-        "url": "",
-        "date": "",
-        "room": "",
+        "name": "Opening Keynote",
+        "url": "https://www.advtechdays.com/en/lectures/",
+        "date": "2024-11-28T09:30:00",
+        "room": "Dvorana 10",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false,
@@ -71,10 +71,10 @@
         "isPanel": false
       },
       {
-        "name": "To be announced",
-        "url": "",
-        "date": "",
-        "room": "",
+        "name": "Panel: So, you wanna be a CTO?",
+        "url": "https://www.advtechdays.com/en/lectures/",
+        "date": "2024-11-29T14:00:00",
+        "room": "Dvorana 10",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false,
