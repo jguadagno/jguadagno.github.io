@@ -84,8 +84,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "",
-        "room": "",
+        "date": "2024-11-28T12:30:00",
+        "room": "Dvorana 10",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false,
@@ -93,7 +93,7 @@
         "isPanel": false
       }
     ],
-    "timezone": "UTC+2",
+    "timezone": "UTC+1",
     "inPerson": "In Person"
   },
   {
@@ -104,7 +104,7 @@
     "eventEnd": "2024-10-18T20:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "AI for Business Leaders and Product Managers",
