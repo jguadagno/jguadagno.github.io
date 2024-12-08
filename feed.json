@@ -58,6 +58,23 @@ layout: null
                 {% else %}
                 "{{ site.author }}"
                 {% endif %}
+            {% endif %},
+            {% if post.author %}
+                "authors": [{% if post.author.name %} {
+                "name": "{{ post.author.name }}",
+                "url": {% if post.author.url %}"{{ post.author.url }}"{% else %}null{% endif %},
+                "avatar": {% if post.author.avatar %}"{{ post.author.avatar }}"{% else %}null{% endif %}
+                }]
+                {% else %}"{{ post.author }}"{% endif %}
+            {% else %}
+                "authors": [{% if site.author.name %} {
+                "name": "{{ site.author.name }}",
+                "url": {% if site.author.url %}"{{ site.author.url }}"{% else %}null{% endif %},
+                "avatar": {% if site.author.avatar %}"{{ site.author.avatar }}"{% else %}null{% endif %}
+                }]
+                {% else %}
+                "{{ site.author }}"
+                {% endif %}
             {% endif %}
         }{% if forloop.last == false %},{% endif %}
     {% endfor %}
