@@ -6,6 +6,11 @@ dsq_thread_id:
   - "5317250463"
 categories:
   - Arizona Technology News
+tags:
+  - Desert Code Camp
+  - Arizona
+  - Technology
+  - Community
 ---
 It's time for the 7th iteration of [Desert Code Camp](https://www.desertcodecamp.com){:target="_blank"} (my second one as director).  Desert Code Camp will be held on May 15th at DeVry again.
 

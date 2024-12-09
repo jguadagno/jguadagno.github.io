@@ -6,6 +6,10 @@ dsq_thread_id:
   - "3564061460"
 categories:
   - Articles
+tags:
+  - Community
+  - Speaking
+  - Events
 ---
 I've noticed that at a lot of conferences I attend conference attendees are afraid to approach the conference speakers. It would appear that some attendees think that speakers are idols and untouchable. I want to say that conference speakers are not _idols_. While I can not speak for every conference speaker, I know myself, and the other conference speakers that I know, love when conference attendees come up to us. So when you are at your next conference, or user group meeting, feel free to walk up to the speaker after the talk or if you see them in the hallway.
 

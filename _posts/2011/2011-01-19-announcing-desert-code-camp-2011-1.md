@@ -1,11 +1,15 @@
 ---
-title: Annoucing Desert Code Camp 2011.1
+title: Announcing Desert Code Camp 2011.1
 date: 2011-01-19T04:24:00+00:00
-permalink: /2011/01/19/annoucing-desert-code-camp-2011-1/
-dsq_thread_id:
-  - "4269591793"
+permalink: /2011/01/19/announcing-desert-code-camp-2011-1/
+redirect_from:
+  - /2011/01/19/annoucing-desert-code-camp-2011-1
 categories:
   - Arizona Technology News
+tags:
+  - Desert Code Camp
+  - Arizona
+  - Community
 ---
 I am pleased to announce the date for Desert Code Camp 2011.1, aka April 2011 code camp. It will take place on Saturday, April, 2nd, 2010.  
 

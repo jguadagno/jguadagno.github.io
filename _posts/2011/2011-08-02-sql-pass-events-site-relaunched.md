@@ -4,6 +4,9 @@ date: 2011-08-02T03:35:20+00:00
 permalink: /2011/08/02/sql-pass-events-site-relaunched/
 categories:
   - News
+tags:
+  - Events
+  - Community
 ---
 Are you going to [PASS Summit 2011](https://www.sqlpass.org/summit/2011/){:target="_blank"} in October? If so, you might want to check out the updated site I launched called [PASS Summit Events](https://passsummitevents.info){:target="_blank"}. PASS Summit Events will be your one stop shop for all of the events and after parties at PASS Summit 2011. Anyone can create an event on the site, all you need to do is sign in with your Windows Live credentials. Once signed in a link to create an event will appear. Please note, the event will not be available until it is reviewed and approved for display by an administrator. I added a few social media features like integration with Facebook and Twitter. A cleaner more consistent UI, bitly url shorten for sharing the event. And better support for Bing maps. Check out the [site](https://passsummitevents.info){:target="_blank"}.
 

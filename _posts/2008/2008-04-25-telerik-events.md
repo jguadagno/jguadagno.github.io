@@ -2,10 +2,13 @@
 title: Telerik.Events
 date: 2008-04-25T21:57:12+00:00
 permalink: /2008/04/25/telerik-events/
-dsq_thread_id:
-  - "3618030515"
 categories:
   - Articles
+tags:
+  - Sitefinity
+  - Telerik
+  - Events
+  - .NET
 ---
 This module is responsible for adding, removing, deleting events from the Sitefinity system. This guide is meant to supplement the documentation that is available for Sitefinity. This document will cover the following:
 

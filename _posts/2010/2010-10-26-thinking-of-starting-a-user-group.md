@@ -2,10 +2,11 @@
 title: Thinking of starting a User Group
 date: 2010-10-26T05:56:39+00:00
 permalink: /2010/10/26/thinking-of-starting-a-user-group/
-dsq_thread_id:
-  - "4761123885"
 categories:
   - Articles
+tags:
+  - Community
+  - User Group
 ---
 A while ago I was asked by a friend of mine in SoCal (Southern California) about how to start a user group. After answering his email I decided it would be nice to have it in a blog post, so here it is.
 

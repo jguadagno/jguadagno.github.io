@@ -4,6 +4,10 @@ date: 2009-10-19T21:35:29+00:00
 permalink: /2009/10/19/gangplank-jr-track-at-code-camp-jr/
 categories:
   - Arizona Technology News
+tags:
+  - Desert Code Camp
+  - Arizona
+  - Community
 ---
 Got a kid interested in Technology? Bring them to the **Gankplank Jr track at Code Camp Jr.** taking place at [Desert Code Camp](https://www.desertcodecamp.com/){:target="_blank"}.
 

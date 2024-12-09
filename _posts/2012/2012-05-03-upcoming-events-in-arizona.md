@@ -6,6 +6,10 @@ dsq_thread_id:
   - "4379692859"
 categories:
   - Arizona Technology News
+tags:
+  - Events
+  - Community
+  - Arizona
 ---
 I was going through the [AZ Groups](https://www.azgroups.com){:target="_blank"} calendar this week and noticed that we have a lot of events going on in Arizona in the next two related to Microsoft .NET Technologies.  Here are some of the notable ones.
 

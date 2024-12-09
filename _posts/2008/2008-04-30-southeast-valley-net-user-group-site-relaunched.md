@@ -5,5 +5,10 @@ permalink: /2008/04/30/southeast-valley-net-user-group-site-relaunched/
 categories:
   - Arizona Technology News
   - News
+tags:
+  - .NET
+  - User Group
+  - Community
+  - Arizona
 ---
 Come check out the new site [https://www.sevdnug.org](https://www.sevdnug.org){:target="_blank"}

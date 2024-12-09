@@ -6,6 +6,10 @@ dsq_thread_id:
   - "3581937283"
 categories:
   - Articles
+tags:
+  - Technology
+  - ASP.NET
+  - jQuery Mobile
 ---
 
 Sometime ago, September of 2012, [Scott Hanselman](https://www.hanselman.com/){:target="_blank"} blogged about a cool new library written for ASP.NET WebForms called [ASP.NET Friendly URLs](https://aspnetfriendlyurls.codeplex.com/){:target="_blank"}. The ASP.NET Friendly URLs library makes it easy to enable extensionless URLs for file-based handlers (e.g. ASPX, ASHX) in ASP.NET applications.  The library itself is very cool. In a nutshell, you, with two lines of code, can have extensionless URLs in ASP.NET web forms and have different pages served up for mobile devices.  Scott Hanselman's blog post covers all of the details on features and implementation. I wanted to show you a problem that I had with using the library, namely the ViewSwitcher control, with [jQuery Mobile](https://www.jquerymobile.com){:target="_blank"}.

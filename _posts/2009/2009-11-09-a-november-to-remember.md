@@ -5,6 +5,11 @@ permalink: /2009/11/09/a-november-to-remember/
 categories:
   - Articles
   - News
+tags:
+  - Community
+  - INETA
+  - Desert Code Camp
+  - Personal
 ---
 And no it is not because the Yankees won the World Series (although congrats to them) it is because it has been an awesome month for me personally and professionally.
 

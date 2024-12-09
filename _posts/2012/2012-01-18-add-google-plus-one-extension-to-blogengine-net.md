@@ -6,6 +6,8 @@ dsq_thread_id:
   - "3585868671"
 categories:
   - Articles
+tags:
+  - Web
 ---
 A few years ago I built my personal website using [BlogEngine.NET](https://www.dotnetblogengine.net/){:target="_blank"}, every once in a while I tend to pay attention to the site and “freshen it up”.  Back in December of 2011, I upgraded to version 2.5 of BlogEngine.NET and updated the theme.  Last night I added [facebook](https://facebook.com){:target="_blank"} [like](https://developers.facebook.com/docs/reference/plugins/like/){:target="_blank"} buttons to all those post and pages courtesy of [isharpnote](https://isharpnote.com/isharpnote/post/2011/03/17/Facebook-Like-Button-Extension-For-BlogEngine-20.aspx "Facebook Like Button Extension For BlogEngine 2.0"){:target="_blank"}. Well I wanted to add a [Google Plus One](https://www.google.com/+1/button/) {:target="_blank"}button to my site also but I could not find any BlogEngine.NET extensions for it, so what does every developer do, create one.  I started with the “[Facebook Like with Google Plus Extension for BlogEngine 2.5](https://isharpnote.com/isharpnote/post/2011/07/24/Facebook-Like-with-Google-Plus-Extension-for-BlogEngine-25.aspx){:target="_blank"}” extension from isharpnote and tweaked it for my needs.
 

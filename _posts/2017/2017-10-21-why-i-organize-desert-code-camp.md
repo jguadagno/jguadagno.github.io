@@ -4,6 +4,11 @@ date: 2017-10-21T13:53:08+00:00
 permalink: /2017/10/21/why-i-organize-desert-code-camp/
 categories:
   - Articles
+tags:
+  - Desert Code Camp
+  - Community
+  - Speaking
+  - Arizona
 ---
 While I was mingling at the Desert Code Camp after party, I was talking to a long time attendee, Liz. Liz makes the drive up from Tucson every year to attend the event. Liz and I were chatting for a bit when she told me how much she loved Desert Code Camp and how much she has learned from it. She also told me a few tips and tricks that she learned over the years to be about to handle all of the learning that happens. She was kind enough to share this with me so I will share it with you.
 

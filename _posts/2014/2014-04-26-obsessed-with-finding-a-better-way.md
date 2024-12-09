@@ -6,6 +6,9 @@ dsq_thread_id:
   - "3615185379"
 categories:
   - Articles
+tags:
+  - Personal
+  - Desert Code Camp
 ---
 For those that are friends, follow this blog or follow me on [Twitter](https://www.twitter.com/jguadagno){:target="_blank"}, know that about 9 months ago I started working at [Rocket Mortgage](https://www.rocketmortgage.com){:target="_blank"} as a Software Architect thanks to a friend of mine [Keith Elder.](https://keithelder.net/){:target="_blank"}  That is not the reason for the post, however.  At Rocket Mortgage, part of the ideas we live by at all of the family companies is our “**[ISMs](https://www.rocketmortgage.com/press-room/fast-facts/our-isms/){:target="_blank"}**”. One of the ISMs is *Obsessed with finding a better way*, The ISM is defined as
 

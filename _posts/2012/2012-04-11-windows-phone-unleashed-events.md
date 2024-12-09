@@ -2,10 +2,12 @@
 title: Windows Phone Unleashed Events
 date: 2012-04-11T17:19:22+00:00
 permalink: /2012/04/11/windows-phone-unleashed-events/
-dsq_thread_id:
- - "4379692998"
 categories:
- - Technology News
+  - Technology News
+tags:
+  - Events
+  - Community
+  - Arizona
 ---
 There are two events Windows Phone Unleashed events coming to the Phoenix metropolitan area in May. Please register soon before the events sell out. Registration and prerequisites can be found next to each of the events.
 

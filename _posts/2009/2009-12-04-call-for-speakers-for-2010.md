@@ -3,6 +3,10 @@ title: Call for speakers for 2010
 date: 2009-12-04T14:51:15+00:00
 categories:
   - Arizona Technology News
+tags:
+  - Community
+  - User Group
+  - .NET
 ---
 The [Southeast Valley .NET User Group](https://www.sevdnug.org){:target="_blank"} is looking for some speakers for 2010. The meetings are held monthly typically on the fourth Thursday of the month, although we can move the meeting to make it easier for speakers.  The meetings are held in Chandler, AZ about 20 miles south of downtown Phoenix, AZ.
 

@@ -2,10 +2,10 @@
 title: Motivation
 date: 2012-04-09T15:48:00+00:00
 permalink: /2012/04/09/motivation/
-dsq_thread_id:
-  - "4379693258"
 categories:
   - Articles
+tags:
+  - Personal
 ---
 According to the [Bing Dictionary](https://www.bing.com/Dictionary/){:target="_blank"}, [motivation](search?q=define+motivation&qpvt=definition+motivation&FORM=DTPDIA){:target="_blank"} is defined as follows:
 
@@ -15,7 +15,7 @@ According to the [Bing Dictionary](https://www.bing.com/Dictionary/){:target="_b
 
 Motivation can be a powerful driver to move you forward in your life, goals and/or projects.  For the last few months I have been haphazardly trying to lose some weight, and by haphazardly I mean, that the intent was there just not a lot of motivation.
 
-That changed two weeks ago at DevConnections when I had two friends of mine comment on my clothing and overall appearance.  One said to my wife, admittedly jokingly, _How can you go out with this guy looking like this when you are so beautiful_ (paraphrasing a bit)? And another making comment while I was working the INETA booth commenting on my attire and general appearance stating (paraphrasing again), _How can you represent INETA looking like that?_ Based on the other comments from that person made thought out the day al,l I heard was _You look like a fat slob!_ And after looking at myself and hearing what some friends were saying to me, I realized that since my mother passed back in October of 09, and taking on the extra community work that I have let myself go.  I tended to wear baggier clothes that were comfortable and I wore sneakers everywhere which was not typical of my style.
+That changed two weeks ago at DevConnections when I had two friends of mine comment on my clothing and overall appearance.  One said to my wife, admittedly jokingly, _How can you go out with this guy looking like this when you are so beautiful_ (paraphrasing a bit)? And another making comment while I was working the INETA booth commenting on my attire and general appearance stating (paraphrasing again), _How can you represent INETA looking like that?_ Based on the other comments from that person made thought out the day all I heard was _You look like a fat slob!_ And after looking at myself and hearing what some friends were saying to me, I realized that since my mother passed back in October of 09, and taking on the extra community work that I have let myself go.  I tended to wear baggier clothes that were comfortable and I wore sneakers everywhere which was not typical of my style.
 
 Well DevConnections and some friends like [Elijah Manor](https://www.elijahmanor.com/){:target="_blank"}, [loosing 46 pounds](https://www.elijahmanor.com/2012/04/how-programmer-lost-46-pounds-and.html){:target="_blank"}, I am now **motivated** again. I am, as of this morning, 238 pounds and according to most charts and sites based on my height, I should be around 165 pounds although I would be happy with around 180 pounds. So that means I need to lose 58 pounds which I am capable of doing.  In a previous lifestyle change, I lost around 75 pounds.
 

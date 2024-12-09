@@ -6,6 +6,11 @@ dsq_thread_id:
   - "4907478523"
 categories:
   - Arizona Technology News
+tags:
+  - Community
+  - User Group
+  - .NET
+  - Arizona
 ---
 ## MSDN Events: Take Your Applications Sky High with Cloud Computing and the Windows Azure Platform
 

@@ -5,6 +5,12 @@ permalink: /2010/08/17/announcing-desert-code-camp-2010-2/
 categories:
   - Arizona Technology News
   - Technology News
+tags:
+  - Desert Code Camp
+  - Community
+  - Arizona
+  - Technology
+  - Events
 ---
 I am pleased to announce the date for Desert Code Camp 2010.2, aka Nov2010 code camp.  It will take place **Saturday, November, 13th, 2010**. There are a few changes to this camp.
 

@@ -2,10 +2,13 @@
 title: MVP Summit Events Site Relaunched
 date: 2010-12-16T17:52:00+00:00
 permalink: /2010/12/16/mvp-summit-events-site-relaunched/
-dsq_thread_id:
-  - "3710607423"
 categories:
   - Technology News
+tags:
+  - Events
+  - Community
+  - Microsoft
+  - MVP
 ---
 Are you going to [Microsoft 2011 Global MVP Summit](https://2011mvpsummit.com){:target="_blank"} in February? If so, you might want to check out the updated site I launched called [MVP Summit Events](https://mvpsummitevents.info){:target="_blank"}. MVP Summit Events will be your one stop shop for all of the events and after parties at MVP11. Anyone can create an event on the sign. All you need to do is sign in with you Windows Live credentials, and link to create an event will appear. Please note, the event will not be available until it is reviewed and approved for display. I added a few new social media features like integration with Facebook and Twitter. A cleaner more consistent UI, bitly url shorten for sharing the event. And better support for Bing maps. Check out the [site](https://mvpsummitevents.info){:target="_blank"}. [![MVPSummitEvents.info](/assets/images/posts/image_1.png "MVPSummitEvents.info")](https://mvpsummitevents.info "MVP Summit Events"){:target="_blank"}
 

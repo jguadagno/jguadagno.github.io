@@ -6,6 +6,11 @@ dsq_thread_id:
   - "3842850253"
 categories:
   - Articles
+tags:
+  - Mix10
+  - Events
+  - Community
+  - Microsoft
 ---
 Are you going to [Mix10](https://live.visitmix.com "Mix10"){:target="_blank"} in March? If so, you might want to check out the new site I launched call [Mix 10 Events](https://visitmixevents.info "VisitMixEvents.info"){:target="_blank"}.  Mix 10 Events will be you one stop shop for all of the events and after parties at Mix10. Anyone can create an event on the sign. All you need to do is sign in with you Windows Live credentials, and link to create an event will appear.  Please note, the event will not be available until it is reviewed and approved for display. ![VisitMixEvents.info](/assets/images/posts/visitmixinfo-snapshot.png "VisitMixEvents.info"){:target="_blank"}
 

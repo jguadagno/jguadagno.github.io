@@ -6,6 +6,11 @@ dsq_thread_id:
   - "5317250179"
 categories:
   - Arizona Technology News
+tags:
+  - Community
+  - User Group
+  - .NET
+  - Arizona
 ---
 Join us for our 2nd social mixer of the year at Brunswick Zone in Gilbert for two hours of bowling and socializing taking place on Monday 2/22 at 6:00 PM.
 

@@ -6,6 +6,9 @@ dsq_thread_id:
   - "3615253834"
 categories:
   - Articles
+tags:
+  - .NET
+  - Sitefinity
 ---
 Download this document: [How to create a Sitefinity custom module](https://sevdnug.org/Libraries/Sitefinity_Modules/SiteFinity%20Custom%20Module%20Creation.sflb)
 

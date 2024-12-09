@@ -5,6 +5,9 @@ permalink: /2009/08/10/laidoffcampphx-was-a-success/
 categories:
   - Arizona Technology News
   - Articles
+tags:
+  - Community
+  - Arizona
 ---
 Hats off to [Rachel Reese](https://rachelreese.us/){:target="_blank"} for successfully organizing the first Laid Off Camp Phoenix. The event went smooth as could be.  I think the highlight of the event was watching all of the networking that went on during the event and after the event at Liberty Market.
 

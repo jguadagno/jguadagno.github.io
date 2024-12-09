@@ -6,6 +6,10 @@ dsq_thread_id:
   - "3742416602"
 categories:
   - Arizona Technology News
+tags:
+  - Arizona
+  - Community
+  - Events
 ---
 There are three great events coming to Phoenix this month.
 
