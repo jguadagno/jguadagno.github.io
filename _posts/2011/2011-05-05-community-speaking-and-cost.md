@@ -4,6 +4,10 @@ date: 2011-05-05T17:26:53+00:00
 permalink: /2011/05/05/community-speaking-and-cost/
 categories:
   - Articles
+tags:
+  - Community
+  - Speaking
+  - Presentations
 ---
 At the beginning of 2011, I set a goal for myself to speak at least twice at a community event that was outside of my area, the Phoenix metro area.  There are three reasons for this.
 

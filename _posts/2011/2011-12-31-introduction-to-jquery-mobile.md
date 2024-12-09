@@ -6,6 +6,9 @@ dsq_thread_id:
   - "3617238514"
 categories:
   - Articles
+tags:
+  - jQuery
+  - Web
 ---
 Back in November, I sat in on a session by [Scott Hanselman](https://www.hanselman.com/blog/){:target="_blank"} on creating a mobile site on ASP.NET using [jQuery Mobile](https://jquerymobile.com/){:target="_blank"}.  While I was watching this session I could not stop thinking how easy is this, I can do this for the mobile version of the [Microsoft Global MVP Summit mobile](https://mvpsummitevents.info/m/){:target="_blank"} site. So like most of us, it took me a month to get to it.
 

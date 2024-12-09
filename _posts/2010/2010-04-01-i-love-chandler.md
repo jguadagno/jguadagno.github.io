@@ -1,11 +1,12 @@
 ---
-title: I Love Chandler…
+title: I Love Chandler...
 date: 2010-04-01T16:19:55+00:00
 permalink: /2010/04/01/i-love-chandler/
-dsq_thread_id:
-  - "5317250711"
 categories:
   - Arizona Technology News
+tags:
+  - Arizona
+  - Personal
 ---
 No not Chandler Bing from Friends, although maybe Monica :smile: … it's living in Chandler, Arizona.
 

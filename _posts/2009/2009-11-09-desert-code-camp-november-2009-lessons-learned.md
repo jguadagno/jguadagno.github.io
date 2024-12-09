@@ -6,6 +6,10 @@ dsq_thread_id:
   - "4250770206"
 categories:
   - Arizona Technology News
+tags:
+  - Desert Code Camp
+  - Arizona
+  - Community
 ---
 My first Code Camp is done and I wanted to jot down some of the lessons I learned.
 

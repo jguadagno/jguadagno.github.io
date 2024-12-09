@@ -6,6 +6,9 @@ dsq_thread_id:
   - "3654714092"
 categories:
   - Technology News
+tags:
+  - Events
+  - Community
 ---
 Are you going to [Tech·Ed North America 2011](https://northamerica.msteched.com/myportal?fbid=R0PcL7ZnU9F "Tech·Ed North America 2011"){:target="_blank"} in May? If so, you might want to check out the updated site I launched called [Tech·Ed Events](https://TechEdEvents.info "TechEd Events"){:target="_blank"}. Tech·Ed Events will be your one stop shop for all of the events and after parties at Tech·Ed North America. Anyone can create an event on the site. All you need to do is sign in with your Windows Live credentials, and link to create an event will appear. Please note, the event will not be available until it is reviewed and approved for display. I added a few social media features like integration with Facebook and Twitter. A cleaner more consistent UI, bitly url shorten for sharing the event. And better support for Bing maps. Check out the [site](https://www.techedevents.info "TechEd Events"){:target="_blank"}. [![image](/assets/images/posts/image_thumb_1.png "image")](/assets/images/posts/image_2.png){:target="_blank"}
 

@@ -4,6 +4,9 @@ date: 2011-05-11T18:56:54+00:00
 permalink: /2011/05/11/ineta-and-teched/
 categories:
   - News
+tags:
+  - INETA
+  - Community
 ---
 Since being elected the President of [INETA](https://www.ineta.org){:target="_blank"} North America in April, I have heard some good and bad things about INETA from several people.  I want to make INETA better and more relevant for people and user groups. That being said, I will be at Microsoft [Tech·Ed](https://northamerica.msteched.com){:target="_blank"} in Atlanta next week along with the rest of the INETA board and would like to chat with people about the good, bad and ugly of INETA.  I will be
 

@@ -6,6 +6,10 @@ dsq_thread_id:
   - "3621086018"
 categories:
   - Articles
+tags:
+  - Sitefinity
+  - ASP.NET
+  - .NET
 ---
 So, I heard that the [Sitefinity](https://www.sitefinity.com/){:target="_blank"} application had this generic content module that was pretty easy to use to create your own module with. Why do you need to create a new generic content based module you ask?  There a few answers to that question.  I created a new generic content based module because I wanted to track all of the discounts that were offered to the [Southeast Valley .NET user group](https://www.sevdnug.org/){:target="_blank"} and since free time is a something I do not have lately, it was an easy choice.  You might also want to leverage the existing Sitefinity generic content module because you do not have any development resources available to.  As the name implies it is generic, so generic in fact, it is used by the blog feature, news feature and events feature. After a week's worth of digging into the code and documentation, I was successful. So that you do not have to go through the pain, I will lay out the instructions for you.  This guide will require virtually no coding, just a little HTML markup, and some web.config changes. There are few steps involved in creating a new copy of the generic module.  
 

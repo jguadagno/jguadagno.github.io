@@ -3,6 +3,10 @@ title: "New Type of Identity Theft"
 date: 2019-09-24 12:30:00 -0700
 categories:
   - Articles
+tags:
+  - Identity Theft
+  - Security
+  - Technology
 excerpt: A few days ago, I got an email with the subject of *Inquiry* from a *Michael Fleming* at *michaeltfleming6@gmail.com*.  Initially, I didn't think anything of it.  This time of the year I get a lot of emails with random subjects because of [Desert Code Camp](https://www.desertcodecamp.com/home). So I opened it and here is what it said.
 ---
 

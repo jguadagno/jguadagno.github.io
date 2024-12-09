@@ -4,6 +4,8 @@ date: 2016-09-11T05:46:31+00:00
 permalink: /2016/09/11/15-years-ago-i-witnessed-something-that-i-will-never-forget/
 categories:
   - Articles
+tags:
+  - Personal
 ---
 
 ![image-right](https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Seconds_after_first_plane.JPG/250px-Seconds_after_first_plane.JPG "North Tower Plane Crash"){: .align-right}

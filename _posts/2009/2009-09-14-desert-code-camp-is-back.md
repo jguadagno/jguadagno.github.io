@@ -5,6 +5,10 @@ permalink: /2009/09/14/desert-code-camp-is-back/
 categories:
   - Arizona Technology News
   - News
+tags:
+  - Desert Code Camp
+  - Arizona
+  - Community
 ---
 The next Desert Code Camp is scheduled for Saturday, November 7th, 2009 at DeVry University.  Great sessions, networking, food, and WIFI (yes WIFI) will be provided. So come out learn, teach, network. It will be great.
 

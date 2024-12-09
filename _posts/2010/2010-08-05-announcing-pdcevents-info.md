@@ -4,6 +4,10 @@ date: 2010-08-05T21:16:05+00:00
 permalink: /2010/08/05/announcing-pdcevents-info/
 categories:
   - Technology News
+tags:
+  - Community
+  - Events
+  - Microsoft
 ---
 Back a while ago, I created a site to track events at the Microsoft MVP Global Summit. I did this because there are so many after parties or events that happen at this summit as well as other conferences.  Well I put up a site to track events at the [Microsoft Professional Developers Conference](https://www.microsoftpdc.com "Microsoft PDC"){:target="_blank"} (PDC), it is [PDCEvents.info](https://bit.ly/PDCEvents){:target="_blank"}
 

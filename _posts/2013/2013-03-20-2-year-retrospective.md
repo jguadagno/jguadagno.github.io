@@ -6,6 +6,9 @@ dsq_thread_id:
   - "3682166604"
 categories:
   - Articles
+tags:
+  - Community
+  - INETA
 ---
 At around 6:30am PST on 3/19/2013, I hung up the phone from my last INETA North America Board meeting in which I was the President. I actually did not hit me until Nancy said, “Hey Joe, this is your last call as President” towards the end of the call. I was both relieved and saddened at the same time. I was relieved primarily because not everything was my ultimate responsibility anymore. I was saddened because I believe I had just started to gain momentum in making INETA more relevant again.
 

@@ -6,6 +6,9 @@ dsq_thread_id:
   - "3617067418"
 categories:
   - Articles
+tags:
+  - Visual Studio
+  - .NET
 ---
 Have you ever tried to debug an application and wish the Visual Studio debugger did not display `{Namespace.ObjectName}` when you wanted to see some of the details of the objects?
 

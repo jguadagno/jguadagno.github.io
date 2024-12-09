@@ -9,7 +9,7 @@ categories:
 tags:
   - Personal
 ---
-While I am grateful for the old man bladder that woke me up at 2 am (AZ time) only to realize that my daughter was not home yet which kept me up (thank you parenting gene) which gave me all the energy in the world to wake up for the day, it did provide me with the energy to write this blog post. ***The Silver Lining***. This time of the year in the U.S. we celebrate Thanksgiving, a holiday where we reflect and give thanks for the things we have. While 2020, and the pandemic has thrown a curveball for many of us…
+While I am grateful for the old man bladder that woke me up at 2 am (AZ time) only to realize that my daughter was not home yet which kept me up (thank you parenting gene) which gave me all the energy in the world to wake up for the day, it did provide me with the energy to write this blog post. ***The Silver Lining***. This time of the year in the U.S. we celebrate Thanksgiving, a holiday where we reflect and give thanks for the things we have. While 2020, and the pandemic has thrown a curve ball for many of us…
 
 - We've had people catch the virus or had a loved one who did
 - We've had people that have had children during this

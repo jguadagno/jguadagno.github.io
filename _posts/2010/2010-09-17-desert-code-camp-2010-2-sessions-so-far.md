@@ -4,6 +4,11 @@ date: 2010-09-17T21:30:41+00:00
 permalink: /2010/09/17/desert-code-camp-2010-2-sessions-so-far/
 categories:
   - Arizona Technology News
+tags:
+  - Desert Code Camp
+  - Community
+  - Arizona
+  - Technology
 ---
 Here is the list of sessions that have been submitted and approved as of September 17th, 2010. It even includes 3 sessions for our Gangplank Jr. track for kids.
 

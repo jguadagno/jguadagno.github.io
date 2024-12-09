@@ -2,6 +2,8 @@
 title: What It Means to be a Software Engineer
 categories:
   - Articles
+tags:
+  - Technology
 ---
 There has been much talk on social media about being a Software Engineer/Developer/Programmer in the last week or so, probably because we are all being safe and staying in our houses with not much else to do. Conversations have included what it takes to be an engineer, how to get started in engineering, and explaining what a ‘Software Engineer' does.
 

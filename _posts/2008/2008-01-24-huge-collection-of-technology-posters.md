@@ -6,6 +6,9 @@ dsq_thread_id:
   - "3886692501"
 categories:
   - Articles
+tags:
+  - Miscellaneous
+  - Technology
 ---
 A [blog post](https://blogs.msdn.com/cbowen/archive/2007/12/09/got-tech-posters.aspx){:target="_blank"} from [Chris Bowen](https://blogs.msdn.com/cbowen/default.aspx){:target="_blank"} has been making the rounds.  It contains quite a few technology posters available.  Here is a short sampling...
 

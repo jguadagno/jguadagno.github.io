@@ -4,6 +4,10 @@ date: 2009-10-01T16:01:50+00:00
 permalink: /2009/10/01/another-phoenix-area-meet-up/
 categories:
   - Arizona Technology News
+tags:
+  - Arizona
+  - Community
+  - Technology
 ---
 Phoenix Geek Tag was a minor success so I decided to put together another Geek outing in October. Most likely October 20th starting around 6pm. I have narrowed it down to two places.
 

@@ -5,6 +5,11 @@ dsq_thread_id:
   - "3602488251"
 categories:
   - Articles
+tags:
+  - ASP.NET
+  - Sitemap
+  - Search
+  - SEO
 ---
 ## Sitemaps
 

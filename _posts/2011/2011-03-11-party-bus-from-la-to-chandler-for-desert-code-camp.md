@@ -6,6 +6,10 @@ dsq_thread_id:
   - "3640244414"
 categories:
   - Technology News
+tags:
+  - Desert Code Camp
+  - Arizona
+  - Community
 ---
 Back in January at [SoCal Code Camp](https://www.socalcodecamp.com/){:target="_blank"} Fullerton, [Daniel Egan](https://TheSociableGeek.com){:target="_blank"}, [Woody Pewitt](https://woodyp.info){:target="_blank"} and I were chatting about the different camps and how can we collaborate better. That's where the idea of the party bus can up.  We said, "What about getting a bus from LA to go to Chandler for Desert Code Camp?" If it was successful, we would do the same for the next [SoCal Code Camp](https://www.socalcodecamp.com/){:target="_blank"} in San Diego.
 
