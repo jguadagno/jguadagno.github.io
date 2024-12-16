@@ -3,6 +3,8 @@ title: "My Presentation and Travel Equipment"
 header:
     og_image: /assets/images/posts/header/travel-gear.png
 date: 2024-12-15 18:54:00 -0700
+last_modified_at: 2024-12-16 10:24:00 -0700
+
 categories:
 - Articles
 tags:
@@ -55,6 +57,8 @@ This charger is very handy when you are traveling. It has 4 USB-C ports, two USB
 This charger is very handy when you are traveling for the night time. The *Wireless Charging Station for Samsung, 3 in 1 Foldable Wireless Charger for Samsung Galaxy S24 Ultra/S24/S23 Ultra/S22/Note 20/iPhone 16 Pro Max, Galaxy Watch Ultra/7/6/5/4/Buds(Travel Essentials)* ([Amazon Link](https://amzn.to/3ZTr49f){:target="_blank"}). It has 3 charging pads, one for your phone, one for your watch, and one for your earbuds. I set it up in my hotel room when I get there to charge my phone, watch, and ear buds.
 
 Since public speaking generally requires travel and you can not guarantee the quality of the power outlets on airplanes, trains, or at the venue, I always carry a portable charger with me. I use the *25800mAh Power Bank, 22.5w Fast Charging Battery Pack* ([Amazon Link](https://amzn.to/49HvRhC){:target="_blank"}). This charger is very handy when you are traveling. It has a 25800mAh battery capacity and can charge multiple devices at the same time. It is very handy when you are traveling and you need to charge your laptop, phone, and other devices.
+
+Recently, I added trackers to all of my bags, including my laptop bag.  Since I have an Android based phone, I added the *Pebblebee Tracker Clip Universal - Rechargable Item Tracker* ([Amazon Link](https://amzn.to/3ZVfNVW){:target="_blank"}). This product works both with Android and iOS devices. It came in very handy on the return flight from Stockholm when my bags decided to extend their vacation and not come home with me. :smile: Pebblebee also has a card version of the tracker that I have in my wallet and large suitcases. The *Pebblebee Tracker Card Universal - Rechargeable Slim Item Tracker* ([Amazon Link](https://amzn.to/4gdMDHm){:target="_blank"}).
 
 ## International Travel Equipment
 
