@@ -2,10 +2,26 @@
 title: Write Uno Time, Run Everywhere with the Uno Platform
 isKeynote: false
 isRetired: false
-sourceUrl: 
+sourceUrl: https://github.com/jguadagno/write-once-complete
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2181022&authkey=AHB8x2dRGLqj7r4&em=2
 sessionizeUrl: /write_uno_time_run_everywhere_with_/39898
 level: 200
+links:
+ - title: Uno Platform
+   url: https://platform.uno
+ - title: Uno Playground
+   url: https://jjg.me/uno_playground
+ - title: Uno Gallery
+   url: https://jjg.me/uno_gallery
+ - title: Uno Samples
+   url: https://jjg.me/uno_samples
+ - title: Uno Docs
+   url: https://jjg.me/uno_docs
+ - title: Uno Troubleshooting
+   url: https://jjg.me/uno_troubleshooting
+ - title: WinUI 3 Gallery
+   url: https://jjg.me/uno_winui3
+   
 ---
 C# brings you the power to write apps on any platform, like Windows, Linux, and macOS.  However, when it comes to building an application with a user interface, you usually must resort to the lowest common denominator, JavaScript, or multiple tools like Xamarin, Blazor, etc. Now you have a new option to build pixel-perfect user interfaces using C# and Windows Xaml. That option is the Uno Platform.  The Uno Platform allows you to write your application in .NET C# and XAML using a single-codebase and execute it everywhere .NET runs – iOS, Android, Windows, macOS, Linux, and Web (via WebAssembly). Oh, I forgot to mention, the Uno Platform is free and open source. You can use the existing controls ecosystem with it.
 
