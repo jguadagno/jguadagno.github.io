@@ -1,10 +1,10 @@
 ---
-title: Build and Ship It!
+title: Build, Package, Sign, and Publish a .NET Library to NuGet
 isKeynote: false
 isRetired: false
 sourceUrl: https://gist.github.com/jguadagno/b99bec48d4ecde8b4cec72b119fbdcfa
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2180218&authkey=ADoNOI1w81OXGt4&em=2
-sessionizeUrl: build_and_ship_it/28595
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQSWHcTH_AAYSLEFiwmVHT_kAdNrZoPmko4aw72VWXH-6o8
+sessionizeUrl: build-package-sign-and-publish-a-.net-library-to-n/125125
 youTubeId: D5aEDPt0ZTs
 youTubeCaption: Build and Ship It! at Cloud Summit Live
 level: 300

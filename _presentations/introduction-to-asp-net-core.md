@@ -1,7 +1,7 @@
 ---
 title: Introduction to ASP.NET Core
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl:
 powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2170448&amp;authkey=AHxgEaccTBnvqLw&amp;em=2
 sessionizeUrl: introduction_to_aspnet_core/17925
