@@ -9,8 +9,15 @@ youTubeCaption: A Lap Around Microsoft Azure. Azure Virtual Conference
 sessionizeUrl: a_lap_around_microsoft_azure/38962
 level: 200
 ---
-Microsoft Azure has a lot to offer us as developers. Looking at the product list can be daunting at times. In this session, we will look at how we can take an on-premises ASP.NET Core application that uses SQL and host it in Microsoft Azure.
+Azure has a lot to offer us as developers. Companies often look to move to the cloud for enhanced security, flexibility, and scalability. Looking at the product list in Azure can be daunting at times. In this session, we will look at how we can take an on-premises ASP.NET Core application that uses SQL Server and host it in Microsoft Azure.
 
-We'll walk through publishing this application as a Web Application, creating an Azure SQL database to host our data and wrap it up by adding some application logging and telemetry with Azure Monitor's Application Insights.
+In this session, we'll cover:
+
+* Preparing the on-premises ASP.NET Core application for migration
+* Selecting the appropriate Azure services and resources
+* Configuring and optimizing Azure environments to meet application requirements
+* Implementing best practices for a seamless migration process
+* Addressing common challenges and troubleshooting issues encountered during migration
+* Monitoring and maintaining the Azure-hosted application
 
 At the end of the talk, we will have taken the on-premises application and moved it to the cloud with only a few clicks and some knowledge.
