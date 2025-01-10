@@ -22,4 +22,17 @@ links:
  - title: Azure Key Vault - Alerts
    url: https://jjg.me/aks-alerts
 ---
-Azure Key Vault is a cloud service that provides a secure and centralized way to store and manage your application secrets, such as passwords, encryption keys, certificates, and connection strings. In this session, you will learn how to use Azure Key Vault to protect your application secrets from unauthorized access, rotation, expiration, and auditing. You will also learn how to integrate Azure Key Vault with other Azure services and tools, such as App Service, Functions, Logic Apps, Visual Studio Code, and PowerShell. By the end of this session, you will be able to leverage Azure Key Vault to enhance the security and compliance of your applications.
+In an era where data breaches and cyber threats are increasingly prevalent, securing sensitive information in your applications is paramount. Azure Key Vault provides a solution for managing and safeguarding cryptographic keys, secrets, and certificates, making it an essential tool for enhancing the security of your .NET applications.
+
+This technical session will offer a deep dive into how to use Azure Key Vault to secure your .NET applications. Key topics covered will include:
+
+* **Introduction to Azure Key Vault**: Overview of Azure Key Vault's capabilities and its role in securing application secrets.
+* **Integrating Azure Key Vault with .NET**: Step-by-step guide on integrating Azure Key Vault with .NET applications, including setting up the Key Vault, configuring access policies, and using the Azure Key Vault SDK.
+* **Managing Secrets**: Techniques for securely storing and retrieving application secrets, such as connection strings, API keys, and other sensitive information, using Azure Key Vault.
+* **Key Management**: Best practices for generating, storing, and using cryptographic keys for encryption, decryption, and digital signatures in your .NET applications.
+* **Certificate Management**: Utilizing Azure Key Vault for managing SSL/TLS certificates, including automated certificate renewal and rotation.
+* **Access Control and Monitoring**: Implementing fine-grained access control using Azure Active Directory (AAD) and auditing access and usage logs for security monitoring and compliance.
+
+Attendees will leave with a comprehensive understanding of how to leverage Azure Key Vault to enhance the security of their .NET applications. Code examples and best practices will be shared to help you implement secure and robust application secrets management.
+
+Join us to learn how Azure Key Vault can be a game-changer in securing your .NET applications and protecting sensitive data.
