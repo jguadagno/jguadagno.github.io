@@ -38,7 +38,7 @@ INETA was the International .NET Association.  I served on the board for eight y
 ### Community Contributions
 
 * [Organizer of Desert Code Camp](https://www.desertcodecamp.com){:target="_blank"}
-* [Contributes to AZ Give Camp](https:/www.AZGiveCamp.org){:target="_blank"}
+* [Contributes to AZ Give Camp](https://www.AZGiveCamp.org){:target="_blank"}
 
 ### Open Source Projects
 

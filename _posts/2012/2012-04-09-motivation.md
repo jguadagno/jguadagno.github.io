@@ -7,7 +7,7 @@ categories:
 tags:
   - Personal
 ---
-According to the [Bing Dictionary](https://www.bing.com/Dictionary/){:target="_blank"}, [motivation](search?q=define+motivation&qpvt=definition+motivation&FORM=DTPDIA){:target="_blank"} is defined as follows:
+According to the [Bing Dictionary](https://www.bing.com/Dictionary/){:target="_blank"}, [motivation](https://www.bing.com/Dictionary/search?q=define+motivation&qpvt=definition+motivation&FORM=DTPDIA){:target="_blank"} is defined as follows:
 
 1. **giving of reason to act:** the act of giving somebody a reason or incentive to do something
 2. **enthusiasm:** a feeling of enthusiasm, interest, or commitment that makes somebody want to do something, or something that causes such a feeling

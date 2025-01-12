@@ -1815,7 +1815,7 @@
       },
       {
         "name": "Write Uno Time, Run Everywhere with the Uno Platform",
-        "url": "presentations/write-uno-time-run-everywhere-with-the-uno-platform",
+        "url": "/presentations/write-uno-time-run-everywhere-with-the-uno-platform",
         "date": "2021-09-16T13:15:00",
         "room": "2215-A",
         "comments": "",
@@ -2467,7 +2467,7 @@
     "presentation": [
       {
         "name": "Application Architecture",
-        "url": "/presentations/application-architecture",
+        "url": "/presentations/application-architecture-patterns",
         "date": "2020-06-05T00:00:00",
         "room": "",
         "comments": "",

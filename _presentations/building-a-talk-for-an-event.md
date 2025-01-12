@@ -30,4 +30,4 @@ We'll cover:
 
 Attendees will leave with a deep understanding of the entire process of building a successful conference presentation, from the initial idea to the final delivery. Real-world examples and case studies will be shared, highlighting common challenges and offering practical solutions.
 
-This talk is similar to the [Presentation Preparedness](presentation-preparedness.md) talk.
+This talk is similar to the [Presentation Preparedness]({% link _presentations/presentation-preparedness.md %}) talk.

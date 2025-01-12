@@ -10,9 +10,9 @@ tags:
   - Sitefinity
   - Web
 ---
-{:target="_blank"}feeds let you share your and/or import your events that are stored in Sitefinity.  Here is a library that will let you generate an iCal feed from Sitefinity. Future versions of this library might have us filtering by categories or date.
+iCal feeds let you share your and/or import your events that are stored in Sitefinity.  Here is a library that will let you generate an iCal feed from Sitefinity. Future versions of this library might have us filtering by categories or date.
 
-iCal feed for Sitefinity [CalendarHandler_2](/assets/downloads/CalendarHandler_2.zip)
+iCal feed for Sitefinity [CalendarHandler](/assets/downloads/CalendarHandler.zip)
 
 I've made a few changes since the last release to include some bug fixes.
 
@@ -43,13 +43,13 @@ The class assumes that your events provider is named `Events`, if not you will h
 
 The class maps the following fields to an iCalendar event.
 
-|iCalendar event|Sitefinity Field|
-|--- |--- |
-|Description|Content|
-|Location|LocationName (Meta Field)|
-|Summary|Title (Meta field)|
-|Url|UrlWithExtension|
-|DTStart|Start|
-|DTEnd|End|
+| iCalendar event | Sitefinity Field          |
+|-----------------|---------------------------|
+| Description     | Content                   |
+| Location        | LocationName (Meta Field) |
+| Summary         | Title (Meta field)        |
+| Url             | UrlWithExtension          |
+| DTSTART         | Start                     |
+| DTEND           | End                       |
 
 I believe these meta values are the default meta keys from Sitefinity. If your values differ, you can modify them on lines 64 and 65.
