@@ -3,6 +3,7 @@ title: "Docker Volume Location on Windows"
 header:
     og_image: /assets/images/posts/header/docker-volume-location-on-windows.png
 date: 2024-07-13 08:40:00 -0700
+last_modified_at: 2025-01-11 20:10:00 -0700
 categories:
 - Articles
 tags:
@@ -16,7 +17,24 @@ First off, this post assumes you have Windows, either Windows 10 or Windows 11, 
 
 ## Docker Volume Location
 
-When you use Docker Desktop on Windows, the Docker volumes are stored in the WSL file system.  The WSL file system is located at `\\wsl$\` on the Windows file system.  The Docker volumes are stored in the WSL file system at `\\wsl.localhost\docker-desktop-data\data\docker\volumes`.  You should see a folder for each volume you have created in Docker Desktop.
+**Update**: 2025-01-11: Docker changed the locations of the volumes with release *v26.1.4*.
+{: .notice--info}
+
+When you use Docker Desktop on Windows, the Docker volumes are stored in the WSL file system.  The WSL file system is located at `\\wsl$\` on the Windows file system.  
+
+If you want to see what version of docker you are running, you can open a command prompt or Powershell and run the following command.
+
+```bash
+docker --version
+```
+
+### Current Docker Version (v26.1.4 and Higher)
+
+The Docker volumes are stored in the WSL file system at `\\wsl$\docker-desktop\mnt\docker-desktop-disk\data\docker\volumes`.  You should see a folder for each volume you have created in Docker Desktop. ***Note***: The `wsl.localhost` is no longer used in the path.
+
+### Previous Docker Version (v26.1.3 and Lower)
+
+The Docker volumes are stored in the WSL file system at `\\wsl.localhost\docker-desktop-data\data\docker\volumes`.  You should see a folder for each volume you have created in Docker Desktop.
 
 Here is a screenshot of my Docker Desktop volumes.
 
@@ -37,11 +55,27 @@ If you do access the volumes a lot, you can create a symbolic link to the volume
 
 #### Command Prompt
 
+Version 26.1.4 and Higher
+
+```bash
+mklink /D C:\Volumes \\wsl$\docker-desktop\mnt\docker-desktop-disk\data\docker\volumes
+```
+
+Version 26.1.3 and Lower
+
 ```bash
 mklink /D C:\Volumes \\wsl.localhost\docker-desktop-data\data\docker\volumes
 ```
 
 #### PowerShell
+
+Version 26.1.4 and Higher
+
+```shell
+New-Item -ItemType SymbolicLink -Path "c:\Volumes" -Target "\\wsl$\docker-desktop\mnt\docker-desktop-disk\data\docker\volumes"
+```
+
+Version 26.1.3 and Lower
 
 ```shell
 New-Item -ItemType SymbolicLink -Path "c:\Volumes" -Target "\\wsl.localhost\docker-desktop-data\data\docker\volumes"
@@ -49,7 +83,7 @@ New-Item -ItemType SymbolicLink -Path "c:\Volumes" -Target "\\wsl.localhost\dock
 
 #### File Explorer
 
-If you open up File Explorer, you should see a folder called `Volumes` in the root of the `C:\` drive.  This folder is a symbolic link to the Docker volumes.  In addition, you can see the Docker folder that contains the volumes, `docker-desktop-data`, by expanding the Linux file system in the File Explorer. This is only a Windows 11 feature.
+If you open up File Explorer, you should see a folder called `Volumes` in the root of the `C:\` drive.  This folder is a symbolic link to the Docker volumes.
 
 ![Windows Explorer - Linux Docker Desktop Volumes](/assets/images/posts/2024/docker-volume-location-on-windows/docker-desktop-folder-highlighted.png)
 
@@ -60,4 +94,5 @@ In this post, you learned where the Docker volumes are stored when using Docker 
 ## References
 
 * [Stack Overflow](https://stackoverflow.com/questions/61083772/where-are-docker-volumes-located-when-running-wsl-using-docker-desktop){:target="_blank"}.
+* [Stack Overflow](https://stackoverflow.com/questions/43181654/locating-data-volumes-in-docker-desktop-windows){:target="_blank"}.
 * [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
