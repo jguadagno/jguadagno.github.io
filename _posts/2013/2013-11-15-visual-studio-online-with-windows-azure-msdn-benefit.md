@@ -21,4 +21,4 @@ I went to the Windows Azure account portal to make sure that I did have an activ
 
 > Within a Visual Studio Online account, you simply pay for user plans for the users who join your account and for resources that are shared amongst all users on the account. The first five users with the Basic plan and all eligible MSDN subscribers (Visual Studio Professional with MSDN and above) can join your account at no charge. [Learn more about Visual Studio with MSDN](https://go.microsoft.com/fwlink/?linkid=328238&clcid=0x409){:target="_blank"}.
 
-Hopefully, this helps.  My next post will talk about [Adding Visual Studio Online to a Windows Azure MSDN benefit]({% link _posts/2013/2013-11-15-visual-studio-online-with-windows-azure-msdn-benefit.md %}).
+Hopefully, this helps.  My next post will talk about [Adding Visual Studio Online to a Windows Azure MSDN benefit]({% post_url 2013/2013-11-15-adding-visual-studio-online-to-an-windows-azure-msdn-benefit-subscription %}).

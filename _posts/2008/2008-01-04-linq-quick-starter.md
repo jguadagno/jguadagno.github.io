@@ -14,4 +14,4 @@ Chapter 1 starts off with an brief introduction to [LINQ](https://msdn2.microsof
 
 Chapter 7, which is worth the purchase price of the book covers all of the new Operators that are available to LINQ queries.  This makes the book worthy of purchasing a desktop reference guide for those just getting up to speed on LINQ.
 
-What me to review your book on this blog, please [contact me]({link _pages/about.md %}).
+What me to review your book on this blog, please [contact me]({% link _pages/about-joseph-guadagno.md %}).
