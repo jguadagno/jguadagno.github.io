@@ -3,7 +3,7 @@ title: Scaling Your .NET Application Using Azure
 isKeynote: false
 isRetired: false
 sourceUrl: https://github.com/dotnet-architecture/eShopOnWeb
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2176454&authkey=AAqLcJWjNZk5tns&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBApioBAAAAAAqLcJWjNZk5tns
 sessionizeUrl: scaling-your-.net-application-using-azure/50597
 ---
 Azure provides a lot of services! Azure provides scalable, durable cloud storage, backup, and recovery solutions for any data, large and small. Azure also provides compute services like App Service to create applications in the code, and Azure Functions to build event-driven "server-less" code with ease. Azure can easily work with the infrastructure and application you already have to enhance your existing applications and business continuity strategy cost-effectively.

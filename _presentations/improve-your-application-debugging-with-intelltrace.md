@@ -3,7 +3,7 @@ title: Improve your Application Debugging with IntelliTrace
 isKeynote: false
 isRetired: true
 sourceUrl:
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2169569&amp;authkey=AOFpr6ZffpYjzaM&amp;em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAwQ8BAAAAAOFpr6ZffpYjzaM
 sessionizeUrl: improve_application_debugging_with_/17927
 level: 200
 links:

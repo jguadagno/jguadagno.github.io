@@ -3,7 +3,7 @@ title: Resources for the Modern Learner
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: https://onedrive.live.com/embed?resid=406EE4C95978C038%2189477&authkey=!AJ2OQ6OqDqWt8lQ&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAhV0BAAAAAJ2OQ6OqDqWt8lQ
 sessionizeUrl: resources-for-the-modern-learner/78831
 youTubeId: 
 youTubeCaption: 

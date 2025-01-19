@@ -3,7 +3,7 @@ title: Build a Native Mobile Application using Ionic and JavaScript
 isKeynote: false
 isRetired: false
 sourceUrl:
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2171311&amp;authkey=AGYmbK71qIIX7iE&amp;em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAjxYBAAAAAGYmbK71qIIX7iE
 sessionizeUrl: build_native_applications_with_java/17922
 level: 200
 links:

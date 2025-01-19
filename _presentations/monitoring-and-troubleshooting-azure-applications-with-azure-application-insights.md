@@ -3,7 +3,7 @@ title: Monitoring and Troubleshooting Azure Applications with Azure Application 
 isKeynote: false
 isRetired: false
 sourceUrl:
-powerPointUrl: https://onedrive.live.com/embed?resid=406EE4C95978C038%2194278&authkey=!AO6QELCTIpbP6K8&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBARnABAAAAAO6QELCTIpbP6K8
 sessionizeUrl: monitoring-and-troubleshooting-azure-applications-/67401
 level: 200
 links:

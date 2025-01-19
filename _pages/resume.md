@@ -4,7 +4,7 @@ excerpt:
 permalink: /resume/
 header:
     og_image: /assets/images/pages/resume.png
-description: Resume Joseph Guadagno, Microsoft Developer Services MVP, Public Speaker, VP of IT at RT², Organizer of Desert Code Camp
+description: Resume of Joseph Guadagno, Microsoft Developer Services MVP, Public Speaker, Senior VP of IT at RT², Organizer of Desert Code Camp
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "file-alt"
@@ -21,9 +21,30 @@ Joseph Guadagno
 Remote
 _9/2023 to Present_
 
-#### Vice President of IT
+#### Senior Vice President of IT
 
 *Fill in responsibilities here*
+
+People Management: Led a diverse team of IT professionals, fostering a collaborative and innovative environment to drive the company's technology strategy forward.
+
+* Resource planning
+* Performance management
+* Roles and responsibilities
+* Team building
+* Offshore team/vendor management
+
+License Management: Oversaw the procurement, distribution, and compliance of software licenses to ensure optimal usage and cost-efficiency across the organization.
+
+Vendor Management: Managed relationships with existing vendors and successfully onboarded new vendors, negotiating contracts to achieve favorable terms and ensure the quality of services provided. "T_Mobile" relationship.
+
+* Help Desk started
+* Cyber Security team started
+* Migration to Azure
+* IT Hardening
+* New hardware rollout
+
+Project prioritization process started.
+
 
 ### Rocket Mortgage
 
@@ -325,7 +346,6 @@ I actively publish content on my blog at [https://josephguadagno.net](https://jo
 | INETA North America | Marketing Director | 11/2009 - 2/2011 |
 | TechLunchSouth | Organizer | 1/2009 - 3/2012 |
 | Redwood Estates Homeowners Association | President | 5/2007 - 5/2012 |
-
 
 ## Community Websites
 

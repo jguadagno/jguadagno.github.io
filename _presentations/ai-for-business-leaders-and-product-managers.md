@@ -3,7 +3,7 @@ title: AI for Business Leaders and Product Managers
 isKeynote: true
 isRetired: false
 sourceUrl:
-powerPointUrl: https://1drv.ms/p/s!AjjAeFnJ5G5Ahf8yaASSiTUHDYRpGA?embed=1&amp;em=2&amp;wdAr=1.7777777777777777
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAsn8BAAAAAGgEkok1Bw2EaRg
 sessionizeUrl: ai-for-business-leaders-and-product-managers/106211
 level: 100
 links:

@@ -4,7 +4,7 @@ isKeynote: false
 isRetired: false
 isWorkshop: true
 sourceUrl: https://github.com/jguadagno/app-from-scratch
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2182142&authkey=AJhkZJao3aPnCqk&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBA3kABAAAAAJhkZJao3aPnCqk
 youTubeId:
 youTubeCaption:
 sessionizeUrl: building-and-deploying-a-new-cloud-app-from-scratc/51051

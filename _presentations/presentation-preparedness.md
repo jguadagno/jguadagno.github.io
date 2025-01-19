@@ -3,7 +3,7 @@ title: Presentation Preparedness
 isKeynote: false
 isRetired: false
 sourceUrl:
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2177860&authkey=AGbN0H8VtTxkbvE&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAJDABAAAAAGbN0H8VtTxkbvE
 youTubeId: h3YySNz-rcA?start=4760
 youTubeCaption: Presentation Preparedness. Public Speaking Virtual Conference
 level: 100

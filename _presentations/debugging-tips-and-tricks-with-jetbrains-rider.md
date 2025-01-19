@@ -3,7 +3,7 @@ title: Debugging Tips and Tricks with JetBrains Rider
 isKeynote: false
 isRetired: false
 sourceUrl: https://github.com/jguadagno/mastering-debugging
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2180055&authkey=AKgPMEW4p9IEXvk&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQQ4wHhZyeRuIIBAXUABAAAAAeRf3Q6NvYBJiA6kl43nWPg
 sessionizeUrl: debugging_tips_and_tricks_with_visu/17930
 youTubeId: KM27QGVwgas
 youTubeCaption: Debugging Tips and Tricks with JetBrains Rider at JetBrains .NET Days Online

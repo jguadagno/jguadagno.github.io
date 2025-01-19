@@ -3,7 +3,7 @@ title: .NET 5 - What is it?
 isKeynote: false
 isRetired: true
 sourceUrl:
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2179191&authkey=AFFYuImKsNsScF4&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAVzUBAAAAAFFYuImKsNsScF4
 youTubeId: dQMfN9nGDHA
 youTubeCaption: Granite City, New Hampshire User Group presentation
 level: 100

@@ -3,7 +3,7 @@ title: TypeScript for the Microsoft Developer
 isKeynote: false
 isRetired: false
 sourceUrl: https://github.com/jguadagno/Typescript-for-the-Microsoft-Developer
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2174186&authkey=AGIPgSzQDLKDx2I&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAyiEBAAAAAGIPgSzQDLKDx2I
 youTubeId: gSMFM0HDI_k
 youTubeCaption: TypeScript for the Microsoft Developer. DevReach (Sofia, Bulgaria)
 sessionizeUrl: typescript_for_the_microsoft_develo/17924

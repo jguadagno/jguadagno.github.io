@@ -3,7 +3,7 @@ title: Introduction to jQuery Mobile
 isKeynote: false
 isRetired: true
 sourceUrl:
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2160588&amp;authkey=ADv78eGXLTIGRLM&amp;em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBArOwAAAAAADv78eGXLTIGRLM
 level: 100
 ---
 jQuery Mobile framework takes the “write less, do more” mantra to the next level: Instead of writing unique applications for each mobile device or OS, the jQuery mobile framework allows you to design a single highly branded responsive website or application that will work on all popular smartphone, tablet, and desktop platforms.

@@ -3,7 +3,7 @@ title: What's Happening in My App?
 isKeynote: false
 isRetired: false
 sourceUrl:
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2175532&amp;authkey=AM3IOL_9PzTn6ks&amp;em=2&amp
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBADCcBAAAAAM3IOL_9PzTn6ks
 sessionizeUrl: whats_happening_in_my_app/23124
 level: 200
 links:

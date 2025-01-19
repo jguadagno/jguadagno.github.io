@@ -4,7 +4,7 @@ isKeynote: false
 isRetired: false
 isWorkshop: true
 sourceUrl: 
-powerPointUrl: 
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBA3kABAAAAAJhkZJao3aPnCqk
 youTubeId:
 youTubeCaption:
 sessionizeUrl: dot-net-workshop-with-hands-on-api-building/

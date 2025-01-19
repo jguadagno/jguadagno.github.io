@@ -3,7 +3,7 @@ title: Look into your Application with Azure Application Insights
 isKeynote: false
 isRetired: false
 sourceUrl:
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2171688&authkey=AN6iybrf8svFel0&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBADCcBAAAAAM3IOL_9PzTn6ks
 sessionizeUrl: whats_happening_in_my_app/23124
 level: 200
 links:

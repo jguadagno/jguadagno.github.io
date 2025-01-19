@@ -3,7 +3,7 @@ title: Debugging Tips and Tricks with Visual Studio
 isKeynote: false
 isRetired: false
 sourceUrl: https://github.com/jguadagno/mastering-debugging
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2179157&authkey=AJ16HxBM2bElqjs&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBANTUBAAAAAJ16HxBM2bElqjs
 youTubeId: otR7E-1Vg5s
 youTubeCaption: Debugging Tips and Tricks with Visual Studio at Cleveland .NET User Group
 sessionizeUrl: debugging_tips_and_tricks_with_visu/17930

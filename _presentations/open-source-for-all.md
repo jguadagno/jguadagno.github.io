@@ -3,7 +3,7 @@ title: Open-Source for All
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: https://onedrive.live.com/embed?resid=406EE4C95978C038%2189474&authkey=!APUqndaP59Azi_I&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAgl0BAAAAAPUqndaP59Azi_I
 sessionizeUrl: open-source-for-all/78730
 youTubeId: 
 youTubeCaption: 

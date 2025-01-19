@@ -3,7 +3,7 @@ title: Databinding and Data validation improvements in ASP.NET 4.5 web forms
 isKeynote: false
 isRetired: true
 sourceUrl:
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&amp;resid=406EE4C95978C038%2162462&amp;authkey=AKNG_Kam9n7FJCA&amp;em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBA_vMAAAAAAKNG_Kam9n7FJCA
 level: 200
 ---
 In this session, we will walk through all of the new features added to ASP.NET4.5 with respect to data binding and control validation.

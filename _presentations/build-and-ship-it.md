@@ -3,7 +3,7 @@ title: Build and Ship It!
 isKeynote: false
 isRetired: false
 sourceUrl: https://gist.github.com/jguadagno/b99bec48d4ecde8b4cec72b119fbdcfa
-powerPointUrl: https://onedrive.live.com/embed?cid=406EE4C95978C038&resid=406EE4C95978C038%2180218&authkey=ADoNOI1w81OXGt4&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAWjkBAAAAADoNOI1w81OXGt4
 sessionizeUrl: build_and_ship_it/28595
 youTubeId: D5aEDPt0ZTs
 youTubeCaption: Build and Ship It! at Cloud Summit Live

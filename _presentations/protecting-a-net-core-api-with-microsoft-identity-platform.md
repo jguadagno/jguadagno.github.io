@@ -3,7 +3,7 @@ title: Protecting a .NET API with Microsoft Identity Platform (Microsoft Entra)
 isKeynote: false
 isRetired: false
 sourceUrl:
-powerPointUrl: https://1drv.ms/p/s!AjjAeFnJ5G5AhoBL3L000NR8k5cr1w?embed=1&em=2
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAS4ABAAAAANy9NNDUfJOXK9c
 sessionizeUrl: protecting-a-.net-api-with-microsoft-identity-plat/33628
 level: 300
 redirect_from:
