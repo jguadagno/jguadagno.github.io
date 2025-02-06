@@ -3,6 +3,7 @@ title: "Power Prompt with Windows Terminal and Oh My Posh"
 header:
     og_image: /assets/images/posts/header/power-prompt.png
 date: 2024-07-26 21:55:00 -0700
+last_modified_at: 2025-02-05 19:20:00 -0700
 categories:
 - Articles
 tags:
@@ -205,7 +206,7 @@ There are many ways to customize the prompt. You can change the theme, add segme
 First step is to choose a theme. Themes in Oh-My-Posh are more then just colors, they include segments, which are the different parts of the prompt. I chose the *[PowerLevel10k Modern](https://ohmyposh.dev/docs/themes#powerlevel10k_modern){:target="_blank"}* theme.  You can set the theme by editing your `oh-my-posh` initialization command in your `$PROFILE` file.
 
 ```powershell
-oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\powerlevel10k_modern.omp.json" | Invoke-Expression
+oh-my-posh --init --shell pwsh --config "$env:POSH_THEMES_PATH\powerlevel10k_modern.omp.json" | Invoke-Expression
 ```
 
 This will load the theme from the `powerlevel10k_modern.omp.json` file.  You can find the theme files in the `%POSH_THEMES_PATH%` folder. This is likely in the following folder: `C:\Users\<username>\AppData\Local\Programs\oh-my-posh\themes` directory. There are many [themes](https://ohmyposh.dev/docs/themes){:target="_blank"} to choose from, and you can create your own.
@@ -298,7 +299,7 @@ After installing and importing the modules, your prompt will look like this when
 Here is what my `$PROFILE` file looks like, with respect to the *oh-my-posh* configuration, after adding all of the modules.
 
 ```powershell
-oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\powerlevel10k_modern.omp.json" | Invoke-Expression
+oh-my-posh --init --shell pwsh --config "$env:POSH_THEMES_PATH\powerlevel10k_modern.omp.json" | Invoke-Expression
 Import-Module posh-git
 Import-Module PSReadLine
 Import-Module Terminal-Icons
