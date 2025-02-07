@@ -5,6 +5,7 @@ header:
 date: 2022-09-07 04:22:00 -0700
 categories:
   - News
+  - Archive
 tags:
   - Speaking
   - Presentation

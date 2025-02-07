@@ -2,7 +2,9 @@
 title: "I'm Running for the Board of the DotNet Foundation"
 image: https://avatars3.githubusercontent.com/u/3209610?s=250
 date:   2019-03-19 14:35:20 -0700
-categories: News
+categories: 
+  - News
+  - Archive
 tags: 
   - .NET
   - .NET Core
