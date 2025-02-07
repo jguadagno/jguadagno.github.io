@@ -30,7 +30,7 @@ collections:
 atom_feed:
   path: "https://feeds.feedburner.com/JosephGuadagno"
 feed:
-  posts_limit: 40
+  posts_limit: 4000
 og_image: /assets/images/og_image.png
 author: 
   name        : "Joseph Guadagno"
