@@ -5,6 +5,7 @@ header:
 categories:
   - News
   - Arizona Technology News
+  - Archive
 tags:
   - Desert Code Camp
 ---

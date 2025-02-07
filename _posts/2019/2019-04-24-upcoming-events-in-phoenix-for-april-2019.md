@@ -2,11 +2,12 @@
 title: "Upcoming Events in Phoenix For April 2019"
 date:   2019-04-24 06:30:00 -0700
 categories: 
-- Arizona Technology News
+  - Arizona Technology News
+  - Archive
 tags:  
-    - Arizona
-    - Events
-    - Community
+  - Arizona
+  - Events
+  - Community
 ---
 We have two great technology events taking place in the Phoenix metro area over the next two weeks, [Global Azure Boot Camp](https://www.meetup.com/Phoenix-Azure-User-Group/events/260838019){:target="_blank"} and [SQL Saturday](https://www.meetup.com/Arizona-SQL-Server-User-Group/events/260081750>){:target="_blank"}.
 

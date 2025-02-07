@@ -4,8 +4,8 @@ header:
     og_image: /assets/images/posts/header/coding-with-joeg-reboot.png
 date: 2023-08-10 16:35:00 -0700
 categories:
-- Articles
-- Archive
+  - Articles
+  - Archive
 tags:
   - Twitch
   - Stream
