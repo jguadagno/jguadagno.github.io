@@ -21,30 +21,36 @@ Joseph Guadagno
 Remote
 _9/2023 to Present_
 
-#### Senior Vice President of IT
+#### Senior Vice President of IT (Technology)
 
-*Fill in responsibilities here*
+Successfully led a diverse team of technology professionals, fostering a collaborative and innovative environment to drive the company's technology strategy forward.
+The teams included software developers, quality assurance engineers, business analysts, database engineers, server administrators, site reliability engineers, business intelligence developers, cyber security engineers, help desk technicians, product owners, and project managers.
+The teams were responsible for the development, maintenance, and support of the company's software applications, databases, and infrastructure.
+These teams included onshore and offshore people. I effectively managed relationships with offshore teams and vendors, ensuring seamless communication and collaboration across different time zones and cultural backgrounds.
 
-People Management: Led a diverse team of IT professionals, fostering a collaborative and innovative environment to drive the company's technology strategy forward.
+While leading the technology team, I focused on team building, cultivating a positive and inclusive culture that encourages knowledge sharing, continuous learning, and professional growth.
+Professional growth for the team was achieved through education and performance management. By consistently setting and achieving performance goals, providing feedback, and conducting performance reviews to enhance team productivity and morale.
+In order to have clear objectives and goals for each team member and ensure their growth, I developed and implemented clearly defined roles and responsibilities for team members which was not previously in place.
 
-* Resource planning
-* Performance management
-* Roles and responsibilities
-* Team building
-* Offshore team/vendor management
+I also implemented a project prioritization process to ensure that the team was focused on the most important projects and initiatives that aligned with the company's strategic goals.
+This process involved working closely with the business stakeholders to understand their needs and priorities, and then translating those into actionable projects for the team.
 
-License Management: Oversaw the procurement, distribution, and compliance of software licenses to ensure optimal usage and cost-efficiency across the organization.
+Oversaw the procurement, distribution, and compliance of software licenses to ensure optimal usage and cost-efficiency across the organization.
 
-Vendor Management: Managed relationships with existing vendors and successfully onboarded new vendors, negotiating contracts to achieve favorable terms and ensure the quality of services provided. "T_Mobile" relationship.
+Successfully managed relationships with existing vendors, ensuring consistent and high-quality service delivery in line with company standards.
+Proactively onboarded new vendors, conducting thorough due diligence to ensure alignment with organizational needs and expectations.
+Expertly negotiated contracts with both new and existing vendors, achieving favorable terms that balanced cost efficiency with service quality.
+Established and maintained effective communication channels with vendors, fostering strong partnerships and promptly addressing any issues or concerns.
+Collaborated with internal stakeholders to identify vendor needs and develop strategic sourcing plans that support long-term business objectives.
+Researched new vendors and technologies to identify opportunities for innovation and cost savings.
 
-* Help Desk started
-* Cyber Security team started
-* Migration to Azure
-* IT Hardening
-* New hardware rollout
+A few key projects that I led while at RT² include:
 
-Project prioritization process started.
-
+* Starting a help desk team which owns the support of all the applications and user hardware.  This team also owns the onboarding and offboarding of team members.
+* A Cyber Security team was started to ensure that the company's data and applications are secure.
+* Migrated our multiple on premises data centers to Azure with a hybrid approach to start, then moving to a full cloud approach with disaster recovery.
+* Improved the company's infrastructure by implementing a consistent and repeatable process for patching and deploying servers and internal infrastructure.
+* Established a process for rolling out new hardware and software to the team members.
 
 ### Rocket Mortgage
 
@@ -260,7 +266,7 @@ _6/1996 to 12/1997_
 
 American Museum of Natural History, New York, NY. Project Leader, 7/97 to 12/97. I served as the primary developer and contact to build a totally customizable project tracking system for the museum. The application included familiar Windows interfaces, such as the Explorer and "hot tracking". Project Life Cycle: Through development.
 
-U.S. General Services Administration (GSA), Washington DC. Senior Programmer, 6/96 to 12/97. I served as the primary developer for a nationwide project management system. In constant contact with the GSA through meeting and telephone calls, I managed the development and the evolution of this product. Duties included creating new database tables, assigning team resources, and keeping the client update to date with the most recent copy of the application. In addition to assigning a reviewing the work of other developers on the project and interacting with the rest of the team, I also developed and implemented the financial, contract, cost, security and administration modules in the Project Manager's Toolbox. These modules track how money is spend on projects by the Public Building Services of GSA. The financial module issues requisitions and tracks commitments, obligations, and payments on awarded contract. This module also allows the project manager to create a spending plan, allocate funds and track actual and future estimated costs thought out its lifetime. Project Life Cycle: Full Life cycle, and deployment to 12 regional offices.
+U.S. General Services Administration (GSA), Washington DC. Senior Programmer, 6/96 to 12/97. I served as the primary developer for a nationwide project management system. In constant contact with the GSA through meeting and telephone calls, I managed the development and the evolution of this product. Duties included creating new database tables, assigning team resources, and keeping the client update to date with the most recent copy of the application. In addition to assigning a reviewing the work of other developers on the project and interacting with the rest of the team, I also developed and implemented the financial, contract, cost, security and administration modules in the Project Manager's Toolbox. These modules track how money is spent on projects by the Public Building Services of GSA. The financial module issues requisitions and tracks commitments, obligations, and payments on awarded contract. This module also allows the project manager to create a spending plan, allocate funds and track actual and future estimated costs thought out its lifetime. Project Life Cycle: Full Life cycle, and deployment to 12 regional offices.
 
 Princeton University, Princeton, NJ. Project Manager, 9/96 to 12/97. I visited with the Princeton University staff and determined what their needs were for a project management system. Though several meeting with the team I determined what they needed as far of the software goes. And headed the project development team to build this. Project Life Cycle: Full Life Cycle.
 
