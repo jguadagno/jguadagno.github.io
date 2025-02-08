@@ -21,30 +21,36 @@ Joseph Guadagno
 Remote
 _9/2023 to Present_
 
-#### Senior Vice President of IT
+#### Senior Vice President of IT (Technology)
 
-*Fill in responsibilities here*
+Successfully led a diverse team of technology professionals, fostering a collaborative and innovative environment to drive the company's technology strategy forward.
+The teams included software developers, quality assurance engineers, business analysts, database engineers, server administrators, site reliability engineers, business intelligence developers, cyber security engineers, help desk technicians, product owners, and project managers.
+The teams were responsible for the development, maintenance, and support of the company's software applications, databases, and infrastructure.
+These teams included onshore and offshore people. I effectively managed relationships with offshore teams and vendors, ensuring seamless communication and collaboration across different time zones and cultural backgrounds.
 
-People Management: Led a diverse team of IT professionals, fostering a collaborative and innovative environment to drive the company's technology strategy forward.
+While leading the technology team, I focused on team building, cultivating a positive and inclusive culture that encourages knowledge sharing, continuous learning, and professional growth.
+Professional growth for the team was achieved through education and performance management. By consistently setting and achieving performance goals, providing feedback, and conducting performance reviews to enhance team productivity and morale.
+In order to have clear objectives and goals for each team member and ensure their growth, I developed and implemented clearly defined roles and responsibilities for team members which was not previously in place.
 
-* Resource planning
-* Performance management
-* Roles and responsibilities
-* Team building
-* Offshore team/vendor management
+I also implemented a project prioritization process to ensure that the team was focused on the most important projects and initiatives that aligned with the company's strategic goals.
+This process involved working closely with the business stakeholders to understand their needs and priorities, and then translating those into actionable projects for the team.
 
-License Management: Oversaw the procurement, distribution, and compliance of software licenses to ensure optimal usage and cost-efficiency across the organization.
+Oversaw the procurement, distribution, and compliance of software licenses to ensure optimal usage and cost-efficiency across the organization.
 
-Vendor Management: Managed relationships with existing vendors and successfully onboarded new vendors, negotiating contracts to achieve favorable terms and ensure the quality of services provided. "T_Mobile" relationship.
+Successfully managed relationships with existing vendors, ensuring consistent and high-quality service delivery in line with company standards.
+Proactively onboarded new vendors, conducting thorough due diligence to ensure alignment with organizational needs and expectations.
+Expertly negotiated contracts with both new and existing vendors, achieving favorable terms that balanced cost efficiency with service quality.
+Established and maintained effective communication channels with vendors, fostering strong partnerships and promptly addressing any issues or concerns.
+Collaborated with internal stakeholders to identify vendor needs and develop strategic sourcing plans that support long-term business objectives.
+Researched new vendors and technologies to identify opportunities for innovation and cost savings.
 
-* Help Desk started
-* Cyber Security team started
-* Migration to Azure
-* IT Hardening
-* New hardware rollout
+A few key projects that I led while at RT² include:
 
-Project prioritization process started.
-
+* Starting a help desk team which owns the support of all the applications and user hardware.  This team also owns the onboarding and offboarding of team members.
+* A Cyber Security team was started to ensure that the company's data and applications are secure.
+* Migrated our multiple on premises data centers to Azure with a hybrid approach to start, then moving to a full cloud approach with disaster recovery.
+* Improved the company's infrastructure by implementing a consistent and repeatable process for patching and deploying servers and internal infrastructure.
+* Established a process for rolling out new hardware and software to the team members.
 
 ### Rocket Mortgage
 
@@ -65,20 +71,20 @@ Outside the 'day to day' roles and responsibilities of being a Senior Director, 
 
 As a Team Leader, I lead a team of Business Analysts, Quality Assurance Engineers, Software Engineers, and a Software Architect to deliver several quality projects.
 
-My team built a service that allows our clients to automatically gather, with their permission, Asset, Income, and Income Tax data and forms from our partners to include in their mortgage application. For the work and creativity for this product, I was awarded U.S. Patent #[10,042,949](http://jjg.me/patent)
+My team built a service that allows our clients to automatically gather, with their permission, Asset, Income, and Income Tax data and forms from our partners to include in their mortgage application. For the work and creativity for this product, I was awarded U.S. Patent #[10,042,949](https://ppubs.uspto.gov/dirsearch-public/patents/html/10042949)
 
 Another project was a new, reimagined, Sales Force automation system. This system was redesigned from the ground up to help our bankers' collect data from our clients during the mortgage process. My tasks included: discovery, project estimation, application architecture, status reporting, and presentations on the progress of the project.
 
 Although not part of my day-to-day work:
 
-- I participate in several virtual teams, including the Open-Source Big Rock team.
-- The Open-Source Big Rock team&#39;s goal was to get an open-source mind set at work, and to create a culture of being able to jump in and contribute code to projects and applications that you do not normally work on.
-- I also help mentor other leaders, both new and seasoned.
-- I do this by having one on ones with them where we talk about the challenges we are having together.
-- I also was part of the Technology Public Relations team as well as the .NET Interviewers team.
-- I helped organize the Quicken Loans Technology conference for around 1200 team members.
-- This conference had 3 tracks with 2 keynotes and 15 sessions.
-- I also participate in a team to investigate the future and figure out what we need to do to make are systems and processes better for our clients and our team members.
+* I participate in several virtual teams, including the Open-Source Big Rock team.
+* The Open-Source Big Rock team's goal was to get an open-source mind set at work, and to create a culture of being able to jump in and contribute code to projects and applications that you do not normally work on.
+* I also help mentor other leaders, both new and seasoned.
+* I do this by having one on ones with them where we talk about the challenges we are having together.
+* I also was part of the Technology Public Relations team as well as the .NET Interviewers team.
+* I helped organize the Quicken Loans Technology conference for around 1200 team members.
+* This conference had 3 tracks with 2 keynotes and 15 sessions.
+* I also participate in a team to investigate the future and figure out what we need to do to make are systems and processes better for our clients and our team members.
 
 #### Software Architect – 8/2013 to 1/2014
 
@@ -159,18 +165,18 @@ As part of the Tempe Application Development group for Express Scripts, Inc., I 
 
 Some of the accomplishments that I achieved during this time frame include:
 
-- Put in place a process for application development.
-- Created the source code control repository.
-- Outlined procedures for gathering requirements.
-- Outlined procedures for documenting functional specifications.
-- Outlined procedures for developing applications.
-- Outlined procedures for testing applications.
-- Outlines procedures for implementing and supporting the applications.
-- "Cleaned Up" several of the applications to make use of stored procedures and features of the operating systems and/or frameworks.
-- Had one major release (approx. 150 users) of their letter generating application.
-- Implemented a fax notification application, to let the users know when their faxes were sent successfully.
-- Started a data warehouse project to store approximately 100 gigabytes of their Pharmacy data.
-- Implemented several data extracts using Crystal Reports, SQL Server Reporting Services and Microsoft Excel.
+* Put in place a process for application development.
+* Created the source code control repository.
+* Outlined procedures for gathering requirements.
+* Outlined procedures for documenting functional specifications.
+* Outlined procedures for developing applications.
+* Outlined procedures for testing applications.
+* Outlines procedures for implementing and supporting the applications.
+* "Cleaned Up" several of the applications to make use of stored procedures and features of the operating systems and/or frameworks.
+* Had one major release (approx. 150 users) of their letter generating application.
+* Implemented a fax notification application, to let the users know when their faxes were sent successfully.
+* Started a data warehouse project to store approximately 100 gigabytes of their Pharmacy data.
+* Implemented several data extracts using Crystal Reports, SQL Server Reporting Services and Microsoft Excel.
 
 ##### Technologies Used
 
@@ -191,13 +197,13 @@ Some of the day-to-day programming tasks included: designing Kofax Batch Classes
 
 Some of the accomplishments I achieved while being the manager of the imaging practice included:
 
-- Created a conversion application to take documents out of Optika and place them in a FileNet repository.
-- Create a secure remote scanning facility, which allows Guardian's agencies to scan documents and transmit them securely to the central capture area.
-- Part of a team of individuals that was responsible for creating a workflow RFI and gathering business requirements.
-- Optimized existing Optika workflow application.
-- Created disaster recovery solution for all the imaging systems at the Guardian.
-- Created Forms Design Guidelines for Visual Basic development in user at the Guardian.
-- Served as a member of the Enterprise Architecture team to create a framework for the company using .NET technologies.
+* Created a conversion application to take documents out of Optika and place them in a FileNet repository.
+* Create a secure remote scanning facility, which allows Guardian's agencies to scan documents and transmit them securely to the central capture area.
+* Part of a team of individuals that was responsible for creating a workflow RFI and gathering business requirements.
+* Optimized existing Optika workflow application.
+* Created disaster recovery solution for all the imaging systems at the Guardian.
+* Created Forms Design Guidelines for Visual Basic development in user at the Guardian.
+* Served as a member of the Enterprise Architecture team to create a framework for the company using .NET technologies.
 
 #### Project Manager
 
@@ -258,9 +264,9 @@ _6/1996 to 12/1997_
 
 #### Project Leader
 
-American Museum of Natural History, New York, NY. Project Leader, 7/97 to 12/97. I served as the primary developer and contact to build a totally customizable project tracking system for the museum. The application included familiar Windows interfaces, such as the Explorer and &quot;hot tracking&quot;. Project Life Cycle: Through development.
+American Museum of Natural History, New York, NY. Project Leader, 7/97 to 12/97. I served as the primary developer and contact to build a totally customizable project tracking system for the museum. The application included familiar Windows interfaces, such as the Explorer and "hot tracking". Project Life Cycle: Through development.
 
-U.S. General Services Administration (GSA), Washington DC. Senior Programmer, 6/96 to 12/97. I served as the primary developer for a nationwide project management system. In constant contact with the GSA through meeting and telephone calls, I managed the development and the evolution of this product. Duties included creating new database tables, assigning team resources, and keeping the client update to date with the most recent copy of the application. In addition to assigning a reviewing the work of other developers on the project and interacting with the rest of the team, I also developed and implemented the financial, contract, cost, security and administration modules in the Project Manager&#39;s Toolbox. These modules track how money is spend on projects by the Public Building Services of GSA. The financial module issues requisitions and tracks commitments, obligations, and payments on awarded contract. This module also allows the project manager to create a spending plan, allocate funds and track actual and future estimated costs thought out its lifetime. Project Life Cycle: Full Life cycle, and deployment to 12 regional offices.
+U.S. General Services Administration (GSA), Washington DC. Senior Programmer, 6/96 to 12/97. I served as the primary developer for a nationwide project management system. In constant contact with the GSA through meeting and telephone calls, I managed the development and the evolution of this product. Duties included creating new database tables, assigning team resources, and keeping the client update to date with the most recent copy of the application. In addition to assigning a reviewing the work of other developers on the project and interacting with the rest of the team, I also developed and implemented the financial, contract, cost, security and administration modules in the Project Manager's Toolbox. These modules track how money is spent on projects by the Public Building Services of GSA. The financial module issues requisitions and tracks commitments, obligations, and payments on awarded contract. This module also allows the project manager to create a spending plan, allocate funds and track actual and future estimated costs thought out its lifetime. Project Life Cycle: Full Life cycle, and deployment to 12 regional offices.
 
 Princeton University, Princeton, NJ. Project Manager, 9/96 to 12/97. I visited with the Princeton University staff and determined what their needs were for a project management system. Though several meeting with the team I determined what they needed as far of the software goes. And headed the project development team to build this. Project Life Cycle: Full Life Cycle.
 
@@ -311,64 +317,67 @@ Visual Basic 3.0, Microsoft Access
 
 ## Speaking Engagements/Presentations
 
-For a list of past and present speaking engagements please visit: [https://www.josephguadagno.net/speaking-engagements](https://www.josephguadagno.net/speaking-engagements).
+For a list of past and present speaking engagements please visit: [https://www.josephguadagno.net/speaking-engagements](https://www.josephguadagno.net/speaking-engagements){:target="_blank"}.
 
-For a list of presentations that I can/have done, please visit: [https://www.josephguadagno.net/presentations](https://www.josephguadagno.net/presentations)
+For a list of presentations that I can/have done, please visit: [https://www.josephguadagno.net/presentations](https://www.josephguadagno.net/presentations){:target="_blank"}
 
 ## Published Articles
 
-I actively publish content on my blog at [https://josephguadagno.net](https://josephguadagno.net/) and have guest posts on the Telerik [blog](https://www.telerik.com/blogs). Here is a list of older articles I have written before my blog became active.
+I actively publish content on my blog at [https://josephguadagno.net](https://josephguadagno.net/) and have guest posts on the Telerik [blog](https://www.telerik.com/blogs/author/joseph-guadagno){:target="_blank"}. Here is a list of older articles I have written before my blog became active.
 
 | **Title**                                          | **Url**                                                                                                                                                                                    | **Published** |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| Guadagno Task Scheduler                            | [https://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler](https://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler)                                                   | October 2008  |
-| log4net XmlConfigurator Simplified                 | [https://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified](https://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified)                             | June 2007     |
-| Task Plug-in: A Flexible .NET Plug-in Architecture | [https://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture](https://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture) | April 2007    |
-| Customizing Folders in C##                         | [https://www.codeproject.com/Articles/18811/Customizing-Folders-in-C](https://www.codeproject.com/Articles/18811/Customizing-Folders-in-C)                                                 | May 2007      |
+| Guadagno Task Scheduler                            | [https://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler](https://www.codeproject.com/Articles/18795/Guadagno-Task-Scheduler){:target="_blank"}                                                   | October 2008  |
+| log4net XmlConfigurator Simplified                 | [https://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified](https://www.codeproject.com/Articles/19207/log4net-XmlConfigurator-Simplified){:target="_blank"}                             | June 2007     |
+| Task Plug-in: A Flexible .NET Plug-in Architecture | [https://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture](https://www.codeproject.com/Articles/18480/Task-Plug-in-A-Flexible-NET-Plug-in-Architecture){:target="_blank"} | April 2007    |
+| Customizing Folders in C##                         | [https://www.codeproject.com/Articles/18811/Customizing-Folders-in-C](https://www.codeproject.com/Articles/18811/Customizing-Folders-in-C){:target="_blank"}                                                 | May 2007      |
 
 ## Community Work
 
-| **Organization / Work** | **Role** | **When** |
-| --- | --- | --- |
-| .NET Foundation Board of Directors | President | 2023-2024 |
-| .NET Foundation Board of Directors | Vice President and Outreach Committee | 2022-2023 |
-| .NET Foundation | Member Committee Member | 2019-2021 |
-| INETA Community Leadership Summit at Microsoft TechEd | Organizer | 6/2012 |
-| MVP 2 MVP Sessions at the Microsoft Global MVP Summit | Organizer | 2/2012 |
-| INETA Community Leadership Summit at Microsoft TechEd | Organizer | 5/2011 |
-| MVP 2 MVP Sessions at the Microsoft Global MVP Summit | Organizer | 2/2011, 2/2012, 2/2013, 3/2013, 11/2013, 11/2014 |
-| INETA North America | Vice President | 4/2013 - Present |
-| INETA North America | President | 3/2011 – 3/2013 |
-| City of Chandler - Parks and Recreation board | Board Member | 3/2011 - Present |
-| Gangplank Jr. | Organizer | 1/2010 - 12/2010 |
-| SEVDNUG Social Mixer | Organizer | 1/2010 - Present |
-| Desert Code Camp | Organizer | 10/2009 - Present |
-| INETA North America | Marketing Director | 11/2009 - 2/2011 |
-| TechLunchSouth | Organizer | 1/2009 - 3/2012 |
-| Redwood Estates Homeowners Association | President | 5/2007 - 5/2012 |
+| **Organization / Work**                               | **Role**                              | **When**                                         |
+| ----------------------------------------------------- | ------------------------------------- | ------------------------------------------------ |
+| .NET Foundation Board of Directors                    | President                             | 2023-2024                                        |
+| .NET Foundation Board of Directors                    | Vice President and Outreach Committee | 2022-2023                                        |
+| .NET Foundation                                       | Member Committee Member               | 2019-2021                                        |
+| INETA Community Leadership Summit at Microsoft TechEd | Organizer                             | 6/2012                                           |
+| MVP 2 MVP Sessions at the Microsoft Global MVP Summit | Organizer                             | 2/2012                                           |
+| INETA Community Leadership Summit at Microsoft TechEd | Organizer                             | 5/2011                                           |
+| MVP 2 MVP Sessions at the Microsoft Global MVP Summit | Organizer                             | 2/2011, 2/2012, 2/2013, 3/2013, 11/2013, 11/2014 |
+| INETA North America                                   | Vice President                        | 4/2013 - Present                                 |
+| INETA North America                                   | President                             | 3/2011 – 3/2013                                  |
+| City of Chandler - Parks and Recreation board         | Board Member                          | 3/2011 - Present                                 |
+| Gangplank Jr.                                         | Organizer                             | 1/2010 - 12/2010                                 |
+| SEVDNUG Social Mixer                                  | Organizer                             | 1/2010 - Present                                 |
+| Desert Code Camp                                      | Organizer                             | 10/2009 - Present                                |
+| INETA North America                                   | Marketing Director                    | 11/2009 - 2/2011                                 |
+| TechLunchSouth                                        | Organizer                             | 1/2009 - 3/2012                                  |
+| Redwood Estates Homeowners Association                | President                             | 5/2007 - 5/2012                                  |
 
 ## Community Websites
 
 | **Used for**                                                                                            | **Site**                                                                  |
 |---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | The site for Desert Code Camp, the Phoenix area code camp.                                              | [https://www.desertcodecamp.com](https://www.desertcodecamp.com/)         |
-| ---                                                                                                     | ---                                                                       |
-| The site for the Southeast Valley .NET User Group in Chandler, AZ                                       | [https://www.sevdnug.org](https://www.sevdnug.org/)                       |
-| The site for tracking all the events and after parties at Microsoft Global MVP Summit.                  | [https://www.mvpsummitevents.info](https://mvpsummitevents.info/)         |
-| The site for tracking all the events and after parties at Microsoft TechEd.                             | [https://www.techedevents.info](https://techedevents.info/)               |
-| The site for tracking all the events and after parties at Connections conference.                       | [https://www.devconnectionevents.info](https://devconnectionevents.info/) |
-| The site for tracking all the events and after parties at the Professional Developers Conference (PDC). | [https://www.pdcevents.info](https://pdcevents.info/)                     |
-| The site for tracking all the events and after parties at the Mix conference.                           | [https://www.visitmixevents.info](https://visitmixevents.info/)           |
-| The site for tracking all the events and after parties at SQL Pass Summit.                              | [https://www.passsummitevents.info](https://passsummitevents.info/)       |
+| The site for the Southeast Valley .NET User Group in Chandler, AZ *                                     | [https://www.sevdnug.org](https://www.sevdnug.org/)                       |
+| The site for tracking all the events and after parties at Microsoft Global MVP Summit. *                | [https://www.mvpsummitevents.info](https://mvpsummitevents.info/)         |
+| The site for tracking all the events and after parties at Microsoft TechEd. *                           | [https://www.techedevents.info](https://techedevents.info/)               |
+| The site for tracking all the events and after parties at Connections conference. *                     | [https://www.devconnectionevents.info](https://devconnectionevents.info/) |
+| The site for tracking all the events and after parties at the Professional Developers Conference (PDC). * | [https://www.pdcevents.info](https://pdcevents.info/)                     |
+| The site for tracking all the events and after parties at the Mix conference. *                         | [https://www.visitmixevents.info](https://visitmixevents.info/)           |
+| The site for tracking all the events and after parties at SQL Pass Summit. *                            | [https://www.passsummitevents.info](https://passsummitevents.info/)       |
+
+_**Note:**_ * Indicates that the site is no longer active
+{: .notice--info}
 
 ## Affiliations, Awards and Certifications
 
-| **Company** | **Affiliation / Award / Certification** | **When received** |
-| --- | --- | --- |
-| Microsoft | [Microsoft Developer Services MVP](https://mvp.support.microsoft.com/profile=4C0083AE-C0DE-4F05-A179-D9072AF2EA2B) | 2009 through 2024 |
-| Progress Telerik | Telerik Ninja | 2018 through 2021 |
-| Telerik | [Telerik MVP](http://www.telerik.com/community/client-profile.aspx?cId=187651) | 2009 thought 2013 |
-| Microsoft | Microsoft Visual Basic MVP | 1996 |
+| **Company**      | **Affiliation / Award / Certification**                                                                                                | **When received**    |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| Microsoft        | [Microsoft Developer Services MVP](https://mvp.microsoft.com/en-US/mvp/profile/1f5b80b4-3c9a-e411-93f2-9cb65495d3c4){:target="_blank"} | 2009 through present |
+| Progress Telerik | [Progress Telerik Ninja](https://www.progress.com/champions){:target="_blank"}                                                         | 2021 through present |
+| Progress Telerik | Telerik Ninja                                                                                                                          | 2018 through 2021    |
+| Telerik          | [Telerik MVP](http://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"}                                       | 2009 thought 2013    |
+| Microsoft        | Microsoft Visual Basic MVP                                                                                                             | 1996                 |
 
 ## Additional Information
 
@@ -376,4 +385,4 @@ I have had two articles published in a magazine, one in Windows Developers Journ
 
 ## Resume in Word
 
-Download a copy of my resume here: [Joseph Guadagno Resume](/assets/downloads/Joseph_Guadagno_Resume.docx)
+Download a copy of my resume here: [Joseph Guadagno Resume]({% link /assets/downloads/Joseph_Guadagno_Resume.docx %})
