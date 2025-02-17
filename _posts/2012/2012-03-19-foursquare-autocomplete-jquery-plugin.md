@@ -32,7 +32,7 @@ According to the API end point [documentation](https://developer.foursquare.com/
 
 ## Creating the plugin
 
-I decided to go with using the [auto complete](https://jqueryui.com/demos/autocomplete/){:target="_blank"} widget from the [jQuery UI](https://jqueryui.com/){:target="_blank"}, use the suggest completion end point from foursquare and turn it into a jQuery plugin. Unfortunately I have never created a jQuery plugin before, however, I was lucky enough to run across a post from a buddy of mine [Elijah Manor](https://elijahmanor.com/){:target="_blank"} on [How to Create Your Own jQuery Plugin](https://msdn.microsoft.com/en-us/scriptjunkie/ff608209?WT.mc_id=DOP-MVP-4024623){:target="_blank"}. After a few hours of fiddling around with the cost from the blog post above I eventually figured it out and got it to work. The resulting control looks like this:
+I decided to go with using the [auto complete](https://jqueryui.com/demos/autocomplete/){:target="_blank"} widget from the [jQuery UI](https://jqueryui.com/){:target="_blank"}, use the suggest completion end point from foursquare and turn it into a jQuery plugin. Unfortunately I have never created a jQuery plugin before, however, I was lucky enough to run across a post from a buddy of mine [Elijah Manor](https://elijahmanor.com/){:target="_blank"} on [How to Create Your Own jQuery Plugin](https://msdn.microsoft.com/en-us/scriptjunkie/ff608209?WT.mc_id=DT-MVP-4024623){:target="_blank"}. After a few hours of fiddling around with the cost from the blog post above I eventually figured it out and got it to work. The resulting control looks like this:
 
 [![image](/assets/images/posts/image_thumb_7.png "image")](/assets/images/posts/image_8.png)
 

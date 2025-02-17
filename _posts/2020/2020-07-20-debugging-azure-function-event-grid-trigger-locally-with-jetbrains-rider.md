@@ -8,7 +8,7 @@ tags:
   - Rider
   - Event Grid
 ---
-If you've done much with [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} and the [Event Grid triggers](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid-trigger?WT.mc_id=AZ-MVP-4024623){:target="_blank"}, you've probably come across the post '[Azure Function Event Grid Trigger Local Debugging](https://docs.microsoft.com/en-us/azure/azure-functions/functions-debug-event-grid-trigger-local?WT.mc_id=AZ-MVP-4024623){:target="_blank"}'. Even searching for 'Azure Function Event Grid Trigger' on [Bing](https://www.bing.com/search?q=azure+function+event+grid+trigger){:target="_blank"} and it's the first result that comes up, at least for me. :smile: The post itself, at the time of me writing this, is almost two years old. While most of the post is still valid, some of Azure has changed, and the post is based on using Visual Studio. So this post is meant to be a modernized version of that post using JetBrains Rider.
+If you've done much with [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/?wt.mc_id=DT-MVP-4024623){:target="_blank"} and the [Event Grid triggers](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid-trigger?wt.mc_id=DT-MVP-4024623){:target="_blank"}, you've probably come across the post '[Azure Function Event Grid Trigger Local Debugging](https://docs.microsoft.com/en-us/azure/azure-functions/functions-debug-event-grid-trigger-local?wt.mc_id=DT-MVP-4024623){:target="_blank"}'. Even searching for 'Azure Function Event Grid Trigger' on [Bing](https://www.bing.com/search?q=azure+function+event+grid+trigger){:target="_blank"} and it's the first result that comes up, at least for me. :smile: The post itself, at the time of me writing this, is almost two years old. While most of the post is still valid, some of Azure has changed, and the post is based on using Visual Studio. So this post is meant to be a modernized version of that post using JetBrains Rider.
 
 ## Before you get started
 
@@ -37,7 +37,7 @@ Once started, we are ready to head over to Azure and create the 'hooks'.
 
 ## Event Grid Subscription
 
-This post assumes that you have the Event Grid topic setup already, if not, you can read about topics [here](https://docs.microsoft.com/en-us/azure/event-grid/concepts#topics?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+This post assumes that you have the Event Grid topic setup already, if not, you can read about topics [here](https://docs.microsoft.com/en-us/azure/event-grid/concepts#topics?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
 
 In the Azure portal, navigate to your topic.  In this example we will use the topic of `new-source-data`.  It should look similar to this.
 

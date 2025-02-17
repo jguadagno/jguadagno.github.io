@@ -21,7 +21,7 @@ links:
  - title: GitHub
    url: https://www.github.com
  - title: Visual Studio
-   url: https://visualstudio.microsoft.com/?WT.mc_id=AZ-MVP-4024623
+   url: https://visualstudio.microsoft.com/?wt.mc_id=DT-MVP-4024623
  - title: JetBrains Rider
    url: https://jetbrains.com/rider/
  - title: SQL Server
@@ -73,6 +73,6 @@ This workshop is geared toward individuals just getting started with Microsoft .
 
 Requirements:
 
-- [Visual Studio](https://visualstudio.microsoft.com/?WT.mc_id=AZ-MVP-4024623) or [JetBrains Rider](https://jetbrains.com/rider/)
-- SQL Server (Developer Edition or LocalDB) [Installation Guide](https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16&WT.mc_id=AZ-MVP-4024623)
-- [Azure Account](https://docs.microsoft.com/en-us/azure/developer/?WT.mc_id=AZ-MVP-4024623)
+- [Visual Studio](https://visualstudio.microsoft.com/?wt.mc_id=DT-MVP-4024623) or [JetBrains Rider](https://jetbrains.com/rider/)
+- SQL Server (Developer Edition or LocalDB) [Installation Guide](https://docs.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16&?wt.mc_id=DT-MVP-4024623)
+- [Azure Account](https://docs.microsoft.com/en-us/azure/developer/?wt.mc_id=DT-MVP-4024623)

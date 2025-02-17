@@ -14,7 +14,7 @@ tags:
 
 While we hope it never happens, demo failures happen when presenting talks or doing workshops.  I do not know of a speaker that has not had a demo go bad while up on stage or live streams. Many of us have a back up plan.  Some record screenshots or videos of the code, some create multiple copies of the code (ie: Start, Step 1, Step2, etc, End), some use assorted version control (git, TFS, SVN, etc), or even just USB drives. I, myself, have been a 'create multiple copies of the code' kind of presenter.  While that has worked for me in the past, it has some challenges.  The folders can be large, especially with Node projects or a lot of packages. Sharing between laptops is a pain. And backing up the solutions/demos.  After searching around for solutions for this, I decided to use git [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging){:target="_blank"}ging to solve this for me.
 
-In a nutshell, git tagging provides the ability to 'tag' a specific commit with a message similar to [label](https://docs.microsoft.com/en-us/azure/devops/repos/tfvc/label-command-team-foundation-version-control?view=azure-devopsWT.mc_id=AZ-MVP-4024623){:target="_blank"} in TFS. Some might be saying, but you can do the same with a branch, and while yes you can, a branch is also subjected to changes if you are not careful, a tag is associated with an individual commit id.
+In a nutshell, git tagging provides the ability to 'tag' a specific commit with a message similar to [label](https://docs.microsoft.com/en-us/azure/devops/repos/tfvc/label-command-team-foundation-version-control?view=azure-devops?wt.mc_id=DT-MVP-4024623){:target="_blank"} in TFS. Some might be saying, but you can do the same with a branch, and while yes you can, a branch is also subjected to changes if you are not careful, a tag is associated with an individual commit id.
 
 > [How is a tag different from a branch in Git? Which should I use, here?](https://stackoverflow.com/questions/1457103/how-is-a-tag-different-from-a-branch-in-git-which-should-i-use-here){:target="_blank"}
 >
@@ -26,7 +26,7 @@ For my planned presentations or workshops, I generally have a script that I use.
 
 ### The Steps
 
-First step is to start with a git repository for your presentation or demo. The provider, [GitHub](https://github.com/){:target="_blank"}, [Azure](https://azure.microsoft.com/en-us/products/github/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}, [GitLab](https://about.gitlab.com/){:target="_blank"} or others does not matter. I chose GitHub because it's free and more people use it.
+First step is to start with a git repository for your presentation or demo. The provider, [GitHub](https://github.com/){:target="_blank"}, [Azure](https://azure.microsoft.com/en-us/products/github/?wt.mc_id=DT-MVP-4024623){:target="_blank"}, [GitLab](https://about.gitlab.com/){:target="_blank"} or others does not matter. I chose GitHub because it's free and more people use it.
 
 Second step is in `git init` your folder where your code is going to be. Don't forget to add a `.gitignore`!
 

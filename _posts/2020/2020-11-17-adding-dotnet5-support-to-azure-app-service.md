@@ -12,7 +12,7 @@ tags:
   - App Service
   - .NET 5
 ---
-Yesterday I updated the [Contacts](https://www.github.com/jguadagno/contacts){:target="_blank"} to .NET 5.  Now the process was pretty easy, you can watch the video [here](https://youtu.be/9eD0WfVizbE){:target="blank"}, however once published to [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} I got the following error.
+Yesterday I updated the [Contacts](https://www.github.com/jguadagno/contacts){:target="_blank"} to .NET 5.  Now the process was pretty easy, you can watch the video [here](https://youtu.be/9eD0WfVizbE){:target="blank"}, however once published to [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/?wt.mc_id=DT-MVP-4024623){:target="_blank"} I got the following error.
 
 ![HTTP Error 500.31](/assets/images/posts/dotnet5-appservice-500-31.png){: .align-center}
 
@@ -45,4 +45,4 @@ After refreshing your browser, the error should go away and the application load
 
 ## References
 
-* [Deploy .NET 5 Web Apps to Azure App Service Today](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/#deploy-net-5-web-apps-to-azure-app-service-today?WT.mc_id=AZ-MVP-4024623)
+* [Deploy .NET 5 Web Apps to Azure App Service Today](https://devblogs.microsoft.com/aspnet/announcing-asp-net-core-in-net-5/#deploy-net-5-web-apps-to-azure-app-service-today?wt.mc_id=DT-MVP-4024623)

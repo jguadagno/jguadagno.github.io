@@ -67,9 +67,9 @@ Let's talk about breakpoints first. There are two new breakpoints that you can s
 
 ![Visual Studio 2022 - Debug Breakpoint Menu](/assets/images/posts/vs2022-debug-menu.png){: .align-center}
 
-The [Temporary breakpoint](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022#BKMK_set_a_temporary_breakpoint?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is used to set a breakpoint that will only break once.  Once Visual Studio hits that breakpoint, it deletes it. This is helpful if you want to set a breakpoint only to validate that something is working, and you aren't debugging the code.
+The [Temporary breakpoint](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022#BKMK_set_a_temporary_breakpoint?wt.mc_id=DT-MVP-4024623){:target="_blank"} is used to set a breakpoint that will only break once.  Once Visual Studio hits that breakpoint, it deletes it. This is helpful if you want to set a breakpoint only to validate that something is working, and you aren't debugging the code.
 
-The [Dependent breakpoint](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022#BKMK_set_a_dependent_breakpoint?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is used to set a breakpoint that will only break when another breakpoint is hit.
+The [Dependent breakpoint](https://docs.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022#BKMK_set_a_dependent_breakpoint?wt.mc_id=DT-MVP-4024623){:target="_blank"} is used to set a breakpoint that will only break when another breakpoint is hit.
 
 ### Force Run To Cursor
 
@@ -105,7 +105,7 @@ The Git integration with Visual Studio has been improved and include support for
 
 ## Hot Reload
 
-[Hot Reload](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is a feature of Visual Studio that allows you to modify your applications managed code while that application is running without the need to hit a breakpoint or pause the application. This is a cool feature that will save you a lot of time without pausing or stopping your application to see how the source code changes you made changed your application. However, the support for this feature is still in progress.  There are some scenarios and products that are not yet supported.
+[Hot Reload](https://devblogs.microsoft.com/dotnet/update-on-net-hot-reload-progress-and-visual-studio-2022-highlights/?wt.mc_id=DT-MVP-4024623){:target="_blank"} is a feature of Visual Studio that allows you to modify your applications managed code while that application is running without the need to hit a breakpoint or pause the application. This is a cool feature that will save you a lot of time without pausing or stopping your application to see how the source code changes you made changed your application. However, the support for this feature is still in progress.  There are some scenarios and products that are not yet supported.
 
 ## Coming soon to the Mac
 

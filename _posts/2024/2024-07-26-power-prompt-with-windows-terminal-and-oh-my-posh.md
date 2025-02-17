@@ -272,7 +272,7 @@ With these options, you can use the up and down arrow keys to cycle through your
 
 ![PSReadLine - Command History](/assets/images/posts/2024/power-prompt-with-windows-terminal-and-oh-my-posh/psreadline-options.png){: .align-center}
 
-Check out the [Set-PSReadLineOption](https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlineoption?view=powershell-7.4&WT.mc_id=AZ-MVP-4024623#parameters){:target="_blank"} documentation for more options.
+Check out the [Set-PSReadLineOption](https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlineoption?view=powershell-7.4&?wt.mc_id=DT-MVP-4024623#parameters){:target="_blank"} documentation for more options.
 
 #### Terminal-Icons Module
 
@@ -314,10 +314,10 @@ Now you have a customized PowerShell prompt with Windows Terminal and Oh-My-Posh
 
 ## References
 
-* [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/install?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/install?wt.mc_id=DT-MVP-4024623){:target="_blank"}
 * [Oh-My-Posh](https://ohmyposh.dev/){:target="_blank"}
 * Oh-My-Posh [Themes](https://ohmyposh.dev/docs/themes){:target="_blank"}
 * [Posh-git](https://github.com/dahlbyk/posh-git){:target="_blank"}
 * [PSReadLine](https://github.com/PowerShell/PSReadLine){:target="_blank"}
 * [Terminal Icons](https://github.com/devblackops/Terminal-Icons){:target="_blank"}
-* [Set-PSReadLineOption](https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlineoption?view=powershell-7.4&WT.mc_id=AZ-MVP-4024623#parameters){:target="_blank"}
+* [Set-PSReadLineOption](https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlineoption?view=powershell-7.4&?wt.mc_id=DT-MVP-4024623#parameters){:target="_blank"}

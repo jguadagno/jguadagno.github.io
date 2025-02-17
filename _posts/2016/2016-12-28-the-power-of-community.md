@@ -32,7 +32,7 @@ Some of these connections helped me:
 * These connections had led to at least 2 different jobs and my current employer, [Rocket Mortgage](https://www.rocketmortgage.com){:target="_blank"}.
 * Offers to speak at several US based conferences, like [DEVIntersections](https://www.devintersection.com){:target="_blank"}, [DEVConnections](https://www.itdevconnections.com/dc16/Public/Enter.aspx){:target="_blank"}, [Code Stock](https://www.codestock.org){:target="_blank"}, [TechBash](https://www.techbash.com/){:target="_blank"}, [MVP Mix Dallas](https://www.mvpmix.com/dallas){:target="_blank"}, and others
 * Offers to speak at two international ones, [C# Corner Conference](https://conference.c-sharpcorner.com/){:target="_blank"}and [NDC London](https://ndc-london.com/){:target="_blank"}.
-* I was even on .[NET Rocks](https://dotnetrocks.com/?show=1255){:target="_blank"} talking about [Application Insights](https://azure.microsoft.com/en-us/services/application-insights/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+* I was even on .[NET Rocks](https://dotnetrocks.com/?show=1255){:target="_blank"} talking about [Application Insights](https://azure.microsoft.com/en-us/services/application-insights/?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
 
 ## The Bottom Line
 

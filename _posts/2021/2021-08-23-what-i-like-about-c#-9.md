@@ -24,7 +24,7 @@ Let's take a look at some of the new language features.
 
 The new `record` keyword defines a reference type that provides some built-in functionality for representing data. You might be thinking that this sounds a lot like a `class`, and you would be correct. It does. However, the intent is to provide smaller and more concise types to represent immutable data. I like to think of them as a type used primarily to transfer data and not have a lot of methods or data manipulation.
 
-More on C# 9 [records](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#record-types?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+More on C# 9 [records](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#record-types?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
 
 ### Defining a Record
 
@@ -305,7 +305,7 @@ This code now clearly states what the intent of the `program.cs` is without the 
 
 ## New Pattern Matching
 
-While [pattern matching](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns?WT.mc_id=AZ-MVP-4024623){:target="_blank"} is not new to C# 9, C# 9 did add a few more patterns.
+While [pattern matching](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns?wt.mc_id=DT-MVP-4024623){:target="_blank"} is not new to C# 9, C# 9 did add a few more patterns.
 
 Logical patterns:
 
@@ -371,7 +371,7 @@ This syntax does take some getting used to. I think in the long it leads to code
 
 ## Wrap Up
 
-Wow, that was a lot. C#9 added [Record Types](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#record-types?WT.mc_id=AZ-MVP-4024623){:target="_blank"}, [Init Only](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#init-only-setters?WT.mc_id=AZ-MVP-4024623){:target="_blank"} setters, [Top-Level](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#top-level-statements?WT.mc_id=AZ-MVP-4024623){:target="_blank"} programs, enhancements to [pattern matching](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#pattern-matching-enhancements?WT.mc_id=AZ-MVP-4024623){:target="_blank"}, and [more](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.  
+Wow, that was a lot. C#9 added [Record Types](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#record-types?wt.mc_id=DT-MVP-4024623){:target="_blank"}, [Init Only](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#init-only-setters?wt.mc_id=DT-MVP-4024623){:target="_blank"} setters, [Top-Level](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#top-level-statements?wt.mc_id=DT-MVP-4024623){:target="_blank"} programs, enhancements to [pattern matching](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#pattern-matching-enhancements?wt.mc_id=DT-MVP-4024623){:target="_blank"}, and [more](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9?wt.mc_id=DT-MVP-4024623){:target="_blank"}.  
 
 I hope you take some time and play around with these new language features.  Doing so will reduce your keystrokes and help your code to be readable in the long run.
 
@@ -384,4 +384,4 @@ While not set in stone... As of the writing of this post, .NET 6 preview 5 is pl
 * Allow both assignment and declaration in the same deconstruction.
 * Allow `AsyncMethodBuilder` attribute on methods.
 
-For more, check out [What's new in C# 10.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10?WT.mc_id=AZ-MVP-4024623)
+For more, check out [What's new in C# 10.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10?wt.mc_id=DT-MVP-4024623)

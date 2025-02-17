@@ -22,11 +22,11 @@ This post assumes you have an Azure Key Vault instance and you know how to setup
 
 There are a couple of steps to update a secret and its properties to achieve what I wanted to.  The steps are:
 
-1. Establish a connection to the Azure Key Vault and obtain a `SecretClient` [class](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
-2. Get the current secret from the vault using the `GetSecretAsync` [method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.getsecretasync?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"} of the `SecretClient` class.
-3. Call the `UpdateSecretPropertiesAsync` [method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.updatesecretproperties?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"} of the `SecretClient` class to disable the secret.
-4. Update / create a new version of the secret using the `SetSecretAsync` [method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.setsecretasync?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"} of the `SecretClient` class
-5. Call the `UpdateSecretPropertiesAsync` [method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.updatesecretproperties?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"} of the `SecretClient` class using the `KeyVaultSecret` returned from the step 4 to update the expiration date of the secret.
+1. Establish a connection to the Azure Key Vault and obtain a `SecretClient` [class](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient?view=azure-dotnet&?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
+2. Get the current secret from the vault using the `GetSecretAsync` [method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.getsecretasync?view=azure-dotnet&?wt.mc_id=DT-MVP-4024623){:target="_blank"} of the `SecretClient` class.
+3. Call the `UpdateSecretPropertiesAsync` [method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.updatesecretproperties?view=azure-dotnet&?wt.mc_id=DT-MVP-4024623){:target="_blank"} of the `SecretClient` class to disable the secret.
+4. Update / create a new version of the secret using the `SetSecretAsync` [method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.setsecretasync?view=azure-dotnet&?wt.mc_id=DT-MVP-4024623){:target="_blank"} of the `SecretClient` class
+5. Call the `UpdateSecretPropertiesAsync` [method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.updatesecretproperties?view=azure-dotnet&?wt.mc_id=DT-MVP-4024623){:target="_blank"} of the `SecretClient` class using the `KeyVaultSecret` returned from the step 4 to update the expiration date of the secret.
 
 ### The Code
 
@@ -68,10 +68,10 @@ I'm not sure why these steps are necessary to update a secret and its properties
 
 ## References
 
-* [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-* [Azure Key Vault SDK - SecretClient Class](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-* [Azure Key Vault SDK - SecretClient.GetSecretAsync Method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.getsecretasync?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-* [Azure Key Vault SDK - SecretClient.SetSecretAsync Method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.setsecretasync?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-* [Azure Key Vault SDK - SecretProperties Class](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretproperties?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-* [Azure Key Vault SDK - SecretClient.UpdateSecretPropertiesMethod](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.updatesecretproperties?view=azure-dotnet&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-* [Azure.Security.KeyVault.Secrets Documentation](https://azuresdkdocs.blob.core.windows.net/$web/dotnet/Azure.Security.KeyVault.Secrets/4.6.0/api/index.html#create-a-secret-asynchronously?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+* [Azure Key Vault SDK - SecretClient Class](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient?view=azure-dotnet&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+* [Azure Key Vault SDK - SecretClient.GetSecretAsync Method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.getsecretasync?view=azure-dotnet&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+* [Azure Key Vault SDK - SecretClient.SetSecretAsync Method](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.setsecretasync?view=azure-dotnet&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+* [Azure Key Vault SDK - SecretProperties Class](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretproperties?view=azure-dotnet&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+* [Azure Key Vault SDK - SecretClient.UpdateSecretPropertiesMethod](https://learn.microsoft.com/en-us/dotnet/api/azure.security.keyvault.secrets.secretclient.updatesecretproperties?view=azure-dotnet&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+* [Azure.Security.KeyVault.Secrets Documentation](https://azuresdkdocs.blob.core.windows.net/$web/dotnet/Azure.Security.KeyVault.Secrets/4.6.0/api/index.html#create-a-secret-asynchronously?wt.mc_id=DT-MVP-4024623){:target="_blank"}

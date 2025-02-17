@@ -50,7 +50,7 @@ Sitefinity is built on top of the .NET framework, and this coding technology can
 <% $Resources:SearchItemsBy %>
 ```
 
-This code tells the ASP.NET engine to get the resource file text in the key SearchItemsBy. This language is based on the page's locale. If this text was on the `ControlPanelInsert.ascx` control, ASP.NET would look within the `ControlPanelInsert.ascx.resx` file, unless you had localized versions then it would look in `ControlPanelInsert.ascx.<_locale_>.resx`. For more information, please read [Walkthrough: Using Resources for Localization with ASP.NET](https://msdn.microsoft.com/en-us/library/fw69ke6f.aspx?WT.mc_id=DOP-MVP-4024623){:target="_blank"} from MSDN. Keep this in mind while editing your Sitefinity controls later on.
+This code tells the ASP.NET engine to get the resource file text in the key SearchItemsBy. This language is based on the page's locale. If this text was on the `ControlPanelInsert.ascx` control, ASP.NET would look within the `ControlPanelInsert.ascx.resx` file, unless you had localized versions then it would look in `ControlPanelInsert.ascx.<_locale_>.resx`. For more information, please read [Walkthrough: Using Resources for Localization with ASP.NET](https://msdn.microsoft.com/en-us/library/fw69ke6f.aspx?WT.mc_id=DT-MVP-4024623){:target="_blank"} from MSDN. Keep this in mind while editing your Sitefinity controls later on.
 
 ### ContentView Control Overview
 

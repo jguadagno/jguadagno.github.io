@@ -35,7 +35,7 @@ Putting your domain or data transfer objects into a separate project is the firs
 
 Assuming you are using Entity Framework to access your database along with the *code-based* model development and not the *EDMX-based*.
 
-If your application uses the *EDMX-based* approach, follow the [Porting an EF6 EDMX-Based Model to EF Core](https://docs.microsoft.com/en-us/ef/efcore-and-ef6/porting/port-edmx?WT.mc_id=AZ-MVP-4024623){:target="_blank"} guide to update to *code-based* model approach.  Going forward with EntityFramework Core, the *EDMX-based* models are not being used.
+If your application uses the *EDMX-based* approach, follow the [Porting an EF6 EDMX-Based Model to EF Core](https://docs.microsoft.com/en-us/ef/efcore-and-ef6/porting/port-edmx?wt.mc_id=DT-MVP-4024623){:target="_blank"} guide to update to *code-based* model approach.  Going forward with EntityFramework Core, the *EDMX-based* models are not being used.
 {: .notice--info}
 
 The first thing you'll want to do is create a new class library targeting .NET Standard. Why .NET Standard and not just .NET? Having the shared libraries like the Domain or Data libraries in .NET Standard allows you greater portability between projects and platforms. This approach will also allow you to slowly migrate pieces of the main project while keeping it up.
@@ -45,7 +45,7 @@ Now move those model classes over to the new project. I would name it something 
 
 You'll want to add a reference to the new `Contacts.Domain` library to the existing Contacts application.  Don't forget to update the using statements!
 
-***Note***: When moving classes/files in between folders, namespaces, or projects, use the *Move Instance Method* refactoring ([Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/reference/move-type-to-namespace?view=vs-2019&WT.mc_id=AZ-MVP-4024623){:target="_blank"} or [JetBrains Rider/Resharper](https://www.jetbrains.com/help/resharper/Refactorings__Move__Instance_Method_to_Another_Type.html){:target="_blank"})
+***Note***: When moving classes/files in between folders, namespaces, or projects, use the *Move Instance Method* refactoring ([Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/reference/move-type-to-namespace?view=vs-2019&?wt.mc_id=DT-MVP-4024623){:target="_blank"} or [JetBrains Rider/Resharper](https://www.jetbrains.com/help/resharper/Refactorings__Move__Instance_Method_to_Another_Type.html){:target="_blank"})
 {: .notice--info}
 
 ## Separate the data layer
@@ -80,7 +80,7 @@ public ActionResults Index() {
 
 Now how you build up the data layer is up to you. I typically follow the manager or repository pattern. There are a lot of design patterns that you can follow. The choice is yours and not the intent of this blog post. The goal is to have one or more classes responsible for handling the saving, updating, deleting, and querying the data for the user interface.
 
-Create the EntityFramework [database context](https://docs.microsoft.com/en-us/ef/ef6/fundamentals/working-with-dbcontext?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+Create the EntityFramework [database context](https://docs.microsoft.com/en-us/ef/ef6/fundamentals/working-with-dbcontext?wt.mc_id=DT-MVP-4024623){:target="_blank"}
 
 ```cs
 namespace Contacts.Data
@@ -261,7 +261,7 @@ You'll notice that, by default, there is an *appsettings.json* and an *appsettin
 }
 ```
 
-For more on the configuration in ASP.NET Core on the [documentation](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0&WT.mc_id=DOP-MVP-4024623){:target="_blank"} page.
+For more on the configuration in ASP.NET Core on the [documentation](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0&WT.mc_id=DT-MVP-4024623){:target="_blank"} page.
 
 ##### Program.cs
 
@@ -471,7 +471,7 @@ public void ConfigureServices(IServiceCollection services)
 }
 ```
 
-You can read more on it at [Migrate Authentication and Identity to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/migration/identity?view=aspnetcore-3.0&WT.mc_id=DOP-MVP-4024623){:target="_blank"} or [ASP.NET Core Identity 3.0 : Modifying the Identity Database](https://medium.com/@nativoplus/asp-net-core-identity-3-0-6018fc151b4){:target="_blank"}
+You can read more on it at [Migrate Authentication and Identity to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/migration/identity?view=aspnetcore-3.0&WT.mc_id=DT-MVP-4024623){:target="_blank"} or [ASP.NET Core Identity 3.0 : Modifying the Identity Database](https://medium.com/@nativoplus/asp-net-core-identity-3-0-6018fc151b4){:target="_blank"}
 
 ## Wrap up
 

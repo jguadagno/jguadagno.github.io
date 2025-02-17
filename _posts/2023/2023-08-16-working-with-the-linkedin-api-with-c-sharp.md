@@ -48,7 +48,7 @@ Navigate to the [OAuth 2.0 Tools](https://www.linkedin.com/developers/tools/oaut
 
 On the next page, you will need to select your application and either chose *Member authorization code (3-legged)* or *Client credential (2-legged)*. I didn't come up with the names.  Basically, *Member authorization* is if you are going to be posting on behalf of the user, as I will in this post, and *Client credential* is if you are going to be building an application or interface where the user will be signing in and doing something with their data.  For this post, I will be using *Member authorization code (3-legged)*.
 
-For more on the different types of OAuth 2.0 flows, see [LinkedIn Authentication Overview](https://learn.microsoft.com/en-us/linkedin/shared/authentication/authentication?context=linkedin%2Fconsumer%2Fcontext&WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+For more on the different types of OAuth 2.0 flows, see [LinkedIn Authentication Overview](https://learn.microsoft.com/en-us/linkedin/shared/authentication/authentication?context=linkedin%2Fconsumer%2Fcontext&?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
 {: .notice}
 
 You will need to select the scopes that you will need for your application.  For this post, I will be using the following scopes:
@@ -64,18 +64,18 @@ Now, you will have a screen with the access token and details about the token.  
 
 ![LinkedIn AI OAuth 2.0 Tools page](/assets/images/posts/2023/linkedin-api-app-oauth-token.png){: .align-center}
 
-I strongly recommend that you save this access token somewhere secure like [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}. If someone gets a hold of it, they can post on behalf of the user.  If you do lose it, you can always revoke it and create a new one.
+I strongly recommend that you save this access token somewhere secure like [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/?wt.mc_id=DT-MVP-4024623){:target="_blank"}. If someone gets a hold of it, they can post on behalf of the user.  If you do lose it, you can always revoke it and create a new one.
 {: .notice--warning}
 
-You'll notice that the access token expires in approximately two months.  You will need to refresh the token before it expires. You will need to do this before the token expires. Details on how to do this are in the [LinkedIn Authentication Overview](https://learn.microsoft.com/en-us/linkedin/shared/authentication/authentication?context=linkedin%2Fconsumer%2Fcontext&WT.mc_id=AZ-MVP-4024623){:target="_blank"}.  I won't be covering that in this post.
+You'll notice that the access token expires in approximately two months.  You will need to refresh the token before it expires. You will need to do this before the token expires. Details on how to do this are in the [LinkedIn Authentication Overview](https://learn.microsoft.com/en-us/linkedin/shared/authentication/authentication?context=linkedin%2Fconsumer%2Fcontext&?wt.mc_id=DT-MVP-4024623){:target="_blank"}.  I won't be covering that in this post.
 
 ## LinkedIn Manager
 
-Now that we have the access token, we can start posting to LinkedIn.  I created a class called `LinkedInManager` to handle all of the calls to the LinkedIn API. You check get the source in the [LinkedIn API Manager GitHub Repository](https://github.com/jguadagno/linkedin-api-manager){:target="_blank"}.  I will be using the [LinkedIn API](https://docs.microsoft.com/en-us/linkedin/shared/integrations/people/profile-api?context=linkedin/consumer/context&WT.mc_id=AZ-MVP-4024623){:target="_blank"} to get the user's LinkedIn ID and the [Share on LinkedIn API](https://learn.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/share-on-linkedin?WT.mc_id=AZ-MVP-4024623){:target="_blank"} to post the share.
+Now that we have the access token, we can start posting to LinkedIn.  I created a class called `LinkedInManager` to handle all of the calls to the LinkedIn API. You check get the source in the [LinkedIn API Manager GitHub Repository](https://github.com/jguadagno/linkedin-api-manager){:target="_blank"}.  I will be using the [LinkedIn API](https://docs.microsoft.com/en-us/linkedin/shared/integrations/people/profile-api?context=linkedin/consumer/context&?wt.mc_id=DT-MVP-4024623){:target="_blank"} to get the user's LinkedIn ID and the [Share on LinkedIn API](https://learn.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/share-on-linkedin?wt.mc_id=DT-MVP-4024623){:target="_blank"} to post the share.
 
 ### Get User Info
 
-All of the API calls to post a share on LinkedIn require the user's LinkedIn ID.  You can get this by making a call to the [Profile API](https://docs.microsoft.com/en-us/linkedin/shared/integrations/people/profile-api?context=linkedin/consumer/context&WT.mc_id=AZ-MVP-4024623){:target="_blank"}.  You will need to make a `GET` call to the `me` endpoint, as shown below as an http request.
+All of the API calls to post a share on LinkedIn require the user's LinkedIn ID.  You can get this by making a call to the [Profile API](https://docs.microsoft.com/en-us/linkedin/shared/integrations/people/profile-api?context=linkedin/consumer/context&?wt.mc_id=DT-MVP-4024623){:target="_blank"}.  You will need to make a `GET` call to the `me` endpoint, as shown below as an http request.
 
 ```http
 GET https://api.linkedin.com/v2/me
@@ -178,12 +178,12 @@ Note: Not all of these fields will be filled.  What is filled is based on the sc
 
 The `Id` property of the `LinkedInUser` object, as well as other identifiers in the API, follows the Universal Resource Name [URN](http://www.ietf.org/rfc/rfc2141.txt){:target="blank"} internet standard.  The format is `urn:li:person:<person-id>`, where `<person-id>` is the identifier for the person.  For most calls, you will need the full URN. In the `LinkedInManager` class, you only need the `<person-id>` portion of the URN.  
 
-For more on the URNs and IDs in LinkedIn, see the [LinkedIn URNs and IDs](https://learn.microsoft.com/en-us/linkedin/shared/api-guide/concepts/urns?context=linkedin%2Fconsumer%2Fcontext&WT.mc_id=AZ-MVP-4024623){:target="_blank"} page.
+For more on the URNs and IDs in LinkedIn, see the [LinkedIn URNs and IDs](https://learn.microsoft.com/en-us/linkedin/shared/api-guide/concepts/urns?context=linkedin%2Fconsumer%2Fcontext&?wt.mc_id=DT-MVP-4024623){:target="_blank"} page.
 {: .notice--info}
 
 ### Share on LinkedIn
 
-The [Share API](https://learn.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/share-on-linkedin?context=linkedin%2Fconsumer%2Fcontext&WT.mc_id=AZ-MVP-4024623){:target="_blank"} on LinkedIn provides the different ways to create shares or posts on LinkedIn; plain text, text with a link, and text with an image. I will show you how to create each of these types of shares.
+The [Share API](https://learn.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/share-on-linkedin?context=linkedin%2Fconsumer%2Fcontext&?wt.mc_id=DT-MVP-4024623){:target="_blank"} on LinkedIn provides the different ways to create shares or posts on LinkedIn; plain text, text with a link, and text with an image. I will show you how to create each of these types of shares.
 
 #### Post Plain Text
 
@@ -586,10 +586,10 @@ If you have any questions, please feel free to reach out to me on [Twitter](http
 ## References
 
 * [LinkedIn Developer Products](https://developer.linkedin.com/){:target="_blank"}
-* [LinkedIn Authentication Overview](https://learn.microsoft.com/en-us/linkedin/shared/authentication/authentication?context=linkedin%2Fconsumer%2Fcontext&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [LinkedIn Authentication Overview](https://learn.microsoft.com/en-us/linkedin/shared/authentication/authentication?context=linkedin%2Fconsumer%2Fcontext&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
 * [LinkedIn API](https://learn.microsoft.com/en-us/linkedin/consumer/?wt.mc_id=DT-MVP-4024623){:target="_blank"}
-* [LinkedIn API Documentation - Share On LinkedIn](https://learn.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/share-on-linkedin?context=linkedin%2Fconsumer%2Fcontext&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-* [LinkedIn API Documentation - URNs and IDs](https://learn.microsoft.com/en-us/linkedin/shared/api-guide/concepts/urns?context=linkedin%2Fconsumer%2Fcontext&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-* [LinkedIn Api Documentation - Profile API](https://learn.microsoft.com/en-us/linkedin/shared/integrations/people/profile-api?context=linkedin%2Fconsumer%2Fcontext&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [LinkedIn API Documentation - Share On LinkedIn](https://learn.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/share-on-linkedin?context=linkedin%2Fconsumer%2Fcontext&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+* [LinkedIn API Documentation - URNs and IDs](https://learn.microsoft.com/en-us/linkedin/shared/api-guide/concepts/urns?context=linkedin%2Fconsumer%2Fcontext&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+* [LinkedIn Api Documentation - Profile API](https://learn.microsoft.com/en-us/linkedin/shared/integrations/people/profile-api?context=linkedin%2Fconsumer%2Fcontext&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
 * [LinkedIn API Manager GitHub Repository](https://github.com/jguadagno/linkedin-api-manager){:target="_blank"}
 * [My LinkedIn Profile](https://www.linkedin.com/in/josephguadagno/){:target="_blank"}

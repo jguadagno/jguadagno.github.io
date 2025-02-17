@@ -11,7 +11,7 @@ tags:
 - Docker
 - Windows11
 ---
-Like a lot of engineers nowadays, I use Docker for my development environment.  I have a Windows 11 machine with [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about?WT.mc_id=AZ-MVP-4024623){:target="_blank"} and I use Docker Desktop for Windows.  I also use Developer Containers with a volume for the source code to work with my blog, which means the files are not stored on the local file system but in a Docker volume.  Occasionally, I need to access the files in the Docker volume for image creation.  This post will show you how to access the files in the Docker volume on Windows.
+Like a lot of engineers nowadays, I use Docker for my development environment.  I have a Windows 11 machine with [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about?wt.mc_id=DT-MVP-4024623){:target="_blank"} and I use Docker Desktop for Windows.  I also use Developer Containers with a volume for the source code to work with my blog, which means the files are not stored on the local file system but in a Docker volume.  Occasionally, I need to access the files in the Docker volume for image creation.  This post will show you how to access the files in the Docker volume on Windows.
 
 First off, this post assumes you have Windows, either Windows 10 or Windows 11, with WSL and Docker Desktop installed.  If you don't have Docker Desktop installed, you can download it from [Docker Hub](https://hub.docker.com/){:target="_blank"}.
 
@@ -95,4 +95,4 @@ In this post, you learned where the Docker volumes are stored when using Docker 
 
 * [Stack Overflow](https://stackoverflow.com/questions/61083772/where-are-docker-volumes-located-when-running-wsl-using-docker-desktop){:target="_blank"}.
 * [Stack Overflow](https://stackoverflow.com/questions/43181654/locating-data-volumes-in-docker-desktop-windows){:target="_blank"}.
-* [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+* [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about?wt.mc_id=DT-MVP-4024623){:target="_blank"}.

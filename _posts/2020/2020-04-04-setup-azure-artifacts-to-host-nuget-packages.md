@@ -15,13 +15,13 @@ excerpt_separator: <!--more-->
 Let's take a look how you can build an Azure pipeline that will build your NuGet package, sign it, then deploy it to Azure Artifacts
 <!--more-->
 
-According the Azure Artifacts [site](https://azure.microsoft.com/en-us/services/devops/artifacts/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}, Azure Artifacts provides a service to "Create and share Maven, npm, NuGet, and Python package feeds from public and private sources". In this post, I'll focus on setting up a repository to host my own private NuGet packages.
+According the Azure Artifacts [site](https://azure.microsoft.com/en-us/services/devops/artifacts/?wt.mc_id=DT-MVP-4024623){:target="_blank"}, Azure Artifacts provides a service to "Create and share Maven, npm, NuGet, and Python package feeds from public and private sources". In this post, I'll focus on setting up a repository to host my own private NuGet packages.
 
-Just like most services provided with Azure their maybe a cost to using it.  Azure Artifacts provide both free and paid options, please visit the [pricing for Azure DevOps](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} page for the latest on costs for using this service.
+Just like most services provided with Azure their maybe a cost to using it.  Azure Artifacts provide both free and paid options, please visit the [pricing for Azure DevOps](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/?wt.mc_id=DT-MVP-4024623){:target="_blank"} page for the latest on costs for using this service.
 
 ## Setup
 
-First step is signing up for Azure Artifacts is to setup an Azure DevOps account/organization. Check out the [Quick Start](https://docs.microsoft.com/en-us/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops?WT.mc_id=AZ-MVP-4024623){:target="_blank"} guide, to get started.
+First step is signing up for Azure Artifacts is to setup an Azure DevOps account/organization. Check out the [Quick Start](https://docs.microsoft.com/en-us/azure/devops/user-guide/sign-up-invite-teammates?view=azure-devops?wt.mc_id=DT-MVP-4024623){:target="_blank"} guide, to get started.
 
 Now that you have an organization you'll need to sign into it. The url should look something like **dev.azure.com/*organization-name***, in my case, it's **dev.azure.com/jguadagno**.
 
@@ -94,15 +94,15 @@ Instructions are provided for
   * dotnet
   * NuGet.exe
   * Visual Studio
-* [npm](https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-npm?view=azure-devops&tabs=windows&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [npm](https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-npm?view=azure-devops&tabs=windows&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
   * npm
-* [Maven](https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-maven?view=azure-devops&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [Maven](https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-maven?view=azure-devops&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
   * Maven
   * Gradle
-* [Python](https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/python-packages?view=azure-devops&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [Python](https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/python-packages?view=azure-devops&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
   * pip
   * twine
-* [Universal](https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/universal-packages?view=azure-devops&WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [Universal](https://docs.microsoft.com/en-us/azure/devops/artifacts/quickstarts/universal-packages?view=azure-devops&?wt.mc_id=DT-MVP-4024623){:target="_blank"}
   * Universal packages
 
 *Universal* gives you command line instructions for a 'catch all' scenario to get the package(s) onto your machine if the package manager you are using doesn't have instructions on the site.

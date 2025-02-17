@@ -20,7 +20,7 @@ In a previous post, I showed you how to [Setup Code Signing Certificates in Azur
 For this to work, you will need the following:
 
 * Azure Subscription
-* [Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/general/overview?WT.mc_id=AZ-MVP-4024623){:target="_blank"} Premium SKU
+* [Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/general/overview?wt.mc_id=DT-MVP-4024623){:target="_blank"} Premium SKU
 * [digicert](https://www.digicert.com){:target="_blank"} Account
 * digicert EV Code Signing Certificate
 * An organization that has been validated for EV Code Signing Certificates with digicert
@@ -241,7 +241,7 @@ If you want to learn how to use the certificate to sign your a NuGet package fro
 ## Reference
 
 * [Setup Code Signing Certificates in Azure Key Vault]({% post_url /2020/2020-04-04-setup-code-signing-certificates-in-azure-key-vault %}){:target="_blank"}
-* [Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/general/overview?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/general/overview?wt.mc_id=DT-MVP-4024623){:target="_blank"}
 * [digicert](https://www.digicert.com){:target="_blank"}
 * [What is an Extended Validation (EV) SSL Certificate?](https://www.digicert.com/faq/public-trust-and-certificates/what-is-an-extended-validation-ev-ssl-certificate){:target="_blank"}
 * [Build, Sign, and Deploy NuGet Packages with Azure Pipeline]({% post_url /2020/2020-04-12-build-sign-and-deploy-nuget-packages-with-azure-pipelines %})

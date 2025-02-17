@@ -20,7 +20,7 @@ In this post we'll cover how you can use Azure Pipelines to build, test, sign, a
 
 Before we get started, you might want to brush up on [YAML](https://yaml.org/){:target="_blank"}. If you do not know what YAML is, it is a human-friendly data serialization standard for all programming languages. I like to think of it as a more modern, less verbose version of XML. If YAML or learning another language/data format scares you, do be worried!  You don't need to read/write YAML in order to use Azure Pipelines. Azure provides a UI to build out your pipeline.  That's how I learned it!
 
-If you understand YAML, check out the [Azure YAML schema](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema&WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+If you understand YAML, check out the [Azure YAML schema](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema&?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
 
 ## Getting Started
 
@@ -72,7 +72,7 @@ The components of the editor:
 
 ## Pipeline Basics
 
-Check the docs, [Key Concepts](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&WT.mc_id=AZ-MVP-4024623){:target="_blank"} for some key concepts on everything that makes up a pipeline.  We are going to cover [triggers](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&WT.mc_id=AZ-MVP-4024623#trigger){:target="_blank"}, [pools](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&tabs=browser&WT.mc_id=AZ-MVP-4024623){:target="_blank"}, variables, [steps](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&WT.mc_id=AZ-MVP-4024623#step){:target="_blank"}, and [tasks](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&WT.mc_id=AZ-MVP-4024623#task){:target="_blank"}.
+Check the docs, [Key Concepts](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&?wt.mc_id=DT-MVP-4024623){:target="_blank"} for some key concepts on everything that makes up a pipeline.  We are going to cover [triggers](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&?wt.mc_id=DT-MVP-4024623#trigger){:target="_blank"}, [pools](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&tabs=browser&?wt.mc_id=DT-MVP-4024623){:target="_blank"}, variables, [steps](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&?wt.mc_id=DT-MVP-4024623#step){:target="_blank"}, and [tasks](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops&?wt.mc_id=DT-MVP-4024623#task){:target="_blank"}.
 
 ### Trigger
 
@@ -87,7 +87,7 @@ trigger:
 
 ### Setup Pool
 
-The pool tells Azure when VMs and 'pooled' resources it should use.  This varies based on the subscription model you have and are willing to pay for. For a list of the built-in agents, see the document called '[Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&WT.mc_id=AZ-MVP-4024623){:target="_blank"}'.
+The pool tells Azure when VMs and 'pooled' resources it should use.  This varies based on the subscription model you have and are willing to pay for. For a list of the built-in agents, see the document called '[Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&?wt.mc_id=DT-MVP-4024623){:target="_blank"}'.
 
 Since we are planning to sign the package and the signing only works on Windows machines (at least that I could get to work). We are going to choose a vmImage of `windows-latest`.
 
@@ -170,7 +170,7 @@ The second group, defines how the version number is generated. These version num
 
 #### Pipeline Parameter and Variables
 
-Because we want the ability to indicate whether we are building the `Debug` or `Release` configuration, we are going to use '[parameters](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/runtime-parameters?view=azure-devops&WT.mc_id=AZ-MVP-4024623){:target="_blank"}' and '[variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch&WT.mc_id=AZ-MVP-4024623){:target="_blank"}'
+Because we want the ability to indicate whether we are building the `Debug` or `Release` configuration, we are going to use '[parameters](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/runtime-parameters?view=azure-devops&?wt.mc_id=DT-MVP-4024623){:target="_blank"}' and '[variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch&?wt.mc_id=DT-MVP-4024623){:target="_blank"}'
 
 Let's go back to before the `trigger`, around line 5 or 6 and past this parameter yaml.
 
@@ -232,7 +232,7 @@ The **nobuild** tells *dotnet* to not build the project. Building the project is
 
 Phew, the project is packaged, let's sign it.
 
-We are going to use [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} to use our certificate to sign the package. If you haven't setup a certificate in a key vault yet, check out [Setup Code Signing Certificates in Azure Key Vault]({% post_url 2020/2020-04-04-setup-code-signing-certificates-in-azure-key-vault %})
+We are going to use [Azure Key Vault](https://azure.microsoft.com/en-us/services/key-vault/?wt.mc_id=DT-MVP-4024623){:target="_blank"} to use our certificate to sign the package. If you haven't setup a certificate in a key vault yet, check out [Setup Code Signing Certificates in Azure Key Vault]({% post_url 2020/2020-04-04-setup-code-signing-certificates-in-azure-key-vault %})
 
 To assist us in using Azure Key Vault certificate signing, we are going to use a community created tool, [NuGetKeyVaultSignTool](https://github.com/novotnyllc/NuGetKeyVaultSignTool){:target="_blank"}.  This tool uses some of the Key Vault APIs.  As a result, we are going to need *client id* and *client secret*. For more on setting up an application in Azure to access the Key Vault through an API check out [Setup an Azure Application with Permissions to Enable Certificate Signing]({% post_url 2020/2020-04-07-setup-an-azure-application-with-permissions-to-enable-certificate-signing %}).  
 

@@ -100,7 +100,7 @@ If `global using` is not your or your teams thing, you can disable it by adding 
 
 ### Extended Property Patterns
 
-[Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns?WT.mc_id=AZ-MVP-4024623){:target="_blank"} was introduced in C# 7. It allows you to match the properties of an object against a pattern. Pattern matching is a great way to write cleaner code. In C# 8, the [Property Patterns](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/pattern-matching?WT.mc_id=AZ-MVP-4024623){:target="_blank"} feature was added, which enabled you to match against properties of an object like this:
+[Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns?wt.mc_id=DT-MVP-4024623){:target="_blank"} was introduced in C# 7. It allows you to match the properties of an object against a pattern. Pattern matching is a great way to write cleaner code. In C# 8, the [Property Patterns](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/pattern-matching?wt.mc_id=DT-MVP-4024623){:target="_blank"} feature was added, which enabled you to match against properties of an object like this:
 
 ```csharp
 Person person = new Person {
@@ -262,4 +262,4 @@ public static void ThrowIfNull(
 
 ## Wrap Up
 
-This is not an exhaustive list of new language features introduced in C# 10. To see what else was added to C# 10, check out [What's new in C# 10.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10?WT.mc_id=AZ-MVP-4024623)
+This is not an exhaustive list of new language features introduced in C# 10. To see what else was added to C# 10, check out [What's new in C# 10.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10?wt.mc_id=DT-MVP-4024623)

@@ -11,7 +11,7 @@ tags:
 - VSCode
 ---
 This morning I was working on a blog post on getting started with Developer Containers.
-For this, I opened up [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}  and [JetBrains](https://www.jetbrains.com/){:target="_blank"} [Rider](https://www.jetbrains.com/rider/){:target="_blank"}.
+For this, I opened up [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=DT-MVP-4024623){:target="_blank"}  and [JetBrains](https://www.jetbrains.com/){:target="_blank"} [Rider](https://www.jetbrains.com/rider/){:target="_blank"}.
 Once I opened them side by side,
 I noticed that the files on the file list in their "Explorers'" were in a different sort order.
 This confused me because, at least I think,

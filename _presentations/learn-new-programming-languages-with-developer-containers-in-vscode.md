@@ -19,7 +19,7 @@ links:
  - title: Docker Desktop
    url: https://www.docker.com
  - title: Visual Studio Code
-   url: https://visualstudio.microsoft.com/?WT.mc_id=AZ-MVP-4024623
+   url: https://visualstudio.microsoft.com/?wt.mc_id=DT-MVP-4024623
  - title: Remote Containers Extension
    url: https://jjg.me/container_ext
  - title: Available DevContainer Features

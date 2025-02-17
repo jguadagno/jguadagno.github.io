@@ -20,7 +20,7 @@ Since I got bitten by the CI/CD bug, I've been looking at ways to clean up some 
 
 If you are familiar with what Nuget is for packages in the .NET ecosystem, Yarn does the same thing except for web packages (HTML, CSS, javascript, etc).
 
-I looked at Yarn to update the commonly used web frameworks like, [Bootstrap](https://www.getbootstrap.com){:target="_blank"}, [jQuery](https://jquery.com){:target="_blank"} (required for Bootstrap), and [Fontawesome](https://fontawesome.com/){:target="_blank"} and I couldn't find anything that told me how. Microsoft started a project called [LibMan](https://docs.microsoft.com/en-us/aspnet/core/client-side/libman/libman-vs?view=aspnetcore-5.0&WT.mc_id=AZ-MVP-4024623){:target="_blank"} which helped with the management of packages but that only worked in the IDE.  So, as I like to do, I worked on figuring it out.
+I looked at Yarn to update the commonly used web frameworks like, [Bootstrap](https://www.getbootstrap.com){:target="_blank"}, [jQuery](https://jquery.com){:target="_blank"} (required for Bootstrap), and [Fontawesome](https://fontawesome.com/){:target="_blank"} and I couldn't find anything that told me how. Microsoft started a project called [LibMan](https://docs.microsoft.com/en-us/aspnet/core/client-side/libman/libman-vs?view=aspnetcore-5.0&?wt.mc_id=DT-MVP-4024623){:target="_blank"} which helped with the management of packages but that only worked in the IDE.  So, as I like to do, I worked on figuring it out.
 
 Let's get to it!
 
@@ -82,7 +82,7 @@ Using Yarn to add your HTML, CSS, or javascript dependencies provides you with t
 
 There are several CDNs out there to use. If you discover the package on the Yarn site, you'll see mentions of a few CDNs like [jsDeliver](https://www.jsdelivr.com/){:target="_blank"}, [unpkg](https://unpkg.com/){:target="_blank"}, and [bundle.run](https://bundle.run/){:target="_blank"}, I'll use [cdnjs](https://cdnjs.com){:target="_blank"} for these examples.
 
-Using a CDN has several advantages but at the same time has a disadvantage. If the CDN you chose is down, your content will not be served which will lead to a less than designed look and feel for your site.  The good news is, ASP.NET has a built-in feature to fallback to local content in the event the CDN is down. These features are the [Script](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/script-tag-helper?view=aspnetcore-5.0&WT.mc_id=AZ-MVP-4024623){:target="_blank"} & [Link](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/link-tag-helper?view=aspnetcore-5.0&WT.mc_id=AZ-MVP-4024623){:target="_blank"} tag helpers.
+Using a CDN has several advantages but at the same time has a disadvantage. If the CDN you chose is down, your content will not be served which will lead to a less than designed look and feel for your site.  The good news is, ASP.NET has a built-in feature to fallback to local content in the event the CDN is down. These features are the [Script](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/script-tag-helper?view=aspnetcore-5.0&?wt.mc_id=DT-MVP-4024623){:target="_blank"} & [Link](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/link-tag-helper?view=aspnetcore-5.0&?wt.mc_id=DT-MVP-4024623){:target="_blank"} tag helpers.
 
 Looking at the sample for jQuery you'll notice four additional attributes.
 
@@ -105,7 +105,7 @@ You can replace all of the scripts now with a `script` tag similar to this one. 
 
 Even more bonus content! Win/Win Again!
 
-ASP.NET Core added an [Environment](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/environment-tag-helper?view=aspnetcore-5.0&WT.mc_id=AZ-MVP-4024623){:target="_blank"} tag helper.  This helper allows you to render content specific to an environment.  This means, you can scripts from your local machine when running in development and serve them from a CDN when running in production. I know, at this point you are probably saying *'Joe, that sounds really complicated'*.  Well, it isn't! Let me show you.
+ASP.NET Core added an [Environment](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/environment-tag-helper?view=aspnetcore-5.0&?wt.mc_id=DT-MVP-4024623){:target="_blank"} tag helper.  This helper allows you to render content specific to an environment.  This means, you can scripts from your local machine when running in development and serve them from a CDN when running in production. I know, at this point you are probably saying *'Joe, that sounds really complicated'*.  Well, it isn't! Let me show you.
 
 In this example.
 

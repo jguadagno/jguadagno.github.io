@@ -11,7 +11,7 @@ tags:
   - Events
   - Arizona
 ---
-We are having a special user group meeting this month on [LightSwitch](https://msdn.microsoft.com/en-us/lightswitch?WT.mc_id=DOP-MVP-4024623){:target="_blank"} on [August 25th](https://sevdnug.org/Events/All/SEVDNUG_August_2011_Meeting_-_LightSwitch.aspx){:target="_blank"} where [Beth Massi](https://blogs.msdn.com/b/bethmassi/){:target="_blank"}, Senior Program Manager for BizApps, will present up to three sessions on LightSwitch.
+We are having a special user group meeting this month on [LightSwitch](https://msdn.microsoft.com/en-us/lightswitch?WT.mc_id=DT-MVP-4024623){:target="_blank"} on [August 25th](https://sevdnug.org/Events/All/SEVDNUG_August_2011_Meeting_-_LightSwitch.aspx){:target="_blank"} where [Beth Massi](https://blogs.msdn.com/b/bethmassi/){:target="_blank"}, Senior Program Manager for BizApps, will present up to three sessions on LightSwitch.
 
 The descriptions for the sessions are below. If you are interested in LightSwitch and want to attend please complete this [survey](https://www.esurveyspro.com/Survey.aspx?id=b8813313-91f2-452e-8e38-dc8f537ed363){:target="_blank"}.  
 

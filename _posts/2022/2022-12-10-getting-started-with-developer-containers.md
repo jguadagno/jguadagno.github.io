@@ -34,11 +34,11 @@ plus be able to work on multiple projects at the same time without having to wor
 
 You need three things to get started with development containers:
 
-- [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+- [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=DT-MVP-4024623){:target="_blank"}
 - [Docker](https://www.docker.com/){:target="_blank"} or another container engine
 - [Dev Containers](vscode:extension/ms-vscode-remote.remote-containers) extension for Visual Studio Code
 
-More on getting started can be found [here](https://code.visualstudio.com/docs/devcontainers/containers?WT.mc_id=AZ-MVP-4024623#_getting-started){:target="_blank"}.
+More on getting started can be found [here](https://code.visualstudio.com/docs/devcontainers/containers?wt.mc_id=DT-MVP-4024623#_getting-started){:target="_blank"}.
 
 ## Creating a Developer Container
 
@@ -125,7 +125,7 @@ Most of the other lines are specific to the type of template you chose, but are 
 | `postCreateCommand` | This is where you can run a script after the container is created.                                                              |
 | `customizations`    | This is where you can customize the instance of Visual Studio Code that will be used in the container.                          |
 
-For more details on the `devcontainer.json` file, see the [specification](https://containers.dev/implementors/json_reference/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+For more details on the `devcontainer.json` file, see the [specification](https://containers.dev/implementors/json_reference/?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
 
 ### Jekyll Specific Details
 
@@ -242,7 +242,7 @@ You can also open the Command Palette (`Ctrl+Shift+P`) and select the **Remote: 
 
 ## References
 
-- [Developers Containers](https://container.dev/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-- [Create Dev Container](https://code.visualstudio.com/docs/devcontainers/create-dev-container?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-- [Dev Container Template](https://containers.dev/templates?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
-- [Dev Container Features](https://containers.dev/features?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+- [Developers Containers](https://container.dev/?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+- [Create Dev Container](https://code.visualstudio.com/docs/devcontainers/create-dev-container?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+- [Dev Container Template](https://containers.dev/templates?wt.mc_id=DT-MVP-4024623){:target="_blank"}
+- [Dev Container Features](https://containers.dev/features?wt.mc_id=DT-MVP-4024623){:target="_blank"}

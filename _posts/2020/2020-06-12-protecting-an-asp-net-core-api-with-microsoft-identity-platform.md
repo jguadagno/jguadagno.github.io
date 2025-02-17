@@ -10,7 +10,7 @@ tags:
   - Managed Identity
   - Entra
 ---
-[Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web){:target="_blank"} is a library which contains a set of reusable classes used in conjunction with ASP.NET Core for integrating with the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623){:target="_blank"} (formerly *Azure AD v2.0 endpoint*) and [AAD B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+[Microsoft Identity Web](https://www.nuget.org/packages/Microsoft.Identity.Web){:target="_blank"} is a library which contains a set of reusable classes used in conjunction with ASP.NET Core for integrating with the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?wt.mc_id=DT-MVP-4024623){:target="_blank"} (formerly *Azure AD v2.0 endpoint*) and [AAD B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
 
 This library is for specific usage with:
 
@@ -22,8 +22,8 @@ This library is for specific usage with:
 
 ## Prerequisites
 
-- An Azure account with an active subscription. [Create an account for free](https://azure.microsoft.com/free/?ref=microsoft.com&utm_source=microsoft.com&utm_medium=docs&utm_campaign=visualstudio&WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
-- An [Azure AD tenant](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+- An Azure account with an active subscription. [Create an account for free](https://azure.microsoft.com/free/?ref=microsoft.com&utm_source=microsoft.com&utm_medium=docs&utm_campaign=visualstudio&?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
+- An [Azure AD tenant](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
 - An ASP.NET Core Web Api.  If you need one, you can start with the [Contacts](https://www.github.com/jguadagno/contacts){:target="_blank"} application at this [commit](https://github.com/jguadagno/Contacts/commit/e34ff477146c336a47eae141de31cede197650cf){:target="_blank"}.
 
 ## Getting Started with Microsoft Identity Platform

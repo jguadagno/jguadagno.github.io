@@ -11,7 +11,7 @@ tags:
   - Managed Identity
   - Entra
 ---
-Securing our applications and data is critical in this day and age.  I've been working a lot with the new [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}  (MSAL) library, so I decided to create a series of blog posts around working with it.
+Securing our applications and data is critical in this day and age.  I've been working a lot with the new [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/?wt.mc_id=DT-MVP-4024623){:target="_blank"}  (MSAL) library, so I decided to create a series of blog posts around working with it.
 
 * [Register an application]({% link _posts/2020/2020-08-29-working-with-microsoft-identity-registering-an-application.md %}).
 * Configure Local Development (this post)
@@ -54,5 +54,5 @@ Any questions, please feel free to send me and email or tweet.  Like what you se
 
 ### Resources
 
-* Microsoft identity platform [documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* Microsoft identity platform [documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/?wt.mc_id=DT-MVP-4024623){:target="_blank"}
 * Follow the 425show on [Twitch](https://www.twitch.tv/425show){:target="_blank"}

@@ -20,7 +20,7 @@ When using Google or Bing Maps to lookup an address or point of interest, both d
 
 ![Bing Autocomplete Suggestions](/assets/images/posts/kendo-autocomplete-bing-search.png){: .align-center}
 
-In this post, I'll walk you through how you can implement the same functionality using HTML, JavaScript, [Azure Map Search](https://docs.microsoft.com/en-us/rest/api/maps/search?WT.mc_id=AZ-MVP-4024623){:target="_blank"} service, and [Telerik Kendo UI](https://demos.telerik.com/kendo-ui/){:target="_blank"} [Autocomplete](https://demos.telerik.com/kendo-ui/autocomplete/index){:target="_blank"} control.  You'll be able to download the completed code at the end of the post.
+In this post, I'll walk you through how you can implement the same functionality using HTML, JavaScript, [Azure Map Search](https://docs.microsoft.com/en-us/rest/api/maps/search?wt.mc_id=DT-MVP-4024623){:target="_blank"} service, and [Telerik Kendo UI](https://demos.telerik.com/kendo-ui/){:target="_blank"} [Autocomplete](https://demos.telerik.com/kendo-ui/autocomplete/index){:target="_blank"} control.  You'll be able to download the completed code at the end of the post.
 
 If you want to watch me do this "live" instead, check out the [video](https://youtu.be/cmpzZQa76rs){:target="_blank"}.
 
@@ -29,11 +29,11 @@ If you want to watch me do this "live" instead, check out the [video](https://yo
 This post was written for the following software and versions listed below.
 
 * [Kendo UI](https://www.telerik.com/kendo-ui){:target="_blank"} - version 2021.1.224
-* [Azure Map Search](https://docs.microsoft.com/en-us/rest/api/maps/search?WT.mc_id=AZ-MVP-4024623){:target="_blank"} service - version 1.0
+* [Azure Map Search](https://docs.microsoft.com/en-us/rest/api/maps/search?wt.mc_id=DT-MVP-4024623){:target="_blank"} service - version 1.0
 
 ## Getting Started
 
-The post assumes you already have an Azure Maps account with a corresponding Primary Key and/or Client Id. If you don't have a key, you can obtain one [here](https://docs.microsoft.com/en-us/azure/azure-maps/quick-demo-map-app#get-the-primary-key-for-your-account?WT.mc_id=AZ-MVP-4024623){:target="_blank"}. In addition to an Azure Maps account, you need to have a licensed copy of the [Telerik Kendo UI](https://www.telerik.com/purchase/kendo-ui){:target="_blank"} suite.
+The post assumes you already have an Azure Maps account with a corresponding Primary Key and/or Client Id. If you don't have a key, you can obtain one [here](https://docs.microsoft.com/en-us/azure/azure-maps/quick-demo-map-app#get-the-primary-key-for-your-account?wt.mc_id=DT-MVP-4024623){:target="_blank"}. In addition to an Azure Maps account, you need to have a licensed copy of the [Telerik Kendo UI](https://www.telerik.com/purchase/kendo-ui){:target="_blank"} suite.
 
 If you are ready, open up your IDE of choice, Visual Studio, Visual Studio Code, JetBrains Rider, or just plan Notepad/TextEdit to get started.
 
@@ -128,7 +128,7 @@ const defaultZoom = 15;
 | --- | --- | --- |
 | `map` | The Azure Map map | Display the map control |
 | `azureSearchDataSource` | [Kendo UI DataSource](https://docs.telerik.com/kendo-ui/framework/datasource/overview){:target="_blank"} | Used to call the Azure Map Search service from the Kendo UI Autocomplete control |
-| `azureMapDataSource` | [Azure Maps DataSource](https://docs.microsoft.com/en-us/azure/azure-maps/create-data-source-web-sdk?WT.mc_id=AZ-MVP-4024623){:target="_blank"} | Used to draw the pushpins on the layers of the map |
+| `azureMapDataSource` | [Azure Maps DataSource](https://docs.microsoft.com/en-us/azure/azure-maps/create-data-source-web-sdk?wt.mc_id=DT-MVP-4024623){:target="_blank"} | Used to draw the pushpins on the layers of the map |
 | `mapCenter` | Array of numbers | Used to center the map and provide hints of where to search. The first number is the longitude and the second is the latitude. In this example, -73.985130, 40.758896 is Time Square, Manhattan, NY |
 | `defaultZoom` | A number or string | Used to tell the map control at what level do we want the map control to zoom in |
 
@@ -160,11 +160,11 @@ Line 2 is the name of the `div` you want the map to be rendered in.  You'll noti
 
 Line 3 and 4 use the variables we created in the previous step to center the map and set the zoom level.
 
-Lines 5 - 7, we create the map authentication. For more details on the map's customization, check out the Azure Map documentation on [creating a map](https://docs.microsoft.com/en-us/azure/azure-maps/map-create?WT.mc_id=AZ-MVP-4024623){:target="_blank"}.
+Lines 5 - 7, we create the map authentication. For more details on the map's customization, check out the Azure Map documentation on [creating a map](https://docs.microsoft.com/en-us/azure/azure-maps/map-create?wt.mc_id=DT-MVP-4024623){:target="_blank"}.
 
 In lines 11 - 16, we attach a `ready` event to map control, which instructs the Azure Maps controls to execute the code when the map is ready, meaning displayed.
 
-Lines 12 - 15, we add a data source to the map, which has a [Symbol Layer](https://docs.microsoft.com/en-us/azure/azure-maps/map-add-pin?WT.mc_id=AZ-MVP-4024623){:target="_blank"} in it. This is done so we can draw a pushpin on the center of the map.
+Lines 12 - 15, we add a data source to the map, which has a [Symbol Layer](https://docs.microsoft.com/en-us/azure/azure-maps/map-add-pin?wt.mc_id=DT-MVP-4024623){:target="_blank"} in it. This is done so we can draw a pushpin on the center of the map.
 
 We're almost there!
 
@@ -213,11 +213,11 @@ Sample search query
 
 `https://atlas.microsoft.com/search/poi/json?typeahead=true&api-version=1&view=Auto&language=en-US&countrySet=US&subscription-key=replace-me&lon=-73.985130&lat=40.758896&query=macy`
 
-For more details on the search parameters available, please look at the [Get Search POI](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi?WT.mc_id=AZ-MVP-4024623){:target="_blank"} documentation.
+For more details on the search parameters available, please look at the [Get Search POI](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi?wt.mc_id=DT-MVP-4024623){:target="_blank"} documentation.
 
 ### The Azure Maps Search service response
 
-Assuming the request is correct, the service responds with JSON data. The response has two properties `summary` and `results`. The `summary` section is just that, a summary of the requests and the results defined as a [SearchPoiSummary](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi#searchpoisummary){:target="_blank"}.  The `results` is an array of [SearchPoiResult](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi#searchpoiresult?WT.mc_id=AZ-MVP-4024623){:target="_blank"} items.
+Assuming the request is correct, the service responds with JSON data. The response has two properties `summary` and `results`. The `summary` section is just that, a summary of the requests and the results defined as a [SearchPoiSummary](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi#searchpoisummary){:target="_blank"}.  The `results` is an array of [SearchPoiResult](https://docs.microsoft.com/en-us/rest/api/maps/search/getsearchpoi#searchpoiresult?wt.mc_id=DT-MVP-4024623){:target="_blank"} items.
 
 ```json
 {
@@ -504,6 +504,6 @@ You can watch one of the sessions of `[Coding with JoeG](https://twitch.tv/jguad
 
 ## References
 
-* [Search for a location using Azure Maps Search service](https://docs.microsoft.com/en-us/azure/azure-maps/how-to-search-for-address?WT.mc_id=AZ-MVP-4024623){:target="_blank"}
+* [Search for a location using Azure Maps Search service](https://docs.microsoft.com/en-us/azure/azure-maps/how-to-search-for-address?wt.mc_id=DT-MVP-4024623){:target="_blank"}
 * [Kendo UI](https://www.telerik.com/kendo-ui){:target="_blank"}
 * [Kendo UI Autocomplete Widget](https://demos.telerik.com/kendo-ui/autocomplete/index){:target="_blank"}

@@ -21,7 +21,7 @@ links:
  - title: GitHub
    url: https://www.github.com
  - title: Visual Studio
-   url: https://visualstudio.microsoft.com/?WT.mc_id=AZ-MVP-4024623
+   url: https://visualstudio.microsoft.com/?wt.mc_id=DT-MVP-4024623
  - title: JetBrains Rider
    url: https://jetbrains.com/rider/
  - title: SQL Server
@@ -44,7 +44,7 @@ This workshop is geared toward individuals getting started with ASP.NET Core or 
 
 ### Requirements
 
-- [Visual Studio](https://visualstudio.microsoft.com/?WT.mc_id=AZ-MVP-4024623) or [JetBrains Rider](https://jetbrains.com/rider/)
+- [Visual Studio](https://visualstudio.microsoft.com/?wt.mc_id=DT-MVP-4024623) or [JetBrains Rider](https://jetbrains.com/rider/)
 - .NET 6 or later, 8 is preferred
 - .NET Workload of `ASP.NET and web development`
 - *git* client

@@ -30,7 +30,7 @@ And close to 20 versions of .NET Runtime on my machine.
 ![.NET Runtimes Before Cleanup](/assets/images/posts/dot-net-cleanup-runtime-before.png)
 
 I decided to clean up some older versions of .NET SDKs and Runtime.
-This is where the [.NET Uninstall Tool](https://docs.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool?tabs=windowsapplication&WT.mc_id=AZ-MVP-4024623) comes in handy. This tool allows you to see older versions of .NET SDKs and Runtime and uninstall them.
+This is where the [.NET Uninstall Tool](https://docs.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool?tabs=windowsapplication&?wt.mc_id=DT-MVP-4024623) comes in handy. This tool allows you to see older versions of .NET SDKs and Runtime and uninstall them.
 
 You can download the tool [here](https://github.com/dotnet/cli-lab/releases){:target="_blank"}.
 There are instructions for installation for both Windows and macOS.
@@ -60,7 +60,7 @@ There are quite a few different ways to uninstall the .NET SDKs and Runtime's.
 For each option you need to choose either the `sdk`, `runtime`, `aspnet-runtime`, or `hosting-bundle`.
 You then need to specify which versions you want to uninstall.
 There are options for `all`, `all-but-latest`, `latest`, and many more.
-You can see the full list of options [here](https://docs.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool?tabs=windows&application?WT.mc_id=AZ-MVP-4024623#options-1){:target="_blank"}.
+You can see the full list of options [here](https://docs.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool?tabs=windows&application?wt.mc_id=DT-MVP-4024623#options-1){:target="_blank"}.
 
 I chose to use the `all-previews-but-latest` option, this will uninstall all the previews .NET SDKs and Runtime versions except the latest version of the specific preview.
 And the `all-but-latest` option, which will uninstall all the .NET SDKs and Runtime versions except the latest version of the major version.
