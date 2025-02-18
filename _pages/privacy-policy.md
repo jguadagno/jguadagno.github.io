@@ -179,7 +179,7 @@ We may use third-party Service Providers to show advertisements to you to help s
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences/
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <https://www.google.com/ads/preferences/>
 
 ### Links to Other Sites
 
