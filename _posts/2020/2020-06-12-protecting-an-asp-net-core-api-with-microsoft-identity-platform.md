@@ -1,5 +1,9 @@
 ---
 title: "Protecting an ASP.NET Core Web API with Microsoft Identity Platform"
+last_modified_at: 2025-02-22 19:06:00 -0700
+date: 2020-06-12 19:06:00 -0700
+header:
+    og_image: /assets/images/posts/header/protecting-api.png
 categories:
   - Articles
 tags:
@@ -335,3 +339,7 @@ You should get an error message with this. The most likely cause is that the nam
 This is a rather long post. The good thing about using the Microsoft Identity Platform is once you set up the App Registrations in the Azure portal and do it correctly :smile:, the rest is easy.  
 
 After the team at Microsoft watched me struggle through it, they said they would make it easier and probably even have some Powershell scripts for the initial setup.
+
+## Other Resources
+
+If you are interesting in learning how to build an ASP.NET Core Web API, you can start with the [Contacts](https://www.github.com/jguadagno/contacts){:target="_blank"} example application. Or you can read along with instructions at this blog post: [Building an ASP.NET Web API With ASP.NET Core](https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial){:target="_blank"}.
