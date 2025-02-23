@@ -1,5 +1,5 @@
 ---
-title: Our Cloud Adventure: Moving from Data Centers to Azure
+title: "Our Cloud Adventure: Moving from Data Centers to Azure"
 isKeynote: true
 isRetired: false
 sourceUrl: 
