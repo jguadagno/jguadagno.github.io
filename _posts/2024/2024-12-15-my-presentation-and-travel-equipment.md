@@ -3,7 +3,7 @@ title: "My Presentation and Travel Equipment"
 header:
     og_image: /assets/images/posts/header/travel-gear.png
 date: 2024-12-15 18:54:00 -0700
-last_modified_at: 2024-12-16 10:24:00 -0700
+last_modified_at: 2025-02-25 17:11:00 -0700
 
 categories:
 - Articles
@@ -58,6 +58,8 @@ This charger is very handy when you are traveling for the night time. The *Wirel
 
 Since public speaking generally requires travel and you can not guarantee the quality of the power outlets on airplanes, trains, or at the venue, I always carry a portable charger with me. I use the *25800mAh Power Bank, 22.5w Fast Charging Battery Pack* ([Amazon Link](https://amzn.to/49HvRhC){:target="_blank"}). This charger is very handy when you are traveling. It has a 25800mAh battery capacity and can charge multiple devices at the same time. It is very handy when you are traveling and you need to charge your laptop, phone, and other devices.
 
+***Update***: I've updated my portable charger to *Portable Charger 36800mAh,4 Outputs Power Bank, Dual Input 5V/3A External Battery Pack,USB-C in&Out High-Speed Charging Backup Charger Compatible with iPhone 16/15/14/13,Samsung S23 Android Phone etc* ([Amazon Link](https://amzn.to/4bhj2uW){:target="_blank"}). This charger has a 36800mAh battery capacity and can charge multiple devices at the same time. It is very handy when you are traveling and you need to charge your laptop, phone, and other devices. It also has a USB-C port that can charge your laptop.
+
 Recently, I added trackers to all of my bags, including my laptop bag.  Since I have an Android based phone, I added the *Pebblebee Tracker Clip Universal - Rechargable Item Tracker* ([Amazon Link](https://amzn.to/3ZVfNVW){:target="_blank"}). This product works both with Android and iOS devices. It came in very handy on the return flight from Stockholm when my bags decided to extend their vacation and not come home with me. :smile: Pebblebee also has a card version of the tracker that I have in my wallet and large suitcases. The *Pebblebee Tracker Card Universal - Rechargeable Slim Item Tracker* ([Amazon Link](https://amzn.to/4gdMDHm){:target="_blank"}).
 
 ## International Travel Equipment
@@ -66,7 +68,7 @@ For international travel, I have a few different items that I always carry with 
 
 This adapter is very handy when you are traveling internationally. The *Universal Travel Adapter, VINTAR 75W GaN International Power Adapter with 3 USB C PD and 2 USB A QC, All in One Travel Essentials for UK/EU/USA/AUS* ([Amazon Link](https://amzn.to/41zVq1O){:target="_blank"}). It has 3 USB-C ports, 2 USB-A ports, and can charge multiple devices at the same time. It is very handy when you are traveling and you need to charge your laptop, phone, and other devices. It also has a built-in power converter so you can use it in different countries. In addition, it supports fast charging, so you can charge your devices quickly.
 
-I primarily use a Dell laptop and it's AC adapter has a "[mickey mouse](https://en.wikipedia.org/wiki/IEC_60320){:target="_blank"}" style plug, or more technically known as an IEC 60320 C5 connector, to power the power brick. This makes it easy to find a replacement power cord when traveling internationally. I use the *CableLeader 6ft Right Angle European 3-Prong Notebook Power Cord CEE 7/7* ([Amazon Link](https://amzn.to/3OX0XrW){:target="_blank"}). This power cord is very handy when you are traveling internationally. It has a right-angle plug that makes it easy to plug into the wall outlet. It is very handy when you are traveling and you need to charge your laptop.
+I primarily use a Dell laptop and it's AC adapter has a "[mickey mouse](https://en.wikipedia.org/wiki/IEC_60320){:target="_blank"}" style plug, or more technically known as an IEC 60320 C5 connector, to power the power brick. This makes it easy to find a replacement power cord when traveling internationally. I use the *CableLeader 6ft Right Angle European 3-Prong Notebook Power Cord CEE 7/7* ([Amazon Link](https://amzn.to/3OX0XrW){:target="_blank"}). For the United Kingdom I use *UK 3 Prong AC Power Cord Cable for Dell HP Asus Sony Toshiba Lenovo Acer Charger (UK Power Cord)* ([Amazon Link](https://amzn.to/41c3QuF{:target="_blank"})) .These power cords are very handy when you are traveling internationally. They both have a right-angle plug that makes it easy to plug into the wall outlet. It is very handy when you are traveling and you need to charge your laptop.
 
 ## Bonus Equipment
 
