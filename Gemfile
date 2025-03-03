@@ -36,3 +36,6 @@ gem "faraday-retry"
 
 # Needed as a dependency with Ruby 3.0 or higher
 gem "webrick"
+
+# Address dependabot alert: https://github.com/jguadagno/jguadagno.github.io/security/dependabot/36
+gem "uri", ">= 1.0.3"
