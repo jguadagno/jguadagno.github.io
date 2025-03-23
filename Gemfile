@@ -39,3 +39,5 @@ gem "webrick"
 
 # Address dependabot alert: https://github.com/jguadagno/jguadagno.github.io/security/dependabot/36
 gem "uri", ">= 1.0.3"
+
+gem "csv"
