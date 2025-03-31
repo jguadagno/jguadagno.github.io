@@ -3,7 +3,7 @@ title: Build a Native Mobile Application using Ionic and JavaScript
 isKeynote: false
 isRetired: false
 sourceUrl:
-powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAjxYBAAAAAGYmbK71qIIX7iE
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQT_6Vi5CHNoQ5xSJlWBcdZOAQGQADi-2zSgIov9DbQFS4M
 sessionizeUrl: build_native_applications_with_java/17922
 level: 200
 links:
@@ -27,8 +27,7 @@ It is made with Sass, optimized for AngularJS.
 
 In this session, you will see how you can build rich, powerful,
 robust mobile applications that are clean, simple, and functional.
-These applications can use [Cordova](https://cordova.apache.org/){:target="_blank"},
-[PhoneGap](https://phonegap.com/){:target="_blank"} to deploy natively or be a modern-day web application.
+These applications can use [Cordova](https://cordova.apache.org/){:target="_blank"} to deploy natively or be a modern-day web application.
 
 All you need for this session is to know are HTML, CSS, and JavaScript: the building blocks of the web.
 You'll even learn AngularJS as you work with Ionic and this talk.
