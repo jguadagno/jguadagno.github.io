@@ -32,7 +32,7 @@
     "eventEnd": "2025-04-01T19:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
       "name": "Build a Native Mobile Application using Ionic and JavaScript",
