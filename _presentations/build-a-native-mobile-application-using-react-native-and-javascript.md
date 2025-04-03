@@ -1,7 +1,7 @@
 ---
 title: Build a Native Mobile Application using React Native and JavaScript
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl: https://github.com/jguadagno/building-applications-with-react-native
 powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQQ4wHhZyeRuIIBAPRoBAAAAAfRUfMvPhs7qrv0JiR1ZtpE
 sessionizeUrl: build_native_applications_with_java/17923

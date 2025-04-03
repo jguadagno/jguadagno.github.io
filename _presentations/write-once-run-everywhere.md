@@ -1,7 +1,7 @@
 ---
 title: Write Once, Run Everywhere
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl: 
 powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAjxYBAAAAAGYmbK71qIIX7iE
 sessionizeUrl: /write_once_run_everywhere/23125

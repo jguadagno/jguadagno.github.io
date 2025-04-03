@@ -1,7 +1,7 @@
 ---
 title: Build a Native Mobile Application using Ionic and JavaScript
 isKeynote: false
-isRetired: false
+isRetired: true
 sourceUrl: https://github.com/jguadagno/ionic-demo-starter
 powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQT_6Vi5CHNoQ5xSJlWBcdZOAQGQADi-2zSgIov9DbQFS4M
 sessionizeUrl: build_native_applications_with_java/17922
