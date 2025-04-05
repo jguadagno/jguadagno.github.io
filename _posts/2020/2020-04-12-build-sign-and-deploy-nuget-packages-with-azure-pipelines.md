@@ -1,5 +1,5 @@
 ---
-title: "Build, Sign, and Deploy NuGet Packages with Azure Pipeline"
+title: "Build, Sign, and Deploy NuGet Packages with Azure Pipelines"
 date: 2020-04-12 11:00:00 -0700
 last_modified_at: 2020-11-11 09:16:00 -0700
 excerpt: "Let's take a look how you can build an Azure pipeline that will build your NuGet package, sign it, then deploy it to Azure Artifacts"
@@ -192,12 +192,10 @@ Now, that we have the parameter, we need to create a variable to place the selec
 
 Below the `pool` and before the `steps`, around line 19, insert this YAML to create the variable.
 
-{% raw %}
 ```yaml
 variables:
   buildConfiguration: ${{ parameters.buildConfig }}
 ```
-{% endraw %}
 
 This now creates the variable **buildConfigurations** based on the **buildConfig** parameter
 
