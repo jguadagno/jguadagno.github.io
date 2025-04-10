@@ -1,5 +1,99 @@
 [
   {
+    "eventName": "To Be Announced",
+    "eventUrl": "https://www.josephguadagno.net/",
+    "location": "Beirut, Lebanon",
+    "eventStart": "2025-05-31T08:30:00",
+    "eventEnd": "2025-05-31T16:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "A lap around Microsoft Azure",
+        "url": "/presentations/a-lap-around-microsoft-azure",
+        "date": "2025-05-31T09:15:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      },
+      {
+      "name": "Build, Package, Sign, and Publish a .NET Library to NuGet",
+      "url": "/presentations/build-package-sign-and-publish-a-dotnet-library-to-nuget",
+      "date": "2025-05-31T10:30:00",
+      "room": "",
+      "comments": "",
+      "isCanceled": false,
+      "isWorkshop": false,
+      "isKeynote": false,
+      "isPanel": false
+      },
+      {
+        "name": "Debugging Tips and Tips with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2025-05-31T11:30:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      },
+      {
+        "name": "Open-Source for All",
+        "url": "/presentations/open-source-for-all",
+        "date": "2025-05-31T13:30:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      },
+      {
+        "name": "Open Q&A with Joe Guadagno",
+        "url": "https://www.josephguadagno.net/about-joseph-guadagno/",
+        "date": "2025-05-31T13:30:00",
+        "room": "",
+        "comments": "Bring your questions about technology, leadership, the industry, or anything else you want to ask.",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "UTC+3",
+    "inPerson": "In Person"
+  },
+  {
+    "eventName": "Private Event",
+    "eventUrl": "https://www.josephguadagno.net/",
+    "location": "Beirut, Lebanon",
+    "eventStart": "2025-05-30T09:00:00",
+    "eventEnd": "2025-05-30T17:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+      "name": "Build, Package, Sign, and Publish a .NET Library to NuGet",
+      "url": "/presentations/build-package-sign-and-publish-a-dotnet-library-to-nuget",
+      "date": "",
+      "room": "",
+      "comments": "",
+      "isCanceled": false,
+      "isWorkshop": false,
+      "isKeynote": false,
+      "isPanel": false
+      }
+    ],
+    "timezone": "UTC+3",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "Update Conference Krakow 2025",
     "eventUrl": "https://krakow.updateconference.net/",
     "location": "Krakow, Poland",
