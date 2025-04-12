@@ -2,7 +2,7 @@
 title: A Lap Around Microsoft Azure
 isKeynote: false
 isRetired: false
-sourceUrl: https://github.com/jguadagno/sample-app
+sourceUrl: https://github.com/jguadagno/contacts-noauth
 powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBA4jMBAAAAAExWy5vMGukZ7V8
 youTubeId: pPncy-l9iHQ
 youTubeCaption: A Lap Around Microsoft Azure. Azure Virtual Conference
