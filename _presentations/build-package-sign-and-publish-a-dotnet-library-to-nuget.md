@@ -11,8 +11,14 @@ level: 300
 links:
  - title: Blog Post - Build, Sign, and Deploy NuGet Packages with Azure Pipeline
    url: https://jjg.me/buildit
- - title: Blog - JosephGuadagno.net
-   url: https://jjg.me/mysite
+ - title: Blog Post - Setup Azure Artifacts to Host Your NuGet Packages
+   url: https://www.josephguadagno.net/2020/04/04/setup-azure-artifacts-to-host-nuget-packages
+ - title: Blog Post - Extended Validation (EV) Code Signing Certificates with Azure Key Vault and digicert
+   url: https://www.josephguadagno.net/2024/07/17/ev-code-signing-certificates-with-azure-key-vault-and-digicert
+ - title: Blog Post - Setup Azure Artifacts to Host Your NuGet Packages
+   url: https://www.josephguadagno.net/2020/04/04/setup-code-signing-certificates-in-azure-key-vault
+ - title: VS Code Extension - Azure Pipeline
+   url: https://jjg.me/bpsp_vscode_pipelines
 ---
 In the modern development landscape, the use of NuGet packages has become a staple for code sharing and reuse in the .NET ecosystem. This session will provide a detailed exploration of the end-to-end process of building, packaging, and signing NuGet packages.
 
