@@ -7,7 +7,7 @@
     "eventEnd": "2025-05-31T18:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "A lap around Microsoft Azure",
@@ -65,7 +65,7 @@
     "eventEnd": "2025-05-30T17:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
       "name": "Build, Package, Sign, and Publish a .NET Library to NuGet",
@@ -90,7 +90,7 @@
     "eventEnd": "2025-05-27T17:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
       "name": "Build, Package, Sign, and Publish a .NET Library to NuGet",
