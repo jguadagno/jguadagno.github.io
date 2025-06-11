@@ -1,5 +1,30 @@
 [
   {
+    "eventName": "AspiriFridays",
+    "eventUrl": "https://www.youtube.com/@dotnet",
+    "location": "YouTube Live",
+    "eventStart": "2025-06-13T09:30:00",
+    "eventEnd": "2025-06-13T11:30:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Aspirify - JosephGuadagno.NET Broadcasting",
+        "url": "https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview?WT.mc_id=DT-MVP-4024623",
+        "date": "2025-06-13T09:30:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "PDT",
+    "inPerson": "Virtual"
+  },  
+  {
     "eventName": "A day of Cloud, Code, and Community",
     "eventUrl": "https://www.eventbrite.com/e/code-cloud-connect-with-senior-vp-of-it-at-rt2-microsoft-mvp-tickets-1374161166039",
     "location": "Khalil Sarkis Bayrut, Beirut Governorate Lebanon",
