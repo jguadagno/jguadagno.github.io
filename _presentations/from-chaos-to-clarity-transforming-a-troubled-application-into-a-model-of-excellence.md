@@ -1,5 +1,5 @@
 ---
-title: From Chaos to Clarity: Transforming a Troubled Application into a Model of Excellence
+title: From Chaos to Clarity - Transforming a Troubled Application into a Model of Excellence
 isKeynote: true
 isRetired: false
 sourceUrl: 
