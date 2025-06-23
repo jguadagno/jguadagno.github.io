@@ -1,13 +1,13 @@
 [
   {
     "eventName": "AspiriFridays",
-    "eventUrl": "https://www.youtube.com/@dotnet",
+    "eventUrl": "https://www.youtube.com/watch?v=ZKgUwDWCtic",
     "location": "YouTube Live",
     "eventStart": "2025-06-13T09:30:00",
     "eventEnd": "2025-06-13T11:30:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Aspirify - JosephGuadagno.NET Broadcasting",
