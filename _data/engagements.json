@@ -1,5 +1,30 @@
 [
   {
+    "eventName": "ESPC Learning Hub",
+    "eventUrl": "https://www.sharepointeurope.com/register-for-webinars",
+    "location": "Virtual",
+    "eventStart": "2025-08-20T15:00:00",
+    "eventEnd": "2025-08-20T16:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Monitoring and Troubleshooting Azure Applications with Azure Application Insights",
+        "url": "/presentations/monitoring-and-troubleshooting-azure-applications-with-azure-application-insights",
+        "date": "2025-08-20T15:00:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "CEST",
+    "inPerson": "Virtual"
+  },  
+  {
     "eventName": "AspiriFridays",
     "eventUrl": "https://www.youtube.com/watch?v=ZKgUwDWCtic",
     "location": "YouTube Live",
