@@ -4,6 +4,7 @@ excerpt: "Learn how Aspire can streamline your .NET development process, making 
 header:
     og_image: /assets/images/posts/header/simplify-with-aspire.png
 date: 2025-07-08 19:59:00 -0700
+last_modified_at: 2025-07-09 05:42:00 -0700
 
 categories:
 - Articles
@@ -36,12 +37,6 @@ To get started with Aspire, you need a few prerequisites:
 
 ***Note***: .NET Aspire also works with [GitHub Codespaces](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/github-codespaces?WT.mc_id=DT-MVP-4024623){:target="_blank"} or [Dev Containers](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/dev-containers?WT.mc_id=DT-MVP-4024623){:target="_blank"}.
 {: .notice--info}
-
-After the prerequisites are installed, you need to install the Aspire workload. You can do this by running the following command in your terminal or command prompt:
-
-```bash
-dotnet workload install aspire
-```
 
 If you want to use the Aspire project templates, you can install them with the following command:
 
