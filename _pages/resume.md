@@ -23,26 +23,17 @@ _9/2023 to Present_
 
 #### Senior Vice President of IT (Technology)
 
-Successfully led a diverse team of technology professionals, fostering a collaborative and innovative environment to drive the company's technology strategy forward.
-The teams included software developers, quality assurance engineers, business analysts, database engineers, server administrators, site reliability engineers, business intelligence developers, cyber security engineers, help desk technicians, product owners, and project managers.
-The teams were responsible for the development, maintenance, and support of the company's software applications, databases, and infrastructure.
-These teams included onshore and offshore people. I effectively managed relationships with offshore teams and vendors, ensuring seamless communication and collaboration across different time zones and cultural backgrounds.
+Successfully led a diverse team of technology professionals, fostering a collaborative and innovative environment to drive the company’s technology strategy forward. The teams included software developers, quality assurance engineers, business analysts, database engineers, server administrators, site reliability engineers, business intelligence developers, cyber security engineers, help desk technicians, product owners, and project managers. The teams were responsible for the development, maintenance, and support of the company’s software applications, databases, and infrastructure. These teams included onshore and offshore people. I effectively managed relationships with offshore teams and vendors, ensuring seamless communication and collaboration across different time zones and cultural backgrounds.
 
-While leading the technology team, I focused on team building, cultivating a positive and inclusive culture that encourages knowledge sharing, continuous learning, and professional growth.
-Professional growth for the team was achieved through education and performance management. By consistently setting and achieving performance goals, providing feedback, and conducting performance reviews to enhance team productivity and morale.
-In order to have clear objectives and goals for each team member and ensure their growth, I developed and implemented clearly defined roles and responsibilities for team members which was not previously in place.
+While leading the technology team, I focused on team building, cultivating a positive and inclusive culture that encourages knowledge sharing, continuous learning, and professional growth. Professional growth for the team was achieved through education and performance management. By consistently setting and achieving performance goals, providing feedback, and conducting performance reviews to enhance team productivity and morale. To ensure team members have clear objectives and goals for each team member and ensure their growth, I developed and implemented clearly defined roles and responsibilities for team members which were not previously in place.
 
-I also implemented a project prioritization process to ensure that the team was focused on the most important projects and initiatives that aligned with the company's strategic goals.
-This process involved working closely with the business stakeholders to understand their needs and priorities, and then translating those into actionable projects for the team.
+I also implemented a project prioritization process to ensure that the team was focused on the most important projects and initiatives that aligned with the company’s strategic goals. This process involved working closely with the business stakeholders to understand their needs and priorities, and then translating those into actionable projects for the team.
 
 Oversaw the procurement, distribution, and compliance of software licenses to ensure optimal usage and cost-efficiency across the organization.
 
-Successfully managed relationships with existing vendors, ensuring consistent and high-quality service delivery in line with company standards.
-Proactively onboarded new vendors, conducting thorough due diligence to ensure alignment with organizational needs and expectations.
-Expertly negotiated contracts with both new and existing vendors, achieving favorable terms that balanced cost efficiency with service quality.
-Established and maintained effective communication channels with vendors, fostering strong partnerships and promptly addressing any issues or concerns.
-Collaborated with internal stakeholders to identify vendor needs and develop strategic sourcing plans that support long-term business objectives.
-Researched new vendors and technologies to identify opportunities for innovation and cost savings.
+Successfully managed relationships with existing vendors, ensuring consistent and high-quality service delivery in line with company standards. Proactively onboarded new vendors, conducting thorough due diligence to ensure alignment with organizational needs and expectations. Expertly negotiated contracts with both new and existing vendors, achieving favorable terms that balanced cost efficiency with service quality. Established and maintained effective communication channels with vendors, fostering strong partnerships and promptly addressing any issues or concerns. Collaborated with internal stakeholders to identify vendor needs and develop strategic sourcing plans that support long-term business objectives. Researched new vendors and technologies to identify opportunities for innovation and cost savings.
+
+In support of RT²’s growth strategy, I participated in due diligence efforts to evaluate potential company acquisitions, ensuring alignment with our technology standards, and operational integrity. This involved assessing infrastructure scalability, software architecture, and team capabilities to mitigate risk and identify opportunities for innovation. Following successful acquisitions, I played a critical role in onboarding these new entities, driving seamless integration across IT systems, aligning processes with our core standards, and cultivating collaboration to accelerate cultural and technical cohesion.
 
 A few key projects that I led while at RT² include:
 
