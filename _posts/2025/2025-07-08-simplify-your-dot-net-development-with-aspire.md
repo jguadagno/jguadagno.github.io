@@ -4,7 +4,7 @@ excerpt: "Learn how Aspire can streamline your .NET development process, making 
 header:
     og_image: /assets/images/posts/header/simplify-with-aspire.png
 date: 2025-07-08 19:59:00 -0700
-last_modified_at: 2025-07-09 05:42:00 -0700
+last_modified_at: 2025-08-02 14:16:00 -0700
 
 categories:
 - Articles
@@ -21,6 +21,9 @@ Aspire is a new tool that simplifies the development of .NET applications by man
 According to the [official documentation](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview?WT.mc_id=DT-MVP-4024623){:target="_blank"}, .NET Aspire provides tools, templates, and packages to help you build observable, production-ready apps. Delivered through NuGet packages, .NET Aspire simplifies common challenges in modern app development.
 
 A few weeks ago, I was on [AspiriFridays](https://www.youtube.com/watch?v=ZKgUwDWCtic){:target="_blank"} where [Damian Edward](https://bsky.app/profile/damianedwards.com){:target="_blank"}, [David Fowler](https://bsky.app/profile/davidfowl.com){:target="_blank"}, [Maddy Montaquila](https://bsky.app/profile/maddymontaquila.net){:target="_blank"} and I were adding .NET [Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview?WT.mc_id=DT-MVP-4024623){:target="_blank"} to the [JosephGuadagno.NET Broadcasting](https://github.com/jguadagno/jjgnet-broadcast/){:target="_blank"} application. Let's take a look at how Aspire can help you streamline your .NET development process.
+
+***Note***: This blog post was updated on August 2nd to reflect Aspire version 9.4.0
+{: .notice--info}
 
 ## Getting Started with Aspire
 
@@ -507,22 +510,19 @@ var blobStorage = builder.AddAzureStorage("AzureStorage")
 
 This line adds the Azure Blob storage component to the Aspire application, with the name `AzureStorage`. The `RunAsEmulator()` method specifies that the Azurite emulator should be used instead of a real Azure Blob storage account. Just as we did with the SQL Server database, we are using the `WithLifetime(ContainerLifetime.Persistent)` method to specify that the Azurite emulator should be persistent, meaning it will not be recreated every time the application is run. This is helpful for development and testing purposes, as it allows you to keep the data in the Azurite emulator between runs.
 
-Now, we need to add then name of the storage account to the Azure Blob storage component. We can do this by chaining a call to the `AddBlobs("cwjgcontacts")` method on the `AddAzureStorage` method. Now the `blobStorage` variable should look like this:
-
 ```csharp
 var blobStorage = builder.AddAzureStorage("AzureStorage")
     .RunAsEmulator(azurite =>
     {
         azurite.WithLifetime(ContainerLifetime.Persistent);
-    })
-    .AddBlobs("cwjgcontacts");
+    });
 ```
 
 Next, we need to create the blob containers that will be used by the application.  We can do this by calling the `AddBlobContainer("contact-images")` and `AddBlobContainer("contact-images-thumbnails")` methods on the `blobStorage` variable. Add the following line to the `AppHost.cs` file after the `AddBlobs("cwjgcontacts")` line:
 
 ```csharp
-blobStorage.AddBlobContainer("contact-images");
-blobStorage.AddBlobContainer("contact-images-thumbnails");
+var imageContainer = blobStorage.AddBlobContainer("contact-images");
+var thumbnailContainer = blobStorage.AddBlobContainer("contact-images-thumbnails");
 ```
 
 Now, we need to update `builder.AddProject<Projects.Contacts_WebUi>("contacts-web-ui")` to pass the Azure Blob storage connection string to the *Contacts.WebUi* project. We can do this by chaining a call to the `WithEnvironment` method on the `AddProject` method for the *Contacts.WebUi* project.
@@ -531,10 +531,9 @@ Now, we need to update `builder.AddProject<Projects.Contacts_WebUi>("contacts-we
 builder.AddProject<Projects.Contacts_WebUi>("contacts-web-ui")
     .WithReference(api)
     .WaitFor(api)
-    .WithReference(blobStorage)
     .WaitFor(blobStorage)
-    .WithEnvironment("Settings__ContactBlobStorageAccount", blobStorage)
-    .WithEnvironment("Settings__ContactThumbnailBlobStorageAccountName", blobStorage);
+    .WithEnvironment("Settings__ContactBlobStorageAccount", imageContainer)
+    .WithEnvironment("Settings__ContactThumbnailBlobStorageAccountName", thumbnailContainer);
 ```
 
 Now, we need to make a few tweaks to the *Contacts.WebUi* project to make be able to programmatically set the `ContactImageUrl` setting in the application.  For some reason, the service discovery feature of Aspire does not wire up blob storage URLs automatically, so we need to do it manually.
