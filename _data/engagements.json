@@ -1,4 +1,29 @@
 [
+    {
+    "eventName": "ManageEngine User Conference",
+    "eventUrl": "https://events.manageengine.com/userconf-las-vegas",
+    "location": "Las Vegas, NV",
+    "eventStart": "2025-09-18T09:00:00",
+    "eventEnd": "2025-09-19T17:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Perspectives and Insights: Business Success stories",
+        "url": "https://events.manageengine.com/userconf-las-vegas",
+        "date": "2025-09-19T11:15:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": true
+      }
+    ],
+    "timezone": "PST",
+    "inPerson": "In Person"
+  },  
   {
     "eventName": "ESPC Learning Hub",
     "eventUrl": "https://www.sharepointeurope.com/register-for-webinars",
