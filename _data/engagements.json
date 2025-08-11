@@ -1,5 +1,30 @@
 [
     {
+    "eventName": "Hot Topics Developers Group",
+    "eventUrl": "https://www.meetup.com/hot-topics-developer-group/events/",
+    "location": "San Diego, CA / Virtual",
+    "eventStart": "2025-11-04T18:00:00",
+    "eventEnd": "2025-11-04T19:00:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Debugging Tips and Tricks with Visual Studio",
+        "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
+        "date": "2025-11-04T18:00:00",
+        "room": "Virtual",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "PST",
+    "inPerson": "In Person"
+  },
+  {
     "eventName": "ManageEngine User Conference",
     "eventUrl": "https://events.manageengine.com/userconf-las-vegas",
     "location": "Las Vegas, NV",
