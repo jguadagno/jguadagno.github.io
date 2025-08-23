@@ -57,7 +57,7 @@
     "eventEnd": "2025-08-20T16:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Monitoring and Troubleshooting Azure Applications with Azure Application Insights",
