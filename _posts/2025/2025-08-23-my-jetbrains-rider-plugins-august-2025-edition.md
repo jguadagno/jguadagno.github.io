@@ -1,7 +1,7 @@
 ---
 title: "My JetBrains Rider Plugins—August 2025 Edition"
 header:
-    og_image: /assets/images/posts/header/rider-plugins.png
+    og_image: /assets/images/posts/header/rider-plugins-2025-08.png
 date: 2025-08-23 17:06:00 -0700
 
 categories:
