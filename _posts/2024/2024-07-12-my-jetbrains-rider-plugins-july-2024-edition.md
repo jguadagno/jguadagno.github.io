@@ -6,12 +6,16 @@ date: 2024-07-12 21:27:00 -0700
 last_modified_at: 2024-07-31 15:43:00 -0700
 categories:
 - Articles
+- Archive
 tags:
 - JetBrains
 - Rider
 - Plugin
 - presenting
 ---
+I've updated my plugins list for JetBrains Rider.  You can find the updated list in the post [My JetBrains Rider Plugins — August 2025 Edition]({% post_url 2025/2025-08-23-my-jetbrains-rider-plugins-august-2025-edition %}){:target="_blank"}.
+{: .notice--warning}
+
 I've been using [JetBrains](https://www.jetbrains.com/){:target="_blank"} [Rider](https://www.jetbrains.com/rider/){:target="_blank"} for quite some time now.
 
 I started using JetBrains Rider because I used both a Windows PC and a Mac PC and I wanted a consistent experience between the both.

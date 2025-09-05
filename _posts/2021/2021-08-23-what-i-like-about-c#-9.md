@@ -5,6 +5,7 @@ header:
 date: 2021-08-23 07:30:00 -0700
 categories:
   - Articles
+  - Archive
 tags:
   - .NET
   - Record
