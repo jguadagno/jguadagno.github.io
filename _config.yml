@@ -178,7 +178,6 @@ logo: "/assets/icons/android-chrome-96x96.png"
 bing_site_verification: "7EC9949296748CD8737FFF69FC74B369"
 head_scripts:
   - /assets/js/ai.js
-  - /assets/js/clarity.js
 
 # Social
 social:
