@@ -14,7 +14,7 @@ tags:
 - Plugin
 - presenting
 ---
-I've updated my plugins list for JetBrains Rider.  You can find the updated list in the post [My JetBrains Rider Plugins — July 2024 Edition]({% post_url 2024/2024-07-12-my-jetbrains-rider-plugins-july-2024-edition %}){:target="_blank"}.
+I've updated my plugins list for JetBrains Rider.  You can find the updated list in the post [My JetBrains Rider Plugins — August 2025 Edition]({% post_url 2025/2025-08-23-my-jetbrains-rider-plugins-august-2025-edition %}){:target="_blank"}.
 {: .notice--warning}
 
 I've been using [JetBrains](https://www.jetbrains.com/){:target="_blank"} [Rider](https://www.jetbrains.com/rider/){:target="_blank"} for quite some time now.

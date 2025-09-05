@@ -7,6 +7,7 @@ redirect_from:
 date: 2021-12-02 21:30:00 -0700
 categories:
   - Articles
+  - Archive
 tags:
   - .NET
   - Namespaces

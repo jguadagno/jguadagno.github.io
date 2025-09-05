@@ -8,6 +8,7 @@ redirect_from:
     - /2021/07/02/windows-11-a-first-lookk
 categories:
   - Articles
+  - Archive
 tags:
   - Windows11
 ---
