@@ -7,6 +7,7 @@ tags:
   - Twitch
   - Stream
   - CodingWithJoeG
+  - Archive
 ---
 
 In a previous post, I covered the [hardware]({% post_url 2020/2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %}) I use for the stream.  In this post, I'll cover the software and settings to 'produce' the stream and artifacts. Please keep in mind, this is a guide based on some of my searchings, my playing around, and my hardware, your needs may be different. Another thing to keep in mind, is these are my settings for streaming live coding not live gaming.

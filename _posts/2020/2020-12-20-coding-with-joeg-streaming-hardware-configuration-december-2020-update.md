@@ -7,6 +7,7 @@ tags:
   - Twitch
   - Stream
   - CodingWithJoeG
+  - Archive
 ---
 Since the original '[Stream Hardware Configuration]({% post_url 2020/2020-05-20-coding-with-joeg-streaming-hardware-configuration %}) post, I've changed my hardware configuration a bit.  This post contains the most current hardware configuration.
 

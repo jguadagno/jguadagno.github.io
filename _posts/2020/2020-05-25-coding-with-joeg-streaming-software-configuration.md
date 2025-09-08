@@ -8,6 +8,7 @@ tags:
   - Twitch
   - Stream
   - CodingWithJoeG
+  - Archive
 ---
 ***NOTE*** Since I have a new hardware configuration as outlined in '[Stream Hardware Configuration - December 2020]({% post_url 2020/2020-12-20-coding-with-joeg-streaming-hardware-configuration-december-2020-update %}), I've updated the software configuration in the post [Stream Software Configuration - December 2020]({% post_url 2020/2020-12-25-coding-with-joeg-streaming-software-configuration-december-2020-update %}). Check it out!
 {: .notice--info}

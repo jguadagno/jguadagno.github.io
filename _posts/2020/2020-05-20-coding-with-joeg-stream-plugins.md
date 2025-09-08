@@ -6,6 +6,7 @@ tags:
   - Twitch
   - Stream
   - CodingWithJoeG
+  - Archive
 ---
 Plugins are an easy (in most cases) way to add additional functionality to your stream.  Here is a collection of plugins that I use or are considering on using
 

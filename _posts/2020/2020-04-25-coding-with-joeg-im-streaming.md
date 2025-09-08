@@ -7,6 +7,7 @@ tags:
   - Twitch
   - Stream
   - CodingWithJoeG
+  - Archive
 ---
 I'm joining many other technology leaders and public speakers and starting to live code on [Twitch](https://www.twitch.tv/jguadagno){:target="_blank"}... maybe soon to YouTube!
 

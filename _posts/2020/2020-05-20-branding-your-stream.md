@@ -9,6 +9,7 @@ tags:
   - Twitch
   - Stream
   - CodingWithJoeG
+  - Archive
 ---
 As you start streaming more or recording videos for the future, there are few things you may want to consider to *tidy* things up.  Here are a few things you should consider.
 
