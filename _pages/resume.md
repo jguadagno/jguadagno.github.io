@@ -4,14 +4,17 @@ excerpt:
 permalink: /resume/
 header:
     og_image: /assets/images/pages/resume.png
-description: Resume of Joseph Guadagno, Microsoft Developer Services MVP, Public Speaker, Senior VP of IT at RT², Organizer of Desert Code Camp
+description: Resume of Joseph Guadagno, Microsoft Developer Services MVP, Public Speaker, Organizer of Desert Code Camp
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "file-alt"
 ---
 Joseph Guadagno
-602-293-6767
+{: .text-center}
+[602-293-6767](tel:+16022936767)
+{: .text-center}
 [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com)
+{: .text-center}
 [https://www.linkedin.com/in/josephguadagno](https://www.linkedin.com/in/josephguadagno){:target="_blank"}
 {: .text-center}
 
