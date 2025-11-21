@@ -12,7 +12,13 @@ toc_icon: "file-alt"
 Joseph Guadagno
 602-293-6767
 [jguadagno@hotmail.com](mailto:jguadagno@hotmail.com)
+[https://www.linkedin.com/in/josephguadagno](https://www.linkedin.com/in/josephguadagno){:target="_blank"}
 {: .text-center}
+
+## Downloads
+
+* Download a copy of my resume here: [Joseph Guadagno Resume]({% link /assets/downloads/Joseph_Guadagno_Resume.docx %})
+* Download a shorter version of my resume here: [Joseph Guadagno Resume Shortened]({% link /assets/downloads/Joseph_Guadagno_resume_shortened.docx %})
 
 ## Experience
 
@@ -376,4 +382,5 @@ I have had two articles published in a magazine, one in Windows Developers Journ
 
 ## Resume in Word
 
-Download a copy of my resume here: [Joseph Guadagno Resume]({% link /assets/downloads/Joseph_Guadagno_Resume.docx %})
+* Download a copy of my resume here: [Joseph Guadagno Resume]({% link /assets/downloads/Joseph_Guadagno_Resume.docx %})
+* Download a shorter version of my resume here: [Joseph Guadagno Resume Shortened]({% link /assets/downloads/Joseph_Guadagno_resume_shortened.docx %})
