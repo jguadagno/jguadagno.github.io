@@ -21,14 +21,15 @@ Joseph Guadagno
 ## Downloads
 
 * Download a copy of my resume here: [Joseph Guadagno Resume]({% link /assets/downloads/Joseph_Guadagno_Resume.docx %})
-* Download a shorter version of my resume here: [Joseph Guadagno Resume Shortened]({% link /assets/downloads/Joseph_Guadagno_resume_shortened.docx %})
+* Download a detailed version of my resume here: [Joseph Guadagno Resume - Detailed]({% link /assets/downloads/Joseph_Guadagno_Resume_Detailed.docx %})
 
 ## Experience
 
 ### Real Time Technologies (RT²)
 
 Remote
-_9/2023 to Present_
+_9/2023 to 12/2025_
+Realtime Technologies provides retail payment and point of sale (POS) system for the wireless industry
 
 #### Senior Vice President of IT (Technology)
 
@@ -56,6 +57,7 @@ A few key projects that I led while at RT² include:
 
 Detroit, MI
 _8/2013 to 8/2023_
+Rocket Mortgage is America’s largest retail mortgage lender, offering fast, trusted, and fully digital home loan solutions to help clients achieve home ownership.
 
 #### Senior Director in Engineering - 1/2019 to 8/2023
 
