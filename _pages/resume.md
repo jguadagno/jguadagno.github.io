@@ -112,7 +112,6 @@ _2006 to 1/2013_
 
 #### Technology Advisor
 
-As the Technology Advisor, I was charged with creating and implementing development coding standards,
 As the Technology Advisor, I was charged with creating and implementing development coding standards, development best practices, and common development software for the Technology Operations group, approximately four hundred developers. In addition, I acted as the internal developer evangelist for Microsoft development technologies. I provided several internal training classes on architecture and development for groups ranging from 5 to 200 people. I was tasked as a "hired gun" to join troubled projects to fix them up and/or help projects that were stumped with implementation or integration technologies. I implemented an internal NuGet server for common and internal libraries.
 
 #### Technology Lead
