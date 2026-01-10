@@ -377,7 +377,7 @@ _**Note:**_ * Indicates that the site is no longer active
 | Microsoft        | [Microsoft Developer Services MVP](https://mvp.microsoft.com/en-US/mvp/profile/1f5b80b4-3c9a-e411-93f2-9cb65495d3c4){:target="_blank"} | 2009 through present |
 | Progress Telerik | [Progress Telerik Ninja](https://www.progress.com/champions){:target="_blank"}                                                         | 2021 through present |
 | Progress Telerik | Telerik Ninja                                                                                                                          | 2018 through 2021    |
-| Telerik          | [Telerik MVP](http://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"}                                       | 2009 thought 2013    |
+| Telerik          | [Telerik MVP](http://www.telerik.com/community/client-profile.aspx?cId=187651){:target="_blank"}                                       | 2009 through 2013    |
 | Microsoft        | Microsoft Visual Basic MVP                                                                                                             | 1996                 |
 
 ## Additional Information
