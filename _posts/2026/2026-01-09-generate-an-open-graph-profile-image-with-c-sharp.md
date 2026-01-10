@@ -2,7 +2,7 @@
 title: "Generate an Open Graph Profile Image with C#"
 excerpt: "Learn how to create dynamic Open Graph profile images using C# and .NET in this step-by-step guide."
 header:
-    og_image: /assets/images/posts/header/og-generator.png
+    og_image: /assets/images/posts/header/og_generator.png
 date: 2026-01-10 06:28:00 -0700
 
 categories:
