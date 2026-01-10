@@ -135,7 +135,7 @@ exclude:
   - .jekyll-metadata
   - vendor/
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 # Minimal Mistakes Settings
 
