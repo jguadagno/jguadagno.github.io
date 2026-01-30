@@ -3,7 +3,7 @@ title: "The Technology Behind MoreSpeakers.com"
 excerpt: "In this post, we delve into the technology stack and development process behind MoreSpeakers.com, a platform dedicated to connecting aspiring speakers with experienced mentors in the technology community."
 header:
     og_image: /assets/images/posts/header/the-technology-behind-morespeakers-com.png
-date: 2026-01-30 08:01:00 -0700
+date: 2026-01-30 11:18:00 -0700
 
 categories:
 - Articles

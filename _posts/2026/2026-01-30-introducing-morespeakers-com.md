@@ -3,7 +3,7 @@ title: "Introducing MoreSpeakers.com"
 excerpt: "MoreSpeakers.com is a new platform dedicated to bridging the gap between aspiring and experienced speakers in the technology community by creating meaningful mentorship relationships that foster growth, confidence, and knowledge sharing."
 header:
     og_image: /assets/images/posts/header/introducing-morespeakers-com.png
-date: 2026-01-30 11:01:00 -0700
+date: 2026-01-30 11:18:00 -0700
 
 categories:
 - Articles
