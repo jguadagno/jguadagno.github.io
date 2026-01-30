@@ -88,7 +88,6 @@ author:
 markdown: kramdown
 show_excerpts: true
 repository: "jguadagno/jguadagno.github.io"
-include: ["_pages"]
 highlighter: rouge
 
 # Kramdown settings
@@ -113,17 +112,9 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 exclude:
-  - todo.txt
+  - Gemfile
+  - Gemfile.lock
   - readme.md
   - install.md
   - docker-compose.yml 
@@ -134,6 +125,10 @@ exclude:
   - .devcontainer/
   - .jekyll-metadata
   - vendor/
+
+include:
+  - _pages
+  - _data
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
@@ -202,13 +197,6 @@ analytics:
   google:
     tracking_id: "G-HKYKNTCV88"
     anonymize_ip: false # default
-
-# comments:
-#   provider: "facebook"
-#   facebook:
-#     appid: 266442613419593 # optional
-#     num_posts: 5 # 5 (default)
-#     colorscheme: "light" # "light" (default), "dark"
 
 search: true
 google:
