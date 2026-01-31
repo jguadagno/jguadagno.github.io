@@ -15,7 +15,7 @@ You can see the complete list at
 [https://www.josephguadagno.net/presentations]({% link _pages/presentations.md %}){:target="_blank"}.
 When not sitting at a computer, Joe loves to hang out with his family and play games.
 When not playing games with the family, Joe is checking out the latest in Home Automation.
-You can connect with Joe on Twitter at [@jguadagno](https://www.twitter.com/jguadagno){:target="_blank"},
+You can connect with Joe on Bluesky at [@jguadagno.com](https://bsky.app/profile/jguadagno.com){:target="_blank"},
 Facebook at [JosephGuadagnoNet](https://www.facebook.com/JosephGuadagnoNet/){:target="_blank"},
 and on his blog at [https://www.josephguadagno.net](/)
 
