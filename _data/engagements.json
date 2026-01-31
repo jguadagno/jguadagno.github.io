@@ -7,13 +7,14 @@
     "eventEnd": "2026-01-16T19:00:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": false,
+    "isCurrent": true,
     "presentation": [
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2026-01-15T09:45:00",
-        "room": "Virtual",
+        "startDate": "2026-01-15T09:45:00",
+        "endDate": "2026-01-15T10:45:00",
+        "room": "Indigo Bay",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false,
@@ -38,7 +39,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2025-11-04T18:00:00",
+        "startDate": "2025-11-04T18:00:00",
+        "endDate": "2025-11-04T19:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -64,7 +66,8 @@
       {
         "name": "Perspectives and Insights: Business Success stories",
         "url": "https://events.manageengine.com/userconf-las-vegas",
-        "date": "2025-09-19T11:15:00",
+        "startDate": "2025-09-19T11:15:00",
+        "endDate": "2025-09-19T12:15:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -90,7 +93,8 @@
       {
         "name": "Monitoring and Troubleshooting Azure Applications with Azure Application Insights",
         "url": "/presentations/monitoring-and-troubleshooting-azure-applications-with-azure-application-insights",
-        "date": "2025-08-20T15:00:00",
+        "startDate": "2025-08-20T15:00:00",
+        "endDate": "2025-08-20T16:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -116,7 +120,8 @@
       {
         "name": "Aspirify - JosephGuadagno.NET Broadcasting",
         "url": "https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview?WT.mc_id=DT-MVP-4024623",
-        "date": "2025-06-13T09:30:00",
+        "startDate": "2025-06-13T09:30:00",
+        "endDate": "2025-06-13T10:30:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -142,7 +147,8 @@
       {
         "name": "A lap around Microsoft Azure",
         "url": "/presentations/a-lap-around-microsoft-azure",
-        "date": "2025-05-31T14:00:00",
+        "startDate": "2025-05-31T14:00:00",
+        "endDate": "2025-05-31T15:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -153,7 +159,8 @@
       {
         "name": "Build, Package, Sign, and Publish a .NET Library to NuGet",
         "url": "/presentations/build-package-sign-and-publish-a-dotnet-library-to-nuget",
-        "date": "2025-05-31T15:15:00",
+        "startDate": "2025-05-31T15:15:00",
+        "endDate": "2025-05-31T16:15:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -164,7 +171,8 @@
       {
         "name": "Debugging Tips and Tips with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2025-05-31T16:30:00",
+        "startDate": "2025-05-31T16:30:00",
+        "endDate": "2025-05-31T17:30:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -175,7 +183,8 @@
       {
         "name": "Open Q\u0026A with Joe Guadagno",
         "url": "https://www.josephguadagno.net/about-joseph-guadagno/",
-        "date": "2025-05-31T17:30:00",
+        "startDate": "2025-05-31T17:30:00",
+        "endDate": "2025-05-31T18:30:00",
         "room": "",
         "comments": "Bring your questions about technology, leadership, the industry, or anything else you want to ask.",
         "isCanceled": false,
@@ -201,7 +210,8 @@
       {
         "name": "Build, Package, Sign, and Publish a .NET Library to NuGet",
         "url": "/presentations/build-package-sign-and-publish-a-dotnet-library-to-nuget",
-        "date": "2025-05-30T09:00:00",
+        "startDate": "2025-05-30T09:00:00",
+        "endDate": "2025-05-30T10:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -227,7 +237,8 @@
       {
         "name": "Build, Package, Sign, and Publish a .NET Library to NuGet",
         "url": "/presentations/build-package-sign-and-publish-a-dotnet-library-to-nuget",
-        "date": "2025-05-27T13:15:00",
+        "startDate": "2025-05-27T13:15:00",
+        "endDate": "2025-05-27T14:15:00",
         "room": "Hall A",
         "comments": "",
         "isCanceled": false,
@@ -253,7 +264,8 @@
       {
         "name": "Build a Native Mobile Application using Ionic and JavaScript",
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-        "date": "2025-04-01T18:00:00",
+        "startDate": "2025-04-01T18:00:00",
+        "endDate": "2025-04-01T19:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -279,7 +291,8 @@
       {
         "name": "Write Uno Time, Run Everywhere with the Uno Platform",
         "url": "https://ndclondon.com/agenda/write-uno-time-run-everywhere-with-the-uno-platform-0h6h/01ltoebptb0",
-        "date": "2025-01-30T17:40:00",
+        "startDate": "2025-01-30T17:40:00",
+        "endDate": "2025-01-30T18:40:00",
         "room": "Room 6 - Level 5",
         "comments": "",
         "isCanceled": false,
@@ -305,7 +318,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2025-01-16T06:00:00",
+        "startDate": "2025-01-16T06:00:00",
+        "endDate": "2025-01-16T07:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -331,7 +345,8 @@
       {
         "name": "Monitoring and Troubleshooting Azure Applications with Azure Application Insights",
         "url": "/presentations/monitoring-and-troubleshooting-azure-applications-with-azure-application-insights",
-        "date": "2024-12-03T15:30:00",
+        "startDate": "2024-12-03T15:30:00",
+        "endDate": "2024-12-03T16:30:00",
         "room": "T36",
         "comments": "",
         "isCanceled": false,
@@ -357,7 +372,8 @@
       {
         "name": "Opening Keynote",
         "url": "https://www.advtechdays.com/en/lectures/",
-        "date": "2024-11-28T09:30:00",
+        "startDate": "2024-11-28T09:30:00",
+        "endDate": "2024-11-28T10:30:00",
         "room": "Dvorana 10",
         "comments": "",
         "isCanceled": false,
@@ -368,7 +384,8 @@
       {
         "name": "Panel: So, you wanna be a CTO?",
         "url": "https://www.advtechdays.com/en/lectures/",
-        "date": "2024-11-29T14:00:00",
+        "startDate": "2024-11-29T14:00:00",
+        "endDate": "2024-11-29T15:00:00",
         "room": "Dvorana 10",
         "comments": "",
         "isCanceled": false,
@@ -379,7 +396,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2024-11-28T12:30:00",
+        "startDate": "2024-11-28T12:30:00",
+        "endDate": "2024-11-28T13:30:00",
         "room": "Dvorana 10",
         "comments": "",
         "isCanceled": false,
@@ -405,7 +423,8 @@
       {
         "name": "AI for Business Leaders and Product Managers",
         "url": "/presentations/ai-for-business-leaders-and-product-managers",
-        "date": "2024-10-18T14:00:00",
+        "startDate": "2024-10-18T14:00:00",
+        "endDate": "2024-10-18T15:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -431,7 +450,8 @@
       {
         "name": "Debugging Tips and Tips with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2024-05-16T14:20:00",
+        "startDate": "2024-05-16T14:20:00",
+        "endDate": "2024-05-16T15:20:00",
         "room": "E5",
         "comments": "",
         "isCanceled": false,
@@ -442,7 +462,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2024-05-17T13:10:00",
+        "startDate": "2024-05-17T13:10:00",
+        "endDate": "2024-05-17T14:10:00",
         "room": "M2",
         "comments": "",
         "isCanceled": false,
@@ -468,7 +489,8 @@
       {
         "name": "Debugging Tips and Tips with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2024-05-14T16:00:00",
+        "startDate": "2024-05-14T16:00:00",
+        "endDate": "2024-05-14T17:00:00",
         "room": "Track 2",
         "comments": "",
         "isCanceled": false,
@@ -479,7 +501,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2024-05-15T11:30:00",
+        "startDate": "2024-05-15T11:30:00",
+        "endDate": "2024-05-15T12:30:00",
         "room": "Track 2",
         "comments": "",
         "isCanceled": false,
@@ -505,7 +528,8 @@
       {
         "name": "Learn New Languages with Developer Containers in VS Code",
         "url": "",
-        "date": "2024-05-06T09:00:00",
+        "startDate": "2024-05-06T09:00:00",
+        "endDate": "2024-05-06T10:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -531,7 +555,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2024-03-22T15:45:00",
+        "startDate": "2024-03-22T15:45:00",
+        "endDate": "2024-03-22T16:45:00",
         "room": "Infoblox",
         "comments": "",
         "isCanceled": false,
@@ -542,7 +567,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2024-03-21T09:45:00",
+        "startDate": "2024-03-21T09:45:00",
+        "endDate": "2024-03-21T10:45:00",
         "room": "Hashicorp",
         "comments": "",
         "isCanceled": false,
@@ -568,7 +594,8 @@
       {
         "name": "Building a Talk for an Event",
         "url": "/presentations/building-a-talk-for-an-event",
-        "date": "2024-02-24T08:00:00",
+        "startDate": "2024-02-24T08:00:00",
+        "endDate": "2024-02-24T09:00:00",
         "room": "",
         "comments": "Opening ***Keynote***",
         "isCanceled": false,
@@ -579,7 +606,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2024-02-24T09:30:00",
+        "startDate": "2024-02-24T09:30:00",
+        "endDate": "2024-02-24T10:30:00",
         "room": "1205",
         "comments": "",
         "isCanceled": false,
@@ -605,7 +633,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2024-01-11T13:00:00",
+        "startDate": "2024-01-11T13:00:00",
+        "endDate": "2024-01-11T14:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -616,7 +645,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2024-01-12T08:30:00",
+        "startDate": "2024-01-12T08:30:00",
+        "endDate": "2024-01-12T09:30:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -642,7 +672,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2023-12-07T08:00:00",
+        "startDate": "2023-12-07T08:00:00",
+        "endDate": "2023-12-07T09:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -653,7 +684,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2023-12-07T10:30:00",
+        "startDate": "2023-12-07T10:30:00",
+        "endDate": "2023-12-07T11:30:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -679,7 +711,8 @@
       {
         "name": "Using Azure Key Vault to Protect Your Application Secrets",
         "url": "/presentations/using-azure-key-vault-to-protect-your-application-secrets",
-        "date": "2023-11-29T11:45:00",
+        "startDate": "2023-11-29T11:45:00",
+        "endDate": "2023-11-29T12:45:00",
         "room": "E105-E106",
         "comments": "",
         "isCanceled": false,
@@ -705,7 +738,8 @@
       {
         "name": "Using Azure Key Vault to Protect Your Application Secrets",
         "url": "/presentations/using-azure-key-vault-to-protect-your-application-secrets",
-        "date": "2023-11-08T13:30:00",
+        "startDate": "2023-11-08T13:30:00",
+        "endDate": "2023-11-08T14:30:00",
         "room": "Rosewood",
         "comments": "",
         "isCanceled": false,
@@ -716,7 +750,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2023-11-09T13:30:00",
+        "startDate": "2023-11-09T13:30:00",
+        "endDate": "2023-11-09T14:30:00",
         "room": "Salons EF",
         "comments": "",
         "isCanceled": false,
@@ -727,7 +762,8 @@
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
         "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
-        "date": "2022-11-08T16:00:00",
+        "startDate": "2022-11-08T16:00:00",
+        "endDate": "2022-11-08T17:00:00",
         "room": "Salons EF",
         "comments": "",
         "isCanceled": false,
@@ -753,7 +789,8 @@
       {
         "name": "Open-Source for All",
         "url": "/presentations/open-source-for-all",
-        "date": "2023-10-09T13:00:00",
+        "startDate": "2023-10-09T13:00:00",
+        "endDate": "2023-10-09T14:00:00",
         "room": "IPEC, Sahibabad",
         "comments": "",
         "isCanceled": false,
@@ -764,7 +801,8 @@
       {
         "name": "Resources for the Modern Learner",
         "url": "/presentations/resources-for-the-modern-learner",
-        "date": "2023-10-10T12:10:00",
+        "startDate": "2023-10-10T12:10:00",
+        "endDate": "2023-10-10T13:10:00",
         "room": "SRM IST, Delhi NCR Campus, Ghaziabad",
         "comments": "",
         "isCanceled": false,
@@ -775,7 +813,8 @@
       {
         "name": "Resources for the Modern Learner",
         "url": "/presentations/resources-for-the-modern-learner",
-        "date": "2023-10-11T13:10:00",
+        "startDate": "2023-10-11T13:10:00",
+        "endDate": "2023-10-11T14:10:00",
         "room": "I.T.S Engineering College, Greater Noida",
         "comments": "",
         "isCanceled": false,
@@ -786,7 +825,8 @@
       {
         "name": "Resources for the Modern Learner",
         "url": "/presentations/resources-for-the-modern-learner",
-        "date": "2023-10-12T11:45:00",
+        "startDate": "2023-10-12T11:45:00",
+        "endDate": "2023-10-12T12:45:00",
         "room": "Sharda University",
         "comments": "",
         "isCanceled": false,
@@ -797,7 +837,8 @@
       {
         "name": "Panel: Leadership and Work-Life Balance",
         "url": "https://conference.c-sharpcorner.com",
-        "date": "2023-10-14T11:05:00",
+        "startDate": "2023-10-14T11:05:00",
+        "endDate": "2023-10-14T12:05:00",
         "room": "Hotel Radisson Blu, Kaushambi, Delhi/NCR",
         "comments": "",
         "isCanceled": false,
@@ -808,7 +849,8 @@
       {
         "name": "Panel: Beyond the Screen: Creating Memorable Experiences in Virtual Events",
         "url": "https://conference.c-sharpcorner.com",
-        "date": "2023-10-14T16:30:00",
+        "startDate": "2023-10-14T16:30:00",
+        "endDate": "2023-10-14T17:30:00",
         "room": "Hotel Radisson Blu, Kaushambi, Delhi/NCR",
         "comments": "",
         "isCanceled": false,
@@ -834,7 +876,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2023-09-24T18:00:00",
+        "startDate": "2023-09-24T18:00:00",
+        "endDate": "2023-09-24T19:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -860,7 +903,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2023-07-22T13:00:00",
+        "startDate": "2023-07-22T13:00:00",
+        "endDate": "2023-07-22T14:00:00",
         "room": "Andromeda",
         "comments": "",
         "isCanceled": false,
@@ -871,7 +915,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2023-07-20T12:00:00",
+        "startDate": "2023-07-20T12:00:00",
+        "endDate": "2023-07-20T13:00:00",
         "room": "Andromeda",
         "comments": "",
         "isCanceled": false,
@@ -882,7 +927,8 @@
       {
         "name": "Write Uno Time, Run Everywhere with the Uno Platform",
         "url": "/presentations/write-uno-time-run-everywhere-with-the-uno-platform",
-        "date": "2023-07-20T15:00:00",
+        "startDate": "2023-07-20T15:00:00",
+        "endDate": "2023-07-20T16:00:00",
         "room": "Titan",
         "comments": "",
         "isCanceled": false,
@@ -893,7 +939,8 @@
       {
         "name": "Panel Discussion: Data Privacy, Protection \u0026 Governance",
         "url": "/presentations/write-uno-time-run-everywhere-with-the-uno-platform",
-        "date": "2023-07-22T10:00:00",
+        "startDate": "2023-07-22T10:00:00",
+        "endDate": "2023-07-22T11:00:00",
         "room": "Andromeda",
         "comments": "I will be one of a few panelists",
         "isCanceled": false,
@@ -919,7 +966,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2023-06-02T10:10:00",
+        "startDate": "2023-06-02T10:10:00",
+        "endDate": "2023-06-02T11:10:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -945,7 +993,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2023-05-24T16:20:00",
+        "startDate": "2023-05-24T16:20:00",
+        "endDate": "2023-05-24T17:20:00",
         "room": "Room 5",
         "comments": "",
         "isCanceled": false,
@@ -971,7 +1020,8 @@
       {
         "name": "Scaling Your .NET Application Using Azure",
         "url": "/presentations/scaling-your-dotnet-application-using-azure",
-        "date": "2023-05-24T14:40:00",
+        "startDate": "2023-05-24T14:40:00",
+        "endDate": "2023-05-24T15:40:00",
         "room": "Stage 6",
         "comments": "",
         "isCanceled": false,
@@ -997,7 +1047,8 @@
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
-        "date": "2023-05-04T08:30:00",
+        "startDate": "2023-05-04T08:30:00",
+        "endDate": "2023-05-04T09:30:00",
         "room": "Theater 6",
         "comments": "",
         "isCanceled": false,
@@ -1023,7 +1074,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2023-05-10T05:00:00",
+        "startDate": "2023-05-10T05:00:00",
+        "endDate": "2023-05-10T06:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -1049,7 +1101,8 @@
       {
         "name": "Write Uno Time, Run Everywhere with the Uno Platform",
         "url": "/presentations/write-uno-time-run-everywhere-with-the-uno-platform",
-        "date": "2023-06-15T18:00:00",
+        "startDate": "2023-06-15T18:00:00",
+        "endDate": "2023-06-15T19:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -1075,7 +1128,8 @@
       {
         "name": "Look into your Application with Azure AppInsights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2023-03-02T19:00:00",
+        "startDate": "2023-03-02T19:00:00",
+        "endDate": "2023-03-02T20:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -1101,7 +1155,8 @@
       {
         "name": "Scaling Your .NET Application Using Azure",
         "url": "/presentations/scaling-your-dotnet-application-using-azure",
-        "date": "2023-02-20T18:00:00",
+        "startDate": "2023-02-20T18:00:00",
+        "endDate": "2023-02-20T19:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -1127,7 +1182,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2023-01-13T08:30:00",
+        "startDate": "2023-01-13T08:30:00",
+        "endDate": "2023-01-13T09:30:00",
         "room": "Zambezi",
         "comments": "",
         "isCanceled": false,
@@ -1138,7 +1194,8 @@
       {
         "name": "Scaling Your .NET Application Using Azure",
         "url": "/presentations/scaling-your-dotnet-application-using-azure",
-        "date": "2023-01-13T12:15:00",
+        "startDate": "2023-01-13T12:15:00",
+        "endDate": "2023-01-13T13:15:00",
         "room": "Salon A",
         "comments": "",
         "isCanceled": false,
@@ -1164,7 +1221,8 @@
       {
         "name": "Building and Deploying a New Cloud App from Scratch",
         "url": "/presentations/building-and-deploying-a-new-cloud-app-from-scratch",
-        "date": "2022-12-05T09:00:00",
+        "startDate": "2022-12-05T09:00:00",
+        "endDate": "2022-12-05T10:00:00",
         "room": "",
         "comments": "Workshop",
         "isCanceled": false,
@@ -1175,7 +1233,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2022-12-06T09:00:00",
+        "startDate": "2022-12-06T09:00:00",
+        "endDate": "2022-12-06T10:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1186,7 +1245,8 @@
       {
         "name": "Scaling Your .NET Application Using Azure",
         "url": "/presentations/scaling-your-dotnet-application-using-azure",
-        "date": "2022-12-06T09:00:00",
+        "startDate": "2022-12-06T09:00:00",
+        "endDate": "2022-12-06T10:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1212,7 +1272,8 @@
       {
         "name": "Debugging Tips and Tricks with JetBrains Rider",
         "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
-        "date": "2022-11-11T08:30:00",
+        "startDate": "2022-11-11T08:30:00",
+        "endDate": "2022-11-11T09:30:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1238,7 +1299,8 @@
       {
         "name": "Building and Deploying a New Cloud App from Scratch",
         "url": "/presentations/building-and-deploying-a-new-cloud-app-from-scratch",
-        "date": "2022-11-08T09:00:00",
+        "startDate": "2022-11-08T09:00:00",
+        "endDate": "2022-11-08T10:00:00",
         "room": "Suite 7",
         "comments": "",
         "isCanceled": false,
@@ -1249,7 +1311,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2022-11-09T10:20:00",
+        "startDate": "2022-11-09T10:20:00",
+        "endDate": "2022-11-09T11:20:00",
         "room": "Suite 7",
         "comments": "",
         "isCanceled": false,
@@ -1275,7 +1338,8 @@
       {
         "name": "Scaling Your .NET Application Using Azure",
         "url": "/presentations/scaling-your-dotnet-application-using-azure",
-        "date": "2022-11-29T10:15:00",
+        "startDate": "2022-11-29T10:15:00",
+        "endDate": "2022-11-29T11:15:00",
         "room": "T4",
         "comments": "",
         "isCanceled": false,
@@ -1301,7 +1365,8 @@
       {
         "name": "Keynote",
         "url": "",
-        "date": "2022-10-14T10:15:00",
+        "startDate": "2022-10-14T10:15:00",
+        "endDate": "2022-10-14T11:15:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1312,7 +1377,8 @@
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2022-10-14T12:30:00",
+        "startDate": "2022-10-14T12:30:00",
+        "endDate": "2022-10-14T13:30:00",
         "room": "Track 2",
         "comments": "",
         "isCanceled": false,
@@ -1323,7 +1389,8 @@
       {
         "name": "Panel: Building Better Software",
         "url": "",
-        "date": "2022-10-14T14:30:00",
+        "startDate": "2022-10-14T14:30:00",
+        "endDate": "2022-10-14T15:30:00",
         "room": "Track 3",
         "comments": "",
         "isCanceled": false,
@@ -1334,7 +1401,8 @@
       {
         "name": "Panel: Growth Mindset",
         "url": "",
-        "date": "2022-10-14T15:30:00",
+        "startDate": "2022-10-14T15:30:00",
+        "endDate": "2022-10-14T16:30:00",
         "room": "Track 3",
         "comments": "",
         "isCanceled": false,
@@ -1345,7 +1413,8 @@
       {
         "name": "Keynote",
         "url": "",
-        "date": "2022-10-15T10:15:00",
+        "startDate": "2022-10-15T10:15:00",
+        "endDate": "2022-10-15T11:15:00",
         "room": "Track 2",
         "comments": "",
         "isCanceled": false,
@@ -1356,7 +1425,8 @@
       {
         "name": "Panel: Growth Mindset",
         "url": "",
-        "date": "2022-10-14T14:30:00",
+        "startDate": "2022-10-14T14:30:00",
+        "endDate": "2022-10-14T15:30:00",
         "room": "Track 2",
         "comments": "",
         "isCanceled": false,
@@ -1367,7 +1437,8 @@
       {
         "name": "Panel: Future of Cloud and Data",
         "url": "",
-        "date": "2022-10-14T15:30:00",
+        "startDate": "2022-10-14T15:30:00",
+        "endDate": "2022-10-14T16:30:00",
         "room": "Track 3",
         "comments": "",
         "isCanceled": false,
@@ -1378,7 +1449,8 @@
       {
         "name": "Scaling Your .NET Application Using Azure",
         "url": "/presentations/scaling-your-dotnet-application-using-azure",
-        "date": "2022-10-15T11:45:00",
+        "startDate": "2022-10-15T11:45:00",
+        "endDate": "2022-10-15T12:45:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1404,7 +1476,8 @@
       {
         "name": "Keynote: Community",
         "url": "",
-        "date": "2022-10-08T12:15:00",
+        "startDate": "2022-10-08T12:15:00",
+        "endDate": "2022-10-08T13:15:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1430,7 +1503,8 @@
       {
         "name": "Keynote: Technology Trends",
         "url": "",
-        "date": "2022-10-10T10:15:00",
+        "startDate": "2022-10-10T10:15:00",
+        "endDate": "2022-10-10T11:15:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1441,7 +1515,8 @@
       {
         "name": "Keynote: Community",
         "url": "",
-        "date": "2022-10-10T12:15:00",
+        "startDate": "2022-10-10T12:15:00",
+        "endDate": "2022-10-10T13:15:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1467,7 +1542,8 @@
       {
         "name": "Keynote: Community",
         "url": "",
-        "date": "2022-10-12T12:15:00",
+        "startDate": "2022-10-12T12:15:00",
+        "endDate": "2022-10-12T13:15:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1493,7 +1569,8 @@
       {
         "name": "Debugging Tips and Tricks with JetBrains Rider",
         "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
-        "date": "2022-08-08T10:00:00",
+        "startDate": "2022-08-08T10:00:00",
+        "endDate": "2022-08-08T11:00:00",
         "room": "2214",
         "comments": "",
         "isCanceled": false,
@@ -1519,7 +1596,8 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2022-09-15T12:30:00",
+        "startDate": "2022-09-15T12:30:00",
+        "endDate": "2022-09-15T13:30:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -1530,7 +1608,8 @@
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
         "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
-        "date": "2022-09-15T11:00:00",
+        "startDate": "2022-09-15T11:00:00",
+        "endDate": "2022-09-15T12:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -1556,7 +1635,8 @@
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
         "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
-        "date": "2022-09-08T15:30:00",
+        "startDate": "2022-09-08T15:30:00",
+        "endDate": "2022-09-08T16:30:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -1582,7 +1662,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2022-08-19T08:00:00",
+        "startDate": "2022-08-19T08:00:00",
+        "endDate": "2022-08-19T09:00:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -1593,7 +1674,8 @@
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2022-08-19T08:50:00",
+        "startDate": "2022-08-19T08:50:00",
+        "endDate": "2022-08-19T09:50:00",
         "room": "Virtual",
         "comments": "",
         "isCanceled": false,
@@ -1619,7 +1701,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2022-07-14T13:15:00",
+        "startDate": "2022-07-14T13:15:00",
+        "endDate": "2022-07-14T14:15:00",
         "room": "Lancaster 123",
         "comments": "",
         "isCanceled": false,
@@ -1630,7 +1713,8 @@
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2022-07-15T13:15:00",
+        "startDate": "2022-07-15T13:15:00",
+        "endDate": "2022-07-15T14:15:00",
         "room": "Lancaster 123",
         "comments": "",
         "isCanceled": false,
@@ -1656,7 +1740,8 @@
       {
         "name": "Debugging Tips and Tricks with JetBrains Rider",
         "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
-        "date": "2022-05-24T08:30:00",
+        "startDate": "2022-05-24T08:30:00",
+        "endDate": "2022-05-24T09:30:00",
         "room": "Salon D",
         "comments": "",
         "isCanceled": false,
@@ -1682,7 +1767,8 @@
       {
         "name": "6 (or so) new features of .NET 6",
         "url": "/presentations/6-or-so-new-features-of-dotnet6",
-        "date": "2022-05-06T14:30:00",
+        "startDate": "2022-05-06T14:30:00",
+        "endDate": "2022-05-06T15:30:00",
         "room": "CAS Theater",
         "comments": "",
         "isCanceled": false,
@@ -1708,7 +1794,8 @@
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2022-04-06T16:00:00",
+        "startDate": "2022-04-06T16:00:00",
+        "endDate": "2022-04-06T17:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1719,7 +1806,8 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2022-04-07T10:45:00",
+        "startDate": "2022-04-07T10:45:00",
+        "endDate": "2022-04-07T11:45:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1745,7 +1833,8 @@
       {
         "name": "6 (or so) new features of .NET 6",
         "url": "/presentations/6-or-so-new-features-of-dotnet6",
-        "date": "2022-03-04T12:00:00",
+        "startDate": "2022-03-04T12:00:00",
+        "endDate": "2022-03-04T13:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1756,7 +1845,8 @@
       {
         "name": "What\u0027s Happening in My App",
         "url": "/presentations/whats-happening-in-my-app",
-        "date": "2022-03-04T15:00:00",
+        "startDate": "2022-03-04T15:00:00",
+        "endDate": "2022-03-04T16:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1782,7 +1872,8 @@
       {
         "name": "Microsoft .NET 20th Anniversary Show",
         "url": "https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave",
-        "date": "2022-02-12T10:00:00",
+        "startDate": "2022-02-12T10:00:00",
+        "endDate": "2022-02-12T11:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1808,7 +1899,8 @@
       {
         "name": "6 (or so) new features of .NET 6",
         "url": "/presentations/6-or-so-new-features-of-dotnet6",
-        "date": "2022-01-24T12:50:00",
+        "startDate": "2022-01-24T12:50:00",
+        "endDate": "2022-01-24T13:50:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1834,7 +1926,8 @@
       {
         "name": "Uno Platform",
         "url": "",
-        "date": "2021-12-01T10:00:00",
+        "startDate": "2021-12-01T10:00:00",
+        "endDate": "2021-12-01T11:00:00",
         "room": "",
         "comments": "Time is Mountain Standard (MST)",
         "isCanceled": false,
@@ -1860,7 +1953,8 @@
       {
         "name": "Debugging Tips and Tricks with JetBrains Rider",
         "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
-        "date": "2022-01-17T08:30:00",
+        "startDate": "2022-01-17T08:30:00",
+        "endDate": "2022-01-17T09:30:00",
         "room": "Salon D",
         "comments": "MST Time",
         "isCanceled": false,
@@ -1886,7 +1980,8 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2022-01-11T16:00:00",
+        "startDate": "2022-01-11T16:00:00",
+        "endDate": "2022-01-11T17:00:00",
         "room": "Salon E/D",
         "comments": "EST Time - I cancelled my presentation",
         "isCanceled": false,
@@ -1897,7 +1992,8 @@
       {
         "name": "6 (or so) new features of .NET 6",
         "url": "/presentations/6-or-so-new-features-of-dotnet6",
-        "date": "2022-01-13T13:00:00",
+        "startDate": "2022-01-13T13:00:00",
+        "endDate": "2022-01-13T14:00:00",
         "room": "Salon A/H",
         "comments": "EST Time - I cancelled my presentation",
         "isCanceled": false,
@@ -1923,7 +2019,8 @@
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
         "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
-        "date": "2021-11-06T15:30:00",
+        "startDate": "2021-11-06T15:30:00",
+        "endDate": "2021-11-06T16:30:00",
         "room": "Exeter",
         "comments": "",
         "isCanceled": false,
@@ -1949,7 +2046,8 @@
       {
         "name": "Communication is Hard. Make it better with Azure Communication Services",
         "url": "/presentations/communication-is-hard-make-it-better-with-azure-communication-services",
-        "date": "2021-12-07T13:30:00",
+        "startDate": "2021-12-07T13:30:00",
+        "endDate": "2021-12-07T14:30:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1960,7 +2058,8 @@
       {
         "name": "Migrate It!",
         "url": "/presentations/migrate-it",
-        "date": "2021-12-07T16:00:00",
+        "startDate": "2021-12-07T16:00:00",
+        "endDate": "2021-12-07T17:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -1986,7 +2085,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2021-11-23T18:30:00",
+        "startDate": "2021-11-23T18:30:00",
+        "endDate": "2021-11-23T19:30:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2012,7 +2112,8 @@
       {
         "name": "What\u0027s Happening in My App",
         "url": "/presentations/whats-happening-in-my-app",
-        "date": "2021-10-29T11:30:00",
+        "startDate": "2021-10-29T11:30:00",
+        "endDate": "2021-10-29T12:30:00",
         "room": "",
         "comments": "India Standard Time (IST)",
         "isCanceled": false,
@@ -2038,7 +2139,8 @@
       {
         "name": "Joe Guadagno on the Latest in Azure DevOps - Episode 159",
         "url": "https://azuredevopspodcast.clear-measure.com/joe-guadagno-on-the-latest-in-azure-devops-episode-159",
-        "date": "2021-10-01T00:00:00",
+        "startDate": "2021-10-01T00:00:00",
+        "endDate": "2021-10-01T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2064,7 +2166,8 @@
       {
         "name": "Guidance Counselor 2.0 w/Joe Guadagno on the Job Search and DevRel",
         "url": "https://www.youtube.com/watch?v=gWJfXplqNbk\u0026list=PLESGit66MnbmnDhXdTZicVFF2Pql430pJ\u0026index=13",
-        "date": "2021-09-29T00:00:00",
+        "startDate": "2021-09-29T00:00:00",
+        "endDate": "2021-09-29T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2090,7 +2193,8 @@
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2021-10-19T00:00:00",
+        "startDate": "2021-10-19T00:00:00",
+        "endDate": "2021-10-19T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": true,
@@ -2101,7 +2205,8 @@
       {
         "name": "What\u0027s Happening in My App",
         "url": "/presentations/whats-happening-in-my-app",
-        "date": "2021-10-19T00:00:00",
+        "startDate": "2021-10-19T00:00:00",
+        "endDate": "2021-10-19T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": true,
@@ -2127,7 +2232,8 @@
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2021-09-17T08:30:00",
+        "startDate": "2021-09-17T08:30:00",
+        "endDate": "2021-09-17T09:30:00",
         "room": "2201",
         "comments": "",
         "isCanceled": false,
@@ -2138,7 +2244,8 @@
       {
         "name": "Write Uno Time, Run Everywhere with the Uno Platform",
         "url": "/presentations/write-uno-time-run-everywhere-with-the-uno-platform",
-        "date": "2021-09-16T13:15:00",
+        "startDate": "2021-09-16T13:15:00",
+        "endDate": "2021-09-16T14:15:00",
         "room": "2215-A",
         "comments": "",
         "isCanceled": false,
@@ -2164,7 +2271,8 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2021-09-20T14:20:00",
+        "startDate": "2021-09-20T14:20:00",
+        "endDate": "2021-09-20T15:20:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2190,7 +2298,8 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2021-06-08T00:00:00",
+        "startDate": "2021-06-08T00:00:00",
+        "endDate": "2021-06-08T01:00:00",
         "room": "",
         "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
         "isCanceled": false,
@@ -2201,7 +2310,8 @@
       {
         "name": "Migrate It!",
         "url": "/presentations/migrate-it",
-        "date": "2021-06-08T00:00:00",
+        "startDate": "2021-06-08T00:00:00",
+        "endDate": "2021-06-08T01:00:00",
         "room": "",
         "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
         "isCanceled": false,
@@ -2212,7 +2322,8 @@
       {
         "name": "Look into your Application with Azure Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2021-06-08T00:00:00",
+        "startDate": "2021-06-08T00:00:00",
+        "endDate": "2021-06-08T01:00:00",
         "room": "",
         "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
         "isCanceled": false,
@@ -2238,7 +2349,8 @@
       {
         "name": "Debugging Tips and Tricks with JetBrains Rider",
         "url": "/presentations/debugging-tips-and-tricks-with-jetbrains-rider",
-        "date": "2021-05-12T00:00:00",
+        "startDate": "2021-05-12T00:00:00",
+        "endDate": "2021-05-12T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2264,7 +2376,8 @@
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2021-05-04T00:00:00",
+        "startDate": "2021-05-04T00:00:00",
+        "endDate": "2021-05-04T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2275,7 +2388,8 @@
       {
         "name": "Look into your Application with Azure Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2021-05-04T00:00:00",
+        "startDate": "2021-05-04T00:00:00",
+        "endDate": "2021-05-04T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2301,7 +2415,8 @@
       {
         "name": "Migrate It!",
         "url": "/presentations/migrate-it",
-        "date": "2021-04-14T00:00:00",
+        "startDate": "2021-04-14T00:00:00",
+        "endDate": "2021-04-14T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2327,7 +2442,8 @@
       {
         "name": "A lap around Microsoft Azure",
         "url": "/presentations/a-lap-around-microsoft-azure",
-        "date": "2021-03-09T00:00:00",
+        "startDate": "2021-03-09T00:00:00",
+        "endDate": "2021-03-09T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2353,7 +2469,8 @@
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2021-02-25T00:00:00",
+        "startDate": "2021-02-25T00:00:00",
+        "endDate": "2021-02-25T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2379,7 +2496,8 @@
       {
         "name": "How to Become a Microsoft MVP",
         "url": "/2015/05/14/so-you-want-to-be-a-microsoft-mvp/",
-        "date": "2021-02-12T00:00:00",
+        "startDate": "2021-02-12T00:00:00",
+        "endDate": "2021-02-12T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2405,7 +2523,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2021-02-11T00:00:00",
+        "startDate": "2021-02-11T00:00:00",
+        "endDate": "2021-02-11T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2431,7 +2550,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2021-02-09T00:00:00",
+        "startDate": "2021-02-09T00:00:00",
+        "endDate": "2021-02-09T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2457,7 +2577,8 @@
       {
         "name": "What\u0027s Happening in My App?",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2021-01-16T00:00:00",
+        "startDate": "2021-01-16T00:00:00",
+        "endDate": "2021-01-16T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2483,7 +2604,8 @@
       {
         "name": "Tech Hiring, Career Advice, and Culture",
         "url": "https://www.youtube.com/watch?v=1Q8ZUNSyNqg",
-        "date": "2020-12-18T00:00:00",
+        "startDate": "2020-12-18T00:00:00",
+        "endDate": "2020-12-18T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2509,7 +2631,8 @@
       {
         "name": ".NET 5 - What is it?",
         "url": "/presentations/dotnet5-what-is-it",
-        "date": "2020-11-19T00:00:00",
+        "startDate": "2020-11-19T00:00:00",
+        "endDate": "2020-11-19T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2535,7 +2658,8 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2020-12-06T00:00:00",
+        "startDate": "2020-12-06T00:00:00",
+        "endDate": "2020-12-06T01:00:00",
         "room": "",
         "comments": "In Person - \u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
@@ -2546,7 +2670,8 @@
       {
         "name": "Look into your Application with Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2020-12-06T00:00:00",
+        "startDate": "2020-12-06T00:00:00",
+        "endDate": "2020-12-06T01:00:00",
         "room": "",
         "comments": "In Person - \u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
@@ -2572,7 +2697,8 @@
       {
         "name": ".NET 5 - What is it?",
         "url": "/presentations/dotnet5-what-is-it",
-        "date": "2020-10-15T00:00:00",
+        "startDate": "2020-10-15T00:00:00",
+        "endDate": "2020-10-15T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2598,7 +2724,8 @@
       {
         "name": ".NET 5 - What is it?",
         "url": "/presentations/dotnet5-what-is-it",
-        "date": "2020-11-14T00:00:00",
+        "startDate": "2020-11-14T00:00:00",
+        "endDate": "2020-11-14T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2624,7 +2751,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2020-09-09T00:00:00",
+        "startDate": "2020-09-09T00:00:00",
+        "endDate": "2020-09-09T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2635,7 +2763,8 @@
       {
         "name": "Help Your Application Scale with Azure",
         "url": "/presentations/help-your-application-scale-with-azure",
-        "date": "2020-09-09T00:00:00",
+        "startDate": "2020-09-09T00:00:00",
+        "endDate": "2020-09-09T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2661,7 +2790,8 @@
       {
         "name": "Migrate It!",
         "url": "/presentations/migrate-it",
-        "date": "2020-08-21T00:00:00",
+        "startDate": "2020-08-21T00:00:00",
+        "endDate": "2020-08-21T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2687,7 +2817,8 @@
       {
         "name": "Migrate It!",
         "url": "/presentations/migrate-it",
-        "date": "2020-08-13T00:00:00",
+        "startDate": "2020-08-13T00:00:00",
+        "endDate": "2020-08-13T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2713,7 +2844,8 @@
       {
         "name": "A Lap Around Microsoft Azure",
         "url": "/presentations/a-lap-around-microsoft-azure",
-        "date": "2020-08-07T00:00:00",
+        "startDate": "2020-08-07T00:00:00",
+        "endDate": "2020-08-07T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2739,7 +2871,8 @@
       {
         "name": "Building Native Applications with JavaScript and React Native",
         "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
-        "date": "2020-07-31T00:00:00",
+        "startDate": "2020-07-31T00:00:00",
+        "endDate": "2020-07-31T01:00:00",
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
@@ -2750,7 +2883,8 @@
       {
         "name": "Debugging Tips and Tips with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2020-07-30T00:00:00",
+        "startDate": "2020-07-30T00:00:00",
+        "endDate": "2020-07-30T01:00:00",
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
@@ -2761,7 +2895,8 @@
       {
         "name": "Typescript for the Microsoft Developer",
         "url": "/presentations/typescript-for-the-microsoft-developer",
-        "date": "2020-07-31T00:00:00",
+        "startDate": "2020-07-31T00:00:00",
+        "endDate": "2020-07-31T01:00:00",
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
@@ -2787,7 +2922,8 @@
       {
         "name": "Build and Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2020-10-27T00:00:00",
+        "startDate": "2020-10-27T00:00:00",
+        "endDate": "2020-10-27T01:00:00",
         "room": "",
         "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
         "isCanceled": false,
@@ -2813,7 +2949,8 @@
       {
         "name": "Application Architecture",
         "url": "/presentations/application-architecture-patterns",
-        "date": "2020-06-05T00:00:00",
+        "startDate": "2020-06-05T00:00:00",
+        "endDate": "2020-06-05T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2839,7 +2976,8 @@
       {
         "name": "Preparedness and Feedback Matters",
         "url": "/presentations/presentation-preparedness",
-        "date": "2020-04-24T00:00:00",
+        "startDate": "2020-04-24T00:00:00",
+        "endDate": "2020-04-24T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2865,7 +3003,8 @@
       {
         "name": "Migrate It!",
         "url": "/presentations/migrate-it",
-        "date": "2020-04-06T00:00:00",
+        "startDate": "2020-04-06T00:00:00",
+        "endDate": "2020-04-06T01:00:00",
         "room": "",
         "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
         "isCanceled": false,
@@ -2891,7 +3030,8 @@
       {
         "name": "Look into your Application with Azure Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2020-04-06T00:00:00",
+        "startDate": "2020-04-06T00:00:00",
+        "endDate": "2020-04-06T01:00:00",
         "room": "",
         "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
         "isCanceled": false,
@@ -2902,7 +3042,8 @@
       {
         "name": "Build \u0026 Ship It!",
         "url": "/presentations/build-and-ship-it",
-        "date": "2020-04-06T00:00:00",
+        "startDate": "2020-04-06T00:00:00",
+        "endDate": "2020-04-06T01:00:00",
         "room": "",
         "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
         "isCanceled": false,
@@ -2928,7 +3069,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio 2019",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2020-03-14T00:00:00",
+        "startDate": "2020-03-14T00:00:00",
+        "endDate": "2020-03-14T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2939,7 +3081,8 @@
       {
         "name": "Build a Native Mobile Application using React Native and JavaScript",
         "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
-        "date": "2020-03-13T00:00:00",
+        "startDate": "2020-03-13T00:00:00",
+        "endDate": "2020-03-13T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -2965,7 +3108,8 @@
       {
         "name": "Migrate It!",
         "url": "/presentations/migrate-it",
-        "date": "2019-11-18T00:00:00",
+        "startDate": "2019-11-18T00:00:00",
+        "endDate": "2019-11-18T01:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
@@ -2976,7 +3120,8 @@
       {
         "name": "Typescript for the Microsoft Developer",
         "url": "/presentations/typescript-for-the-microsoft-developer",
-        "date": "2019-11-18T00:00:00",
+        "startDate": "2019-11-18T00:00:00",
+        "endDate": "2019-11-18T01:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
@@ -3002,7 +3147,8 @@
       {
         "name": "Help Your Application Scale with Azure",
         "url": "/presentations/help-your-application-scale-with-azure",
-        "date": "2019-11-12T00:00:00",
+        "startDate": "2019-11-12T00:00:00",
+        "endDate": "2019-11-12T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3013,7 +3159,8 @@
       {
         "name": "Look into your Application with Azure Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2019-11-12T00:00:00",
+        "startDate": "2019-11-12T00:00:00",
+        "endDate": "2019-11-12T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3039,7 +3186,8 @@
       {
         "name": "Look into your Application with Azure Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2019-08-22T00:00:00",
+        "startDate": "2019-08-22T00:00:00",
+        "endDate": "2019-08-22T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3065,7 +3213,8 @@
       {
         "name": "Look into your Application with Azure Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2019-08-21T00:00:00",
+        "startDate": "2019-08-21T00:00:00",
+        "endDate": "2019-08-21T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3091,7 +3240,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2019-09-05T00:00:00",
+        "startDate": "2019-09-05T00:00:00",
+        "endDate": "2019-09-05T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3102,7 +3252,8 @@
       {
         "name": "Typescript for the Microsoft Developer",
         "url": "/presentations/typescript-for-the-microsoft-developer",
-        "date": "2019-09-05T00:00:00",
+        "startDate": "2019-09-05T00:00:00",
+        "endDate": "2019-09-05T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3128,7 +3279,8 @@
       {
         "name": "TypeScript for the Microsoft Developer",
         "url": "/presentations/typescript-for-the-microsoft-developer",
-        "date": "2019-05-24T00:00:00",
+        "startDate": "2019-05-24T00:00:00",
+        "endDate": "2019-05-24T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3154,7 +3306,8 @@
       {
         "name": "Write Once, Run Everywhere",
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-        "date": "2019-06-11T00:00:00",
+        "startDate": "2019-06-11T00:00:00",
+        "endDate": "2019-06-11T01:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
@@ -3165,7 +3318,8 @@
       {
         "name": "What\u0027s Happening in My App?, Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2019-06-12T00:00:00",
+        "startDate": "2019-06-12T00:00:00",
+        "endDate": "2019-06-12T01:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
@@ -3176,7 +3330,8 @@
       {
         "name": "Building Mobile Applications with Ionic",
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-        "date": "2018-12-03T00:00:00",
+        "startDate": "2018-12-03T00:00:00",
+        "endDate": "2018-12-03T01:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
@@ -3187,7 +3342,8 @@
       {
         "name": "Building Mobile Applications with React Native",
         "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
-        "date": "2018-12-03T00:00:00",
+        "startDate": "2018-12-03T00:00:00",
+        "endDate": "2018-12-03T01:00:00",
         "room": "",
         "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
         "isCanceled": false,
@@ -3213,7 +3369,8 @@
       {
         "name": "Typescript for the Microsoft Developer",
         "url": "/presentations/typescript-for-the-microsoft-developer",
-        "date": "2018-11-13T00:00:00",
+        "startDate": "2018-11-13T00:00:00",
+        "endDate": "2018-11-13T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3224,7 +3381,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2018-11-13T00:00:00",
+        "startDate": "2018-11-13T00:00:00",
+        "endDate": "2018-11-13T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3250,7 +3408,8 @@
       {
         "name": "Typescript for the Microsoft Developer",
         "url": "/presentations/typescript-for-the-microsoft-developer",
-        "date": "2018-10-02T00:00:00",
+        "startDate": "2018-10-02T00:00:00",
+        "endDate": "2018-10-02T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3261,7 +3420,8 @@
       {
         "name": "Look into your Application with Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2018-10-02T00:00:00",
+        "startDate": "2018-10-02T00:00:00",
+        "endDate": "2018-10-02T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3287,7 +3447,8 @@
       {
         "name": "Typescript for the Microsoft Developer",
         "url": "/presentations/typescript-for-the-microsoft-developer",
-        "date": "2018-07-11T00:00:00",
+        "startDate": "2018-07-11T00:00:00",
+        "endDate": "2018-07-11T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3298,7 +3459,8 @@
       {
         "name": "Building Native Application with React Native and Javascript",
         "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
-        "date": "2018-07-11T00:00:00",
+        "startDate": "2018-07-11T00:00:00",
+        "endDate": "2018-07-11T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3324,7 +3486,8 @@
       {
         "name": "Debugging Tips and Tricks with Visual Studio",
         "url": "/presentations/debugging-tips-and-tricks-with-visual-studio",
-        "date": "2018-06-01T00:00:00",
+        "startDate": "2018-06-01T00:00:00",
+        "endDate": "2018-06-01T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3335,7 +3498,8 @@
       {
         "name": "Building Native Applications with Ionic and Javascript",
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-        "date": "2018-06-01T00:00:00",
+        "startDate": "2018-06-01T00:00:00",
+        "endDate": "2018-06-01T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3361,7 +3525,8 @@
       {
         "name": "Open Source, Javascript, Mobile Trends, and the Future",
         "url": "",
-        "date": "2018-04-13T00:00:00",
+        "startDate": "2018-04-13T00:00:00",
+        "endDate": "2018-04-13T01:00:00",
         "room": "",
         "comments": "**Keynote**",
         "isCanceled": false,
@@ -3372,7 +3537,8 @@
       {
         "name": "Being More Personable",
         "url": "",
-        "date": "2018-04-13T00:00:00",
+        "startDate": "2018-04-13T00:00:00",
+        "endDate": "2018-04-13T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3383,7 +3549,8 @@
       {
         "name": "Building Native Applications with Ionic and Javascript",
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-        "date": "2018-04-13T00:00:00",
+        "startDate": "2018-04-13T00:00:00",
+        "endDate": "2018-04-13T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3409,7 +3576,8 @@
       {
         "name": "Multiple sessions on .NET Core",
         "url": "/2017/12/04/im-speaking-on-a-boat/",
-        "date": "2018-02-10T00:00:00",
+        "startDate": "2018-02-10T00:00:00",
+        "endDate": "2018-02-10T01:00:00",
         "room": "",
         "comments": "See the blog post \u0027I\u0027m Speaking on a Boat\u0027",
         "isCanceled": false,
@@ -3435,7 +3603,8 @@
       {
         "name": "Introduction to ASP.NET Core",
         "url": "/presentations/introduction-to-asp-net-core",
-        "date": "2017-10-04T00:00:00",
+        "startDate": "2017-10-04T00:00:00",
+        "endDate": "2017-10-04T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3446,7 +3615,8 @@
       {
         "name": "Typescript for the Microsoft Developer",
         "url": "/presentations/typescript-for-the-microsoft-developer",
-        "date": "2017-10-04T00:00:00",
+        "startDate": "2017-10-04T00:00:00",
+        "endDate": "2017-10-04T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3472,7 +3642,8 @@
       {
         "name": "Bootstrap 4.0. What\u0027s New?",
         "url": "/presentations/bootstrap-4-0-whats-new",
-        "date": "2017-05-21T00:00:00",
+        "startDate": "2017-05-21T00:00:00",
+        "endDate": "2017-05-21T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3483,7 +3654,8 @@
       {
         "name": "Build Native Mobile Apps Using Ionic and Javascript",
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-        "date": "2017-05-21T00:00:00",
+        "startDate": "2017-05-21T00:00:00",
+        "endDate": "2017-05-21T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3509,7 +3681,8 @@
       {
         "name": "Bootstrap 4.0. What\u0027s New?",
         "url": "/presentations/bootstrap-4-0-whats-new",
-        "date": "2017-05-05T00:00:00",
+        "startDate": "2017-05-05T00:00:00",
+        "endDate": "2017-05-05T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3520,7 +3693,8 @@
       {
         "name": "Look into Your Application with Application Insights",
         "url": "/presentations/look-into-your-application-with-application-insights",
-        "date": "2017-05-05T00:00:00",
+        "startDate": "2017-05-05T00:00:00",
+        "endDate": "2017-05-05T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3546,7 +3720,8 @@
       {
         "name": "Bootstrap 4.0. What\u0027s New?",
         "url": "/presentations/bootstrap-4-0-whats-new",
-        "date": "2017-04-09T00:00:00",
+        "startDate": "2017-04-09T00:00:00",
+        "endDate": "2017-04-09T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3557,7 +3732,8 @@
       {
         "name": "Build Native Applications with Ionic and Javascript",
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-        "date": "2017-04-09T00:00:00",
+        "startDate": "2017-04-09T00:00:00",
+        "endDate": "2017-04-09T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3583,7 +3759,8 @@
       {
         "name": "How to be Active in the Community",
         "url": "",
-        "date": "2017-04-07T00:00:00",
+        "startDate": "2017-04-07T00:00:00",
+        "endDate": "2017-04-07T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3609,7 +3786,8 @@
       {
         "name": "Build Native Mobile Apps using Javascript and Ionic",
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-        "date": "2017-02-25T00:00:00",
+        "startDate": "2017-02-25T00:00:00",
+        "endDate": "2017-02-25T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3620,7 +3798,8 @@
       {
         "name": "Build Native Mobile Apps using Javascript and React Native",
         "url": "/presentations/build-a-native-mobile-application-using-react-native-and-javascript",
-        "date": "2017-02-25T00:00:00",
+        "startDate": "2017-02-25T00:00:00",
+        "endDate": "2017-02-25T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3646,7 +3825,8 @@
       {
         "name": "Bootstrap 4.0 - What\u0027s New?",
         "url": "/presentations/bootstrap-4-0-whats-new",
-        "date": "2017-03-09T00:00:00",
+        "startDate": "2017-03-09T00:00:00",
+        "endDate": "2017-03-09T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3657,7 +3837,8 @@
       {
         "name": "Typescript for the Microsoft Developer",
         "url": "/presentations/typescript-for-the-microsoft-developer",
-        "date": "2017-03-09T00:00:00",
+        "startDate": "2017-03-09T00:00:00",
+        "endDate": "2017-03-09T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3668,7 +3849,8 @@
       {
         "name": "Introduction to ASP.NET Core",
         "url": "/presentations/introduction-to-asp-net-core",
-        "date": "2017-03-09T00:00:00",
+        "startDate": "2017-03-09T00:00:00",
+        "endDate": "2017-03-09T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -3694,7 +3876,8 @@
       {
         "name": "Build Native Apps using Javascript and Ionic",
         "url": "/presentations/build-a-native-mobile-application-using-ionic-and-javascript",
-        "date": "2017-03-15T00:00:00",
+        "startDate": "2017-03-15T00:00:00",
+        "endDate": "2017-03-15T01:00:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
