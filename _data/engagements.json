@@ -3,18 +3,18 @@
     "eventName": "CodeMash",
     "eventUrl": "https://www.codemash.org/",
     "location": "Sandusky, OH",
-    "eventStart": "2026-01-13T09:00:00",
-    "eventEnd": "2026-01-16T19:00:00",
+    "eventStart": "2026-01-13T09:00:00-05:00",
+    "eventEnd": "2026-01-16T19:00:00-05:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Dev Containers. What are they and why do you need them?",
         "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
         "startDate": "2026-01-15T09:45:00",
         "endDate": "2026-01-15T10:45:00",
-        "room": "Indigo Bay",
+        "room": "Virtual",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false,
@@ -24,14 +24,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2025-11-13T09:00:00"
+    "createdOrUpdatedOn": "2025-11-13T09:00:00-05:00"
   },
   {
     "eventName": "Hot Topics Developers Group",
     "eventUrl": "https://www.meetup.com/hot-topics-developer-group/events/",
     "location": "San Diego, CA / Virtual",
-    "eventStart": "2025-11-04T18:00:00",
-    "eventEnd": "2025-11-04T19:00:00",
+    "eventStart": "2025-11-04T18:00:00-08:00",
+    "eventEnd": "2025-11-04T19:00:00-08:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -51,14 +51,14 @@
     ],
     "timezone": "America/Los_Angeles",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2025-09-04T18:00:00"
+    "createdOrUpdatedOn": "2025-09-04T18:00:00-08:00"
   },
   {
     "eventName": "ManageEngine User Conference",
     "eventUrl": "https://events.manageengine.com/userconf-las-vegas",
     "location": "Las Vegas, NV",
-    "eventStart": "2025-09-18T09:00:00",
-    "eventEnd": "2025-09-19T17:00:00",
+    "eventStart": "2025-09-18T09:00:00-08:00",
+    "eventEnd": "2025-09-19T17:00:00-08:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -78,14 +78,14 @@
     ],
     "timezone": "America/Los_Angeles",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2025-07-18T09:00:00"
+    "createdOrUpdatedOn": "2025-07-18T09:00:00-08:00"
   },
   {
     "eventName": "ESPC Learning Hub",
     "eventUrl": "https://www.sharepointeurope.com/register-for-webinars",
     "location": "Virtual",
-    "eventStart": "2025-08-20T15:00:00",
-    "eventEnd": "2025-08-20T16:00:00",
+    "eventStart": "2025-08-20T15:00:00+01:00",
+    "eventEnd": "2025-08-20T16:00:00+01:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -105,14 +105,14 @@
     ],
     "timezone": "Europe/Budapest",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2025-06-20T15:00:00"
+    "createdOrUpdatedOn": "2025-06-20T15:00:00+01:00"
   },
   {
     "eventName": "AspiriFridays",
     "eventUrl": "https://www.youtube.com/watch?v=ZKgUwDWCtic",
     "location": "YouTube Live",
-    "eventStart": "2025-06-13T09:30:00",
-    "eventEnd": "2025-06-13T11:30:00",
+    "eventStart": "2025-06-13T09:30:00-08:00",
+    "eventEnd": "2025-06-13T11:30:00-08:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -132,14 +132,14 @@
     ],
     "timezone": "America/Los_Angeles",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2025-04-13T09:30:00"
+    "createdOrUpdatedOn": "2025-04-13T09:30:00-08:00"
   },
   {
     "eventName": "A day of Cloud, Code, and Community",
     "eventUrl": "https://www.eventbrite.com/e/code-cloud-connect-with-senior-vp-of-it-at-rt2-microsoft-mvp-tickets-1374161166039",
     "location": "Khalil Sarkis Bayrut, Beirut Governorate Lebanon",
-    "eventStart": "2025-05-31T13:00:00",
-    "eventEnd": "2025-05-31T18:00:00",
+    "eventStart": "2025-05-31T13:00:00+02:00",
+    "eventEnd": "2025-05-31T18:00:00+02:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -195,14 +195,14 @@
     ],
     "timezone": "Asia/Beirut",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2025-03-31T13:00:00"
+    "createdOrUpdatedOn": "2025-03-31T13:00:00+02:00"
   },
   {
     "eventName": "Private Event",
     "eventUrl": "https://www.josephguadagno.net/",
     "location": "Beirut, Lebanon",
-    "eventStart": "2025-05-30T09:00:00",
-    "eventEnd": "2025-05-30T17:00:00",
+    "eventStart": "2025-05-30T09:00:00+02:00",
+    "eventEnd": "2025-05-30T17:00:00+02:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -222,14 +222,14 @@
     ],
     "timezone": "Asia/Beirut",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2025-03-30T09:00:00"
+    "createdOrUpdatedOn": "2025-03-30T09:00:00+02:00"
   },
   {
     "eventName": "Update Conference Krakow 2025",
     "eventUrl": "https://krakow.updateconference.net/",
     "location": "Krakow, Poland",
-    "eventStart": "2025-05-26T09:00:00",
-    "eventEnd": "2025-05-27T17:00:00",
+    "eventStart": "2025-05-26T09:00:00+01:00",
+    "eventEnd": "2025-05-27T17:00:00+01:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -249,14 +249,14 @@
     ],
     "timezone": "Europe/Budapest",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2025-03-26T09:00:00"
+    "createdOrUpdatedOn": "2025-03-26T09:00:00+01:00"
   },
   {
     "eventName": "Hot Topics Developers Group",
     "eventUrl": "https://www.meetup.com/hot-topics-developer-group/events/",
     "location": "San Diego, CA / Virtual",
-    "eventStart": "2025-04-01T18:00:00",
-    "eventEnd": "2025-04-01T19:00:00",
+    "eventStart": "2025-04-01T18:00:00-08:00",
+    "eventEnd": "2025-04-01T19:00:00-08:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -276,14 +276,14 @@
     ],
     "timezone": "America/Los_Angeles",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2025-02-01T18:00:00"
+    "createdOrUpdatedOn": "2025-02-01T18:00:00-08:00"
   },
   {
     "eventName": "NDC London",
     "eventUrl": "https://www.ndclondon.com/",
     "location": "London, UK",
-    "eventStart": "2025-01-27T09:00:00",
-    "eventEnd": "2025-01-31T17:00:00",
+    "eventStart": "2025-01-27T09:00:00+00:00",
+    "eventEnd": "2025-01-31T17:00:00+00:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -303,14 +303,14 @@
     ],
     "timezone": "Europe/London",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2024-11-27T09:00:00"
+    "createdOrUpdatedOn": "2024-11-27T09:00:00+00:00"
   },
   {
     "eventName": "Greater Lansing User Group for .NET Developers",
     "eventUrl": "https://www.meetup.com/glugnet/events/302476173/",
     "location": "Virtual",
-    "eventStart": "2025-01-16T18:00:00",
-    "eventEnd": "2025-01-16T20:00:00",
+    "eventStart": "2025-01-16T18:00:00-05:00",
+    "eventEnd": "2025-01-16T20:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -330,14 +330,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2024-11-16T18:00:00"
+    "createdOrUpdatedOn": "2024-11-16T18:00:00-05:00"
   },
   {
     "eventName": "ESPC24 - European SharePoint, Office 365 \u0026 Azure Conference",
     "eventUrl": "https://www.sharepointeurope.com/",
     "location": "Stockholm, Sweden",
-    "eventStart": "2024-12-02T09:00:00",
-    "eventEnd": "2024-12-05T17:00:00",
+    "eventStart": "2024-12-02T09:00:00+01:00",
+    "eventEnd": "2024-12-05T17:00:00+01:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -357,14 +357,14 @@
     ],
     "timezone": "Europe/Budapest",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2024-10-02T09:00:00"
+    "createdOrUpdatedOn": "2024-10-02T09:00:00+01:00"
   },
   {
     "eventName": "Advanced Technology Days 2024",
     "eventUrl": "https://www.advtechdays.com/",
     "location": "Zagreb, Croatia",
-    "eventStart": "2024-11-28T09:00:00",
-    "eventEnd": "2024-11-29T17:00:00",
+    "eventStart": "2024-11-28T09:00:00+01:00",
+    "eventEnd": "2024-11-29T17:00:00+01:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -408,14 +408,14 @@
     ],
     "timezone": "Europe/Budapest",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2024-09-28T09:00:00"
+    "createdOrUpdatedOn": "2024-09-28T09:00:00+01:00"
   },
   {
     "eventName": "Action AI Conference 2024",
     "eventUrl": "https://actionaiconf.com/",
     "location": "New Delhi, India",
-    "eventStart": "2024-10-18T08:00:00",
-    "eventEnd": "2024-10-18T20:00:00",
+    "eventStart": "2024-10-18T08:00:00+05:30",
+    "eventEnd": "2024-10-18T20:00:00+05:30",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -435,14 +435,14 @@
     ],
     "timezone": "Asia/Calcutta",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2024-08-18T08:00:00"
+    "createdOrUpdatedOn": "2024-08-18T08:00:00+05:30"
   },
   {
     "eventName": "DevSum24",
     "eventUrl": "https://www.devsum.se/",
     "location": "Stockholm, Sweden",
-    "eventStart": "2024-05-16T09:00:00",
-    "eventEnd": "2024-05-17T17:00:00",
+    "eventStart": "2024-05-16T09:00:00+01:00",
+    "eventEnd": "2024-05-17T17:00:00+01:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -474,14 +474,14 @@
     ],
     "timezone": "Europe/Budapest",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2024-03-16T09:00:00"
+    "createdOrUpdatedOn": "2024-03-16T09:00:00+01:00"
   },
   {
     "eventName": "Software Design \u0026 Development 2024",
     "eventUrl": "https://sddconf.com/",
     "location": "London, UK",
-    "eventStart": "2024-05-13T09:00:00",
-    "eventEnd": "2024-05-17T17:00:00",
+    "eventStart": "2024-05-13T09:00:00+00:00",
+    "eventEnd": "2024-05-17T17:00:00+00:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -513,14 +513,14 @@
     ],
     "timezone": "Europe/London",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2024-03-13T09:00:00"
+    "createdOrUpdatedOn": "2024-03-13T09:00:00+00:00"
   },
   {
     "eventName": "LambdaConf 2024",
     "eventUrl": "https://www.lambdaconf.us/",
     "location": "Estes Park, CO",
-    "eventStart": "2024-05-06T09:00:00",
-    "eventEnd": "2024-05-07T17:00:00",
+    "eventStart": "2024-05-06T09:00:00-07:00",
+    "eventEnd": "2024-05-07T17:00:00-07:00",
     "comments": "Use discount code [JosephGuadagno15](https://www.eventbrite.com/e/540887036687/?discount=JosephGuadagno15) for 15% off.",
     "isCanceled": false,
     "isCurrent": false,
@@ -540,14 +540,14 @@
     ],
     "timezone": "America/Denver",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2024-03-06T09:00:00"
+    "createdOrUpdatedOn": "2024-03-06T09:00:00-07:00"
   },
   {
     "eventName": "Michigan Tech Con",
     "eventUrl": "https://www.mitechcon.org/",
     "location": "Pontiac, MI",
-    "eventStart": "2024-03-21T09:00:00",
-    "eventEnd": "2024-03-22T17:00:00",
+    "eventStart": "2024-03-21T09:00:00-05:00",
+    "eventEnd": "2024-03-22T17:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -579,14 +579,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2024-01-21T09:00:00"
+    "createdOrUpdatedOn": "2024-01-21T09:00:00-05:00"
   },
   {
     "eventName": "Orlando Code Camp 2024",
     "eventUrl": "https://orlandocodecamp.com/",
     "location": "Orlando, FL",
-    "eventStart": "2024-02-24T08:00:00",
-    "eventEnd": "2024-02-24T17:00:00",
+    "eventStart": "2024-02-24T08:00:00-05:00",
+    "eventEnd": "2024-02-24T17:00:00-05:00",
     "comments": "***Keynote***",
     "isCanceled": false,
     "isCurrent": false,
@@ -618,14 +618,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-12-24T08:00:00"
+    "createdOrUpdatedOn": "2023-12-24T08:00:00-05:00"
   },
   {
     "eventName": "CodeMash",
     "eventUrl": "https://www.codemash.org/",
     "location": "Sandusky, OH",
-    "eventStart": "2024-01-09T09:00:00",
-    "eventEnd": "2024-01-12T17:00:00",
+    "eventStart": "2024-01-09T09:00:00-05:00",
+    "eventEnd": "2024-01-12T17:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -657,14 +657,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-11-09T09:00:00"
+    "createdOrUpdatedOn": "2023-11-09T09:00:00-05:00"
   },
   {
     "eventName": "DEVintersection Conference 2023",
     "eventUrl": "https://www.devintersection.com/",
     "location": "Orlando, FL",
-    "eventStart": "2023-12-07T09:00:00",
-    "eventEnd": "2023-12-07T17:20:00",
+    "eventStart": "2023-12-07T09:00:00-05:00",
+    "eventEnd": "2023-12-07T17:20:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -696,14 +696,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-10-07T09:00:00"
+    "createdOrUpdatedOn": "2023-10-07T09:00:00-05:00"
   },
   {
     "eventName": "ESPC23 - European SharePoint, Office 365 \u0026 Azure Conference",
     "eventUrl": "https://www.sharepointeurope.com/",
     "location": "Amsterdam, Netherlands",
-    "eventStart": "2023-11-27T09:00:00",
-    "eventEnd": "2023-11-30T17:20:00",
+    "eventStart": "2023-11-27T09:00:00+01:00",
+    "eventEnd": "2023-11-30T17:20:00+01:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -723,14 +723,14 @@
     ],
     "timezone": "Europe/Budapest",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-09-27T09:00:00"
+    "createdOrUpdatedOn": "2023-09-27T09:00:00+01:00"
   },
   {
     "eventName": "TechBash",
     "eventUrl": "https://techbash.com/",
     "location": "Pocono Mountains, PA",
-    "eventStart": "2023-11-07T00:00:00",
-    "eventEnd": "2023-11-10T00:00:00",
+    "eventStart": "2023-11-07T00:00:00-05:00",
+    "eventEnd": "2023-11-10T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -774,14 +774,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-09-07T00:00:00"
+    "createdOrUpdatedOn": "2023-09-07T00:00:00-05:00"
   },
   {
     "eventName": "C# Corner Conference 2023",
     "eventUrl": "https://conference.c-sharpcorner.com/",
     "location": "Delhi, India",
-    "eventStart": "2023-10-09T00:00:00",
-    "eventEnd": "2023-10-14T00:00:00",
+    "eventStart": "2023-10-09T00:00:00+05:30",
+    "eventEnd": "2023-10-14T00:00:00+05:30",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -861,14 +861,14 @@
     ],
     "timezone": "Asia/Calcutta",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-08-09T00:00:00"
+    "createdOrUpdatedOn": "2023-08-09T00:00:00+05:30"
   },
   {
     "eventName": "Louisville .NET Meetup",
     "eventUrl": "https://www.meetup.com/louisville-dotnet/events/296001884/",
     "location": "Virtual",
-    "eventStart": "2023-09-24T18:00:00",
-    "eventEnd": "2023-09-24T19:00:00",
+    "eventStart": "2023-09-24T18:00:00+05:30",
+    "eventEnd": "2023-09-24T19:00:00+05:30",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -888,14 +888,14 @@
     ],
     "timezone": "Asia/Calcutta",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-07-24T18:00:00"
+    "createdOrUpdatedOn": "2023-07-24T18:00:00+05:30"
   },
   {
     "eventName": "Developers Conference 2023",
     "eventUrl": "https://2023.mscc.mu",
     "location": "Port Louis, Mauritius",
-    "eventStart": "2023-07-20T09:00:00",
-    "eventEnd": "2023-07-22T17:20:00",
+    "eventStart": "2023-07-20T09:00:00+04:00",
+    "eventEnd": "2023-07-22T17:20:00+04:00",
     "comments": "Conference brought to you by the Mauritius Software Craftsmanship Community",
     "isCanceled": false,
     "isCurrent": false,
@@ -951,14 +951,14 @@
     ],
     "timezone": "Indian/Mauritius",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-05-20T09:00:00"
+    "createdOrUpdatedOn": "2023-05-20T09:00:00+04:00"
   },
   {
     "eventName": "Code Quality Conference 2023",
     "eventUrl": "https://codequalityconf.com/",
     "location": "Virtual",
-    "eventStart": "2023-06-02T10:00:00",
-    "eventEnd": "2023-06-02T15:00:00",
+    "eventStart": "2023-06-02T10:00:00-05:00",
+    "eventEnd": "2023-06-02T15:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -978,14 +978,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2023-04-02T10:00:00"
+    "createdOrUpdatedOn": "2023-04-02T10:00:00-05:00"
   },
   {
     "eventName": "NDC Oslo",
     "eventUrl": "https://ndcoslo.com/",
     "location": "Oslo, Norway",
-    "eventStart": "2023-05-22T09:00:00",
-    "eventEnd": "2023-05-26T17:20:00",
+    "eventStart": "2023-05-22T09:00:00+01:00",
+    "eventEnd": "2023-05-26T17:20:00+01:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1005,14 +1005,14 @@
     ],
     "timezone": "Europe/Budapest",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-03-22T09:00:00"
+    "createdOrUpdatedOn": "2023-03-22T09:00:00+01:00"
   },
   {
     "eventName": "DevDays Europe 2023",
     "eventUrl": "https://devdays.lt/",
     "location": "Virtual and Vilnius, Lithuania",
-    "eventStart": "2023-05-23T09:00:00",
-    "eventEnd": "2023-05-26T17:20:00",
+    "eventStart": "2023-05-23T09:00:00+02:00",
+    "eventEnd": "2023-05-26T17:20:00+02:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1032,14 +1032,14 @@
     ],
     "timezone": "Asia/Beirut",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-03-23T09:00:00"
+    "createdOrUpdatedOn": "2023-03-23T09:00:00+02:00"
   },
   {
     "eventName": "Stir Trek 2023",
     "eventUrl": "https://stirtrek.com/",
     "location": "Columbus, OH",
-    "eventStart": "2023-05-05T07:00:00",
-    "eventEnd": "2023-05-05T18:00:00",
+    "eventStart": "2023-05-05T07:00:00-05:00",
+    "eventEnd": "2023-05-05T18:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1059,14 +1059,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2023-03-05T07:00:00"
+    "createdOrUpdatedOn": "2023-03-05T07:00:00-05:00"
   },
   {
     "eventName": "abp DOTNET CONF 23",
     "eventUrl": "https://abp.io/conference",
     "location": "Virtual",
-    "eventStart": "2023-05-10T05:00:00",
-    "eventEnd": "2023-05-10T13:00:00",
+    "eventStart": "2023-05-10T05:00:00+02:00",
+    "eventEnd": "2023-05-10T13:00:00+02:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1086,14 +1086,14 @@
     ],
     "timezone": "Asia/Beirut",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2023-03-10T05:00:00"
+    "createdOrUpdatedOn": "2023-03-10T05:00:00+02:00"
   },
   {
     "eventName": "Greater Lansing User Group for .NET Developers",
     "eventUrl": "https://www.meetup.com/glugnet/events/jgqtbtyfcjbtb/",
     "location": "Virtual",
-    "eventStart": "2023-06-15T18:00:00",
-    "eventEnd": "2023-06-15T19:30:00",
+    "eventStart": "2023-06-15T18:00:00-05:00",
+    "eventEnd": "2023-06-15T19:30:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1113,14 +1113,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2023-04-15T18:00:00"
+    "createdOrUpdatedOn": "2023-04-15T18:00:00-05:00"
   },
   {
     "eventName": "Iowa .NET User Group",
     "eventUrl": "https://www.meetup.com/iadnug/events/291721623",
     "location": "Virtual",
-    "eventStart": "2023-03-02T19:00:00",
-    "eventEnd": "2023-03-02T20:30:00",
+    "eventStart": "2023-03-02T19:00:00-05:00",
+    "eventEnd": "2023-03-02T20:30:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1140,14 +1140,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2023-01-02T19:00:00"
+    "createdOrUpdatedOn": "2023-01-02T19:00:00-05:00"
   },
   {
     "eventName": "Global App Dev User Group",
     "eventUrl": "https://globalappdevusergroup.com/",
     "location": "Virtual",
-    "eventStart": "2023-02-20T18:00:00",
-    "eventEnd": "2023-02-20T19:30:00",
+    "eventStart": "2023-02-20T18:00:00-05:00",
+    "eventEnd": "2023-02-20T19:30:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1167,14 +1167,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2022-12-20T18:00:00"
+    "createdOrUpdatedOn": "2022-12-20T18:00:00-05:00"
   },
   {
     "eventName": "CodeMash",
     "eventUrl": "https://www.codemash.org/",
     "location": "Sandusky, OH",
-    "eventStart": "2023-01-10T09:00:00",
-    "eventEnd": "2023-01-13T17:00:00",
+    "eventStart": "2023-01-10T09:00:00-05:00",
+    "eventEnd": "2023-01-13T17:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1206,14 +1206,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-11-10T09:00:00"
+    "createdOrUpdatedOn": "2022-11-10T09:00:00-05:00"
   },
   {
     "eventName": "DEVintersection",
     "eventUrl": "https://www.devintersection.com/",
     "location": "Las Vegas, NV",
-    "eventStart": "2022-12-04T09:00:00",
-    "eventEnd": "2022-12-09T17:00:00",
+    "eventStart": "2022-12-04T09:00:00-08:00",
+    "eventEnd": "2022-12-09T17:00:00-08:00",
     "comments": "Register with code \u0027GUADAGNO50\u0027 for $50 off registration!",
     "isCanceled": false,
     "isCurrent": false,
@@ -1257,14 +1257,14 @@
     ],
     "timezone": "America/Los_Angeles",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-10-04T09:00:00"
+    "createdOrUpdatedOn": "2022-10-04T09:00:00-08:00"
   },
   {
     "eventName": "Update Conference Prague 2022",
     "eventUrl": "https://www.updateconference.net/",
     "location": "Prague, Czech Republic",
-    "eventStart": "2022-11-10T00:00:00",
-    "eventEnd": "2022-11-11T00:00:00",
+    "eventStart": "2022-11-10T00:00:00+01:00",
+    "eventEnd": "2022-11-11T00:00:00+01:00",
     "comments": "In person and Virtual",
     "isCanceled": false,
     "isCurrent": false,
@@ -1284,14 +1284,14 @@
     ],
     "timezone": "Europe/Budapest",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-09-10T00:00:00"
+    "createdOrUpdatedOn": "2022-09-10T00:00:00+01:00"
   },
   {
     "eventName": "TechBash",
     "eventUrl": "https://techbash.com/",
     "location": "Pocono Mountains, PA",
-    "eventStart": "2022-11-08T00:00:00",
-    "eventEnd": "2022-11-11T00:00:00",
+    "eventStart": "2022-11-08T00:00:00-05:00",
+    "eventEnd": "2022-11-11T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1323,14 +1323,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-09-08T00:00:00"
+    "createdOrUpdatedOn": "2022-09-08T00:00:00-05:00"
   },
   {
     "eventName": "European SharePoint Office 365 \u0026 Azure Conference",
     "eventUrl": "https://www.sharepointeurope.com/",
     "location": "Copenhagen, Denmark",
-    "eventStart": "2022-11-28T00:00:00",
-    "eventEnd": "2022-12-01T00:00:00",
+    "eventStart": "2022-11-28T00:00:00+01:00",
+    "eventEnd": "2022-12-01T00:00:00+01:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1350,14 +1350,14 @@
     ],
     "timezone": "Europe/Budapest",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-09-28T00:00:00"
+    "createdOrUpdatedOn": "2022-09-28T00:00:00+01:00"
   },
   {
     "eventName": "C# Corner Conference 2022 - Delhi",
     "eventUrl": "https://conference.c-sharpcorner.com/",
     "location": "Delhi, India",
-    "eventStart": "2022-10-14T00:00:00",
-    "eventEnd": "2022-10-15T00:00:00",
+    "eventStart": "2022-10-14T00:00:00+05:30",
+    "eventEnd": "2022-10-15T00:00:00+05:30",
     "comments": "This event is a 6 day tour from Chennai to Delhi containing 4 one day conferences, Chennai (Oct 8th), Hyderabad (Oct 10), Mumbai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
     "isCanceled": false,
     "isCurrent": false,
@@ -1461,14 +1461,14 @@
     ],
     "timezone": "Asia/Calcutta",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-08-14T00:00:00"
+    "createdOrUpdatedOn": "2022-08-14T00:00:00+05:30"
   },
   {
     "eventName": "C# Corner Conference 2022 - Chennai",
     "eventUrl": "https://conference.c-sharpcorner.com/",
     "location": "Chennai, India",
-    "eventStart": "2022-10-08T00:00:00",
-    "eventEnd": "2022-10-08T00:00:00",
+    "eventStart": "2022-10-08T00:00:00+05:30",
+    "eventEnd": "2022-10-08T00:00:00+05:30",
     "comments": "This event is a 6 day tour from Chennai to Delhi containing 4 one day conferences, Chennai (Oct 8th), Hyderabad (Oct 10), Mumbai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
     "isCanceled": false,
     "isCurrent": false,
@@ -1488,14 +1488,14 @@
     ],
     "timezone": "Asia/Calcutta",
     "inPerson": null,
-    "createdOrUpdatedOn": "2022-08-08T00:00:00"
+    "createdOrUpdatedOn": "2022-08-08T00:00:00+05:30"
   },
   {
     "eventName": "C# Corner Conference 2022 - Hyderabad",
     "eventUrl": "https://conference.c-sharpcorner.com/",
     "location": "Hyderabad, India",
-    "eventStart": "2022-10-10T00:00:00",
-    "eventEnd": "2022-10-10T00:00:00",
+    "eventStart": "2022-10-10T00:00:00+05:30",
+    "eventEnd": "2022-10-10T00:00:00+05:30",
     "comments": "This event is a 6 day tour from Chennai to Delhi containing 4 one day conferences, Chennai (Oct 8th), Hyderabad (Oct 10), Mumbai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
     "isCanceled": false,
     "isCurrent": false,
@@ -1527,14 +1527,14 @@
     ],
     "timezone": "Asia/Calcutta",
     "inPerson": null,
-    "createdOrUpdatedOn": "2022-08-10T00:00:00"
+    "createdOrUpdatedOn": "2022-08-10T00:00:00+05:30"
   },
   {
     "eventName": "C# Corner Conference 2022 - Mumbai",
     "eventUrl": "https://conference.c-sharpcorner.com/",
     "location": "Mumbai, India",
-    "eventStart": "2022-10-12T00:00:00",
-    "eventEnd": "2022-10-12T00:00:00",
+    "eventStart": "2022-10-12T00:00:00+05:30",
+    "eventEnd": "2022-10-12T00:00:00+05:30",
     "comments": "This event is a 6 day tour from Chennai to Delhi containing 4 one day conferences, Chennai (Oct 8th), Hyderabad (Oct 10), Mumbai (Oct 12), Jaipur (Oct 14), culminating in the 2 day (Oct 15-16) C# Corner Conference in New Delhi.",
     "isCanceled": false,
     "isCurrent": false,
@@ -1554,14 +1554,14 @@
     ],
     "timezone": "Asia/Calcutta",
     "inPerson": null,
-    "createdOrUpdatedOn": "2022-08-12T00:00:00"
+    "createdOrUpdatedOn": "2022-08-12T00:00:00+05:30"
   },
   {
     "eventName": "KCDC",
     "eventUrl": "https://that.us/activities/tx/2022/",
     "location": "Kansas City, KS",
-    "eventStart": "2022-08-08T00:00:00",
-    "eventEnd": "2022-08-09T00:00:00",
+    "eventStart": "2022-08-08T00:00:00-06:00",
+    "eventEnd": "2022-08-09T00:00:00-06:00",
     "comments": "In Person",
     "isCanceled": false,
     "isCurrent": false,
@@ -1581,14 +1581,14 @@
     ],
     "timezone": "America/Chicago",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-06-08T00:00:00"
+    "createdOrUpdatedOn": "2022-06-08T00:00:00-06:00"
   },
   {
     "eventName": "THAT Online",
     "eventUrl": "https://that.us/events/thatus/2022-9/",
     "location": "Virtual",
-    "eventStart": "2022-09-15T08:00:00",
-    "eventEnd": "2022-09-15T14:00:00",
+    "eventStart": "2022-09-15T08:00:00-07:00",
+    "eventEnd": "2022-09-15T14:00:00-07:00",
     "comments": "Virtual event and free",
     "isCanceled": false,
     "isCurrent": false,
@@ -1620,14 +1620,14 @@
     ],
     "timezone": "America/Denver",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2022-07-15T08:00:00"
+    "createdOrUpdatedOn": "2022-07-15T08:00:00-07:00"
   },
   {
     "eventName": "Twin Cities .NET User Group",
     "eventUrl": "https://www.meetup.com/tcdnug/events/288181972/",
     "location": "Virtual",
-    "eventStart": "2022-09-08T15:30:00",
-    "eventEnd": "2022-09-08T17:30:00",
+    "eventStart": "2022-09-08T15:30:00-07:00",
+    "eventEnd": "2022-09-08T17:30:00-07:00",
     "comments": "Virtual event and free",
     "isCanceled": false,
     "isCurrent": false,
@@ -1647,14 +1647,14 @@
     ],
     "timezone": "America/Denver",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2022-07-08T15:30:00"
+    "createdOrUpdatedOn": "2022-07-08T15:30:00-07:00"
   },
   {
     "eventName": "Code Quality Conference",
     "eventUrl": "https://codequalityconf.com/",
     "location": "Online",
-    "eventStart": "2022-08-19T07:50:00",
-    "eventEnd": "2022-08-19T13:00:00",
+    "eventStart": "2022-08-19T07:50:00-05:00",
+    "eventEnd": "2022-08-19T13:00:00-05:00",
     "comments": "Online only",
     "isCanceled": false,
     "isCurrent": false,
@@ -1686,14 +1686,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2022-06-19T07:50:00"
+    "createdOrUpdatedOn": "2022-06-19T07:50:00-05:00"
   },
   {
     "eventName": "Nebraska.Code()",
     "eventUrl": "https://nebraskacode.amegala.com/",
     "location": "Lincoln, NE",
-    "eventStart": "2022-07-13T00:00:00",
-    "eventEnd": "2022-07-15T00:00:00",
+    "eventStart": "2022-07-13T00:00:00-06:00",
+    "eventEnd": "2022-07-15T00:00:00-06:00",
     "comments": "Event is In Person",
     "isCanceled": false,
     "isCurrent": false,
@@ -1725,14 +1725,14 @@
     ],
     "timezone": "America/Chicago",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-05-13T00:00:00"
+    "createdOrUpdatedOn": "2022-05-13T00:00:00-06:00"
   },
   {
     "eventName": "THAT Conference - TX",
     "eventUrl": "https://that.us/activities/tx/2022/",
     "location": "Round Rock, TX",
-    "eventStart": "2022-05-23T00:00:00",
-    "eventEnd": "2022-05-26T00:00:00",
+    "eventStart": "2022-05-23T00:00:00-07:00",
+    "eventEnd": "2022-05-26T00:00:00-07:00",
     "comments": "In Person",
     "isCanceled": false,
     "isCurrent": false,
@@ -1752,14 +1752,14 @@
     ],
     "timezone": "America/Denver",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-03-23T00:00:00"
+    "createdOrUpdatedOn": "2022-03-23T00:00:00-07:00"
   },
   {
     "eventName": "Stir Trek 2022",
     "eventUrl": "https://stirtrek.com/",
     "location": "Columbus, OH",
-    "eventStart": "2022-05-06T07:30:00",
-    "eventEnd": "2022-05-06T16:30:00",
+    "eventStart": "2022-05-06T07:30:00-05:00",
+    "eventEnd": "2022-05-06T16:30:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1779,14 +1779,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-03-06T07:30:00"
+    "createdOrUpdatedOn": "2022-03-06T07:30:00-05:00"
   },
   {
     "eventName": "DEVintersection \u0026 AngleBrackets Fall 2021",
     "eventUrl": "https://www.devintersection.com/",
     "location": "Las Vegas, NV",
-    "eventStart": "2022-04-05T00:00:00",
-    "eventEnd": "2022-04-07T00:00:00",
+    "eventStart": "2022-04-05T00:00:00-08:00",
+    "eventEnd": "2022-04-07T00:00:00-08:00",
     "comments": "Use code \u003Cb\u003EGuadagno\u003C/b\u003E for $50 off registration. In Person",
     "isCanceled": false,
     "isCurrent": false,
@@ -1818,14 +1818,14 @@
     ],
     "timezone": "America/Los_Angeles",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2022-02-05T00:00:00"
+    "createdOrUpdatedOn": "2022-02-05T00:00:00-08:00"
   },
   {
     "eventName": "philly.net Code Camp 2022",
     "eventUrl": "https://philly-net-code-camp-2022.sessionize.com/",
     "location": "Virtual",
-    "eventStart": "2022-03-04T09:00:00",
-    "eventEnd": "2022-03-04T17:00:00",
+    "eventStart": "2022-03-04T09:00:00-05:00",
+    "eventEnd": "2022-03-04T17:00:00-05:00",
     "comments": "Virtual",
     "isCanceled": false,
     "isCurrent": false,
@@ -1857,14 +1857,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2022-01-04T09:00:00"
+    "createdOrUpdatedOn": "2022-01-04T09:00:00-05:00"
   },
   {
     "eventName": "Rockin\u0027 the Code World",
     "eventUrl": "https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave",
     "location": "Virtual",
-    "eventStart": "2022-02-12T10:00:00",
-    "eventEnd": "2022-02-12T10:00:00",
+    "eventStart": "2022-02-12T10:00:00-08:00",
+    "eventEnd": "2022-02-12T10:00:00-08:00",
     "comments": "Virtual",
     "isCanceled": false,
     "isCurrent": false,
@@ -1884,14 +1884,14 @@
     ],
     "timezone": "America/Los_Angeles",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2021-12-12T10:00:00"
+    "createdOrUpdatedOn": "2021-12-12T10:00:00-08:00"
   },
   {
     "eventName": ".NET Conference 2022",
     "eventUrl": "https://www.c-sharpcorner.com/events/net-conference-2022",
     "location": "Virtual",
-    "eventStart": "2022-01-24T00:00:00",
-    "eventEnd": "2022-01-26T00:00:00",
+    "eventStart": "2022-01-24T00:00:00-05:00",
+    "eventEnd": "2022-01-26T00:00:00-05:00",
     "comments": "Virtual",
     "isCanceled": false,
     "isCurrent": false,
@@ -1911,14 +1911,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "Virtual",
-    "createdOrUpdatedOn": "2021-11-24T00:00:00"
+    "createdOrUpdatedOn": "2021-11-24T00:00:00-05:00"
   },
   {
     "eventName": "RocketTech Developer Relations Stream",
     "eventUrl": "https://twitch.tv/rocketdevrel",
     "location": "Virtual",
-    "eventStart": "2021-12-01T10:00:00",
-    "eventEnd": "2021-12-01T11:00:00",
+    "eventStart": "2021-12-01T10:00:00-05:00",
+    "eventEnd": "2021-12-01T11:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -1938,14 +1938,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-10-01T10:00:00"
+    "createdOrUpdatedOn": "2021-10-01T10:00:00-05:00"
   },
   {
     "eventName": "THAT Conference - TX \u002722",
     "eventUrl": "https://that.us/activities/tx/2022/",
     "location": "Round Rock, TX",
-    "eventStart": "2022-01-17T00:00:00",
-    "eventEnd": "2022-01-17T00:00:00",
+    "eventStart": "2022-01-17T00:00:00-05:00",
+    "eventEnd": "2022-01-17T00:00:00-05:00",
     "comments": "Postponed until May 2022-ish",
     "isCanceled": true,
     "isCurrent": false,
@@ -1965,14 +1965,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-11-17T00:00:00"
+    "createdOrUpdatedOn": "2021-11-17T00:00:00-05:00"
   },
   {
     "eventName": "CodeMash",
     "eventUrl": "https://www.codemash.org/",
     "location": "Sandusky, OH",
-    "eventStart": "2022-01-11T00:00:00",
-    "eventEnd": "2022-01-14T00:00:00",
+    "eventStart": "2022-01-11T00:00:00-05:00",
+    "eventEnd": "2022-01-14T00:00:00-05:00",
     "comments": "In Person - I cancelled my presentation",
     "isCanceled": false,
     "isCurrent": false,
@@ -2004,14 +2004,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-11-11T00:00:00"
+    "createdOrUpdatedOn": "2021-11-11T00:00:00-05:00"
   },
   {
     "eventName": "Granite State Code Camp (2021)",
     "eventUrl": "https://granitestatecodecamp.org/",
     "location": "Manchester, NH",
-    "eventStart": "2021-11-07T08:00:00",
-    "eventEnd": "2021-11-07T17:00:00",
+    "eventStart": "2021-11-07T08:00:00-05:00",
+    "eventEnd": "2021-11-07T17:00:00-05:00",
     "comments": "In Person",
     "isCanceled": false,
     "isCurrent": false,
@@ -2031,14 +2031,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-09-07T08:00:00"
+    "createdOrUpdatedOn": "2021-09-07T08:00:00-05:00"
   },
   {
     "eventName": "DEVintersection \u0026 AngleBrackets Fall 2021",
     "eventUrl": "https://www.devintersection.com/",
     "location": "Las Vegas, NV",
-    "eventStart": "2021-12-07T00:00:00",
-    "eventEnd": "2021-12-09T00:00:00",
+    "eventStart": "2021-12-07T00:00:00-05:00",
+    "eventEnd": "2021-12-09T00:00:00-05:00",
     "comments": "Use code \u0027\u0027GUADAGNO\u0027\u0027 for $50 off registration. In Person",
     "isCanceled": false,
     "isCurrent": false,
@@ -2070,14 +2070,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-10-07T00:00:00"
+    "createdOrUpdatedOn": "2021-10-07T00:00:00-05:00"
   },
   {
     "eventName": "Cleveland C#/VB.Net User Group",
     "eventUrl": "https://www.meetup.com/Cleveland-C-VB-Net-User-Group/events/281993951",
     "location": "Virtual",
-    "eventStart": "2021-11-23T18:30:00",
-    "eventEnd": "2021-11-23T19:30:00",
+    "eventStart": "2021-11-23T18:30:00-05:00",
+    "eventEnd": "2021-11-23T19:30:00-05:00",
     "comments": null,
     "isCanceled": false,
     "isCurrent": false,
@@ -2097,14 +2097,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-09-23T18:30:00"
+    "createdOrUpdatedOn": "2021-09-23T18:30:00-05:00"
   },
   {
     "eventName": "AzConfDev",
     "eventUrl": "https://www.azconf.dev/",
     "location": "Virtual",
-    "eventStart": "2021-10-29T00:00:00",
-    "eventEnd": "2021-10-31T00:00:00",
+    "eventStart": "2021-10-29T00:00:00-05:00",
+    "eventEnd": "2021-10-31T00:00:00-05:00",
     "comments": null,
     "isCanceled": false,
     "isCurrent": false,
@@ -2124,14 +2124,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-08-29T00:00:00"
+    "createdOrUpdatedOn": "2021-08-29T00:00:00-05:00"
   },
   {
     "eventName": "Azure DevOps Podcast",
     "eventUrl": "https://azuredevopspodcast.clear-measure.com/",
     "location": "Podcast",
-    "eventStart": "2021-10-01T00:00:00",
-    "eventEnd": "2021-10-01T00:00:00",
+    "eventStart": "2021-10-01T00:00:00-05:00",
+    "eventEnd": "2021-10-01T00:00:00-05:00",
     "comments": null,
     "isCanceled": false,
     "isCurrent": false,
@@ -2151,14 +2151,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-08-01T00:00:00"
+    "createdOrUpdatedOn": "2021-08-01T00:00:00-05:00"
   },
   {
     "eventName": "Guidance Counselor 2.0",
     "eventUrl": "https://www.taylordesseyn.com/",
     "location": "Podcast",
-    "eventStart": "2021-09-29T00:00:00",
-    "eventEnd": "2021-09-29T00:00:00",
+    "eventStart": "2021-09-29T00:00:00-05:00",
+    "eventEnd": "2021-09-29T00:00:00-05:00",
     "comments": null,
     "isCanceled": false,
     "isCurrent": false,
@@ -2178,14 +2178,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-07-29T00:00:00"
+    "createdOrUpdatedOn": "2021-07-29T00:00:00-05:00"
   },
   {
     "eventName": "TechBash",
     "eventUrl": "https://www.techbash.com/",
     "location": "Pocono Mountains, PA",
-    "eventStart": "2021-10-19T00:00:00",
-    "eventEnd": "2021-10-22T00:00:00",
+    "eventStart": "2021-10-19T00:00:00-05:00",
+    "eventEnd": "2021-10-22T00:00:00-05:00",
     "comments": "Register with code \u0027DEVCOMMUNITY\u0027 for $40 off registration and add my name to the \u003Cb\u003EReferred By\u003C/b\u003E field.",
     "isCanceled": true,
     "isCurrent": false,
@@ -2217,14 +2217,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-08-19T00:00:00"
+    "createdOrUpdatedOn": "2021-08-19T00:00:00-05:00"
   },
   {
     "eventName": "Kansas City Developers Conference",
     "eventUrl": "https://www.kcdc.info/",
     "location": "Kansas City, MO",
-    "eventStart": "2021-09-15T00:00:00",
-    "eventEnd": "2021-09-17T00:00:00",
+    "eventStart": "2021-09-15T00:00:00-05:00",
+    "eventEnd": "2021-09-17T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2256,14 +2256,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-07-15T00:00:00"
+    "createdOrUpdatedOn": "2021-07-15T00:00:00-05:00"
   },
   {
     "eventName": "Cloud Summit 2021",
     "eventUrl": "https://azuresummit.live/",
     "location": "Virtual",
-    "eventStart": "2021-09-13T00:00:00",
-    "eventEnd": "2021-09-23T00:00:00",
+    "eventStart": "2021-09-13T00:00:00-05:00",
+    "eventEnd": "2021-09-23T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2283,14 +2283,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-07-13T00:00:00"
+    "createdOrUpdatedOn": "2021-07-13T00:00:00-05:00"
   },
   {
     "eventName": "DEVIntersection",
     "eventUrl": "https://devintersection.com/",
     "location": "Orlando, FL and Virtual",
-    "eventStart": "2021-06-08T00:00:00",
-    "eventEnd": "2021-06-08T00:00:00",
+    "eventStart": "2021-06-08T00:00:00-05:00",
+    "eventEnd": "2021-06-08T00:00:00-05:00",
     "comments": "Use code \u0027GUADAGNO\u0027 for $50 off",
     "isCanceled": false,
     "isCurrent": false,
@@ -2334,14 +2334,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-04-08T00:00:00"
+    "createdOrUpdatedOn": "2021-04-08T00:00:00-05:00"
   },
   {
     "eventName": "JetBrains .NET Days Online 2021",
     "eventUrl": "https://jetbrains.com/",
     "location": "Virtual",
-    "eventStart": "2021-05-12T00:00:00",
-    "eventEnd": "2021-05-12T00:00:00",
+    "eventStart": "2021-05-12T00:00:00-05:00",
+    "eventEnd": "2021-05-12T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2361,14 +2361,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-03-12T00:00:00"
+    "createdOrUpdatedOn": "2021-03-12T00:00:00-05:00"
   },
   {
     "eventName": "Minnesota Developers Conference 2021",
     "eventUrl": "https://mndevconf.com/",
     "location": "Virtual",
-    "eventStart": "2021-05-04T00:00:00",
-    "eventEnd": "2021-05-04T00:00:00",
+    "eventStart": "2021-05-04T00:00:00-05:00",
+    "eventEnd": "2021-05-04T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2400,14 +2400,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-03-04T00:00:00"
+    "createdOrUpdatedOn": "2021-03-04T00:00:00-05:00"
   },
   {
     "eventName": "Triangle .NET User Group",
     "eventUrl": "https://www.meetup.com/TRINUG/events/277108445/",
     "location": "Virtual",
-    "eventStart": "2021-04-14T00:00:00",
-    "eventEnd": "2021-04-14T00:00:00",
+    "eventStart": "2021-04-14T00:00:00-05:00",
+    "eventEnd": "2021-04-14T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2427,14 +2427,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-02-14T00:00:00"
+    "createdOrUpdatedOn": "2021-02-14T00:00:00-05:00"
   },
   {
     "eventName": "SoCo Visual Studio and VS Code Meetup",
     "eventUrl": "https://www.meetup.com/SoCo-Visual-Studio-and-VS-Code/events/tzxdqqyccfbmb/",
     "location": "Virtual",
-    "eventStart": "2021-03-09T00:00:00",
-    "eventEnd": "2021-03-09T00:00:00",
+    "eventStart": "2021-03-09T00:00:00-05:00",
+    "eventEnd": "2021-03-09T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2454,14 +2454,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2021-01-09T00:00:00"
+    "createdOrUpdatedOn": "2021-01-09T00:00:00-05:00"
   },
   {
     "eventName": "Memphis .NET User Group",
     "eventUrl": "https://www.meetup.com/Memphis-NET-User-Group/events/wgnwsryccdbhc/",
     "location": "Virtual",
-    "eventStart": "2021-02-25T00:00:00",
-    "eventEnd": "2021-02-25T00:00:00",
+    "eventStart": "2021-02-25T00:00:00-05:00",
+    "eventEnd": "2021-02-25T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2481,14 +2481,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-12-25T00:00:00"
+    "createdOrUpdatedOn": "2020-12-25T00:00:00-05:00"
   },
   {
     "eventName": "Growth Mindset Weekly Show",
     "eventUrl": "https://www.c-sharpcorner.com/live/growth-mindset",
     "location": "Virtual",
-    "eventStart": "2021-02-12T00:00:00",
-    "eventEnd": "2021-02-12T00:00:00",
+    "eventStart": "2021-02-12T00:00:00-05:00",
+    "eventEnd": "2021-02-12T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2508,14 +2508,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-12-12T00:00:00"
+    "createdOrUpdatedOn": "2020-12-12T00:00:00-05:00"
   },
   {
     "eventName": ".NET Vegas",
     "eventUrl": "https://www.meetup.com/dotnetVegas/events/276029411/",
     "location": "Virtual",
-    "eventStart": "2021-02-11T00:00:00",
-    "eventEnd": "2021-02-11T00:00:00",
+    "eventStart": "2021-02-11T00:00:00-05:00",
+    "eventEnd": "2021-02-11T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2535,14 +2535,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-12-11T00:00:00"
+    "createdOrUpdatedOn": "2020-12-11T00:00:00-05:00"
   },
   {
     "eventName": "Hampton Roads .NET Users Group",
     "eventUrl": "https://www.meetup.com/Hampton-Roads-NET-Users-Group/events/276084522/",
     "location": "Virtual",
-    "eventStart": "2021-02-09T00:00:00",
-    "eventEnd": "2021-02-09T00:00:00",
+    "eventStart": "2021-02-09T00:00:00-05:00",
+    "eventEnd": "2021-02-09T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2562,14 +2562,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-12-09T00:00:00"
+    "createdOrUpdatedOn": "2020-12-09T00:00:00-05:00"
   },
   {
     "eventName": "philly.NET Code Camp 2021",
     "eventUrl": "https://philly-net-code-camp-2021.sessionize.com/",
     "location": "Virtual",
-    "eventStart": "2021-01-16T00:00:00",
-    "eventEnd": "2021-01-16T00:00:00",
+    "eventStart": "2021-01-16T00:00:00-05:00",
+    "eventEnd": "2021-01-16T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2589,14 +2589,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-11-16T00:00:00"
+    "createdOrUpdatedOn": "2020-11-16T00:00:00-05:00"
   },
   {
     "eventName": "Growth Mindset Weekly Show",
     "eventUrl": "https://www.c-sharpcorner.com/",
     "location": "Virtual",
-    "eventStart": "2020-12-18T00:00:00",
-    "eventEnd": "2020-12-18T00:00:00",
+    "eventStart": "2020-12-18T00:00:00-05:00",
+    "eventEnd": "2020-12-18T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2616,14 +2616,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-10-18T00:00:00"
+    "createdOrUpdatedOn": "2020-10-18T00:00:00-05:00"
   },
   {
     "eventName": "Granite State (NH) .NET",
     "eventUrl": "https://www.meetup.com/Granite-State-NH-dotNET/events/cmzfvrybcpbzb/",
     "location": "Virtual",
-    "eventStart": "2020-11-19T00:00:00",
-    "eventEnd": "2020-11-19T00:00:00",
+    "eventStart": "2020-11-19T00:00:00-05:00",
+    "eventEnd": "2020-11-19T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2643,14 +2643,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-09-19T00:00:00"
+    "createdOrUpdatedOn": "2020-09-19T00:00:00-05:00"
   },
   {
     "eventName": "DEVIntersection",
     "eventUrl": "https://devintersection.com/#!/",
     "location": "Las Vegas, NV",
-    "eventStart": "2020-12-06T00:00:00",
-    "eventEnd": "2020-12-06T00:00:00",
+    "eventStart": "2020-12-06T00:00:00-05:00",
+    "eventEnd": "2020-12-06T00:00:00-05:00",
     "comments": "In Person - \u003Cb\u003ECanceled\u003C/b\u003E",
     "isCanceled": false,
     "isCurrent": false,
@@ -2682,14 +2682,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-10-06T00:00:00"
+    "createdOrUpdatedOn": "2020-10-06T00:00:00-05:00"
   },
   {
     "eventName": ".NET Virtual Conference",
     "eventUrl": "https://www.2020twenty.net/dotnet/",
     "location": "Virtual",
-    "eventStart": "2020-10-15T00:00:00",
-    "eventEnd": "2020-10-15T00:00:00",
+    "eventStart": "2020-10-15T00:00:00-05:00",
+    "eventEnd": "2020-10-15T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2709,14 +2709,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-08-15T00:00:00"
+    "createdOrUpdatedOn": "2020-08-15T00:00:00-05:00"
   },
   {
     "eventName": "Granite State Code Camp 2020",
     "eventUrl": "https://www.granitestatecodecamp.org",
     "location": "Virtual",
-    "eventStart": "2020-11-14T00:00:00",
-    "eventEnd": "2020-11-14T00:00:00",
+    "eventStart": "2020-11-14T00:00:00-05:00",
+    "eventEnd": "2020-11-14T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2736,14 +2736,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-09-14T00:00:00"
+    "createdOrUpdatedOn": "2020-09-14T00:00:00-05:00"
   },
   {
     "eventName": "Virtual Developers Conference in Mauritius",
     "eventUrl": "https://conference.mscc.mu/",
     "location": "Virtual",
-    "eventStart": "2020-09-09T00:00:00",
-    "eventEnd": "2020-09-09T00:00:00",
+    "eventStart": "2020-09-09T00:00:00-05:00",
+    "eventEnd": "2020-09-09T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2775,14 +2775,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-07-09T00:00:00"
+    "createdOrUpdatedOn": "2020-07-09T00:00:00-05:00"
   },
   {
     "eventName": "CodepoLOUsa",
     "eventUrl": "https://www.codepalousa.com/",
     "location": "Virtual",
-    "eventStart": "2020-08-21T00:00:00",
-    "eventEnd": "2020-08-21T00:00:00",
+    "eventStart": "2020-08-21T00:00:00-05:00",
+    "eventEnd": "2020-08-21T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2802,14 +2802,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-06-21T00:00:00"
+    "createdOrUpdatedOn": "2020-06-21T00:00:00-05:00"
   },
   {
     "eventName": ".NET Vegas",
     "eventUrl": "https://www.meetup.com/dotnetVegas/events/272238267/",
     "location": "Virtual",
-    "eventStart": "2020-08-13T00:00:00",
-    "eventEnd": "2020-08-13T00:00:00",
+    "eventStart": "2020-08-13T00:00:00-05:00",
+    "eventEnd": "2020-08-13T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2829,14 +2829,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-06-13T00:00:00"
+    "createdOrUpdatedOn": "2020-06-13T00:00:00-05:00"
   },
   {
     "eventName": "Azure Virtual Conference 2020",
     "eventUrl": "https://www.2020twenty.net/azure-virtual-conference-2020/",
     "location": "Virtual",
-    "eventStart": "2020-08-07T00:00:00",
-    "eventEnd": "2020-08-07T00:00:00",
+    "eventStart": "2020-08-07T00:00:00-05:00",
+    "eventEnd": "2020-08-07T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2856,14 +2856,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-06-07T00:00:00"
+    "createdOrUpdatedOn": "2020-06-07T00:00:00-05:00"
   },
   {
     "eventName": "SciFiDevCon",
     "eventUrl": "https://www.scifidevcon.com/",
     "location": "Virtual",
-    "eventStart": "2020-07-31T00:00:00",
-    "eventEnd": "2020-07-31T00:00:00",
+    "eventStart": "2020-07-31T00:00:00-05:00",
+    "eventEnd": "2020-07-31T00:00:00-05:00",
     "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
     "isCanceled": false,
     "isCurrent": false,
@@ -2907,14 +2907,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-05-31T00:00:00"
+    "createdOrUpdatedOn": "2020-05-31T00:00:00-05:00"
   },
   {
     "eventName": "European Cloud Conference",
     "eventUrl": "https://europeancloudconference.com/sessions/",
     "location": "Nice, France",
-    "eventStart": "2020-10-27T00:00:00",
-    "eventEnd": "2020-10-27T00:00:00",
+    "eventStart": "2020-10-27T00:00:00-05:00",
+    "eventEnd": "2020-10-27T00:00:00-05:00",
     "comments": "\u003Cb\u003ECanceled\u003C/b\u003E",
     "isCanceled": false,
     "isCurrent": false,
@@ -2934,14 +2934,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-08-27T00:00:00"
+    "createdOrUpdatedOn": "2020-08-27T00:00:00-05:00"
   },
   {
     "eventName": "Software Architecture Virtual Conference",
     "eventUrl": "https://www.c-sharpcorner.com/events/software-architecture-virtual-conference",
     "location": "Virtual",
-    "eventStart": "2020-06-05T00:00:00",
-    "eventEnd": "2020-06-05T00:00:00",
+    "eventStart": "2020-06-05T00:00:00-05:00",
+    "eventEnd": "2020-06-05T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2961,14 +2961,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-04-05T00:00:00"
+    "createdOrUpdatedOn": "2020-04-05T00:00:00-05:00"
   },
   {
     "eventName": "Public Speaking Virtual Conference",
     "eventUrl": "https://www.c-sharpcorner.com/events/public-speaking-virtual-conference",
     "location": "Virtual",
-    "eventStart": "2020-04-24T00:00:00",
-    "eventEnd": "2020-04-24T00:00:00",
+    "eventStart": "2020-04-24T00:00:00-05:00",
+    "eventEnd": "2020-04-24T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -2988,14 +2988,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-02-24T00:00:00"
+    "createdOrUpdatedOn": "2020-02-24T00:00:00-05:00"
   },
   {
     "eventName": "DEVintersection, AngleBrackets, AngularMix Spring 2020",
     "eventUrl": "https://devintersection.com/#!/",
     "location": "Orlando, FL",
-    "eventStart": "2020-04-06T00:00:00",
-    "eventEnd": "2020-04-06T00:00:00",
+    "eventStart": "2020-04-06T00:00:00-05:00",
+    "eventEnd": "2020-04-06T00:00:00-05:00",
     "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
     "isCanceled": false,
     "isCurrent": false,
@@ -3015,14 +3015,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-02-06T00:00:00"
+    "createdOrUpdatedOn": "2020-02-06T00:00:00-05:00"
   },
   {
     "eventName": "Microsoft Azure \u002B AI Conference Spring 2020",
     "eventUrl": "https://www.azureaiconf.com/#!/",
     "location": "Orlando, FL",
-    "eventStart": "2020-04-06T00:00:00",
-    "eventEnd": "2020-04-06T00:00:00",
+    "eventStart": "2020-04-06T00:00:00-05:00",
+    "eventEnd": "2020-04-06T00:00:00-05:00",
     "comments": "Use code \u003Ca href=\u0027https://devintersection.com/#!/register?utm_term=GUADAGNO\u0027\u003E**Guadagno**\u003C/a\u003E for $50 off registration",
     "isCanceled": false,
     "isCurrent": false,
@@ -3054,14 +3054,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-02-06T00:00:00"
+    "createdOrUpdatedOn": "2020-02-06T00:00:00-05:00"
   },
   {
     "eventName": "C# Corner Conference 2020",
     "eventUrl": "https://www.csharpcon.com",
     "location": "New Delhi, India",
-    "eventStart": "2020-03-14T00:00:00",
-    "eventEnd": "2020-03-14T00:00:00",
+    "eventStart": "2020-03-14T00:00:00-05:00",
+    "eventEnd": "2020-03-14T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3093,14 +3093,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2020-01-14T00:00:00"
+    "createdOrUpdatedOn": "2020-01-14T00:00:00-05:00"
   },
   {
     "eventName": "DEVIntersection",
     "eventUrl": "https://devintersection.com/#!/",
     "location": "Las Vegas, NV",
-    "eventStart": "2019-11-18T00:00:00",
-    "eventEnd": "2019-11-18T00:00:00",
+    "eventStart": "2019-11-18T00:00:00-05:00",
+    "eventEnd": "2019-11-18T00:00:00-05:00",
     "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
     "isCanceled": false,
     "isCurrent": false,
@@ -3132,14 +3132,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2019-09-18T00:00:00"
+    "createdOrUpdatedOn": "2019-09-18T00:00:00-05:00"
   },
   {
     "eventName": "TechBash",
     "eventUrl": "https://techbash.com",
     "location": "Pocono Mountains, PA",
-    "eventStart": "2019-11-12T00:00:00",
-    "eventEnd": "2019-11-12T00:00:00",
+    "eventStart": "2019-11-12T00:00:00-05:00",
+    "eventEnd": "2019-11-12T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3171,14 +3171,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2019-09-12T00:00:00"
+    "createdOrUpdatedOn": "2019-09-12T00:00:00-05:00"
   },
   {
     "eventName": "Southeast Valley .NET User Group",
     "eventUrl": "https://www.meetup.com/sevdnug/events/263472581",
     "location": "Chandler, AZ ",
-    "eventStart": "2019-08-22T00:00:00",
-    "eventEnd": "2019-08-22T00:00:00",
+    "eventStart": "2019-08-22T00:00:00-05:00",
+    "eventEnd": "2019-08-22T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3198,14 +3198,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2019-06-22T00:00:00"
+    "createdOrUpdatedOn": "2019-06-22T00:00:00-05:00"
   },
   {
     "eventName": "Northwest Valley .NET User Group",
     "eventUrl": "https://www.meetup.com/NWVDNUG/events/263472395/",
     "location": "Glendale, AZ ",
-    "eventStart": "2019-08-21T00:00:00",
-    "eventEnd": "2019-08-21T00:00:00",
+    "eventStart": "2019-08-21T00:00:00-05:00",
+    "eventEnd": "2019-08-21T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3225,14 +3225,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2019-06-21T00:00:00"
+    "createdOrUpdatedOn": "2019-06-21T00:00:00-05:00"
   },
   {
     "eventName": "Music City Code",
     "eventUrl": "https://www.musiccitycode.com",
     "location": "Nashville, TN",
-    "eventStart": "2019-09-05T00:00:00",
-    "eventEnd": "2019-09-05T00:00:00",
+    "eventStart": "2019-09-05T00:00:00-05:00",
+    "eventEnd": "2019-09-05T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3264,14 +3264,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2019-07-05T00:00:00"
+    "createdOrUpdatedOn": "2019-07-05T00:00:00-05:00"
   },
   {
     "eventName": "DevSum19",
     "eventUrl": "https://www.devsum.se",
     "location": "Stockholm, Sweden",
-    "eventStart": "2019-05-24T00:00:00",
-    "eventEnd": "2019-05-24T00:00:00",
+    "eventStart": "2019-05-24T00:00:00-05:00",
+    "eventEnd": "2019-05-24T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3291,14 +3291,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2019-03-24T00:00:00"
+    "createdOrUpdatedOn": "2019-03-24T00:00:00-05:00"
   },
   {
     "eventName": "DEVIntersection",
     "eventUrl": "https://devintersection.com/#!/",
     "location": "Orlando, FL",
-    "eventStart": "2019-06-11T00:00:00",
-    "eventEnd": "2019-06-11T00:00:00",
+    "eventStart": "2019-06-11T00:00:00-05:00",
+    "eventEnd": "2019-06-11T00:00:00-05:00",
     "comments": "Use code \u0027**Guadagno**\u0027 for $50 off registration",
     "isCanceled": false,
     "isCurrent": false,
@@ -3354,14 +3354,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2019-04-11T00:00:00"
+    "createdOrUpdatedOn": "2019-04-11T00:00:00-05:00"
   },
   {
     "eventName": "Devreach",
     "eventUrl": "https://devreach.com",
     "location": "Sofia, Bulgaria",
-    "eventStart": "2018-11-13T00:00:00",
-    "eventEnd": "2018-11-13T00:00:00",
+    "eventStart": "2018-11-13T00:00:00-05:00",
+    "eventEnd": "2018-11-13T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3393,14 +3393,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2018-09-13T00:00:00"
+    "createdOrUpdatedOn": "2018-09-13T00:00:00-05:00"
   },
   {
     "eventName": "TechBash",
     "eventUrl": "https://techbash.com",
     "location": "Pocono Mountains, PA",
-    "eventStart": "2018-10-02T00:00:00",
-    "eventEnd": "2018-10-02T00:00:00",
+    "eventStart": "2018-10-02T00:00:00-05:00",
+    "eventEnd": "2018-10-02T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3432,14 +3432,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2018-08-02T00:00:00"
+    "createdOrUpdatedOn": "2018-08-02T00:00:00-05:00"
   },
   {
     "eventName": "KCDC",
     "eventUrl": "https://www.kcdc.info",
     "location": "Kansas City, MO",
-    "eventStart": "2018-07-11T00:00:00",
-    "eventEnd": "2018-07-11T00:00:00",
+    "eventStart": "2018-07-11T00:00:00-05:00",
+    "eventEnd": "2018-07-11T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3471,14 +3471,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2018-05-11T00:00:00"
+    "createdOrUpdatedOn": "2018-05-11T00:00:00-05:00"
   },
   {
     "eventName": "Music City Code",
     "eventUrl": "https://www.musiccitytech.com",
     "location": "Nashville, TN",
-    "eventStart": "2018-06-01T00:00:00",
-    "eventEnd": "2018-06-01T00:00:00",
+    "eventStart": "2018-06-01T00:00:00-05:00",
+    "eventEnd": "2018-06-01T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3510,14 +3510,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2018-04-01T00:00:00"
+    "createdOrUpdatedOn": "2018-04-01T00:00:00-05:00"
   },
   {
     "eventName": "C# Corner Conference",
     "eventUrl": "https://conference.c-sharpcorner.com",
     "location": "New Delhi, India",
-    "eventStart": "2018-04-13T00:00:00",
-    "eventEnd": "2018-04-13T00:00:00",
+    "eventStart": "2018-04-13T00:00:00-05:00",
+    "eventEnd": "2018-04-13T00:00:00-05:00",
     "comments": "**Keynote**",
     "isCanceled": false,
     "isCurrent": false,
@@ -3561,14 +3561,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2018-02-13T00:00:00"
+    "createdOrUpdatedOn": "2018-02-13T00:00:00-05:00"
   },
   {
     "eventName": "Tech Outbound",
     "eventUrl": "https://www.techoutbound.com",
     "location": "**Caribbean Cruise**",
-    "eventStart": "2018-02-10T00:00:00",
-    "eventEnd": "2018-02-10T00:00:00",
+    "eventStart": "2018-02-10T00:00:00-05:00",
+    "eventEnd": "2018-02-10T00:00:00-05:00",
     "comments": "See the blog post \u0027I\u0027m Speaking on a Boat\u0027",
     "isCanceled": false,
     "isCurrent": false,
@@ -3588,14 +3588,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2017-12-10T00:00:00"
+    "createdOrUpdatedOn": "2017-12-10T00:00:00-05:00"
   },
   {
     "eventName": "TechBash",
     "eventUrl": "https://www.techbash.com",
     "location": "Pocono Mountains, PA",
-    "eventStart": "2017-10-04T00:00:00",
-    "eventEnd": "2017-10-04T00:00:00",
+    "eventStart": "2017-10-04T00:00:00-05:00",
+    "eventEnd": "2017-10-04T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3627,14 +3627,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2017-08-04T00:00:00"
+    "createdOrUpdatedOn": "2017-08-04T00:00:00-05:00"
   },
   {
     "eventName": "DEVintersections",
     "eventUrl": "https://devintersection.com/#!",
     "location": "Orlando, FL",
-    "eventStart": "2017-05-21T00:00:00",
-    "eventEnd": "2017-05-21T00:00:00",
+    "eventStart": "2017-05-21T00:00:00-05:00",
+    "eventEnd": "2017-05-21T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3666,14 +3666,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2017-03-21T00:00:00"
+    "createdOrUpdatedOn": "2017-03-21T00:00:00-05:00"
   },
   {
     "eventName": "Code Stock",
     "eventUrl": "https://codestock.org",
     "location": "Knoxville, TN",
-    "eventStart": "2017-05-05T00:00:00",
-    "eventEnd": "2017-05-05T00:00:00",
+    "eventStart": "2017-05-05T00:00:00-05:00",
+    "eventEnd": "2017-05-05T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3705,14 +3705,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2017-03-05T00:00:00"
+    "createdOrUpdatedOn": "2017-03-05T00:00:00-05:00"
   },
   {
     "eventName": "C# Corner Conference",
     "eventUrl": "https://conference.c-sharpcorner.com/",
     "location": "New Delhi, India",
-    "eventStart": "2017-04-09T00:00:00",
-    "eventEnd": "2017-04-09T00:00:00",
+    "eventStart": "2017-04-09T00:00:00-05:00",
+    "eventEnd": "2017-04-09T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3744,14 +3744,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2017-02-09T00:00:00"
+    "createdOrUpdatedOn": "2017-02-09T00:00:00-05:00"
   },
   {
     "eventName": "User Group",
     "eventUrl": "",
     "location": "Gurugram, India",
-    "eventStart": "2017-04-07T00:00:00",
-    "eventEnd": "2017-04-07T00:00:00",
+    "eventStart": "2017-04-07T00:00:00-05:00",
+    "eventEnd": "2017-04-07T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3771,14 +3771,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2017-02-07T00:00:00"
+    "createdOrUpdatedOn": "2017-02-07T00:00:00-05:00"
   },
   {
     "eventName": "Philly Code Camp 2017.1",
     "eventUrl": "https://phillydotnet.azurewebsites.net/",
     "location": "Malvern, PA",
-    "eventStart": "2017-02-25T00:00:00",
-    "eventEnd": "2017-02-25T00:00:00",
+    "eventStart": "2017-02-25T00:00:00-05:00",
+    "eventEnd": "2017-02-25T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3810,14 +3810,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2016-12-25T00:00:00"
+    "createdOrUpdatedOn": "2016-12-25T00:00:00-05:00"
   },
   {
     "eventName": "MVP Mix",
     "eventUrl": "https://www.mvpmix.com/dallas",
     "location": "Dallas, TX",
-    "eventStart": "2017-03-09T00:00:00",
-    "eventEnd": "2017-03-09T00:00:00",
+    "eventStart": "2017-03-09T00:00:00-05:00",
+    "eventEnd": "2017-03-09T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3861,14 +3861,14 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2017-01-09T00:00:00"
+    "createdOrUpdatedOn": "2017-01-09T00:00:00-05:00"
   },
   {
     "eventName": "Tucson, AZ User Group",
     "eventUrl": "https://www.meetup.com/Tucson-NET-User-Group/events/238142492/",
     "location": "Tucson, AZ",
-    "eventStart": "2017-03-15T00:00:00",
-    "eventEnd": "2017-03-15T00:00:00",
+    "eventStart": "2017-03-15T00:00:00-05:00",
+    "eventEnd": "2017-03-15T00:00:00-05:00",
     "comments": "",
     "isCanceled": false,
     "isCurrent": false,
@@ -3888,6 +3888,6 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2017-01-15T00:00:00"
+    "createdOrUpdatedOn": "2017-01-15T00:00:00-05:00"
   }
 ]
