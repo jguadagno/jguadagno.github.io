@@ -31,7 +31,7 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Override packages because a vulnerabilities
-gem "faraday", "~> 2.7.1"
+gem "faraday", "~> 2.14.1"
 gem "faraday-retry"
 
 # Needed as a dependency with Ruby 3.0 or higher
