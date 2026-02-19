@@ -2,7 +2,7 @@
 title: Scaling Your .NET Application Using Azure
 isKeynote: false
 isRetired: false
-sourceUrl: https://github.com/dotnet-architecture/eShopOnWeb
+sourceUrl: https://github.com/jguadagno/contacts-noauth
 powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBApioBAAAAAAqLcJWjNZk5tns
 sessionizeUrl: scaling-your-.net-application-using-azure/50597
 ---
