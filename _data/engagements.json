@@ -1,5 +1,32 @@
 [
   {
+    "eventName": "Stir Trek 2026",
+    "eventUrl": "https://stirtrek.com/",
+    "location": "In Person",
+    "eventStart": "2026-05-01T09:00:00-05:00",
+    "eventEnd": "2026-05-01T18:00:00-05:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "startDate": "",
+        "endDate": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "America/New_York",
+    "inPerson": "In Person",
+    "createdOrUpdatedOn": "2026-02-20T09:07:00-07:00"
+  },
+  {
     "eventName": "Greater Lansing User Group for .NET Developers",
     "eventUrl": "https://www.meetup.com/glugnet/events/308564233/",
     "location": "Virtual",
