@@ -1,5 +1,44 @@
 [
   {
+    "eventName": "Nebraska.Code() 2026",
+    "eventUrl": "https://nebraskacode.amegala.com/",
+    "location": "In Person",
+    "eventStart": "2026-07-22T09:00:00-05:00",
+    "eventEnd": "2026-07-24T18:00:00-05:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Application Architecture Patterns",
+        "url": "/presentations/application-architecture-patterns",
+        "startDate": "2026-07-22T09:00:00-05:00",
+        "endDate": "2026-07-22T10:00:00-05:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      },
+      {
+        "name": "Aspire to More: Smarter Onboarding and Cleaner .NET Development",
+        "url": "/presentations/aspire-to-more-smarter-onboarding-and-cleaner-dot-net-development",
+        "startDate": "2026-07-22T09:00:00-05:00",
+        "endDate": "2026-07-22T10:00:00-05:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "America/Chicago",
+    "inPerson": "In Person",
+    "createdOrUpdatedOn": "2026-02-26T09:07:00-07:00"
+  },
+  {
     "eventName": "Stir Trek 2026",
     "eventUrl": "https://stirtrek.com/",
     "location": "In Person",
