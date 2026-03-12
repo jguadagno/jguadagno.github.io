@@ -51,9 +51,9 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "startDate": "2026-05-01T09:00:00-05:00",
-        "endDate": "2026-05-01T10:00:00-05:00",
-        "room": "",
+        "startDate": "2026-05-01T16:00:00-05:00",
+        "endDate": "2026-05-01T17:00:00-05:00",
+        "room": "The Goonies - Theatre 16 (21)",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false,
@@ -63,7 +63,7 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2026-02-20T09:07:00-07:00"
+    "createdOrUpdatedOn": "2026-03-12T10:15:00-07:00"
   },
   {
     "eventName": "Greater Lansing User Group for .NET Developers",
