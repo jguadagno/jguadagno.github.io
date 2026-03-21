@@ -8,6 +8,7 @@ categories:
 tags:
   - GitHub
   - CoPilot
+  - Copilot
   - blog
 ---
 In this post, I will be writing about how I used GitHub Copilot to write this post. You might be thinking that GitHub Copilot is a for writing code and you would right. However, it is a tool for writing content also.

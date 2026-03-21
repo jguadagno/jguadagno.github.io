@@ -130,7 +130,7 @@ include:
   - _pages
   - _data
 
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
 # Minimal Mistakes Settings
 
@@ -173,6 +173,8 @@ logo: "/assets/icons/android-chrome-96x96.png"
 bing_site_verification: "7EC9949296748CD8737FFF69FC74B369"
 head_scripts:
   - /assets/js/ai.js
+
+enable_copy_code_button: true
 
 # Social
 social:
