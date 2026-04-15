@@ -17,304 +17,268 @@ Joseph Guadagno
 {: .text-center}
 [https://www.linkedin.com/in/josephguadagno](https://www.linkedin.com/in/josephguadagno){:target="_blank"}
 {: .text-center}
+[https://www.github.com/jguadagno](https://www.github.com/jguadagno){:target="_blank"}
+{: .text-center}
 
 ## Downloads
 
 * Download a copy of my resume here: [Joseph Guadagno Resume]({% link /assets/downloads/Joseph_Guadagno_Resume.docx %})
 * Download a detailed version of my resume here: [Joseph Guadagno Resume - Detailed]({% link /assets/downloads/Joseph_Guadagno_Resume_Detailed.docx %})
 
+## Summary
+
+Strategic Director of Software Engineering and Applications with over 25 years of IT experience, including 10+ years in senior engineering leadership roles. Proven ability to set software engineering vision, develop end-to-end delivery strategies, and drive business outcomes through innovative technology solutions and product roadmap alignment. Expertise in modern engineering practices (Agile, Scrum, DevOps, CI/CD, cloud-native architectures), platform engineering, and managing complex IT infrastructure. Demonstrated success in building and leading high-performing engineering teams, fostering technical excellence, innovation, accountability, and continuous improvement. Adept at partnering with Product and QA stakeholders to translate requirements into high-quality, customer-focused deliverables while managing large budgets and driving technology transformation initiatives including AI-assisted development.
+
+
 ## Experience
 
-### Real Time Technologies (RT²)
+**Senior Vice President of IT (Technology)** Sep 2023 - Dec 2025
 
-Remote
-_9/2023 to 12/2025_
-Realtime Technologies provides retail payment and point of sale (POS) system for the wireless industry
+*Real Time Technologies | Remote*
 
-#### Senior Vice President of IT (Technology)
+* Successfully led a diverse team of technology professionals, fostering a collaborative and innovative environment to drive the company’s technology strategy and operational efficiency forward.
+* Managed cross-functional teams including software developers, QA engineers, and SREs, effectively overseeing offshore vendors and logistics to ensure seamless communication across time zones.
+* Enhanced professional growth through coaching and performance management, consistently setting and achieving performance goals and conducting reviews to improve team productivity and morale.
+* Implemented clearly defined roles and responsibilities, establishing a structured approach to sprint planning and project prioritization to ensure focus on initiatives aligned with the product roadmap.
+* Oversaw the procurement, distribution, and compliance of software licenses to ensure optimal usage and cost-efficiency across the organization.
+* Developed and executed a comprehensive technology roadmap, aligning with strategic business objectives for software engineering to ensure scalability and reliability.
+* Successfully managed relationships with existing vendors and onboarded new partners, negotiating contracts to balance cost efficiency with service quality and technical maturity.
+* Participated in due diligence efforts for mergers and acquisitions, evaluating infrastructure scalability and software architecture to mitigate risk and identify opportunities for innovation.
+* Initiated and established a help desk team responsible for the support of all applications and user hardware, including ownership of team member onboarding and offboarding.
+* Established a Cyber Security team to ensure the security of data and applications, overseeing vulnerability management and incident management strategies to enhance system stability.
+* Migrated multiple on-premises data centers to Azure, transitioning from a hybrid approach to a full cloud strategy with disaster recovery and automated deployment processes.
+* Improved the company’s infrastructure by implementing a consistent and repeatable process for patching and deploying servers and internal infrastructure.
+* Established a process for rolling out new hardware and software for team members.
 
-Successfully led a diverse team of technology professionals, fostering a collaborative and innovative environment to drive the company’s technology strategy forward. The teams included software developers, quality assurance engineers, business analysts, database engineers, server administrators, site reliability engineers, business intelligence developers, cyber security engineers, help desk technicians, product owners, and project managers. The teams were responsible for the development, maintenance, and support of the company’s software applications, databases, and infrastructure. These teams included onshore and offshore people. I effectively managed relationships with offshore teams and vendors, ensuring seamless communication and collaboration across different time zones and cultural backgrounds.
+**Senior Director in Engineering** Jan 2019 - Aug 2023
 
-While leading the technology team, I focused on team building, cultivating a positive and inclusive culture that encourages knowledge sharing, continuous learning, and professional growth. Professional growth for the team was achieved through education and performance management. By consistently setting and achieving performance goals, providing feedback, and conducting performance reviews to enhance team productivity and morale. To ensure team members have clear objectives and goals for each team member and ensure their growth, I developed and implemented clearly defined roles and responsibilities for team members which were not previously in place.
+*Rocket Mortgage | Detroit, MI*
 
-I also implemented a project prioritization process to ensure that the team was focused on the most important projects and initiatives that aligned with the company’s strategic goals. This process involved working closely with the business stakeholders to understand their needs and priorities, and then translating those into actionable projects for the team.
+* Grew owned products and teams from two teams to five teams (55 members) and over 15 products, a 400% increase, through effective leadership and process enablement.
+* Established common processes, including standardized onboarding and CI/CD deployment procedures, increasing deployment frequency by over 500% while enhancing application stability.
+* Enabled team member growth through quarterly training goals and experimentation with new methodologies such as AI/Machine Learning and team reorganizations based on project skill sets.
+* Operated as a fully remote, location-aware team prior to COVID-19, maintaining engagement and accountability across distributed team members in multiple time zones.
+* Mentored other Directors and leaders to improve their coaching skills and advance in leadership.
+* Served as an international public speaker on multiple technology topics and an active blogger, contributing to community outreach and brand awareness.
 
-Oversaw the procurement, distribution, and compliance of software licenses to ensure optimal usage and cost-efficiency across the organization.
+**Team Leader** Jan 2014 - Jan 2019
 
-Successfully managed relationships with existing vendors, ensuring consistent and high-quality service delivery in line with company standards. Proactively onboarded new vendors, conducting thorough due diligence to ensure alignment with organizational needs and expectations. Expertly negotiated contracts with both new and existing vendors, achieving favorable terms that balanced cost efficiency with service quality. Established and maintained effective communication channels with vendors, fostering strong partnerships and promptly addressing any issues or concerns. Collaborated with internal stakeholders to identify vendor needs and develop strategic sourcing plans that support long-term business objectives. Researched new vendors and technologies to identify opportunities for innovation and cost savings.
+*Rocket Mortgage | Detroit, MI*
 
-In support of RT²’s growth strategy, I participated in due diligence efforts to evaluate potential company acquisitions, ensuring alignment with our technology standards, and operational integrity. This involved assessing infrastructure scalability, software architecture, and team capabilities to mitigate risk and identify opportunities for innovation. Following successful acquisitions, I played a critical role in onboarding these new entities, driving seamless integration across IT systems, aligning processes with our core standards, and cultivating collaboration to accelerate cultural and technical cohesion.
+* Led a team of Business Analysts, Quality Assurance Engineers, Software Engineers, and a Software Architect to deliver multiple high-quality technical projects.
+* Spearheaded the development of a service enabling clients to automatically gather Asset and Income data, earning U.S. Patent #10,042,949 for innovation in software development.
+* Managed the redesign of a Sales Force automation system, overseeing discovery, project estimation, application architecture, and progress presentations to leadership.
+* Participated in virtual teams, including the Open-Source Big Rock team, to foster an open-source mindset and encourage contributions to GitHub projects.
+* Mentored new and seasoned leaders through regular one-on-one discussions about performance management and technical challenges.
+* Contributed to the Technology Public Relations team and the .NET Interviewers team to identify and close skills gaps.
+* Helped organize the Quicken Loans Technology conference for approximately 1200 team members, featuring 3 tracks and 15 sessions.
+* Participated in a team investigating future technology needs to improve systems and processes for clients and team members.
 
-A few key projects that I led while at RT² include:
+**Software Architect** Aug 2013 - Jan 2014
 
-* Starting a help desk team which owns the support of all the applications and user hardware.  This team also owns the onboarding and offboarding of team members.
-* A Cyber Security team was started to ensure that the company's data and applications are secure.
-* Migrated our multiple on premises data centers to Azure with a hybrid approach to start, then moving to a full cloud approach with disaster recovery.
-* Improved the company's infrastructure by implementing a consistent and repeatable process for patching and deploying servers and internal infrastructure.
-* Established a process for rolling out new hardware and software to the team members.
+*Rocket Mortgage | Detroit, MI*
 
-### Rocket Mortgage
+* Contributed to a net-new project, assisting with its design and development, and subsequently transitioned into the technical lead role.
+* Mentored team members, assigned development tasks, attended sprint planning meetings, and performed code reviews to ensure high coding standards.
+* Ensured a successful pilot launch and subsequent rollouts of the project, providing training and development support to the transitioning team.
+* Delivered several training events and presentations on topics including “Debugging Applications”, Twitter Bootstrap, and ReSharper.
 
-Detroit, MI
-_8/2013 to 8/2023_
-Rocket Mortgage is America’s largest retail mortgage lender, offering fast, trusted, and fully digital home loan solutions to help clients achieve home ownership.
+**Senior Software Engineer** Jan 2013 - Aug 2013
 
-#### Senior Director in Engineering - 1/2019 to 8/2023
+*IO | Phoenix, AZ*
 
-As a Senior Director, I am responsible for the growth of the products I own and the growth of my teams along with their team members. I started in the position with two teams, fourteen team members and three products. Our team has since grown to five teams, fifty-five people and over fifteen products. The growth of about 400% of the team and products was done seamlessly through leadership and the work that was done to enable it. Along with my leadership team, we established some common processes to enable the stability of our applications with enabled us to grow. Some processes included onboarding processes for new team members to ensure they had the right tools and processes to effectively do their role. We standardized the deployment process across all our products, which includes change processes, documentation, and testing. This change process enabled the team to increase the number of deployments by over 500% from the start of the year.
+* Conducted research, design, and discovery for new features or products, and investigated existing problems to find solutions.
+* Presented at several “Lunch and Learns” to educate fellow software developers on modern technologies and frameworks.
+* Helped set development standards and best practices, improving current software development standards documentation and selecting appropriate automation tools.
 
-I enabled and encouraged Team Member growth through training. We have quarterly team training goals to level up the team. Through experimentation, we frequently try new things to tweak/improve our processes including Mob Programming, Machine Learning, Reorganizing the teams based on projects and skill sets, and trying out new tools.
+**Technology Advisor** Dec 2006 - Jan 2013
 
-We have also been a fully remote, location-aware, team prior to Covid. My team members are split between two different offices (in two time zones) along with multiple time zones in the US. This remote team works well because of what is done to keep the team connected. We have "fun rooms" in Teams, life celebrations (new children, birthday, anniversary, etc.), theme weeks, and more.
+*Wells Fargo | Chandler, AZ*
 
-Outside the 'day to day' roles and responsibilities of being a Senior Director, I also mentor other Directors and leaders looking to improve their skills set and advance in leadership. I am also an international public speaker, who speaks on multiple technology topics and is an active blogger. I also am active in the community to educate people and help with brand awareness.
+* Created and implemented development coding standards and best practices for the Technology Operations group of approximately 400 developers.
+* Served as the internal developer evangelist for Microsoft development technologies, providing internal training classes on architecture and .NET development.
+* Acted as a technical lead to join troubled projects, fixing issues and assisting with complex implementation or integration challenges.
+* Implemented an internal NuGet server for common and internal libraries to improve release management.
 
-#### Team Leader – 1/2014 to 1/2019
+**Technology Lead** Present
 
-As a Team Leader, I lead a team of Business Analysts, Quality Assurance Engineers, Software Engineers, and a Software Architect to deliver several quality projects.
+*Wells Fargo | Chandler, AZ*
 
-My team built a service that allows our clients to automatically gather, with their permission, Asset, Income, and Income Tax data and forms from our partners to include in their mortgage application. For the work and creativity for this product, I was awarded U.S. Patent #[10,042,949](https://ppubs.uspto.gov/dirsearch-public/patents/html/10042949)
+Technologies Used: C#, SQL Server 2008, Windows Services, Entity Framework, Team Foundation Server (TFS), Visual Studio, jQuery, jQueryUi, Telerik Controls, NHibernate, ELMAH, WCF, Log4Net, Custom Threading Library, Custom TCP/IP messaging, CodeSmith, NUnit, SQLite, Oracle, Custom CodeSmith Schema Provider, Rational ClearQuest, Rational ClearCase, Nuget, Red Gate SQL Toolbelt.
 
-Another project was a new, reimagined, Sales Force automation system. This system was redesigned from the ground up to help our bankers' collect data from our clients during the mortgage process. My tasks included: discovery, project estimation, application architecture, status reporting, and presentations on the progress of the project.
+* Served as the lead developer for several internal applications and third-party implementation projects using .NET and SQL Server.
+* Sat on the Source Code Control Advisory committee, tasked with setting standards for Source Code Control across the entire bank.
+* Assisted in the implementation of the Enterprise Microsoft Team Foundation Server for improved CI/CD workflows.
+* Implemented a metric reporting system that consumed data from multiple locations and displayed results using a pluggable framework.
+* Started an internal .NET user group to provide education on modern technologies and build an internal community.
+* Improved the performance and reliability of the “CORE” application, reducing error messages from 300 per day to one or two per week.
+* Created a custom ADO.NET provider and SQL client application for querying data stores using SQL syntax.
+* Developed a web service for queries to the ClearQuest data store using web services protocols or JavaScript objects.
+* Generated and executed unit tests using NUnit and added logging with log4net for multiple applications to ensure software quality.
+* Created a custom task scheduler application that allowed users to create tasks using any .NET language.
+* Developed custom CodeSmith templates to generate NUnit tests for existing .NET assemblies, driving automation in the QA process.
 
-Although not part of my day-to-day work:
+**Lead Software Developer** Jan 2006 - Jun 2006
 
-* I participate in several virtual teams, including the Open-Source Big Rock team.
-* The Open-Source Big Rock team's goal was to get an open-source mind set at work, and to create a culture of being able to jump in and contribute code to projects and applications that you do not normally work on.
-* I also help mentor other leaders, both new and seasoned.
-* I do this by having one on ones with them where we talk about the challenges we are having together.
-* I also was part of the Technology Public Relations team as well as the .NET Interviewers team.
-* I helped organize the Quicken Loans Technology conference for around 1200 team members.
-* This conference had 3 tracks with 2 keynotes and 15 sessions.
-* I also participate in a team to investigate the future and figure out what we need to do to make are systems and processes better for our clients and our team members.
+*Intel Corporation | Chandler, AZ*
 
-#### Software Architect – 8/2013 to 1/2014
+Technologies Used: ASP.NET, C#, IIS6, Microsoft SQL Server 2000, Microsoft SQL Server 2005, Microsoft SQL Server Reporting Services, Microsoft Excel, Ajax Professional.NET, Infragistics NetVantage, ComponentArt WebUI.
 
-As a Software Architect, I was brought onto a net-new project that was being managed by another company to assist with its design and development. During this project, I moved into the role of technical lead on the application to fill the void left once the contract was up with the other company. My tasks included: mentoring fellow team members, assigning development tasks, attending planning meetings, coordinating efforts with other teams, performing code reviews, and helping to design the SDLC process for the team. The project had a successful pilot launch, and several successful launches throughout its lifespan. As our team was transitioning this project to another team, for continued development and support, I trained the other team on the application, solution, and workflow as well as provided development support as they ramped up.
+* Improved the performance and reliability of an internal billing website supporting 600 users globally, enhancing search speeds and page load times.
+* Enhanced the user interface using Ajax technology for dynamic page loading and improved security and database interfaces.
+* Reviewed third-party developed code to ensure adherence to general programming requirements and coding standards.
+* Created a dynamic reporting application utilizing reflection and developed a Microsoft Excel add-in to programmatically merge cells.
 
-I have provided several training events and presentations to fellow team members on topics such as "Debugging Applications", Twitter Bootstrap, ReSharper, and many more.
+**Software Programmer Analyst** Jul 2005 - Jan 2006
 
-### IO
+*Express Scripts | Tempe, AZ*
 
-Phoenix, AZ
-_1/2013 to 8/2013_
+Technologies Used: Visual Basic 6.0, Visual Basic.NET, Microsoft SQL Server 2000, Microsoft SQL Server 2005, Oracle 9.0i, Microsoft Excel, Microsoft Access, Microsoft SQL Server Reporting Services, Microsoft Visual SourceSafe, Crystal Reports.
 
-#### Senior Software Engineer
+* Established a process for application development, including creating a source code control repository and procedures for requirements gathering and testing.
+* Refactored several applications to utilize stored procedures and leverage framework features for better scalability.
+* Managed one major release of the letter generating application for approximately 150 users.
+* Implemented a fax notification application to inform users of successful transmissions.
+* Initiated a data warehouse project to store approximately 100 gigabytes of Pharmacy data.
+* Implemented several data extracts using SQL Server Reporting Services and Microsoft Excel.
 
-As a Senior Software Engineer, I was tasked with doing research, design, and discovery for new features or products to add to the company's offerings. I was also tasked with researching existing problems and looking for solutions to them. I presented at several "Lunch and Learns" to teach fellow software developers modern technology.
+**Development Manager and Manager of Imaging Practice** Dec 1998 - Jul 2005
 
-One of my other tasks was to help set the standard and best practices for development. This included improving the current software development standards documentation, establishing processes for software development, and choosing the right tools to help with the process.
+*Guardian Life Insurance | New York, NY*
 
-### Wells Fargo
+* Managed a team of four, handling personnel issues, work assignment, task completion, and performance reviews.
+* Created status reports, attended status meetings, and gathered requirements for new systems.
+* Optimized current applications by re-architecting them with newer technologies to improve operational efficiency.
+* Performed day-to-day programming tasks including designing Kofax Batch Classes and modifying website components.
+* Created a conversion application to migrate documents to a FileNet repository.
+* Developed a secure remote scanning facility enabling agencies to scan and transmit documents securely.
+* Optimized the existing Optika workflow application and developed a disaster recovery solution for imaging systems.
+* Contributed to a team responsible for creating a workflow RFI and gathering business requirements.
+* Created Forms Design Guidelines for Visual Basic development and served on the Enterprise Architecture team.
 
-Chandler, AZ
-_2006 to 1/2013_
+**Project Manager** Dec 1998 - Jul 2005
 
-#### Technology Advisor
+*Guardian Life Insurance | New York, NY*
 
-As the Technology Advisor, I was charged with creating and implementing development coding standards, development best practices, and common development software for the Technology Operations group, approximately four hundred developers. In addition, I acted as the internal developer evangelist for Microsoft development technologies. I provided several internal training classes on architecture and development for groups ranging from 5 to 200 people. I was tasked as a "hired gun" to join troubled projects to fix them up and/or help projects that were stumped with implementation or integration technologies. I implemented an internal NuGet server for common and internal libraries.
+Technologies Used: Microsoft Visual Basic, Microsoft ASP, Microsoft VBA, FileNet SDK, Desaware NT Service Toolkit, OCR for AnyDoc, DCOM, Accusoft ImageGear, XML.Visual Basic 5.0 – 6.0, Microsoft InterDev, FileNet IDMIS, Datacap 2000, Microsoft Ado, Oracle 8.0.5, Windows Scripting Host, IIS 4.0, Active Server Pages, HTML, Dynamic HTML, ASP, Accusoft ImageGear, Digital Certificates, COM, DCOM, XML, and NT services.
 
-#### Technology Lead
+* Managed a project designed to accelerate underwriting of insurance applications by enabling agencies to scan applications for storage in FileNet.
+* Led the project team of 4 developers, 1 DBA, and 1 system administrator from end-to-end.
+* Transitioned from lead developer to project manager, building the Billing Information Storage and Retrieval System (BISAR).
+* Responsibilities included installing and configuring a FileNet Image Services server and implementing a Datacap capture system.
+* Built scripts for retrieving data files from the corporate mainframe and uploading them to the Oracle validation database.
+* Trained all users on the administration and use of the BISAR system.
+* Evaluated other capture and imaging products for production use.
+* Designed and developed a connection pooler to FileNet, saving the company over $400k in licensing fees.
+* Created an imaging framework on top of the FileNet API for easier, object-oriented access.
+* Developed FileNet Visual Basic COM wrappers that return results as XML documents.
 
-I was the lead developer for several internal applications as well as third party implementation projects.
+**Technical Consultant** Dec 1998 - Jul 2005
 
-I sat on the Source Code Control Advisory committee tasked with setting the standards for Source Code Control standards for the entire bank. I assisted in the implementation of the Enterprise Microsoft Team Foundation Server.
+*Guardian Life Insurance | New York, NY*
 
-I implemented a metric reporting system, which consumed data from multiple locations, performed calculations on those metrics, and then displayed them on screen. To accomplish this, I implemented a pluggable framework which loads and schedules .NET assemblies dynamically to consume feeds from multiple locations and perform the calculations.
+Technologies Used: Microsoft InterDev, ASP, Microsoft Ado, UDB, IIS 4.0, Active Server Pages, and HTML.
 
-I also started an internal .NET user group to provide education on .NET technologies, standardization of tools, and built out an internal community.
+* Served as an imaging consultant for a major merger, providing recommendations for imaging and workflow application design.
+* Headed the development team for an imaging workflow project, designing the backend workflow database and form data storage.
+* Designed and developed over 10 components for interacting with FileNet and SQL Server.
+* Built a custom SGML parser to read export files.
+* Worked on the Online Electronic Forms Repository project, creating a prototype Internet site for searching forms databases.
+* Participated in vendor meetings to determine suitable applications for the project.
+* Designed the backend database for the forms repository and created the conversion program to DB2.
 
-I improved the performance and reliability of the "CORE" application. This application used a custom threading library, custom TCP/IP messaging of ClearQuest objects to automate the movement of defects and code packages through the ClearQuest workflow. The CORE system generates approximately 300 error messages a day. After a month of debugging and coding, the error messages were reduced to one or two a week.
+**Director of Technology** Apr 1998 - Oct 1998
 
-Created a custom ADO.NET provider and SQL client application for querying the ClearQuest data store using SQL syntax. This involved the parsing of incoming SQL requests (INSERT, UPDATE, DELETE, SELECT) and converting them to the corresponding ClearQuest API calls.
+*DeBari Associates | New York, NY*
 
-Created a web service for queries to the ClearQuest data store using either web services protocols or JavaScript objects.
+Technologies Used: Visual Basic 3-6, Microsoft Access, Microsoft Word, Microsoft FrontPage, Microsoft ADO, Microsoft RDO, Microsoft DAO, ODBC, Microsoft SQL Server, Kofax Imaging, Caere OCR, Seagate Crystal Reports, Microsoft Project, and Microsoft Team Manager.
 
-For many of these applications, I generated unit test and executed them with NUnit and added additional logging with log4net.
+* Managed a technical staff of six programmers and 2 network administrators, overseeing all in-house development for custom document imaging projects.
+* Developed custom export applications for clients to use with their document systems.
+* Conducted interviews for prospective candidates and managed performance expectations and terminations.
+* Maintained the computer network consisting of over 300 computers across multiple locations.
+* Maintained client contact to ensure the accuracy of provided data.
 
-Another project that I created was a custom task scheduler, like that of the Windows Scheduler, with a few exceptions. This application allowed the user to create a task using any .NET language. Once created the plug-in or task would be placed in the plug-ins folder and on the next restart of the scheduler the plug-in would be loaded and executed based on its schedule.
+**Vice President** Dec 1997 - Mar 1998
 
-Created custom CodeSmith templates, a CodeSmith SQLite schema provider, and a CodeSmith template to generate NUnit tests for an existing .NET assembly.
+*Bear Stearns | New York, NY*
 
-##### Technologies Used
+Technologies Used: Visual Basic 5.0, ADO, AS/400
 
-C#, SQL Server 2008, Windows Services, Entity Framework, Team Foundation Server (TFS), Visual Studio, jQuery, jQueryUi, Telerik Controls, NHibernate, ELMAH, WCF, Log4Net, Custom Threading Library, Custom TCP/IP messaging, CodeSmith, NUnit, SQLite, Oracle, Custom CodeSmith Schema Provider. Rational ClearQuest, Rational ClearCase, Nuget, Red Gate SQL Toolbelt.
+* Managed the development of 15 projects, including managing developers and holding monthly code reviews to ensure quality.
+* Created several graphical custom controls and a project documenting utility add-in.
 
-### Intel Corporation
+**Project Leader** Jul 1997 - Dec 1997
 
-Chandler, AZ
-_1/2006 to 6/2006_
+*Lehrer McGovern Bovis | New York, NY*
 
-#### Lead Software Developer
+* Served as the primary developer and contact for building a customizable project tracking system for the American Museum of Natural History.
 
-As part of the Flex Services Technical Operations team (TechOps), I was tasked to improve the performance and reliability of one of Flex Services' internal billing sites. This web site supports 600 users across the globe. Application performance was dramatically improved (search speeds when from 3 minutes for 600 records to 3-17 seconds for 1200 records), page load times when from 45-60 to about 5 seconds. The user interface was also improved dramatically by using Ajax technology to dynamically load pages (or sections of) when needed. The security, menu and database interfaces were improved. I was also tasked with reviewing third party developed code to ensure it was following general programming requirements and design.
+**Senior Programmer** Jun 1996 - Dec 1997
 
-I also created a dynamic reporting application, which used reflection to see a list of available reports. In conjunction with this reporting application a Microsoft Excel add-in was created to merge cells in a spreadsheet programmatically.
+*Lehrer McGovern Bovis | New York, NY*
 
-##### Technologies Used
+* Served as the primary developer for a nationwide project management system for the U.S. General Services Administration (GSA).
+* Managed development and evolution of the product through constant contact with the GSA via meetings and calls.
+* Created new database tables, assigned team resources, and provided clients with updated application versions.
+* Assigned and reviewed the work of other developers and interacted with the team.
+* Developed and implemented financial and contract modules to track project spending and estimated costs.
+* Project Life Cycle: Full life cycle, and deployment to 12 regional offices.
 
-ASP.NET, C#, IIS6, Microsoft SQL Server 2000, Microsoft SQL Server 2005, Microsoft SQL Server Reporting Services, Microsoft Excel, Ajax Professional.NET, Infragistics NetVantage, ComponentArt WebUI.
+**Project Manager** Sep 1996 - Dec 1997
 
-### Express Scripts
+*Lehrer McGovern Bovis | New York, NY*
 
-Tempe, AZ
-_7/2005 to 1/2006_
+Technologies Used: Visual Basic 5.0, ADO, VBSQL, SQL Server, Wise Installation, Microsoft Project, Microsoft Word, Microsoft Excel, Crystal Reports. Visual Basic 4.0, DAO, Microsoft Access, and Crystal Reports.
 
-#### Software Programmer Analyst
+* Met with Princeton University staff to determine needs for a project management system and led the project development team to build the system.
+* Project Life Cycle: Full Life Cycle.
 
-As part of the Tempe Application Development group for Express Scripts, Inc., I was tasked to help clean up the development processes and help support their existing applications.
+**Programmer Analyst** Jun 1995 - Jun 1996
 
-Some of the accomplishments that I achieved during this time frame include:
+*Norwood Computer Services | Hicksville, NY*
 
-* Put in place a process for application development.
-* Created the source code control repository.
-* Outlined procedures for gathering requirements.
-* Outlined procedures for documenting functional specifications.
-* Outlined procedures for developing applications.
-* Outlined procedures for testing applications.
-* Outlines procedures for implementing and supporting the applications.
-* "Cleaned Up" several of the applications to make use of stored procedures and features of the operating systems and/or frameworks.
-* Had one major release (approx. 150 users) of their letter generating application.
-* Implemented a fax notification application, to let the users know when their faxes were sent successfully.
-* Started a data warehouse project to store approximately 100 gigabytes of their Pharmacy data.
-* Implemented several data extracts using Crystal Reports, SQL Server Reporting Services and Microsoft Excel.
+* Developed and implemented a payroll and invoicing system with interaction with Microsoft Word and Excel.
+* Managed transactions with accounts payable, accounts receivable, and general ledger.
+* Project Life Cycle: Full Life Cycle.
 
-##### Technologies Used
+**Network Administrator** Present
 
-Visual Basic 6.0, Visual Basic.NET, Microsoft SQL Server 2000, Microsoft SQL Server 2005, Oracle 9.0i, Microsoft Excel, Microsoft Access, Microsoft SQL Server Reporting Services, Microsoft Visual SourceSafe, Crystal Reports.
+*Norwood Computer Services | Hicksville, NY*
 
-### Guardian Life Insurance
+Technologies Used: Visual Basic 3.0, Crystal Reports, Microsoft Access, Sybase, FoxPro, and MAS90. Windows NT 3.51, Novell NetWare 2.1, Ascend Communications, and ISDN.
 
-New York, NY
-_12/1998 to 7/2005_
+* Managed a 40-computer wide area network across four cities in the U.S.
+* Configured and maintained Windows NT and Novell Servers.
+* Configured workstations for seven workgroups and their software.
 
-#### Development Manager and Manager of Imaging Practice
+**Programmer** Feb 1991 - Feb 1993
 
-I managed a team of four people which includes: one project manager, one business analyst, one support person / system administrator, and one developer. Management tasks include handling day to day personnel issues, assigning work to people, ensuring that work is complete, and performing semiannual reviews. Daily tasks include creating status reports, attending status meetings, supporting existing systems, designing new systems, and gathering requirements.
+*Patriot Computer Services | Queens, NY*
 
-I also looked for ways to optimize the current applications by re-architecting them as newer technologies come out. Examples include Redesigning Kofax Batch Classes, using new components/technologies that became available.
+Technologies Used: QuickBASIC
 
-Some of the day-to-day programming tasks included: designing Kofax Batch Classes, modifying OCR for AnyDoc templates, modifying the Web site and components that have been created, creating Kofax release scripts, and recognition scripts.
+* Created a real estate database system to track available and rented apartments.
 
-Some of the accomplishments I achieved while being the manager of the imaging practice included:
+**Area Manager** Dec 1987 - Jun 1995
 
-* Created a conversion application to take documents out of Optika and place them in a FileNet repository.
-* Create a secure remote scanning facility, which allows Guardian's agencies to scan documents and transmit them securely to the central capture area.
-* Part of a team of individuals that was responsible for creating a workflow RFI and gathering business requirements.
-* Optimized existing Optika workflow application.
-* Created disaster recovery solution for all the imaging systems at the Guardian.
-* Created Forms Design Guidelines for Visual Basic development in user at the Guardian.
-* Served as a member of the Enterprise Architecture team to create a framework for the company using .NET technologies.
+*RGIS Inventory Specialist | Westbury, NY*
 
-#### Project Manager
+Technologies Used: Visual Basic 3.0, Microsoft Access
 
-From _12/1998 to 7/2005_
+* Developed a time sheet and invoicing system used to bill over 100,000 customers annually.
 
-I managed a project for Guardian's Individual Market profit center. This application was designed to enable faster underwriting of the insurance applications. This was accomplished by having the agencies scan or fax in their application to our capture system which in term indexed them for storage in the FileNet repository. I was responsible for getting the project approved, designed, developed, implemented, and supported. The project team consisted of 4 developers, 1 DBA, 1 system administrator, and me. I managed this project from end to end.
+## Skills
 
-I started on the team as the lead developer, but I quickly became the project manager to build the Billing Information Storage and Retrieval System that is currently in production. While working on the team my responsibilities entailed: installing and configuring a FileNet Image Services server, implementing a Datacap capture system, creating a Visual Basic front end, and an Intranet based front end to query the FileNet repository. I also built several scripts for retrieving a data file from the corporate mainframe and uploading it to the Oracle validation database. I was also responsible for training all the users in the administration and use of the BISAR system. Other responsibilities included evaluating other capture and imaging products for use in production. In building the Intranet application to query the FileNet repository, I designed and developed a connection pooler to FileNet. The connection pooler ran as an NT service and handled multiple requests coming in FileNet connections. This saved the company over $400k in licensing fees. The connection pooler was able to use 15 connections to support over 300 users. I created an imaging framework that sat on top of the FileNet API, to provide easier, more object oriented, access to the FileNet repository. With this Intranet application, I built a suite of FileNet Visual Basic COM wrappers that accept parameters and return results as XML documents.
+**Leadership**: Help Desk, Project Management, Product Management, Microsoft Project, Cyber Security, Business Analysis, Quality Assurance, Performance Management, Contract Negotiation, Team Building, Vendor Management, Strategic Sourcing, Product Owner, Mergers & Acquisitions, Due Diligence, Status Reporting, Team Collaboration, Project Estimation, Discovery, Presentations, Open-Source, Mentoring, Public Speaking, Blogging, Community Engagement, Internal Developer Evangelism, Implementation Technologies, Development Standards, Troubled Project Recovery, Requirements Gathering, Client Management, Technical Staff Management, In-house Development Management, Off Premises Team Management
 
-##### Technologies Used
+**Industries**: Mortgage Applications, Asset, Income, and Tax Data Gathering, Mobile, FinTech, Insurance, Mortgage Process, Accounting, Real Estate, Imaging
 
-Microsoft Visual Basic, Microsoft ASP, Microsoft VBA, FileNet SDK, Desaware NT Service Toolkit, OCR for AnyDoc, DCOM, Accusoft ImageGear, XML.Visual Basic 5.0 – 6.0, Microsoft InterDev, FileNet IDMIS, Datacap 2000, Microsoft Ado, Oracle 8.0.5, Windows Scripting Host, IIS 4.0, Active Server Pages, HTML, Dynamic HTML, ASP, Accusoft ImageGear, Digital Certificates, COM, DCOM, XML, and NT services.
+**Cloud**: Azure, AWS, GCP, Infrastructure Scalability, Cloud Migration, Disaster Recovery
 
-#### Technical Consultant
+**Technology**: C#, Entity Framework, ASP.NET, Windows Services, Microsoft Visual Basic, jQuery, Visual Studio, jQueryUi, Team Foundation Server (TFS), Telerik Controls, ELMAH, WCF, Log4Net, Nuget, NUnit, Rational ClearQuest, Rational ClearCase, Red Gate SQL Toolbelt, Crystal Reports, OCR for AnyDoc, Site Reliability Engineering, Cyber Security Engineering, Software Architecture, Application Architecture, SDLC Process Design, Debugging Applications, Bootstrap, Architecture Training, Git, GitHub, Azure DevOps, GitHub Actions, BitBucket, Confluence, Performance Improvements, Reliability Improvements, TypeScript, OCR, Imaging, Workflows
 
-From _12/1998 to 7/2005_
-
-I served as an imaging consultant for the Guardian Life Insurance Company & Berkshire Life Insurance Company merger. I helped Berkshire Life Insurance with recommendations for their design of the imaging and workflow application. Project Life Cycle: Full Life Cycle.
-
-I headed the development team for an imaging workflow project for Park Avenue Securities. With this system I designed the backend workflow database and form data storage. I was also responsible for designing and developing over 10 components for interacting with FileNet, CereSoft and SQL server. These components performed data validation, data verification and workflow routing. I also had to build a custom SGML parser to read export files. Project Life Cycle: Full Cycle.
-
-I also worked on the Online Electronic Forms Repository project. For this project, I created a prototype Internet site where people can search through a database of forms that the Guardian had to offer. I was also involved in many vendor meetings to determine which vendor application met the needs of this project. For the production system, I design the backend database for the forms repository. I also created the conversion program for the department's old Microsoft Access database to the new DB2 database.
-
-##### Technologies Used
-
-Microsoft InterDev, ASP, Microsoft Ado, UDB, IIS 4.0, Active Server Pages, and HTML.
-
-### DeBari Associates
-
-New York, NY
-_4/1998 to 10/1998_
-
-#### Director of Technology
-
-I managed the technical staff that consisted of six programmers, 2 network administrators, and 3 interns. Part of my responsibilities included managing all in-house development, 5-6 projects a month. These projects were custom designed document imaging projects. Documents are scanned, then "coded" using the scanned image. We then created a custom export application for the clients to use with their document system. Other duties included the interviewing of prospective candidates and terminating employees. I was also responsible for the computer network that consisted of over 300 computers both in New York and the country of St. Vincent. I also maintained client contact to ensure the data that we were providing them with was accurate.
-
-##### Technologies Used
-
-Visual Basic 3-6, Microsoft Access, Microsoft Word, Microsoft FrontPage, Microsoft ADO, Microsoft RDO, Microsoft DAO, ODBC, Microsoft SQL Server, Kofax Imaging, Caere OCR, Seagate Crystal Reports. Microsoft Project and Microsoft Team Manager.
-
-### Bear Stearns
-
-New York, NY
-_12/1997 to 3/1998_
-
-#### Vice President
-
-I managed the development of all 15 projects that the group created; part of my responsibilities included the managing of the developers on these projects, attending several weekly project status meetings and new development/project meetings, and holding monthly code reviews. I created several graphical custom controls for this organization and a project documenting utility add-in.
-
-##### Technologies Used
-
-Visual Basic 5.0, ADO, AS/400
-
-### Lehrer McGovern Bovis
-
-New York, NY
-_6/1996 to 12/1997_
-
-#### Project Leader
-
-American Museum of Natural History, New York, NY. Project Leader, 7/97 to 12/97. I served as the primary developer and contact to build a totally customizable project tracking system for the museum. The application included familiar Windows interfaces, such as the Explorer and "hot tracking". Project Life Cycle: Through development.
-
-U.S. General Services Administration (GSA), Washington DC. Senior Programmer, 6/96 to 12/97. I served as the primary developer for a nationwide project management system. In constant contact with the GSA through meeting and telephone calls, I managed the development and the evolution of this product. Duties included creating new database tables, assigning team resources, and keeping the client update to date with the most recent copy of the application. In addition to assigning a reviewing the work of other developers on the project and interacting with the rest of the team, I also developed and implemented the financial, contract, cost, security and administration modules in the Project Manager's Toolbox. These modules track how money is spent on projects by the Public Building Services of GSA. The financial module issues requisitions and tracks commitments, obligations, and payments on awarded contract. This module also allows the project manager to create a spending plan, allocate funds and track actual and future estimated costs thought out its lifetime. Project Life Cycle: Full Life cycle, and deployment to 12 regional offices.
-
-Princeton University, Princeton, NJ. Project Manager, 9/96 to 12/97. I visited with the Princeton University staff and determined what their needs were for a project management system. Though several meeting with the team I determined what they needed as far of the software goes. And headed the project development team to build this. Project Life Cycle: Full Life Cycle.
-
-##### Technologies Used
-
-Visual Basic 5.0, ADO, Erwin, Microsoft Project, and Crystal Reports. Visual Basic 5.0, ADO, VBSQL, SQL Server, Wise Installation, Microsoft Project, Microsoft Word, Microsoft Excel, Crystal Reports. Visual Basic 4.0, DAO, Microsoft Access, and Crystal Reports.
-
-### Norwood Computer Services
-
-Hicksville, NY
-_6/1995 to 6/1996_
-
-#### Programmer
-
-Norwood Computer Services, Hicksville, NY. Programmer Analyst, 6/95 to 6/96. I developed and implemented their payroll and invoicing system. This system included interaction with Microsoft Word, Microsoft Excel, MAS 90, and Advance Software to create many different reports. The system included transactions with accounts payable, accounts receivable and general ledger. Project Life Cycle: Full Life Cycle
-
-Norwood Computer Services, Hicksville, NY. Network Administrator. 6/95 to 6/96. I was responsible for a 40 computer wide area networks in over four cities throughout the U.S. I was also responsible for configuring and maintaining a Windows NT and Novell Server. Responsible for configuring workstations for the seven workgroups and configuring the software on the workstations.
-
-##### Technologies Used
-
-Visual Basic 3.0, Crystal Reports, Microsoft Access, Sybase, FoxPro, and MAS90. Windows NT 3.51, Novell NetWare 2.1, Ascend Communications, and ISDN.
-
-### Patriot Computer Services
-
-Queens, NY
-_2/1991 to 2/1993_
-
-#### Programmer
-
-I was responsible for creating a real estate database system that tracked available apartments and rented apartments. It maintained a list of upcoming apartments and the managers of these apartments.
-
-##### Technologies Used
-
-QuickBASIC
-
-### RGIS Inventory Specialist
-
-Westbury, NY
-_12/1987 to 6/1995_
-
-#### Area Manager
-
-I developed a time sheet and invoicing system. This system was used to bill over 100,000 customers a year.
-
-##### Technologies Used
-
-Visual Basic 3.0, Microsoft Access
+**Database**: SQL Server, SQLite, Oracle, MySql, Postgres, Microsoft SQL Server Reporting Services, Microsoft Access
 
 ## Speaking Engagements/Presentations
 
