@@ -1,5 +1,5 @@
 ---
-title: Ship Faster Together - Real-World Multi‑Agent Development with Squad
+title: "Ship Faster Together: Real-World Multi‑Agent Development with Squad"
 isKeynote: false
 isRetired: false
 sourceUrl:
