@@ -1,5 +1,32 @@
 [
   {
+    "eventName": "KCDC",
+    "eventUrl": "https://www.kcdc.info/",
+    "location": "Kansas City, KS",
+    "eventStart": "2026-09-09T08:00:00-06:00",
+    "eventEnd": "2026-09-11T16:00:00-06:00",
+    "comments": "In Person",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Aspire to More: Smarter Onboarding and Cleaner .NET Development",
+        "url": "/presentations/aspire-to-more-smarter-onboarding-and-cleaner-dot-net-development",
+        "startDate": "2026-09-10T10:00:00-06:00",
+        "endDate": "2026-09-10T11:00:00-06:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "America/Chicago",
+    "inPerson": "In Person",
+    "createdOrUpdatedOn": "2026-04-23T10:10:00-07:00"
+  },
+  {
     "eventName": "Nebraska.Code() 2026",
     "eventUrl": "https://nebraskacode.amegala.com/",
     "location": "In Person",
@@ -29,7 +56,7 @@
         "room": "",
         "comments": "",
         "isCanceled": false,
-        "isWorkshop": false,
+        "isWorkshop": true,
         "isKeynote": false,
         "isPanel": false
       }
@@ -64,6 +91,33 @@
     "timezone": "America/New_York",
     "inPerson": "In Person",
     "createdOrUpdatedOn": "2026-03-12T10:15:00-07:00"
+  },
+    {
+    "eventName": "AI Agents Conference",
+    "eventUrl": "https://aiagentsconference.live/",
+    "location": "Virtual",
+    "eventStart": "2026-04-26T07:00:00-05:00",
+    "eventEnd": "2026-05-01T18:00:00-05:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Ship Faster Together: Real-World Multi‑Agent Development with Squad",
+        "url": "/presentations/ship-faster-together-real-world-multi-agent-development-with-squad",
+        "startDate": "2026-04-26T13:55:00-05:00",
+        "endDate": "2026-04-26T13:25:00-05:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "America/New_York",
+    "inPerson": "Virtual",
+    "createdOrUpdatedOn": "2026-04-23T10:10:00-07:00"
   },
   {
     "eventName": "Greater Lansing User Group for .NET Developers",
