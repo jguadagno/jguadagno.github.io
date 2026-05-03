@@ -1,5 +1,33 @@
 [
   {
+    "eventName": "TechBash",
+    "eventUrl": "https://techbash.com/",
+    "location": "Pocono Mountains, PA",
+    "eventStart": "2026-10-13T09:00:00-05:00",
+    "eventEnd": "2026-10-16T16:00:00-05:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": false,
+    "presentation": [
+      {
+        "name": ".NET Workshop with Hands-On API Building",
+        "url": "/presentations/dot-net-workshop-with-hands-on-api-building",
+        "startDate": "2026-10-13T09:00:00-05:00",
+        "endDate": "2026-10-13T16:00:00-05:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": true,
+        "isKeynote": false,
+        "isPanel": false
+      }
+      
+    ],
+    "timezone": "America/New_York",
+    "inPerson": "In Person",
+    "createdOrUpdatedOn": "2026-05-03T06:43:00-05:00"
+  },
+  {
     "eventName": "KCDC",
     "eventUrl": "https://www.kcdc.info/",
     "location": "Kansas City, KS",
@@ -73,7 +101,7 @@
     "eventEnd": "2026-05-01T18:00:00-05:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Application Architecture Patterns",
@@ -90,7 +118,7 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2026-03-12T10:15:00-07:00"
+    "createdOrUpdatedOn": "2026-05-03T06:43:00-05:00"
   },
     {
     "eventName": "AI Agents Conference",
