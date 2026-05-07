@@ -6,20 +6,20 @@ header:
     og_image: /assets/images/pages/about-joseph-guadagno.png
 description: Vice President of Technology, Head of Engineering, Microsoft MVP, Driving Engineering Excellence through AI-Assisted Workflows & GitHub Copilot, Scaling High-Performance, Remote-First Teams, Passionate about .NET, Azure, and Open Source, Speaker & Mentor, Building the Future of Software Development
 ---
-Joe Guadagno is a currently open for work.
-He has been writing software for over 20 years, has been an active member of the .NET community,
-formerly serving on the .NET Foundation Board of Directors, as President, and has been a Microsoft MVP in .NET for more than 15 years.
-He has spoken through the United States and international events on topics ranging from Microsoft .NET,
-Microsoft Azure, Ionic, Bootstrap, and many others.
-You can see the complete list at
-[https://www.josephguadagno.net/presentations]({% link _pages/presentations.md %}){:target="_blank"}.
-When not sitting at a computer, Joe loves to hang out with his family and play games.
-When not playing games with the family, Joe is checking out the latest in Home Automation.
-You can connect with Joe on Bluesky at [@jguadagno.com](https://bsky.app/profile/jguadagno.com){:target="_blank"},
-Facebook at [JosephGuadagnoNet](https://www.facebook.com/JosephGuadagnoNet/){:target="_blank"},
-and on his blog at [https://www.josephguadagno.net](/)
 
-### Some of my notable achievements
+Joseph Guadagno is a **senior technology executive**, **international public speaker**, and **long‑time community leader** with more than 25 years of experience building high‑performing engineering organizations and empowering developers around the world. He blends strategic leadership with hands‑on technical depth, helping companies modernize their engineering practices, adopt AI‑assisted development, and deliver reliable, scalable software.
+
+As a **Senior Vice President of Technology**, Joseph has led cross‑functional engineering, QA, SRE, and platform teams, driving clarity, accountability, and innovation across global organizations. He is known for establishing strong engineering cultures, maturing delivery practices, and aligning technology strategy with business outcomes. His leadership includes defining technology roadmaps, guiding architectural transformation, improving developer experience, and mentoring emerging leaders.
+
+Joseph is also a **Microsoft Developer Services MVP** (since 2007) and a **former President and Vice President of the .NET Foundation**, where he helped strengthen the open‑source .NET ecosystem and support thousands of contributors and community leaders. He has been an active force in developer communities for decades—founding the Southeast Valley .NET User Group, organizing Desert Code Camp, contributing to open‑source projects, and supporting global volunteer initiatives such as GeekGive and GiveCamp.
+
+A seasoned **international speaker**, Joseph has delivered hundreds of sessions across the United States and abroad on topics including .NET, Azure, cloud architecture, AI‑assisted development, engineering leadership, and modern developer productivity. His approachable style, practical insights, and real‑world experience make him a frequent speaker at conferences, user groups, and corporate events.
+
+Joseph continues to invest in the next generation of speakers and community leaders through **MoreSpeakers.com**, a platform he created to connect aspiring presenters with experienced mentors. He also shares technical content, leadership insights, and demos through his blog, livestreams, and open‑source repositories.
+
+When he’s not leading teams or speaking at events, Joseph enjoys spending time with his family, exploring home automation, and contributing to projects that make the developer community stronger.
+
+## Some of my notable achievements
 
 * Microsoft Developer Services [MVP](https://jjg.me/MVPLink){:target="_blank"} – Since January 2007
 * Previously served on the [.NET Foundation](https://dotnetfoundation.org/){:target="_blank"} Board of Directors
