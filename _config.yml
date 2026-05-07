@@ -17,7 +17,7 @@ title: JosephGuadagno.net
 email: jguadagno@hotmail.com
 name: "Joseph Guadagno"
 description: >- # this means to ignore newlines until "baseurl:"
-  Open for Work, International Public Speaker, Community Evangelist, and Family Man
+  Vice President of Technology, Head of Engineering, Microsoft MVP, Driving Engineering Excellence through AI-Assisted Workflows & GitHub Copilot, Scaling High-Performance, Remote-First Teams
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title
 url: "https://www.josephguadagno.net" # the base hostname & protocol for your site, e.g. https://example.com
@@ -35,7 +35,7 @@ og_image: /assets/images/og_image.png
 author: 
   name        : "Joseph Guadagno"
   bio         : >-
-    Open for Work, International Public Speaker, Community Evangelist, and Family Man
+    Vice President of Technology, Head of Engineering, Microsoft MVP, Driving Engineering Excellence through AI-Assisted Workflows & GitHub Copilot, Scaling High-Performance, Remote-First Teams
   avatar      : "/assets/images/authors/Joe_Guadagno_512x512.jpg"
   picture     : "/assets/images/authors/Joe_Guadagno_512x512.jpg"
   location    : "Chandler, AZ, USA"
@@ -47,24 +47,21 @@ author:
     - label: "Website"
       icon: "fa-solid fa-globe"
       url: "https://www.josephguadagno.net"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/josephguadagno/"
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/jguadagno.com"
-    - label: "X"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/jguadagno"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://techhub.social/@Jguadagno"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jguadagno"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/JosephGuadagnoNet"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/josephguadagno/"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/jguadagno"
     - label: "'Coding with JoeG' Videos"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/playlist?list=PLESGit66MnblZW06pJQwB_VPFZnOT-gG2"

@@ -4,7 +4,7 @@ permalink: /about-joseph-guadagno/
 classes: wide
 header:
     og_image: /assets/images/pages/about-joseph-guadagno.png
-description: About Joseph Guadagno, Microsoft Developer Services MVP, Public Speaker, Organizer of Desert Code Camp
+description: Vice President of Technology, Head of Engineering, Microsoft MVP, Driving Engineering Excellence through AI-Assisted Workflows & GitHub Copilot, Scaling High-Performance, Remote-First Teams, Passionate about .NET, Azure, and Open Source, Speaker & Mentor, Building the Future of Software Development
 ---
 Joe Guadagno is a currently open for work.
 He has been writing software for over 20 years, has been an active member of the .NET community,
