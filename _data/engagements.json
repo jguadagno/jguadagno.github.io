@@ -7,7 +7,7 @@
     "eventEnd": "2026-10-16T16:00:00-05:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": false,
+    "isCurrent": true,
     "presentation": [
       {
         "name": ".NET Workshop with Hands-On API Building",
@@ -18,6 +18,30 @@
         "comments": "",
         "isCanceled": false,
         "isWorkshop": true,
+        "isKeynote": false,
+        "isPanel": false
+      },
+      {
+        "name": "Scaling Your .NET Application Using Azure",
+        "url": "/presentations/scaling-your-dotnet-application-using-azure",
+        "startDate": "2026-10-14T09:00:00-05:00",
+        "endDate": "2026-10-14T20:00:00-05:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      },
+      {
+        "name": "Dev Containers. What are they and why do you need them?",
+        "url": "/presentations/devcontainers-what-are-they-and-why-do-you-need-them",
+        "startDate": "2026-10-14T09:45:00-05:00",
+        "endDate": "2026-10-14T10:45:00-05:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
         "isKeynote": false,
         "isPanel": false
       }
