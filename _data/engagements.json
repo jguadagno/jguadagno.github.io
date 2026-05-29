@@ -124,8 +124,8 @@
     "eventStart": "2026-06-10T07:00:00-05:00",
     "eventEnd": "2026-06-10T18:00:00-05:00",
     "comments": "",
-    "isCanceled": false,
-    "isCurrent": true,
+    "isCanceled": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Ship Faster Together: Real-World Multi‑Agent Development with Squad",
