@@ -1,12 +1,11 @@
 // Call the functions that should not be ran until the user has accepted cookies.
 
-// We are no longer using Google Adsense advertisements, so these calls have been commented out.
 // If the user is not viewing a post, the Post Ad function will not be defined, so only call it if it is defined.
-// if (typeof(RunGoogleAdsensePostAdvertisementJavaScript) === typeof(Function))
-// {
-// 	RunGoogleAdsensePostAdvertisementJavaScript()
-// }
-// RunGoogleAdsenseFooterAdvertisementJavaScript()
+if (typeof(RunGoogleAdsensePostAdvertisementJavaScript) === typeof(Function))
+{
+	RunGoogleAdsensePostAdvertisementJavaScript()
+}
+RunGoogleAdsenseFooterAdvertisementJavaScript()
 
 RunMsClarityJavaScript()
 
