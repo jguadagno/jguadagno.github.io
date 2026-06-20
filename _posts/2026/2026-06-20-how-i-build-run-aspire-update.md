@@ -14,6 +14,8 @@ tags:
 - Development
 - ASP.NET
 - Containers
+- GitHub Copilot
+- Copilot
 ---
 
 
@@ -21,4 +23,7 @@ tags:
 
 - [Aspire](https://aspire.dev/){:target="_blank"}
 - [Aspire Documentation](https://aspire.dev/docs/){:target="_blank"}
+- GitHub Copilot [website](https://github.com/features/copilot){:target="_blank"}
+- GitHub Copilot [CLI](https://github.com/features/copilot/cli/){:target="_blank"}
+- GitHub Copilot [Chat](https://code.visualstudio.com/docs/setup/copilot){:target="_blank"}
 - [Simplify Your .NET Development with Aspire]({% post_url 2025/2025-07-08-simplify-your-dot-net-development-with-aspire %}){:target="_blank"}
