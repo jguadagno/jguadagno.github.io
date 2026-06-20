@@ -18,7 +18,7 @@ tags:
 ---
 Aspire is a new tool that simplifies the development of .NET applications by managing dependencies and configurations, allowing developers to focus on building features rather than wrestling with setup and environment issues.
 
-According to the [official documentation](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview?WT.mc_id=DT-MVP-4024623){:target="_blank"}, .NET Aspire provides tools, templates, and packages to help you build observable, production-ready apps. Delivered through NuGet packages, .NET Aspire simplifies common challenges in modern app development.
+According to the [official documentation](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview?WT.mc_id=DT-MVP-4024623){:target="_blank"}, Aspire provides tools, templates, and packages to help you build observable, production-ready apps. Delivered through NuGet packages, Aspire simplifies common challenges in modern app development.
 
 A few weeks ago, I was on [AspiriFridays](https://www.youtube.com/watch?v=ZKgUwDWCtic){:target="_blank"} where [Damian Edward](https://bsky.app/profile/damianedwards.com){:target="_blank"}, [David Fowler](https://bsky.app/profile/davidfowl.com){:target="_blank"}, [Maddy Montaquila](https://bsky.app/profile/maddymontaquila.net){:target="_blank"} and I were adding .NET [Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview?WT.mc_id=DT-MVP-4024623){:target="_blank"} to the [JosephGuadagno.NET Broadcasting](https://github.com/jguadagno/jjgnet-broadcast/){:target="_blank"} application. Let's take a look at how Aspire can help you streamline your .NET development process.
 
@@ -36,9 +36,9 @@ To get started with Aspire, you need a few prerequisites:
 - An IDE or code editor of your choice, such as:
   - [Visual Studio](https://visualstudio.microsoft.com/vs/?WT.mc_id=DT-MVP-4024623){:target="_blank"} version 17.9 or later
   - [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=DT-MVP-4024623){:target="_blank"}  
-  - [JetBrains Rider](https://www.jetbrains.com/rider/){:target="_blank"} with the [.NET Aspire plugin](https://plugins.jetbrains.com/plugin/23289--net-aspire){:target="_blank"}
+  - [JetBrains Rider](https://www.jetbrains.com/rider/){:target="_blank"} with the [Aspire plugin](https://plugins.jetbrains.com/plugin/23289--net-aspire){:target="_blank"}
 
-***Note***: .NET Aspire also works with [GitHub Codespaces](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/github-codespaces?WT.mc_id=DT-MVP-4024623){:target="_blank"} or [Dev Containers](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/dev-containers?WT.mc_id=DT-MVP-4024623){:target="_blank"}.
+***Note***: Aspire also works with [GitHub Codespaces](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/github-codespaces?WT.mc_id=DT-MVP-4024623){:target="_blank"} or [Dev Containers](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/dev-containers?WT.mc_id=DT-MVP-4024623){:target="_blank"}.
 {: .notice--info}
 
 If you want to use the Aspire project templates, you can install them with the following command:
@@ -87,9 +87,9 @@ Depending on the IDE you are using, you can add Aspire to your project in differ
 
 Visual Studio provides a straightforward way to add Aspire to your project using the built-in project templates and in my opinion, is the easiest way to get started with Aspire.
 
-In Visual Studio, in the Solution Explorer, right-click on the *Contacts.Api* project and select "Add" > ".NET Aspire Orchestration Support". This will open the "Add .NET Aspire Orchestration Support" dialog.
+In Visual Studio, in the Solution Explorer, right-click on the *Contacts.Api* project and select "Add" > "Aspire Orchestration Support". This will open the "Add Aspire Orchestration Support" dialog.
 
-![Visual Studio - Add .NET Aspire Orchestration Support](/assets/images/posts/2025/simplify-your-dot-net-development-with-aspire/aspire-create-project-visual-studio.png){: .align-center}
+![Visual Studio - Add Aspire Orchestration Support](/assets/images/posts/2025/simplify-your-dot-net-development-with-aspire/aspire-create-project-visual-studio.png){: .align-center}
 
 The defaults are fine, so you can click "Add" to create the Aspire project. This will create two new projects in your solution called *Contacts.AppHost* and *Contacts.ServiceDefaults* then add the necessary references to the *Contacts.Api* project.
 
@@ -176,7 +176,7 @@ Let's get started by opening the `AppHost.cs` file in the *Contacts.AppHost* pro
 
 ### Adding the Web Api Project
 
-Depending on which IDE you are using, you will see a slightly different version of the `AppHost.cs` file.  If you are using Visual Studio, and you added the Aspire projects using the "Add .NET Aspire Orchestration Support" option, you will see a basic `AppHost.cs` file that looks like this:
+Depending on which IDE you are using, you will see a slightly different version of the `AppHost.cs` file.  If you are using Visual Studio, and you added the Aspire projects using the "Add Aspire Orchestration Support" option, you will see a basic `AppHost.cs` file that looks like this:
 
 ```csharp
 var builder = DistributedApplication.CreateBuilder(args);
@@ -586,7 +586,7 @@ If you want follow along with me learning Aspire, you can watch the [AspiriFrida
 
 ## References
 
-- [.NET Aspire Documentation](https://learn.microsoft.com/en-us/dotnet/aspire/?WT.mc_id=DT-MVP-4024623){:target="_blank"}
+- [Aspire Documentation](https://learn.microsoft.com/en-us/dotnet/aspire/?WT.mc_id=DT-MVP-4024623){:target="_blank"}
 - [YouTube - AspiriFridays (Joe Guadagno's Broadcast site)](https://www.youtube.com/watch?v=ZKgUwDWCtic){:target="_blank"}
 - [JosephGuadagno.AzureHelpers.Storage](https://github.com/jguadagno/JosephGuadagno.AzureHelpers.Storage){:target="_blank"}
 - [Azurite](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?WT.mc_id=DT-MVP-4024623){:target="_blank"}

@@ -220,6 +220,6 @@ The Aspire Dashboard is a powerful tool that provides insights into your .NET pr
 
 ## References
 
-- [.NET Aspire Documentation](https://learn.microsoft.com/en-us/dotnet/aspire/?WT.mc_id=DT-MVP-4024623){:target="_blank"}
+- [Aspire Documentation](https://learn.microsoft.com/en-us/dotnet/aspire/?WT.mc_id=DT-MVP-4024623){:target="_blank"}
 - [YouTube - AspiriFridays (Joe Guadagno's Broadcast site)](https://www.youtube.com/watch?v=ZKgUwDWCtic){:target="_blank"}
 - [Simplify Your .NET Development with Aspire]({% post_url 2025/2025-07-08-simplify-your-dot-net-development-with-aspire %}){:target="_blank"}

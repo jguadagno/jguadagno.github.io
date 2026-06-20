@@ -53,7 +53,7 @@ So here is the list.
 
 | Plugin                                                                                                   | What it does                                                                                   |
 |----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| [.NET Aspire](https://plugins.jetbrains.com/plugin/23289--net-aspire){:target="_blank"}                 | Provides support for .NET Aspire in Rider               |
+| [Aspire](https://plugins.jetbrains.com/plugin/23289--net-aspire){:target="_blank"}                 | Provides support for Aspire in Rider               |
 
 ### Azure Specific Development
 
