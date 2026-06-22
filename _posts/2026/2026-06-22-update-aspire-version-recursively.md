@@ -3,7 +3,7 @@ title: "Update Aspire Version Recursively in All Projects and Solutions"
 excerpt: "Update Aspire version recursively in all projects and solutions within a directory."
 header:
     og_image: /assets/images/posts/header/aspire-update.png
-date: 2026-06-20 12:35:00 -0700
+date: 2026-06-22 13:51:00 -0700
 
 categories:
 - Articles
@@ -16,7 +16,7 @@ tags:
 - Copilot
 ---
 
-I've been working on a workshop to demonstrate Aspire.  The workshop is designed to help developers get started with Aspire, a powerful tool for simplifying local development. As part of the workshop, I build out different labs to focus on different components of Aspire. Each lab is designed to build upon the previous one, and as a result, I have at least 7 different projects and solutions that all depend on Aspire. At least at the time of writing this article, Aspire updates frequently, and I want to ensure that all of my projects are using the latest version of Aspire.  However, updating the Aspire version in each project and solution manually can be time-consuming and error-prone. Fortunately, there are ways to update the Aspire version recursively across all projects and solutions within a directory.
+I've been working on a workshop to demonstrate Aspire the last few weeks.  The workshop is designed to help developers get started with Aspire, a powerful tool for simplifying local development. As part of the workshop, I build out different labs to focus on different components of Aspire. Each lab is designed to build upon the previous one, and as a result, I have at least 7 different projects and solutions that all depend on Aspire. At least at the time of writing this article, Aspire updates frequently, and I want to ensure that all of my projects are using the latest version of Aspire.  However, updating the Aspire version in each project and solution manually can be time-consuming and error-prone. Fortunately, there are ways to update the Aspire version recursively across all projects and solutions within a directory.
 
 With the help of GitHub Copilot [Chat](https://code.visualstudio.com/docs/setup/copilot){:target="_blank"} extension for Visual Studio Code, I was able to create a script that updates the Aspire version in all projects and solutions within a directory. The script uses the `aspire` [CLI](https://aspire.dev/get-started/install-cli/){:target="_blank"} to update the Aspire version in each project and solution file.
 
@@ -24,7 +24,7 @@ With the help of GitHub Copilot [Chat](https://code.visualstudio.com/docs/setup/
 aspire update --yes --non-interactive
 ```
 
-***NOTE***: If you want to see how I built the script using GitHub Copilot, you can check out the [post]({% post_url 2026/2026-06-20-how-i-build-run-aspire-update %}) where I walk through the process of creating the script step by step.
+***NOTE***: If you want to see how I built the script using GitHub Copilot, you can check out the [post]({% post_url 2026/2026-06-22-how-i-built-run-aspire-update %}){:target="_blank"} where I walk through the process of creating the script step by step.
 {: .notice--info}
 
 Here's the script. You can place the script anywhere you like and run it to update the Aspire version in all projects and solutions within a directory. I might eventually turn this into a command in my PowerShell profile, but for now, you can run it as a standalone script.
@@ -200,7 +200,7 @@ D:\Projects\aspire-workshop\section-02\lab-06-custom-health-checks Success      
 
 ## Wrap Up
 
-Updating the Aspire version recursively across all projects and solutions within a directory can save time and reduce the risk of errors. By using a script like the one I created, you can ensure that all of your projects are using the latest version of Aspire with just a few commands. If you're interested in seeing how I built the script using GitHub Copilot, be sure to check out the [post]({% post_url 2026/2026-06-20-how-i-build-run-aspire-update %}) where I walk through the process step by step.
+Updating the Aspire version recursively across all projects and solutions within a directory can save time and reduce the risk of errors. By using a script like the one I created, you can ensure that all of your projects are using the latest version of Aspire with just a few commands. If you're interested in seeing how I built the script using GitHub Copilot, be sure to check out the [post]({% post_url 2026/2026-06-22-how-i-built-run-aspire-update %}) where I walk through the process step by step.
 
 ## References
 
@@ -210,4 +210,4 @@ Updating the Aspire version recursively across all projects and solutions within
 - GitHub Copilot [CLI](https://github.com/features/copilot/cli/){:target="_blank"}
 - GitHub Copilot [Chat](https://code.visualstudio.com/docs/setup/copilot){:target="_blank"}
 - [Simplify Your .NET Development with Aspire]({% post_url 2025/2025-07-08-simplify-your-dot-net-development-with-aspire %}){:target="_blank"}
-- [How I Built and Ran the Aspire Update Script with GitHub Copilot]({% post_url 2026/2026-06-20-how-i-build-run-aspire-update %}){:target="_blank"}
+- [How I Built and Ran the Aspire Update Script with GitHub Copilot]({% post_url 2026/2026-06-22-how-i-built-run-aspire-update %}){:target="_blank"}
