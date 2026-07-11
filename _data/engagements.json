@@ -57,16 +57,16 @@
     "location": "Kansas City, KS",
     "eventStart": "2026-09-09T08:00:00-06:00",
     "eventEnd": "2026-09-11T16:00:00-06:00",
-    "comments": "In Person",
+    "comments": "",
     "isCanceled": false,
     "isCurrent": true,
     "presentation": [
       {
         "name": "Aspire to More: Smarter Onboarding and Cleaner .NET Development",
         "url": "/presentations/aspire-to-more-smarter-onboarding-and-cleaner-dot-net-development",
-        "startDate": "2026-09-10T10:00:00-06:00",
-        "endDate": "2026-09-10T11:00:00-06:00",
-        "room": "",
+        "startDate": "2026-09-10T13:15:00-06:00",
+        "endDate": "2026-09-10T14:15:00-06:00",
+        "room": "2211",
         "comments": "",
         "isCanceled": false,
         "isWorkshop": false,
@@ -76,13 +76,13 @@
     ],
     "timezone": "America/Chicago",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2026-04-23T10:10:00-07:00"
+    "createdOrUpdatedOn": "2026-07-11T08:05:00-07:00"
   },
   {
     "eventName": "Nebraska.Code() 2026",
     "eventUrl": "https://nebraskacode.amegala.com/",
-    "location": "In Person",
-    "eventStart": "2026-07-22T09:00:00-05:00",
+    "location": "Lincoln, NE",
+    "eventStart": "2026-07-22T08:45:00-05:00",
     "eventEnd": "2026-07-24T18:00:00-05:00",
     "comments": "",
     "isCanceled": false,
@@ -91,8 +91,8 @@
       {
         "name": "Application Architecture Patterns",
         "url": "/presentations/application-architecture-patterns",
-        "startDate": "2026-07-22T09:00:00-05:00",
-        "endDate": "2026-07-22T10:00:00-05:00",
+        "startDate": "2026-07-24T10:00:00-05:00",
+        "endDate": "2026-07-24T11:00:00-05:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -103,8 +103,8 @@
       {
         "name": "Aspire to More: Smarter Onboarding and Cleaner .NET Development",
         "url": "/presentations/aspire-to-more-smarter-onboarding-and-cleaner-dot-net-development",
-        "startDate": "2026-07-22T09:00:00-05:00",
-        "endDate": "2026-07-22T10:00:00-05:00",
+        "startDate": "2026-07-22T08:45:00-05:00",
+        "endDate": "2026-07-22T16:45:00-05:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -115,7 +115,7 @@
     ],
     "timezone": "America/Chicago",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2026-02-26T09:07:00-07:00"
+    "createdOrUpdatedOn": "2026-07-11T08:29:00-07:00"
   },
   {
     "eventName": "AgentCon - Phoenix",
