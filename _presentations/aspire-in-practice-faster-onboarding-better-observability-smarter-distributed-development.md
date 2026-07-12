@@ -3,7 +3,7 @@ title: "Aspire in Practice: Faster Onboarding, Better Observability, Smarter Dis
 isKeynote: false
 isRetired: false
 isWorkshop: true
-sourceUrl: 
+sourceUrl: https://github.com/jguadagno/aspire-workshop
 powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQQgYtAEEzUFQp_JtKAxb9s6AdGkgS8GohMRPl7hb7ZDwZ4
 youTubeCaption: 
 sessionizeUrl: aspire-in-practice-faster-onboarding-better-observ/180544
