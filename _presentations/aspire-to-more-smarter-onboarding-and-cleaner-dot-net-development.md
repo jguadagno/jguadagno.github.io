@@ -8,6 +8,13 @@ youTubeId:
 youTubeCaption: 
 sessionizeUrl: aspire-to-more-smarter-onboarding-and-cleaner-.net/143919
 level: 100
+links:
+ - title: Aspire Documentation
+   url: https://aspire.dev/
+ - title: Aspire GitHub Repository
+   url: https://github.com/microsoft/aspire
+ - title: Aspire Samples
+   url: https://github.com/dotnet/aspire-samples
 ---
 What if getting up and running with distributed .NET apps didn’t feel like assembling IKEA furniture blindfolded? Say hello to Aspire, a toolkit that trims the complexity and lets you focus on what matters: building great software, faster.
 
