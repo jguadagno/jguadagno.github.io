@@ -86,7 +86,7 @@
     "eventEnd": "2026-07-24T18:00:00-05:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Application Architecture Patterns",
@@ -101,8 +101,8 @@
         "isPanel": false
       },
       {
-        "name": "Aspire to More: Smarter Onboarding and Cleaner .NET Development",
-        "url": "/presentations/aspire-to-more-smarter-onboarding-and-cleaner-dot-net-development",
+        "name": "Aspire in Practice: Faster Onboarding, Better Observability, Smarter Distributed Development",
+        "url": "/presentations/aspire-in-practice-faster-onboarding-better-observability-smarter-distributed-development",
         "startDate": "2026-07-22T08:45:00-05:00",
         "endDate": "2026-07-22T16:45:00-05:00",
         "room": "",
