@@ -52,6 +52,33 @@
     "createdOrUpdatedOn": "2026-05-03T06:43:00-05:00"
   },
   {
+    "eventName": "Microsoft Azure AI Week",
+    "eventUrl": "https://espc.tech/learning-hub/content-weeks/microsoft-azure-ai-week/",
+    "location": "Virtual",
+    "eventStart": "2026-09-14T08:00:00+02:00",
+    "eventEnd": "2026-09-18T16:00:00+02:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "From Zero to AI App: Building with Azure AI Foundry",
+        "url": "/presentations/from-zero-to-ai-app-building-with-azure-ai-foundry",
+        "startDate": "2026-09-14T16:00:00+02:00",
+        "endDate": "2026-09-14T17:00:00+02:00",
+        "room": "Virtual",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "CEST",
+    "inPerson": "Virtual",
+    "createdOrUpdatedOn": "2026-08-09T10:20:00-07:00"
+  },
+  {
     "eventName": "KCDC",
     "eventUrl": "https://www.kcdc.info/",
     "location": "Kansas City, KS",
@@ -77,6 +104,33 @@
     "timezone": "America/Chicago",
     "inPerson": "In Person",
     "createdOrUpdatedOn": "2026-07-11T08:05:00-07:00"
+  },
+    {
+    "eventName": "Software Architecture Live 2026",
+    "eventUrl": "https://www.softwarearchitecturelive.com/",
+    "location": "Virtual",
+    "eventStart": "2026-08-21T08:00:00-05:00",
+    "eventEnd": "2026-08-22T16:00:00-05:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "Modern Architecture for AI-Augmented Development Teams",
+        "url": "/presentations/modern-architecture-for-ai-augmented-development-teams",
+        "startDate": "2026-08-21T13:15:00-05:00",
+        "endDate": "2026-08-21T14:15:00-05:00",
+        "room": "Virtual",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "America/New_York",
+    "inPerson": "Virtual",
+    "createdOrUpdatedOn": "2026-08-09T10:20:00-07:00"
   },
   {
     "eventName": "Nebraska.Code() 2026",
