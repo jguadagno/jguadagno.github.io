@@ -23,7 +23,7 @@ However,
 it is a good start for someone that does not understand what the role is or does
 and either wants to become an architect or work with an architect.
 
-Purchase [Software Architecture for Web Developers](https://amzn.to/3N11R4Y){:target="_blank"} on Amazon.
+Purchase [Software Architecture for Web Developers](https://amzn.to/4g2dzv2){:target="_blank"} on Amazon.
 
 **Note**: I was given a free copy of this book in return for an honest review.
 {: .notice--info}

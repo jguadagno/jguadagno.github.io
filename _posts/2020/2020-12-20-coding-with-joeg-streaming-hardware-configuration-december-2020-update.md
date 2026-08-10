@@ -37,7 +37,7 @@ I no longer use a secondary computer thanks to the power of the primary streamin
 
 ### "Each" WebCam 1080p
 
-View on [Amazon](https://amzn.to/3e4kS3I){:target="_blank"}
+View on [Amazon](https://amzn.to/4wcAIAJ){:target="_blank"}
 
 ![Each Web Cam](/assets/images/posts/streaming-equipment-each-webcam.jpg){: .align-center}
 
@@ -46,7 +46,7 @@ While I could have used the built-in webcam on either laptop for the stream, the
 ### Audio-Technica ATR2100X-USB USB/XLR Microphone Bundle with Knox Gear Boom Arm, Shock Mount, and Pop Filter
 
 View on [Manufacturers Site](https://www.audio-technica.com/cms/wired_mics/b8dd84773f83092c/index.html){:target="_blank"}
-View on [Amazon](https://amzn.to/2XiLx5Q){:target="_blank"}
+View on [Amazon](https://amzn.to/3TL1Lpy){:target="_blank"}
 
 ![Audio-Technica ATR2100X-USB USB/XLR Microphone](/assets/images/posts/streaming-equipment-atr2100x.jpg){: .align-center}
 
@@ -58,7 +58,7 @@ A microphone is probably the one piece of hardware that I recommend you buy, not
 {: .notice--info}
 
 View on [Manufacturer Site](https://www.elgato.com/en/gaming/game-capture-hd60-s-plus){:target="_blank"}{:target="_blank"}
-View on [Amazon](https://amzn.to/2WOiVTi){:target="_blank"}
+View on [Amazon](https://amzn.to/4wh0DHC){:target="_blank"}
 
 ![Elgato Game Capture HD60 S+](/assets/images/posts/streaming-equipment-hd60.jpg){: .align-center}
 
@@ -72,14 +72,14 @@ For OBS to remove or replace the background, you need to add a `Chromakey`.  You
 
 #### ePhotoInc 5' x 7' Photo Collapsible CHROMAKEY Green Blue Background 2 in 1 Backdrop Panel T57BG
 
-View on [Amazon](https://amzn.to/2LJnoA3){:target="_blank"}
+View on [Amazon](https://amzn.to/4wd57iB){:target="_blank"}
 
 ![ePhotoInc 5' x 7' Photo Collapsible CHROMAKEY Green Blue Background](/assets/images/posts/streaming-equipment-chromakey.jpg){: .align-center}
 
 #### Fovitec - 7'6" Clip Stand Kit for Photo & Video Pop-Out Backdrops & Reflectors
 
 View on [Manufacturers Site](https://www.fovitec.com/products/76-clip-stand-kit-for-photo-video-pop-out-backdrops-reflectors){:target="_blank"}
-View on [Amazon](https://amzn.to/36fh0tX){:target="_blank"}
+View on [Amazon](https://amzn.to/3UlMhIy){:target="_blank"}
 
 ![Fovitec - 7 foot 6 inch Clip Stand Kit for Photo & Video Pop-Out Backdrops & Reflectors](/assets/images/posts/streaming-equipment-stand-kit.jpg){: .align-center}
 
@@ -88,7 +88,7 @@ View on [Amazon](https://amzn.to/36fh0tX){:target="_blank"}
 ### Elgato StreamDeck
 
 View on [Manufacturers Site](https://www.elgato.com/en/gaming/stream-deck){:target="_blank"}
-View on [Amazon](https://amzn.to/2XbYyON){:target="_blank"}
+View on [Amazon](https://amzn.to/45gELRM){:target="_blank"}
 
 ![Elgato StreamDeck](/assets/images/posts/streaming-equipment-streamdeck.jpg){: .align-center}
 
@@ -100,7 +100,7 @@ The StreamDeck provides physical buttons that you can assign to an assortment of
 
 ### Desk Lights
 
-View on [Amazon](https://amzn.to/2TnLTHv){:target="_blank"}
+View on [Amazon](https://amzn.to/4fOfdS5){:target="_blank"}
 
 ![USB Powered Desk Lamp](/assets/images/posts/streaming-equipment-desk-light.jpg){: .align-center}
 
@@ -111,7 +111,7 @@ I have 6 'Daylight' bulbs in my home office, so the lighting is pretty good.  I 
 **NOTE** This is no longer used since I only use one PC.
 {: .notice--info}
 
-View on [Amazon](https://amzn.to/3cNRw9B){:target="_blank"}
+View on [Amazon](https://amzn.to/4q8ScMX){:target="_blank"}
 
 ![Amazon USB 3.0 Hub](/assets/images/posts/streaming-equipment-amazon-usb-hub.jpg){: .align-center}
 
@@ -126,7 +126,7 @@ While not required, it is strongly recommended depending on your network configu
 
 ## Wrapping up
 
-Your needs may vary.  This equipment list is what I purchased to deliver an inexpensive quality stream.  Depending on your hardware, you might not need anything from this list. I curated a list of the equipment for the Coding with JoeG Stream at this [list](https://amzn.to/2ToLEvF) on Amazon.  [Jeffrey Fritz](https://www.twitch.tv/csharpfritz){:target="_blank"}, part of the [LiveCoders](https://www.twitch.tv/team/livecoders){:target="_blank"} team, also blogged about his configuration, in the [Live Streaming Setup - 2019 Edition](https://jeffreyfritz.com/2019/01/live-streaming-setup-2019-edition/){:target="_blank"}
+Your needs may vary.  This equipment list is what I purchased to deliver an inexpensive quality stream.  Depending on your hardware, you might not need anything from this list. [Jeffrey Fritz](https://www.twitch.tv/csharpfritz){:target="_blank"}, part of the [LiveCoders](https://www.twitch.tv/team/livecoders){:target="_blank"} team, also blogged about his configuration, in the [Live Streaming Setup - 2019 Edition](https://jeffreyfritz.com/2019/01/live-streaming-setup-2019-edition/){:target="_blank"}
 
 **Note** If you click on an Amazon link and purchase a product, I may get a commission from Amazon. The purpose of the links is to avoid much searching and not to make money on the blog post.
 {: .notice}

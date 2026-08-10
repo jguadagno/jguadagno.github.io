@@ -17,4 +17,4 @@ In short, this book is a must have for anyone working on or designing any API.
 **Disclaimer** I was given a copy of this book in the hopes that I would review it. I only post reviews on books that I think would provide some benefit to the development community.
 {: .notice}
 
-Get [Designing Evolvable Web APIs with ASP.NET](https://www.amazon.com/gp/product/1449337716/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449337716&linkCode=as2&tag=beyondthebasic0e&linkId=ZQBIH5TTOE2YWAZP){:target="_blank"} on Amazon.
+Get [Designing Evolvable Web APIs with ASP.NET](https://amzn.to/4bC6BLN){:target="_blank"} on Amazon.
