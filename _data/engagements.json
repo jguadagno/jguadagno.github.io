@@ -113,7 +113,7 @@
     "eventEnd": "2026-08-22T16:00:00-05:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Modern Architecture for AI-Augmented Development Teams",
