@@ -15,6 +15,10 @@ links:
    url: https://github.com/microsoft/aspire
  - title: Aspire Samples
    url: https://github.com/dotnet/aspire-samples
+ - title: Workshop Requirements
+   url: https://github.com/jguadagno/aspire-workshop/blob/main/requirements.md
+ - title: Workshop GitHub Repository
+   url: https://github.com/jguadagno/aspire-workshop
 ---
 Distributed application teams often lose time to local setup friction, inconsistent service wiring, and fragmented diagnostics across services. This session shows how Aspire helps you model distributed systems as code, streamline onboarding, and create a cleaner developer workflow from day one.
 
