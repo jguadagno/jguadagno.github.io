@@ -2,8 +2,8 @@
 title: Aspire to More - Smarter Onboarding and Cleaner .NET Development
 isKeynote: false
 isRetired: false
-sourceUrl: 
-powerPointUrl: 
+sourceUrl: https://github.com/jguadagno/aspire-to-more-smarter-onboarding-and-cleaner-dotnet-development
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQTy1FBu6EOQS6zUQoGeEAC_AeOd_lNHrTNPm7SLkQjPPNE
 youTubeId: 
 youTubeCaption: 
 sessionizeUrl: aspire-to-more-smarter-onboarding-and-cleaner-.net/143919
