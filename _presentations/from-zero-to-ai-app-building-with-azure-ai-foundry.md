@@ -2,8 +2,8 @@
 title: "From Zero to AI App: Building with Azure AI Foundry"
 isKeynote: false
 isRetired: false
-sourceUrl: 
-powerPointUrl: 
+sourceUrl: https://github.com/jguadagno/from-zero-to-ai-app-building-with-azure-ai-foundry
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQRTvWy8PpPWRoMcaBBDsNDRAU9RSfwsaAOQ8MF1vYS1jrM
 youTubeId: 
 youTubeCaption: 
 sessionizeUrl: from-zero-to-ai-app-building-with-azure-ai-foundry/183196
