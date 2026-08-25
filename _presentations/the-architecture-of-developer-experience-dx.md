@@ -3,7 +3,7 @@ title: "The Architecture of Developer Experience (DX)"
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: 
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQTi_Yws6Tf7T738vk3cz3Y1ATBosk2YY0oTYSTBoNsmRc8
 youTubeId: 
 youTubeCaption: 
 sessionizeUrl: the-architecture-of-developer-experience-dx/183200
