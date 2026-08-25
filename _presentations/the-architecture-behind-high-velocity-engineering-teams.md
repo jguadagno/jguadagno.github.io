@@ -3,7 +3,7 @@ title: "The Architecture Behind High-Velocity Engineering Teams"
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: 
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQQ1I3PlDAPpT5C4WIB8UgNoASz8NBbgrMAKW2sAInDZL_k
 youTubeId: 
 youTubeCaption: 
 sessionizeUrl: the-architecture-behind-high-velocity-engineering-/183201
