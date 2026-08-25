@@ -3,7 +3,7 @@ title: "Architecture for Resilience:Building Systems That Fail Gracefully"
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: 
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQTfR13-1QVAS6_FC_XOgv89ASzZg2oJ_64Gx4lHUDkXiD8
 youTubeId: 
 youTubeCaption: 
 sessionizeUrl: architecture-for-resiliencebuilding-systems-that-f/183203
