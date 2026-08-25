@@ -2,8 +2,8 @@
 title: "Ship Responsibly: Evaluation and Safety in Azure AI Foundry"
 isKeynote: false
 isRetired: false
-sourceUrl: 
-powerPointUrl: 
+sourceUrl: https://github.com/jguadagno/ship-responsibly-evaluation-and-safety-in-azure-ai-foundry
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQRMrzDgpcCiT5isuludYrLFAc-gWJxx1m22HSFbA6wYhxw
 youTubeId: 
 youTubeCaption: 
 sessionizeUrl: ship-responsibly-evaluation-and-safety-in-azure-ai/183198
