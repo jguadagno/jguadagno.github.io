@@ -3,7 +3,7 @@ title: "The Architecture of Evolution: Modernizing Legacy Systems"
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: 
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQReLGrsWohsSpJXHNapUMjfAWACmIVpJ8dyMg-aeorSM0M
 youTubeId: 
 youTubeCaption: 
 sessionizeUrl: the-architecture-of-evolution-modernizing-legacy-s/183202
