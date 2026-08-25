@@ -3,7 +3,7 @@ title: "Modern Architecture for AI-Augmented Development Teams"
 isKeynote: false
 isRetired: false
 sourceUrl: 
-powerPointUrl: 
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQRtWFfJ10ULRJqxA3Gfj9o9AUV5VHhs_QnsTGfS75Ji9iQ
 youTubeId: 
 youTubeCaption: 
 sessionizeUrl: modern-architecture-for-ai-augmented-development-t/183199
