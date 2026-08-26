@@ -5,8 +5,8 @@ isRetired: false
 sourceUrl: https://gist.github.com/jguadagno/b99bec48d4ecde8b4cec72b119fbdcfa
 powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBAWjkBAAAAADoNOI1w81OXGt4
 sessionizeUrl: build_and_ship_it/28595
-youTubeId: D5aEDPt0ZTs
-youTubeCaption: Build and Ship It! at Cloud Summit Live
+youTubeId: 
+youTubeCaption: 
 level: 300
 links:
  - title: Blog Post - Build, Sign, and Deploy NuGet Packages with Azure Pipeline
