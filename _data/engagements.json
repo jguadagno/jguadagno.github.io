@@ -99,6 +99,18 @@
         "isWorkshop": false,
         "isKeynote": false,
         "isPanel": false
+      },
+      {
+        "name": "Let's talk tech leadership",
+        "url": "https://kcdc.mentorshiphub.org/#session=8d517a0ab47b-17",
+        "startDate": "2026-09-10T15:45:00-06:00",
+        "endDate": "2026-09-10T16:45:00-06:00",
+        "room": "Table 2",
+        "comments": "Mentorship Hub: Let's talk tech leadership",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
       }
     ],
     "timezone": "America/Chicago",
