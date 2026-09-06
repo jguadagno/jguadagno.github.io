@@ -16,6 +16,6 @@ links:
  - title: SDK samples on GitHub
    url: https://github.com/Azure/azure-sdk-for-net
  - title: Azure AI Foundry pricing
-   url: https://azure.microsoft.com/pricing/
+   url: https://azure.microsoft.com/en-us/pricing/details/microsoft-foundry/
 ---
 The AI landscape is exploding - hundreds of models, dozens of SDKs, and a new framework every week. How do you cut through the noise and actually ship something? In this session, we start from scratch and build a fully functional AI-powered application using Azure AI Foundry. You will see how to browse the Model Catalog, deploy a model in minutes, iterate on prompts in the Playground, and then wire everything into a real app using the Microsoft Foundry SDK. Along the way, we will add grounding data with Retrieval Augmented Generation (RAG), enable streaming responses for a snappy UX, and light up tracing so you can debug your AI calls the same way you debug HTTP requests today. By the end of the session, you will have a repeatable recipe for going from "I have an idea" to "it's running in production" - with content safety, cost management, and observability baked in from day one.
