@@ -12,7 +12,7 @@ links:
  - title: Azure AI Foundry documentation
    url: https://learn.microsoft.com/azure/ai-studio/
  - title: Microsoft Foundry SDK quickstart
-   url: https://learn.microsoft.com/azure/ai-studio/quickstarts/
+   url: https://learn.microsoft.com/en-us/azure/foundry/quickstarts/quickstarts
  - title: SDK samples on GitHub
    url: https://github.com/Azure/azure-sdk-for-net
  - title: Azure AI Foundry pricing
