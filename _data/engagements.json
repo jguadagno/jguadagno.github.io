@@ -86,7 +86,7 @@
     "eventEnd": "2026-09-11T16:00:00-06:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "Aspire to More: Smarter Onboarding and Cleaner .NET Development",
