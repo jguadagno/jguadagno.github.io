@@ -4,7 +4,7 @@ isKeynote: false
 isRetired: false
 isWorkshop: true
 sourceUrl: 
-powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/UQQ4wHhZyeRuIIBA3kABAAAAAJhkZJao3aPnCqk
+powerPointUrl: https://1drv.ms/p/c/406ee4c95978c038/IQQXK2__QhKIRYAmnbTejKk5ASX6KMswnbLNf_g6pNSexDs
 youTubeId:
 youTubeCaption:
 sessionizeUrl: dot-net-workshop-with-hands-on-api-building/
@@ -13,7 +13,7 @@ links:
  - title: My Website
    url: https://www.josephguadagno.net
  - title: Source Code
-   url: https://github.com/jguadagno/net-workshop-with-hands-on-api-building
+   url: https://github.com/jguadagno/dotnet-workshop-hands-on-api-building
  - title: Azure Portal
    url: https://portal.azure.com
  - title: Microsoft Learn
@@ -53,4 +53,4 @@ This workshop is geared toward individuals getting started with ASP.NET Core or 
 
 #### Getting Started
 
-[Workshop Instructions](https://github.com/jguadagno/net-workshop-with-hands-on-api-building/blob/main/src/start/src/workshop-instructions.md){:target="_blank" rel="noopener"}
+[Workshop Instructions](https://github.com/jguadagno/dotnet-workshop-hands-on-api-building/blob/main/src/start/src/workshop-instructions.md){:target="_blank" rel="noopener"}
