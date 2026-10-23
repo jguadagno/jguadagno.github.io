@@ -1,5 +1,32 @@
 [
   {
+    "eventName": "CodeMash Great Lakes",
+    "eventUrl": "https://events.codemash.org/2027CodeMashConference#/",
+    "location": "Sandusky, OH",
+    "eventStart": "2026-01-12T09:00:00-05:00",
+    "eventEnd": "2026-01-15T19:00:00-05:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "The Architecture of Evolution: Modernizing Legacy Systems",
+        "url": "/presentations/the-architecture-of-evolution-modernizing-legacy-systems",
+        "startDate": "",
+        "endDate": "",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": false,
+        "isPanel": false
+      }
+    ],
+    "timezone": "America/New_York",
+    "inPerson": "In Person",
+    "createdOrUpdatedOn": "2026-10-23T13:05:57-07:00"
+  },
+  {
     "eventName": "TechBash",
     "eventUrl": "https://techbash.com/",
     "location": "Pocono Mountains, PA",
@@ -59,7 +86,7 @@
     "eventEnd": "2026-09-18T16:00:00+02:00",
     "comments": "",
     "isCanceled": false,
-    "isCurrent": true,
+    "isCurrent": false,
     "presentation": [
       {
         "name": "From Zero to AI App: Building with Azure AI Foundry",
