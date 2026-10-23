@@ -12,8 +12,8 @@
       {
         "name": "The Architecture of Evolution: Modernizing Legacy Systems",
         "url": "/presentations/the-architecture-of-evolution-modernizing-legacy-systems",
-        "startDate": "",
-        "endDate": "",
+        "startDate": "2026-01-12T09:00:00-05:00",
+        "endDate": "2026-01-15T19:00:00-05:00",
         "room": "",
         "comments": "",
         "isCanceled": false,
@@ -24,7 +24,7 @@
     ],
     "timezone": "America/New_York",
     "inPerson": "In Person",
-    "createdOrUpdatedOn": "2026-10-23T13:05:57-07:00"
+    "createdOrUpdatedOn": "2026-10-23T13:07:26-07:00"
   },
   {
     "eventName": "TechBash",
