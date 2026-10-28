@@ -8,3 +8,4 @@ vendor/
 .idea/
 .git/
 .vscode/
+Gemfile.lock
