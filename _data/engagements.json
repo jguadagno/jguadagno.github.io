@@ -27,6 +27,33 @@
     "createdOrUpdatedOn": "2026-10-23T13:07:26-07:00"
   },
   {
+    "eventName": "AI Agents Conference",
+    "eventUrl": "https://aiagentsconference.live/",
+    "location": "Virtual",
+    "eventStart": "2026-11-30T09:00:00-05:00",
+    "eventEnd": "2026-12-03T19:00:00-05:00",
+    "comments": "",
+    "isCanceled": false,
+    "isCurrent": true,
+    "presentation": [
+      {
+        "name": "The AI Teammate: What happens when every engineer gets a team of agents",
+        "url": "/presentations/the-ai-teammate-what-happens-when-every-engineer-gets-a-team-of-agents",
+        "startDate": "2026-11-30T07:15:00-05:00",
+        "endDate": "2026-12-03T07:45:00-05:00",
+        "room": "",
+        "comments": "",
+        "isCanceled": false,
+        "isWorkshop": false,
+        "isKeynote": true,
+        "isPanel": false
+      }
+    ],
+    "timezone": "America/New_York",
+    "inPerson": "In Person",
+    "createdOrUpdatedOn": "2026-11-28T08:13:26-07:00"
+  },
+  {
     "eventName": "TechBash",
     "eventUrl": "https://techbash.com/",
     "location": "Pocono Mountains, PA",
